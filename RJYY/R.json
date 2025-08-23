@@ -1,0 +1,28 @@
+    {
+  "urls": [
+    {
+      "name": "🇷.  嵘基线路",
+      "url": "https://d.kstore.dev/download/10167/RJYY_Online+OK/config.json"
+    },
+    {
+      "name": "🇷.  嵘基备用",
+      "url": "https://10167.kstore.space/RJYY_Online+OK/config.json"
+    },
+    {
+      "name": "🇷.  嵘基开源",
+      "url": "http://cdn.qiaoji8.com/tvbox.json"
+    },
+    {
+      "name": "🇷.  其他线路",
+      "url": "https://10167.kstore.space/RJYY_Online+OK/config/R.json"
+    },
+	{
+      "name": "🇷.  其他备用",
+      "url": "https://10167.kstore.space/RJYY_Online+OK/config/R.json"
+    },
+    {
+      "name": "🇷.  其他开源",
+      "url": "https://10167.kstore.space/RJYY_Online+OK/config/R.json"
+    }
+  ]
+}
