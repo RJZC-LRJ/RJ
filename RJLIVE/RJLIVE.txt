@@ -6,7 +6,7 @@
 
 嵘基直播,#genre#
 
-250825,https://lz.qaiu.top/d/fj/KbOBtLNM
+250826,https://lz.qaiu.top/d/fj/KbOBtLNM
 免费使用,https://lz.qaiu.top/d/fj/v2OBjLjX
 禁止商用,https://lz.qaiu.top/d/fj/olOBlVzR
 禁止买卖,https://lz.qaiu.top/d/fj/WoOBS8ka
@@ -116,7 +116,7 @@ CCTV-17,http://web9916.w.computerqwq.cf/jzb.php?id=cctv17&公众号【医工学�
 
 
 
-视腾代理,#genre#
+央卫视腾,#genre#
 
 禁止扫码,https://lz.qaiu.top/d/fj/t2OdYpQw
 禁止信广告,https://lz.qaiu.top/d/fj/t2OdYpQw
@@ -251,7 +251,7 @@ CCTV中视购物,https://hnyst.130519.xyz/200000001898/460000089800010134/1.m3u8
 
 
 
-山西酒店,#genre#
+央卫酒店,#genre#
 
 禁止扫码,https://lz.qaiu.top/d/fj/t2OdYpQw
 禁止信广告,https://lz.qaiu.top/d/fj/t2OdYpQw
@@ -525,6 +525,7 @@ CCTV-17高码,http://k.061899.xyz/m.php?id=cctv17
 春晚1995,https://txmov2.a.kwimgs.com/bs3/video-hls/5255137907893179578_hlshd15.m3u8
 春晚1997,https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8
 春晚1998,https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8
+
 春晚1999,https://txmov2.a.kwimgs.com/bs3/video-hls/5258234133675308186_hlshd15.m3u8
 春晚2000,https://txmov2.a.kwimgs.com/bs3/video-hls/5216294359327079321_hlshd15.m3u8
 春晚2001,https://txmov2.a.kwimgs.com/bs3/video-hls/5228960735897942616_hlshd15.m3u8
