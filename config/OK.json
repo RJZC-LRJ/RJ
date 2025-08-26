@@ -6,12 +6,12 @@
   "warningText": "🇷. 嵘基多线，免费交流，学习使用，禁止商用，禁止买卖，所有相关文件请在8小时内删除！",
   "urls": [
     {
-      "url": "clan://localhost/TVBoxOSC/tvbox/api.json",
-      "name": "🇷.  潇洒本地"
-    },
-    {
       "url": "https://d.kstore.dev/download/10167/RJYY_Online+TVBox/api.json",
       "name": "🇷.  嵘基兼容"
+    },
+    {
+      "url": "clan://localhost/TVBoxOSC/tvbox/api.json",
+      "name": "🇷.  潇洒本地"
     },
     {
       "name": "🇷.  饭硬线路",
@@ -75,4 +75,5 @@
     }
   ]
 }
+
 
