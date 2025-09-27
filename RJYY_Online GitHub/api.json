@@ -4,7 +4,7 @@
 
    {
       "spider":"https://d.kstore.dev/download/10167/RJYY_Online+Space/jar/fty.jar",
-      "logo": "https://d.kstore.dev/download/10167/RJYY_Online+Space/%E7%9A%AE%E5%8D%A1%E4%B8%98.jpg",
+      "logo": "https://gitee.com/UserRJZC/rjgitee/raw/Admin/icon/%E7%9A%AE%E5%8D%A1%E4%B8%98.jpg",
       "wallpaper": "http://我不是.摸鱼儿.com/wallpaper/",
       "warningText": "嵘基影音在线接口，免费交流，学习使用，禁止商用，禁止买卖，所有相关文件请在8小时内删除！",
       "hosts": 
@@ -22,21 +22,21 @@
       "name": "嵘基直播『点击换接口』",
       "type": 0,
       "url": "https://d.kstore.dev/download/10167/RJZC_Online+LIVE/RJLIVE.txt",
-      "logo": "https://d.kstore.dev/download/10167/RJYY_Online+Space/%E7%9A%AE%E5%8D%A1%E4%B8%98.jpg",
+      "logo": "https://gitee.com/UserRJZC/rjgitee/raw/Admin/icon/%E7%9A%AE%E5%8D%A1%E4%B8%98.jpg",
       "epg": "http://epg.51zmt.top:8000/e.xml"
    },
    {
       "name": "猫TV『点击换接口』",
       "type": 0,
       "url": "http://rihou.cc:567/gggg.nzk",
-      "logo": "https://d.kstore.dev/download/10167/RJYY_Online+Space/%E7%9A%AE%E5%8D%A1%E4%B8%98.jpg",
+      "logo": "https://gitee.com/UserRJZC/rjgitee/raw/Admin/icon/%E7%9A%AE%E5%8D%A1%E4%B8%98.jpg",
       "epg": "http://epg.51zmt.top:8000/e.xml"
    },
    {
       "name": "Guovin『点击换接口』",
       "type": 0,
       "url": "https://gh-proxy.net/raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
-      "logo": "https://d.kstore.dev/download/10167/RJYY_Online+Space/%E7%9A%AE%E5%8D%A1%E4%B8%98.jpg",
+      "logo": "https://gitee.com/UserRJZC/rjgitee/raw/Admin/icon/%E7%9A%AE%E5%8D%A1%E4%B8%98.jpg",
       "epg": "http://epg.51zmt.top:8000/e.xml"
    }
    ],
@@ -49,7 +49,6 @@
       "api": "csp_Douban",
 	    "jar": "https://d.kstore.dev/download/10167/RJYY_Online+Space/jar/PizazzXS.jar",
       "indexs": 1,
-      "msg": "📢公告：测试环境！",
       "searchable": 0
     },
     {
@@ -1723,3 +1722,4 @@
     "cms.qdwght.com"
   ]
 }
+
