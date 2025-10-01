@@ -21,14 +21,14 @@
     {
       "name": "嵘基直播『点击换接口』",
       "type": 0,
-      "url": "https://d.kstore.dev/download/10167/RJZC_Online+LIVE/RJLIVE.txt",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJVE_Online%20GitHub/RJLIVE.txt",
       "logo": "https://gitee.com/UserRJZC/rjgitee/raw/Admin/icon/%E7%9A%AE%E5%8D%A1%E4%B8%98.jpg",
       "epg": "http://epg.51zmt.top:8000/e.xml"
     },
     {
       "name": "Guovin『点击换接口』",
       "type": 0,
-      "url": "https://gh-proxy.net/raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
       "logo": "https://gitee.com/UserRJZC/rjgitee/raw/Admin/icon/%E7%9A%AE%E5%8D%A1%E4%B8%98.jpg",
       "epg": "http://epg.51zmt.top:8000/e.xml"
     },
@@ -1087,5 +1087,6 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
