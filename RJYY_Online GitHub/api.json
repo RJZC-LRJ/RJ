@@ -44,7 +44,7 @@
   "sites": [
     {
       "key": "douban",
-      "name": "豆瓣推荐",
+      "name": "🇷. 豆瓣推荐",
       "type": 3,
       "api": "csp_DouDouGuard",
       "jar": "./jar/fty.jar",
@@ -55,7 +55,7 @@
     },
     {
       "key": "荐片",
-      "name": "荐片影视",
+      "name": "🇷. 荐片影视",
       "type": 3,
       "api": "csp_Jianpian",
       "jar": "./jar/og.jar",
@@ -66,7 +66,7 @@
     },
     {
       "key": "荐片",
-      "name": "荐片备用",
+      "name": "🇷. 荐片备用",
       "type": 3,
       "api": "csp_JPJGuard",
       "jar": "./jar/fty.jar",
@@ -1087,4 +1087,5 @@
     "cms.qdwght.com"
   ]
 }
+
 
