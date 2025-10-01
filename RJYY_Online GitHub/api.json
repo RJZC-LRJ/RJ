@@ -65,7 +65,7 @@
       "ext": "https://api.ztcgi.com"
     },
     {
-      "key": "荐片",
+      "key": "jpby",
       "name": "🇷. 荐片备用",
       "type": 3,
       "api": "csp_JPJGuard",
@@ -1087,6 +1087,7 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
 
