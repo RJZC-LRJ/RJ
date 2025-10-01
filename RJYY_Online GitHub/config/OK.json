@@ -6,36 +6,24 @@
   "warningText": "🇷. 嵘基多线，免费交流，学习使用，禁止商用，禁止买卖，所有相关文件请在8小时内删除！",
   "urls": [
     {
-      "name": "🇷.  饭硬线路",
-      "url": "https://gitee.com/xxoooo/fan/raw/master/in.bmp"
-    },
-    {
-      "url": "clan://localhost/TVBoxOSC/tvbox/api.json",
-      "name": "🇷.  潇洒本地"
-    },
-    {
-      "name": "🇷.  巧技线路",
-      "url": "http://cdn.qiaoji8.com/tvbox.json"
-    },
-    {
-      "name": "🇷.  小米线路",
-      "url": "http://miqk.cc/小米/DEMO.json"
-    },
-    {
-      "url": "https://盒子迷.top/禁止贩卖",
-      "name": "🇷.  盒迷线路"
+      "name": "🇷.  雅晴线路",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"
     },
     {
       "name": "🇷.  妮丝线路",
       "url": "https://tv.xn--yhqu5zs87a.top"
     },
     {
-      "url": "http://我不是.摸鱼儿.com",
-      "name": "🇷.  摸鱼线路"
+      "name": "🇷.  欧哥线路",
+      "url": "https://xn--wddw-wn6lw489o.v.nxog.top/apib.php?id=2"
     },
     {
-      "name": "🇷.  摸鱼备用",
-      "url": "http://我不是.摸鱼儿.xyz"
+      "name": "🇷.  巧技线路",
+      "url": "http://cdn.qiaoji8.com/tvbox.json"
+    },
+    {
+      "name": "🇷.  饭硬线路",
+      "url": "https://gitee.com/xxoooo/fan/raw/master/in.bmp"
     },
     {
       "url": "http://fty.333232.xyz/tv",
@@ -60,14 +48,6 @@
     {
       "url": "http://www.饭太硬.net/tv",
       "name": "🇷.  饭硬备用6"
-    },
-    {
-      "url": "https://gitee.com/qingbaok/kaikl/raw/master/jiji",
-      "name": "✅.  奇缘影仓"
-    }, 
-    {
-      "url": "https://git.acwing.com/lnss/ditiao/-/raw/main/%E5%92%8C%E5%85%89%E5%90%8C%E5%B0%98.json",
-      "name": "✅.  共享影仓"
     }
   ]
 }
