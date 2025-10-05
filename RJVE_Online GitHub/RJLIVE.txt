@@ -6,24 +6,9 @@
 
 嵘基直播,#genre#
 
-25.10.1,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/KbOBtLNM
-免费使用,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/v2OBjLjX
-禁止商用,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/olOBlVzR
-禁止买卖,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/WoOBS8ka
-广告误信,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/2EOdYxGS
-广告误开,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/t2OdYpQw
-2K_50FPS,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/xUOBuTRT
-4K_50FPS,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/RDOBuEOJ
-720P_30FPS,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/xKOBu5zn
-1080P_30FPS,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/KbOBtLNM
-识别电信诈骗,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/2EOdYxGS
-防电信诈骗宣传,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/t2OdYpQw
-3D-1视觉效果,https://vd3.bdstatic.com/mda-mfnc43q5ngnzua6p/sc/cae_h264/1624437508830556235/mda-mfnc43q5ngnzua6p.mp4
-3D-2视觉效果,https://vd2.bdstatic.com/mda-kfhr50vjwtmttwxc/v1-cae/sc/mda-kfhr50vjwtmttwxc.mp4
-3D-3视觉效果,https://vd4.bdstatic.com/mda-mdfijn4crxseyky0/1080p/cae_h264/1618549960/mda-mdfijn4crxseyky0.mp4
-3D-4视觉效果,https://vd2.bdstatic.com/mda-kmtfv6y5gctpa35w/sc/mda-kmtfv6y5gctpa35w.mp4
-3D-5视觉效果,https://vd3.bdstatic.com/mda-kksk814vwc1m06av/sc/mda-kksk814vwc1m06av.mp4
-
+接口公告,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/AhXM2gNZ&pwd=1109
+嵘基公告,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/9cXYr7Ks&pwd=1109
+违规处理,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/8kXYoxM9&pwd=1109
 
 
 央卫工学,#genre#
@@ -355,15 +340,3 @@ CCTV-17高码,http://k.061899.xyz/m.php?id=cctv17
 春晚2020,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
 春晚2024,https://ikcdn01.ikzybf.com/20240205/QBNgom4j/2000kb/hls/index.m3u8
 春晚2025,https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8
-
-
-
-感谢使用,#genre#
-
-交流学习,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/KbOBtLNM
-项目列表,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/v2OBjLjX
-测试完成,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/olOBlVzR
-请立刻删,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/WoOBS8ka
-除相关文件,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/2EOdYxGS
-
-请不要扩散,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/t2OdYpQw
