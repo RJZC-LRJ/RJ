@@ -3,7 +3,7 @@
 //如果要生成直链调用接口，请到正规开源平台生成，务必不要大规模扩散，务必不要商用，支持正版拒绝盗版，遵守法律学习原则，合法学习使用。
 
 {
-  "spider":"./jar/fty.jar",
+  "spider":"https://gh-proxy.com/https://raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/fty.jar",
   "logo": "https://gitee.com/UserRJZC/rjgitee/raw/Admin/icon/%E7%9A%AE%E5%8D%A1%E4%B8%98.jpg",
   "wallpaper": "http://我不是.摸鱼儿.com/wallpaper/",
   "warningText": "嵘基影音在线接口，免费交流，学习使用，禁止商用，禁止买卖，所有相关文件请在8小时内删除！",
@@ -47,7 +47,7 @@
       "name": "🇷. 豆瓣推荐",
       "type": 3,
       "api": "csp_DouDouGuard",
-      "jar": "./jar/fty.jar",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/fty.jar",
       "indexs": 1,
       "searchable": 0,
       "quickSearch": 0,
@@ -58,7 +58,7 @@
       "name": "🇷. 荐片影视",
       "type": 3,
       "api": "csp_Jianpian",
-      "jar": "./jar/og.jar",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/og.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -69,7 +69,7 @@
       "name": "🇷. 荐片备用",
       "type": 3,
       "api": "csp_JPJGuard",
-      "jar": "./jar/fty.jar",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/fty.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0
@@ -79,7 +79,7 @@
       "name": "电影天堂",
       "type": 3,
       "api": "csp_DyGod",
-      "jar": "./jar/xyq.jar",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/xyq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -89,7 +89,7 @@
       "name": "热播影视",
       "type": 3,
       "api": "csp_AppRJ",
-      "jar": "./jar/og.jar",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/og.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -102,7 +102,7 @@
       "name": "热播备用",
       "type": 3,
       "api": "csp_AppTTGuard",
-      "jar": "./jar/fty.jar",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/fty.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -113,7 +113,7 @@
       "name": "浪酷影视",
       "type": 3,
       "api": "csp_AppRJ",
-      "jar": "./jar/og.jar",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/og.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -126,40 +126,40 @@
       "name": "瓜子影视",
       "type": 3,
       "api": "csp_XYQHiker",
-      "jar": "./jar/xyq.jar",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/xyq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/瓜子影视.json"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/json/瓜子影视.json"
     },
     {
       "key": "农民影视",
-      "name": "‍农民影视",
+      "name": "农民影视",
       "type": 3,
       "api": "csp_XYQHiker",
-      "jar": "./jar/xyq.jar",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/xyq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/农民影视.json"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/json/农民影视.json"
     },
     {
       "key": "金牌",
       "name": "金牌影视",
       "type": 3,
-      "api": "./js/drpy2.min.js",
-      "jar": "./jar/xyq.jar",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/js/drpy2.min.js",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/xyq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./js/金牌影视.js"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/js/金牌影视.js"
     },
     {
       "key": "厂长",
       "name": "厂长影视",
       "type": 3,
       "api": "csp_NewCzGuard",
-      "jar": "./jar/fty.jar",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/fty.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -169,7 +169,7 @@
       "name": "文采影视",
       "type": 3,
       "api": "csp_JpysGuard",
-      "jar": "./jar/fty.jar",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/fty.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -179,7 +179,7 @@
       "name": "糯米影视",
       "type": 3,
       "api": "csp_NmyswvGuard",
-      "jar": "./jar/fty.jar",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/fty.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -189,7 +189,7 @@
       "name": "苹果影视",
       "type": 3,
       "api": "csp_LiteAppleGuard",
-      "jar": "./jar/fty.jar",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/fty.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -199,7 +199,7 @@
       "name": "鲸鱼影视",
       "type": 3,
       "api": "csp_AppSxGuard",
-      "jar": "./jar/fty.jar",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/fty.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -210,7 +210,7 @@
       "name": "欢视影视",
       "type": 3,
       "api": "csp_AppTTGuard",
-      "jar": "./jar/fty.jar",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/fty.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -220,7 +220,7 @@
       "key": "猎手影视",
       "name": "猎手影视",
       "type": 3,
-      "api": "./py/LSYS.py",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/py/LSYS.py",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -230,27 +230,27 @@
       "name": "盒子影视",
       "type": 3,
       "api": "csp_XYQHiker",
-      "jar": "./jar/xyq.jar",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/xyq.jar",
       "searchable": 1,
       "quickSearch": 1,
-      "ext": "./json/电影盒子.json"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/json/电影盒子.json"
     },
     {
       "key": "可可影视",
       "name": "可可影视",
       "type": 3,
       "api": "csp_XYQHiker",
-      "jar": "./jar/xyq.jar",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/xyq.jar",
       "searchable": 1,
       "quickSearch": 1,
-      "ext": "./json/可可影视.json"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/json/可可影视.json"
     },
     {
       "key": "Bili",
       "name": "哔哔合集",
       "type": 3,
       "api": "csp_BiliGuard",
-      "jar": "./jar/fty.jar",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/fty.jar",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -259,7 +259,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "./json/BL.txt"
+        "json": "https://gh-proxy.com/https://raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/json/BL.txt"
       }
     },
     {
@@ -267,7 +267,7 @@
       "name": "电影网站",
       "type": 3,
       "api": "csp_Web1905",
-      "jar": "./jar/og.jar",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/og.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0
@@ -429,7 +429,7 @@
       "name": "移动网盘",
       "type": 3,
       "api": "csp_YDjisu",
-      "jar": "./jar/og.jar",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/og.jar",
       "searchable": 1,
       "changeable": 1
     },
@@ -438,7 +438,7 @@
       "name": "玩偶网盘",
       "type": 3,
       "api": "csp_WoGGGuard",
-      "jar": "./jar/fty.jar",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/fty.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -453,9 +453,9 @@
       "key": "虎牙直播js",
       "name": "虎牙直播",
       "type": 3,
-      "api": "./js/drpy2.js",
-      "ext": "./js/huya2.js",
-      "jar": "./jar/fty.jar",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/js/drpy2.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/js/huya2.js",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/fty.jar",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -468,9 +468,9 @@
       "key": "斗鱼js",
       "name": "斗鱼直播",
       "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/斗鱼直播.js",
-      "jar": "./jar/fty.jar",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/js/drpy2.min.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/js/斗鱼直播.js",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/fty.jar",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -484,7 +484,7 @@
       "name": "明星 MV",
       "type": 3,
       "api": "csp_BiliGuard",
-      "jar": "./jar/fty.jar",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/fty.jar",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -493,15 +493,15 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "./json/MV.txt"
+        "json": "https://gh-proxy.com/https://raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/json/MV.txt"
       }
     },
     {
       "key": "dr_兔小贝",
       "name": "兔小贝儿歌",
       "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/兔小贝.js",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/js/drpy2.min.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/js/兔小贝.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
