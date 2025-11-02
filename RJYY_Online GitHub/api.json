@@ -26,6 +26,20 @@
       "epg": "http://epg.51zmt.top:8000/e.xml"
     },
     {
+      "name": "嵘基高速『点击换接口』",
+      "type": 0,
+      "url": "https://10167.kstore.space/RJVE_Online+Space/RJLIVE.txt",
+      "logo": "https://gitee.com/UserRJZC/rjgitee/raw/Admin/icon/%E7%9A%AE%E5%8D%A1%E4%B8%98.jpg",
+      "epg": "http://epg.51zmt.top:8000/e.xml"
+    },
+    {
+      "name": "嵘基防墙『点击换接口』",
+      "type": 0,
+      "url": "https://d.kstore.dev/download/10167/RJVE_Online+Dev/RJLIVE.txt",
+      "logo": "https://gitee.com/UserRJZC/rjgitee/raw/Admin/icon/%E7%9A%AE%E5%8D%A1%E4%B8%98.jpg",
+      "epg": "http://epg.51zmt.top:8000/e.xml"
+    },
+    {
       "name": "Develop202『点击换接口』",
       "type": 0,
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
@@ -1383,6 +1397,7 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
 
