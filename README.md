@@ -1,1 +1,3 @@
-全部内容出自网络和大佬整合，相关文件交流学习使用，禁止买卖商用，请在8小时内删除所有相关文件。[所有内容仅供学习使用，请勿用于违法用途] 本仓库无公众号、无盈利，无引流、免费分享交流学习使用，请勿轻信任何人，谨防上当受骗，如果不慎受骗购买请立刻退款+举报+差评，大爱中国。 如果要生成直链调用接口，请到正规开源平台生成，务必不要大规模扩散，务必不要商用，支持正版拒绝盗版，遵守法律学习原则，合法学习使用。
+R:接口免费学习开源使用，严禁一切商用买卖行为，接口无任何内置软件如果有请勿下载，软件请使用标准原版无魔改的OK影视或酷9播放器测试否则闪退报错，感谢GitHub提供免费开源托管。
+
+R:The interface is free to learn and open source, and any commercial trading or selling behavior is strictly prohibited. The interface does not contain any built-in software; if it does, please do not download it. Please use the standard original version of OK Video or Ku9 player for testing, otherwise it may crash or report errors. Thank you for GitHub for providing free open source hosting.
