@@ -401,11 +401,11 @@
       "type": 3,
       "searchable": 1,
       "api": "csp_AppQi",
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
+      "jar": "https://10167.kstore.space/RJYY_Online+Space/jar/rjzc.jar",
       "ext": {
-        "site": "https://aysappto.oss-cn-chengdu.aliyuncs.com/qj2.txt",
-        "dataKey": "sada21321sdq231d",
-        "dataIv": "sada21321sdq231d"
+        "site": "https://lanyinghz.oss-cn-hangzhou.aliyuncs.com/lanyingxmy.txt",
+        "dataKey": "ca94b06ca359d80e",
+        "dataIv": "ca94b06ca359d80e"
       }
     },
     {
@@ -1444,5 +1444,6 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
