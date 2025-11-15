@@ -99,21 +99,12 @@
       "searchable": 0
     },
     {
-      "key": "R.YSWD1",
+      "key": "R.YSWD2",
       "name": "R. 荐片影视",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/py/%E8%8D%90%E7%89%87.py",
       "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
       "searchable": 1
-    },
-    {
-      "key": "R.YSWD2",
-      "name": "R. 荐片代理",
-      "type": 3,
-      "api": "csp_Jianpian",
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "searchable": 1,
-      "ext": "https://api.ztcgi.com"
     },
     {
       "key": "R.YSWD3",
@@ -1444,6 +1435,7 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
 
