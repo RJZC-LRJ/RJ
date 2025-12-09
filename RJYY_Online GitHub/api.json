@@ -392,7 +392,7 @@
       "type": 3,
       "searchable": 1,
       "api": "csp_AppQi",
-      "jar": "https://10167.kstore.space/RJYY_Online+Space/jar/rjzc.jar",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
       "ext": {
         "site": "https://lanyinghz.oss-cn-hangzhou.aliyuncs.com/lanyingxmy.txt",
         "dataKey": "ca94b06ca359d80e",
@@ -777,7 +777,7 @@
     },
     {
       "key": "R.JSON5",
-      "name": "维护：25.12.09_优选",
+      "name": "维护：25.11.09_优选",
       "type": 3,
       "api": "csp_Notice",
       "searchable": 0,
