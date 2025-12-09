@@ -171,14 +171,6 @@
       "searchable": 1
     },
     {
-      "key": "R.YSWD10",
-      "name": "R. 美剧天堂",
-      "type": 3,
-      "api": "csp_MeijuTT",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "searchable": 1
-    },
-    {
       "key": "R.YSWD11",
       "name": "R. 厂长影视",
       "type": 3,
@@ -1435,3 +1427,4 @@
     "cms.qdwght.com"
   ]
 }
+
