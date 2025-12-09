@@ -362,23 +362,6 @@
       }
     },
     {
-      "key": "R.YSCS2",
-      "name": "R. 咖啡影视",
-      "type": 3,
-      "searchable": 1,
-      "api": "csp_AppQi",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "ext": {
-        "url": "",
-        "site": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxh.txt",
-        "dataKey": "37kj83zs1q16jk6t",
-        "dataIv": "37kj83zs1q16jk6t",
-        "deviceId": "",
-        "version": "101",
-        "ua": ""
-      }
-    },
-    {
       "key": "R.YSCS3",
       "name": "R. 独家影视",
       "type": 3,
@@ -396,14 +379,6 @@
       "name": "R. 两个BT",
       "type": 3,
       "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/py/%E4%B8%A4%E4%B8%AABT.py",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "searchable": 1
-    },
-    {
-      "key": "R.YSCS5",
-      "name": "R. 凡客影视",
-      "type": 4,
-      "api": "http://drpy.mxlgsl.cn/api/凡客TV",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
       "searchable": 1
     },
@@ -525,22 +500,6 @@
       }
     },
     {
-      "key": "Z.DMDJ3",
-      "name": "Z. 稀饭动漫",
-      "type": 3,
-      "api": "csp_AppGet",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "searchable": 1,
-      "ext": {
-        "url": "",
-        "site": "https://xfapp-1305390065.cos.ap-guangzhou.myqcloud.com/getapp.txt",
-        "dataKey": "1yZ2Spn9krnzVKoC",
-        "dataIv": "1yZ2Spn9krnzVKoC",
-        "deviceId": "",
-        "version": ""
-      }
-    },
-    {
       "key": "Z.DMDJ4",
       "name": "Z. 咕咕动漫",
       "type": 3,
@@ -570,15 +529,6 @@
       "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/py/%E7%94%9C%E5%9C%88%E7%9F%AD%E5%89%A7.py",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
       "searchable": 1
-    },
-    {
-      "key": "Z.DMDJ7",
-      "name": "Z. 番茄短剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "ext": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/json/%E7%95%AA%E8%8C%84%E7%9F%AD%E5%89%A7.json"
     },
     {
       "key": "C.YYET1",
@@ -1427,4 +1377,5 @@
     "cms.qdwght.com"
   ]
 }
+
 
