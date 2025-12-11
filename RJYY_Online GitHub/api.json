@@ -425,8 +425,8 @@
       "key": "J.GFCJ4",
       "name": "J. 虎牙直播",
       "type": 3,
-      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.js",
-      "ext": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/huya2.js",
+      "api": "csp_XYQHiker",
+      "ext": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/json/虎牙直播.json",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/xyq.jar",
       "style": {
         "type": "rect",
@@ -1378,6 +1378,7 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
 
