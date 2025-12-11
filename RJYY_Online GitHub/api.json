@@ -468,7 +468,7 @@
       "key": "J.GFCJ7",
       "name": "J. 88 看球",
       "type": 3,
-      "api": "csp_Kanqiu",
+      "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/js/88%E7%9C%8B%E7%90%83.js",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
       "searchable": 1,
       "gridview": 3,
@@ -1378,6 +1378,7 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
 
