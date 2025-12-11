@@ -91,12 +91,12 @@
   "sites": [
     {
       "key": "R.JSON1",
-      "name": "R. 豆瓣推荐",
+      "name": "R. 豆瓣搜索",
       "type": 3,
       "api": "csp_Douban",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
       "indexs": 1,
-      "searchable": 0
+      "searchable": 1
     },
     {
       "key": "R.YSWD2",
@@ -1377,6 +1377,7 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
 
