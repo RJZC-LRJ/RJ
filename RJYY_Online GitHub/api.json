@@ -471,6 +471,7 @@
       "api": "csp_Kanqiu",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
       "searchable": 1,
+      "gridview": 3,
       "style": {
         "type": "list"
       }
@@ -1377,5 +1378,6 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
