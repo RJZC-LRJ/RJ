@@ -427,6 +427,7 @@
       "type": 3,
       "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.js",
       "ext": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/huya2.js",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/xyq.jar",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -1377,6 +1378,7 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
 
