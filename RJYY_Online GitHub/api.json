@@ -466,15 +466,14 @@
     },
     {
       "key": "J.GFCJ7",
-      "name": "J. 88 看球",
+      "name": "J. 88看球",
       "type": 3,
-      "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/js/88%E7%9C%8B%E7%90%83.js",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
+      "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/js/drpy2.min.js",
       "searchable": 1,
-      "gridview": 3,
       "style": {
-        "type": "list"
-      }
+      "type": "list"
+      },
+      "ext": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/js/88看球.js"
     },
     {
       "key": "Z.DMDJ1",
@@ -1378,6 +1377,7 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
 
