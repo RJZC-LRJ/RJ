@@ -531,16 +531,11 @@
       "searchable": 1
     },
     {
-      "key": "C.YYET3",
-      "name": "C. 兔小贝儿歌",
+      "key": "笒鬼短剧",
+      "name": "Z. 笒鬼短剧",
       "type": 3,
-      "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/js/drpy2.min.js",
-      "ext": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/js/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
+      "api": "csp_CenguiDJ",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
       "searchable": 1
     },
     {
@@ -575,6 +570,19 @@
         "type": "rect",
         "ratio": 1.597
       }
+    },
+    {
+      "key": "C.YYET3",
+      "name": "C. 兔小贝儿歌",
+      "type": 3,
+      "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/js/drpy2.min.js",
+      "ext": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/js/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 1
     },
     {
       "key": "J.GFCJ3.2",
@@ -1387,6 +1395,7 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
 
