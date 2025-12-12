@@ -557,8 +557,8 @@
       "name": "蜻蜓 FM",
       "type": 3,
       "searchable": 1,
-      "api": "https://14747.kstore.space/%E9%A9%AC%E9%87%8C%E5%A5%A5/lib/drpy5.min.json",
-      "ext": "https://14747.kstore.space/%E9%A9%AC%E9%87%8C%E5%A5%A5/lib/蜻蜓FM.json",
+      "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/lib/drpy5.min.json",
+      "ext": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/lib/蜻蜓FM.json",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar"
     },
     {
@@ -1387,6 +1387,7 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
 
