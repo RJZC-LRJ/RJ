@@ -547,6 +547,14 @@
       "searchable": 1
     },
     {
+      "key": "drpy_js_蜻蜓FM",
+      "name": "蜻蜓｜FM",
+      "type": 3,
+      "api": "https://14747.kstore.space/%E9%A9%AC%E9%87%8C%E5%A5%A5/lib/drpy5.min.json",
+      "ext": "https://14747.kstore.space/%E9%A9%AC%E9%87%8C%E5%A5%A5/lib/蜻蜓FM.json",
+      "playerType": "2"
+    },
+    {
       "key": "C.YYET3",
       "name": "C. 兔小贝儿歌",
       "type": 3,
@@ -1385,6 +1393,7 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
 
