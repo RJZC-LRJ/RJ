@@ -362,6 +362,14 @@
       }
     },
     {
+      "key": "R.YSCS2",
+      "name": "R. TVB 云播",
+      "type": 3,
+      "api": "csp_Tvyb",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
+      "ext": "http://www.viptv05.com"
+    },
+    {
       "key": "R.YSCS3",
       "name": "R. 独家影视",
       "type": 3,
@@ -1377,6 +1385,7 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
 
