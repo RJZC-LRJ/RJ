@@ -362,14 +362,6 @@
       }
     },
     {
-      "key": "R.YSCS2",
-      "name": "R. TVB 云播",
-      "type": 3,
-      "api": "csp_Tvyb",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "ext": "http://www.viptv05.com"
-    },
-    {
       "key": "R.YSCS3",
       "name": "R. 独家影视",
       "type": 3,
@@ -539,22 +531,6 @@
       "searchable": 1
     },
     {
-      "key": "C.YYET1",
-      "name": "C. DJ悠悠",
-      "type": 3,
-      "api": "csp_Djuu",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/xyq.jar",
-      "searchable": 1
-    },
-    {
-      "key": "drpy_js_蜻蜓FM",
-      "name": "蜻蜓｜FM",
-      "type": 3,
-      "api": "https://14747.kstore.space/%E9%A9%AC%E9%87%8C%E5%A5%A5/lib/drpy5.min.json",
-      "ext": "https://14747.kstore.space/%E9%A9%AC%E9%87%8C%E5%A5%A5/lib/蜻蜓FM.json",
-      "playerType": "2"
-    },
-    {
       "key": "C.YYET3",
       "name": "C. 兔小贝儿歌",
       "type": 3,
@@ -566,6 +542,24 @@
         "ratio": 1.597
       },
       "searchable": 1
+    },
+    {
+      "key": "C.YYET1",
+      "name": "C. DJ悠悠",
+      "type": 3,
+      "api": "csp_Djuu",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/xyq.jar",
+      "searchable": 1
+
+    },
+    {
+      "key": "C.YYET333",
+      "name": "蜻蜓 FM",
+      "type": 3,
+      "searchable": 1,
+      "api": "https://14747.kstore.space/%E9%A9%AC%E9%87%8C%E5%A5%A5/lib/drpy5.min.json",
+      "ext": "https://14747.kstore.space/%E9%A9%AC%E9%87%8C%E5%A5%A5/lib/蜻蜓FM.json",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
     },
     {
       "key": "J.GFCJ3.1",
@@ -1393,6 +1387,7 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
 
