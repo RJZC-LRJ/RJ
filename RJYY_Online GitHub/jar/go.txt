@@ -2,7 +2,8 @@
   "goproxy_amd64.md5": "f384858a0f78ee216c6536bf437f9f1e",
   "goproxy_arm.md5": "245279fb92a322eeb415af978372246b",
   "goproxy_arm64.md5": "e617668ff41408d0a3f6887081bf9465",
-  "goproxy_amd64": "https://10167.kstore.space/RJYY_Online+Space/go/goproxy_amd64",
-  "goproxy_arm": "https://10167.kstore.space/RJYY_Online+Space/go/goproxy_arm",
-  "goproxy_arm64": "https://10167.kstore.space/RJYY_Online+Space/go/goproxy_arm64"
+  "goproxy_amd64": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/go/goproxy_amd64",
+  "goproxy_arm": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/go/goproxy_arm",
+  "goproxy_arm64": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/go/goproxy_arm64"
+
 }
