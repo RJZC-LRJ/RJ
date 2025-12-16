@@ -49,8 +49,8 @@ CGTN-法,http://go.bkpcp.top/mg/cgtnf
 兵团卫视,http://go.bkpcp.top/mg/btws 
 黑龙江视,http://go.bkpcp.top/mg/hljws 
 
-本源不支持嵘基影音,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/AhXM2gNZ&pwd=1109
-嵘基直播软件专用源,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/8kXYoxM9&pwd=1109
+本源不支持OK空壳,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/AhXM2gNZ&pwd=1109
+请用其他空壳测试,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/8kXYoxM9&pwd=1109
 
 
 咕咪卫央[V4],#genre#
@@ -100,8 +100,8 @@ CCTV-15高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv15
 CCTV-16高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv16
 CCTV-17高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv17
 
-本源不支持嵘基影音,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/AhXM2gNZ&pwd=1109
-嵘基直播软件专用源,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/8kXYoxM9&pwd=1109
+本源不支持OK空壳,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/AhXM2gNZ&pwd=1109
+请用其他空壳测试,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/8kXYoxM9&pwd=1109
 
 
 
@@ -155,8 +155,8 @@ CCTV-17高码,http://t.061899.xyz/tl/tl.php?id=cctv17
 内蒙古视高码,http://t.061899.xyz/tl/tl.php?id=nmgws
 黑龙江视高码,http://t.061899.xyz/tl/tl.php?id=hljws
 
-本源不支持嵘基影音,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/AhXM2gNZ&pwd=1109
-嵘基直播软件专用源,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/8kXYoxM9&pwd=1109
+本源不支持OK空壳,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/AhXM2gNZ&pwd=1109
+请用其他空壳测试,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/8kXYoxM9&pwd=1109
 
 
 
@@ -210,8 +210,8 @@ CCTV-15高码,http://k.061899.xyz/m.php?id=cctv15
 CCTV-16高码,http://k.061899.xyz/m.php?id=cctv16
 CCTV-17高码,http://k.061899.xyz/m.php?id=cctv17
 
-本源不支持嵘基影音,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/AhXM2gNZ&pwd=1109
-嵘基直播软件专用源,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/8kXYoxM9&pwd=1109
+本源不支持OK空壳,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/AhXM2gNZ&pwd=1109
+请用其他空壳测试,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/8kXYoxM9&pwd=1109
 
 
 
@@ -257,4 +257,5 @@ CCTV-17高码,http://k.061899.xyz/m.php?id=cctv17
 春晚2020,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
 春晚2024,https://ikcdn01.ikzybf.com/20240205/QBNgom4j/2000kb/hls/index.m3u8
 春晚2025,https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8
+
 
