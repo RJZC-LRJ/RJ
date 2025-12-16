@@ -166,6 +166,53 @@
       "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"
     },
     {
+      "key": "快快XBPQ",
+      "name": "R. 快快影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://10167.kstore.space/RJYY_Online+Space/jar/xbpq.jar",
+      "searchable": 1,
+      "ext": {
+        "副标题": "嵘基影音",
+        "请求头": "User-Agent$MOBILE_UA",
+        "编码": "UTF-8",
+        "分类url": "https://4k4k.live/;;!H"
+      }
+    },
+    {
+      "key": "旺旺XBPQ",
+      "name": "R. 旺旺影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://10167.kstore.space/RJYY_Online+Space/jar/xbpq.jar",
+      "searchable": 1,
+      "ext": {
+        "副标题": "pic-text text-right\"&&/span>",
+        "请求头": "手机",
+        "简介": "装歌剧情介绍:+detail-sketch\"&&</span>",
+        "播放数组": "stui-content__playlist clearfix\"&&</ul>",
+        "分类url": "http://www.0719w.com/so-show/{cateId}-{area}--{class}-----{catePg}---{year}.html;;d",
+        "分类": "电视剧$2#电影$1#动漫$4#综艺$3"
+      }
+    },
+    {
+      "key": "柠檬JAR",
+      "name": "R. 柠檬影视",
+      "type": 3,
+      "api": "csp_Nmvod",
+      "searchable": 1,
+      "jar": "https://10167.kstore.space/RJYY_Online+Space/jar/Nmvod.jar",
+      "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
+    },
+    {
+      "key": "奇优JAR",
+      "name": "R. 奇优影视",
+      "type": 3,
+      "api": "csp_Qiyou",
+      "searchable": 1,
+      "jar": "https://10167.kstore.space/RJYY_Online+Space/jar/rjzc.jar"
+    },
+    {
       "key": "厂长PY",
       "name": "R. 厂长影视",
       "type": 3,
@@ -1556,3 +1603,4 @@
     "cms.qdwght.com"
   ]
 }
+
