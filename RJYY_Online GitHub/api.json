@@ -1026,6 +1026,177 @@
       }
     },
     {
+      "key": "二小JAR",
+      "name": "D. 二小网盘",
+      "type": 3,
+      "api": "csp_ErXiaoGuard",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": {
+        "danmu": true
+      },
+      "timeout": 25
+    },
+    {
+      "key": "双星JAR",
+      "name": "D. 双星网盘",
+      "type": 3,
+      "api": "csp_Star2Guard",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      },
+      "ext": {
+        "danmu": true
+      },
+      "timeout": 25
+    },
+    {
+      "key": "玩偶JAR",
+      "name": "D. 玩偶网盘",
+      "type": 3,
+      "api": "csp_WoggGuard",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "danmu": true
+      },
+      "timeout": 30
+    },
+    {
+      "key": "立播JAR",
+      "name": "D. 立播网盘",
+      "type": 3,
+      "api": "csp_LibvioGuard",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "danmu": true
+      },
+      "timeout": 30
+    },
+    {
+      "key": "蜡笔JAR",
+      "name": "D. 蜡笔网盘",
+      "type": 3,
+      "api": "csp_LabiGuard",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": {
+        "danmu": true
+      },
+      "timeout": 25
+    },
+    {
+      "key": "木偶JAR",
+      "name": "D. 木偶网盘",
+      "type": 3,
+      "api": "csp_MuouGuard",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": {
+        "danmu": true
+      },
+      "timeout": 25
+    },
+    {
+      "key": "多多JAR",
+      "name": "D. 多多网盘",
+      "type": 3,
+      "api": "csp_DuoDuoGuard",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": {
+        "danmu": true
+      },
+      "timeout": 25
+    },
+    {
+      "key": "至臻JAR",
+      "name": "D. 至臻网盘",
+      "type": 3,
+      "api": "csp_ZhiZhenGuard",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": {
+        "danmu": true
+      },
+      "timeout": 25
+    },
+    {
+      "key": "虎斑JAR",
+      "name": "D. 虎斑网盘",
+      "type": 3,
+      "api": "csp_HuBanGuard",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": {
+        "danmu": true
+      },
+      "timeout": 25
+    },
+    {
+      "key": "盘他JAR",
+      "name": "D. 盘他网盘",
+      "type": 3,
+      "api": "csp_PantaGuard",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "timeout": 25
+    },
+    {
+      "key": "123JAR",
+      "name": "D. 123 网盘",
+      "type": 3,
+      "api": "csp_Time123Guard",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "timeout": 25
+    },
+    {
+      "key": "海绵JAR",
+      "name": "D. 海绵网盘",
+      "type": 3,
+      "api": "csp_HaiMianGuard",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "timeout": 25
+    },
+    {
+      "key": "雷鲸JAR",
+      "name": "D. 雷鲸网盘",
+      "type": 3,
+      "api": "csp_LeiJingGuard",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "timeout": 25
+    },
+    {
       "key": "RJAPI.A",
       "name": "本地视频播放",
       "type": 3,
@@ -1045,6 +1216,20 @@
     },
     {
       "key": "RJAPI.C",
+      "name": "网盘配置中心",
+      "type": 3,
+      "api": "csp_ConfigGuard",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
+      "searchable": 0,
+      "changeable": 0,
+      "indexs": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.43
+      }
+    },
+    {
+      "key": "RJAPI.D",
       "name": "接口配置中心",
       "type": 3,
       "api": "csp_Config",
@@ -1057,7 +1242,7 @@
       }
     },
     {
-      "key": "RJAPI.D",
+      "key": "RJAPI.E",
       "name": "网站：link3.cc/rjzc",
       "type": 3,
       "api": "csp_Notice",
@@ -1067,8 +1252,8 @@
       "ext": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/json/%E6%8E%A5%E5%8F%A3%E5%85%AC%E5%91%8A.json"
     },
     {
-      "key": "RJAPI.E",
-      "name": "维护：25.12.16_优选",
+      "key": "RJAPI.F",
+      "name": "维护：25.12.20_优选",
       "type": 3,
       "api": "csp_Notice",
       "searchable": 0,
@@ -1077,7 +1262,7 @@
       "ext": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/json/%E6%8E%A5%E5%8F%A3%E5%85%AC%E5%91%8A.json"
     },
     {
-      "key": "RJAPI.F",
+      "key": "RJAPI.G",
       "name": "接口免费无软件禁商用",
       "type": 3,
       "api": "csp_Notice",
@@ -1726,3 +1911,4 @@
     "cms.qdwght.com"
   ]
 }
+
