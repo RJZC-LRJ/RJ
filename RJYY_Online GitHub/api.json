@@ -1044,7 +1044,7 @@
       "indexs": 0
     },
     {
-      "key": "RJAPI.D",
+      "key": "RJAPI.C",
       "name": "接口配置中心",
       "type": 3,
       "api": "csp_Config",
@@ -1057,7 +1057,7 @@
       }
     },
     {
-      "key": "RJAPI.E",
+      "key": "RJAPI.D",
       "name": "网站：link3.cc/rjzc",
       "type": 3,
       "api": "csp_Notice",
@@ -1067,7 +1067,7 @@
       "ext": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/json/%E6%8E%A5%E5%8F%A3%E5%85%AC%E5%91%8A.json"
     },
     {
-      "key": "RJAPI.F",
+      "key": "RJAPI.E",
       "name": "维护：25.12.20_优选",
       "type": 3,
       "api": "csp_Notice",
@@ -1077,7 +1077,7 @@
       "ext": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/json/%E6%8E%A5%E5%8F%A3%E5%85%AC%E5%91%8A.json"
     },
     {
-      "key": "RJAPI.G",
+      "key": "RJAPI.F",
       "name": "接口免费无软件禁商用",
       "type": 3,
       "api": "csp_Notice",
@@ -1726,5 +1726,6 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
