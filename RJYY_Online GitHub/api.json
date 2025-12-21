@@ -1,5 +1,5 @@
 {
-  "spider": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
+  "spider": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
   "logo": "https://gitee.com/UserRJZC/rjgitee/raw/Admin/icon/%E7%9A%AE%E5%8D%A1%E4%B8%98.jpg",
   "wallpaper": "https://wp.upx8.com/api.php?content=卡通",
   "warningText": "R:嵘基聚合在线接口免费交流学习使用禁止商用禁止买卖无任何内置软件所有相关文件请在24小时内删除！",
@@ -112,17 +112,6 @@
       "searchable": 1
     },
     {
-      "key": "热播JAR",
-      "name": "R. 热播影视",
-      "type": 3,
-      "api": "csp_AppRJ",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "searchable": 1,
-      "ext": {
-        "url": "http://v.rbotv.cn"
-      }
-    },
-    {
       "key": "瓜子JAR",
       "name": "R. 瓜子影视",
       "type": 3,
@@ -152,8 +141,8 @@
       "key": "时雨JAR",
       "name": "R. 时雨影视",
       "type": 3,
-      "api": "csp_LiteApple",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/xyq.jar",
+      "api": "csp_XpgGuard",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
       "searchable": 1
     },
     {
@@ -211,6 +200,17 @@
       "api": "csp_Qiyou",
       "searchable": 1,
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar"
+    },
+    {
+      "key": "热播JAR",
+      "name": "R. 热播影视",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
+      "searchable": 1,
+      "ext": {
+        "url": "http://v.rbotv.cn"
+      }
     },
     {
       "key": "厂长PY",
@@ -553,14 +553,17 @@
       "ext": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/json/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1VIP.json"
     },
     {
-      "key": "吉米JAR",
-      "name": "R. 吉米影视",
+      "key": "灵虎JAR",
+      "name": "R. 灵虎影视",
       "type": 3,
-      "api": "csp_AppFox",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
       "searchable": 1,
+      "api": "csp_AppGet",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
       "ext": {
-        "host": "http://fox.tvmao.top"
+        "site": "https://bind.315999.xyz/89.txt",
+        "dataKey": "#getapp@TMD@2025",
+        "dataIv": "#getapp@TMD@2025",
+        "version": "120"
       }
     },
     {
@@ -577,12 +580,20 @@
       }
     },
     {
+      "key": "一起JAR",
+      "name": "R. 一起影视",
+      "type": 3,
+      "api": "csp_YqsGuard",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
+      "searchable": 1
+    },
+    {
       "key": "1905PY",
       "name": "J. 1905电影",
       "type": 3,
       "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/py/1905.py",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "searchable": 1
+      "searchable": 0
     },
     {
       "key": "哔哩JSON.A",
@@ -604,8 +615,16 @@
       "name": "J. 哔哩直播",
       "type": 3,
       "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/py/BLZB.py",
-      "searchable": 1,
+      "searchable": 0,
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar"
+    },
+    {
+      "key": "快手JAR",
+      "name": "J. 快手直播",
+      "type": 3,
+      "api": "csp_KsLiveGuard",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
+      "searchable": 0
     },
     {
       "key": "央视PY",
@@ -622,7 +641,7 @@
       "api": "csp_XYQHiker",
       "ext": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/json/%E8%99%8E%E7%89%99%E7%9B%B4%E6%92%AD.json",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/xyq.jar",
-      "searchable": 1
+      "searchable": 0
     },
     {
       "key": "斗鱼XYQ",
@@ -630,7 +649,7 @@
       "type": 3,
       "api": "csp_XYQHiker",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/xyq.jar",
-      "searchable": 1,
+      "searchable": 0,
       "ext": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/json/%E6%96%97%E9%B1%BC%E7%9B%B4%E6%92%AD.json"
     },
     {
@@ -661,6 +680,14 @@
         "type": "list"
       },
       "ext": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/js/88%E7%9C%8B%E7%90%83.js"
+    },
+    {
+      "key": "看球JAR",
+      "name": "J. 瓜子看球",
+      "type": 3,
+      "api": "csp_GzSportGuard",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
+      "searchable": 1
     },
     {
       "key": "巴士XYQ",
@@ -707,7 +734,7 @@
       "type": 3,
       "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/py/%E6%98%9F%E8%8A%BD%E7%9F%AD%E5%89%A7.py",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "searchable": 1
+      "searchable": 0
     },
     {
       "key": "河马PY",
@@ -715,7 +742,7 @@
       "type": 3,
       "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/py/%E6%B2%B3%E9%A9%AC%E7%9F%AD%E5%89%A7.py",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "searchable": 1
+      "searchable": 0
     },
     {
       "key": "甜圈PY",
@@ -723,7 +750,7 @@
       "type": 3,
       "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/py/%E7%94%9C%E5%9C%88%E7%9F%AD%E5%89%A7.py",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "searchable": 1
+      "searchable": 0
     },
     {
       "key": "蜻蜓JS",
@@ -951,6 +978,22 @@
       }
     },
     {
+      "key": "世听JAR",
+      "name": "Y. 世界听书",
+      "type": 3,
+      "api": "csp_BookTingGuard",
+      "searchable": 0,
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar"
+    },
+    {
+      "key": "六听JAR",
+      "name": "Y. 六月听书",
+      "type": 3,
+      "api": "csp_WeiTingGuard",
+      "searchable": 0,
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar"
+    },
+    {
       "key": "哔哩JSON.L",
       "name": "Y. 哔哩听书",
       "type": 3,
@@ -1026,25 +1069,97 @@
       }
     },
     {
-      "key": "RJAPI.A",
-      "name": "本地视频播放",
+      "key": "二小JAR",
+      "name": "D. 二小网盘",
       "type": 3,
-      "api": "csp_LocalFile",
+      "api": "csp_ErXiaoGuard",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
+      "searchable": 1
+    },
+    {
+      "key": "双星JAR",
+      "name": "D. 双星网盘",
+      "type": 3,
+      "api": "csp_Star2Guard",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
+      "searchable": 1,
+      "style": {
+        "type": "list"
+      },
+      "timeout": 25
+    },
+    {
+      "key": "玩偶JAR",
+      "name": "D. 玩偶网盘",
+      "type": 3,
+      "api": "csp_WoggGuard",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
+      "searchable": 1
+    },
+    {
+      "key": "立播JAR",
+      "name": "D. 立播网盘",
+      "type": 3,
+      "api": "csp_LibvioGuard",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
+      "searchable": 1
+    },
+    {
+      "key": "蜡笔JAR",
+      "name": "D. 蜡笔网盘",
+      "type": 3,
+      "api": "csp_LabiGuard",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
+      "searchable": 1
+    },
+    {
+      "key": "木偶JAR",
+      "name": "D. 木偶网盘",
+      "type": 3,
+      "api": "csp_MuouGuard",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
+      "searchable": 1
+    },
+    {
+      "key": "多多JAR",
+      "name": "D. 多多网盘",
+      "type": 3,
+      "api": "csp_DuoDuoGuard",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
+      "searchable": 1
+    },
+    {
+      "key": "至臻JAR",
+      "name": "D. 至臻网盘",
+      "type": 3,
+      "api": "csp_ZhiZhenGuard",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
+      "searchable": 1
+    },
+    {
+      "key": "虎斑JAR",
+      "name": "D. 虎斑网盘",
+      "type": 3,
+      "api": "csp_HuBanGuard",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
+      "searchable": 1
+    },
+    {
+      "key": "网盘配置JAR",
+      "name": "网盘配置中心",
+      "type": 3,
+      "api": "csp_ConfigGuard",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
       "searchable": 0,
+      "changeable": 0,
       "indexs": 0,
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar"
+      "style": {
+        "type": "rect",
+        "ratio": 1.43
+      }
     },
     {
-      "key": "RJAPI.B",
-      "name": "推送专用空页",
-      "type": 3,
-      "api": "csp_Push",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "searchable": 0,
-      "indexs": 0
-    },
-    {
-      "key": "RJAPI.C",
+      "key": "接口配置JAR",
       "name": "接口配置中心",
       "type": 3,
       "api": "csp_Config",
@@ -1057,7 +1172,25 @@
       }
     },
     {
-      "key": "RJAPI.D",
+      "key": "LocalFile",
+      "name": "本地视频播放",
+      "type": 3,
+      "api": "csp_LocalFile",
+      "searchable": 0,
+      "indexs": 0,
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar"
+    },
+    {
+      "key": "Push",
+      "name": "推送专用空页",
+      "type": 3,
+      "api": "csp_Push",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
+      "searchable": 0,
+      "indexs": 0
+    },
+    {
+      "key": "RJAPI.A",
       "name": "网站：link3.cc/rjzc",
       "type": 3,
       "api": "csp_Notice",
@@ -1067,8 +1200,8 @@
       "ext": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/json/%E6%8E%A5%E5%8F%A3%E5%85%AC%E5%91%8A.json"
     },
     {
-      "key": "RJAPI.E",
-      "name": "维护：25.12.20_优选",
+      "key": "RJAPI.B",
+      "name": "维护：25.12.21_优选",
       "type": 3,
       "api": "csp_Notice",
       "searchable": 0,
@@ -1077,7 +1210,7 @@
       "ext": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/json/%E6%8E%A5%E5%8F%A3%E5%85%AC%E5%91%8A.json"
     },
     {
-      "key": "RJAPI.F",
+      "key": "RJAPI.C",
       "name": "接口免费无软件禁商用",
       "type": 3,
       "api": "csp_Notice",
@@ -1726,6 +1859,7 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
 
