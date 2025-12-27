@@ -1,61 +1,90 @@
-   // 操作逻辑略.....
-   video.play();
-   //设置画面比例，确保切换源时为选择的画面比例
-   setscale(ku9.getscale());
+(function(){
+    const ___startTime = Date.now();
 
-   // 画面比例控制，app通过画面比例设置，切换scaletype值切换不同比例，注：function setscale(scaletype)为全局函数
-   function setscale(scaletype) {
-              switch (scaletype) {
-                  case 0: // 默认
-                      //执行代码
-                      break;
+    function getVideoParentShadowRoots() {
+        const allElements = document.querySelectorAll('*');
+        for (const element of allElements) {
+            const shadowRoot = element.shadowRoot;
+            if (shadowRoot) return shadowRoot.querySelector('video');
+        }
+        return null;
+    }
 
-                  case 1: // 16:9
-                      //执行代码
-                      break;
+    function removeVideoPlayerControl() {
+        const selectors = [
+            '#control_bar_player',
+            '#pic_in_pic_player',
+            '.con.poster',
+            'xg-controls',
+            '.xgplayer-controls',
+            '[data-kp-role=bottom-controls]',
+            '.prism-controlbar',
+            '.vjs-control-bar',
+            '.playback-layer',
+            '.control-bar',
+            '.bitrate-layer',
+            '.volume-layer',
+            '.dplayer-controller',
+            '._tdp_contrl'
+        ];
+        selectors.forEach(selector => {
+            document.querySelectorAll(selector).forEach(element => {
+                element.remove();
+            });
+        });
+    }
 
-                  case 2: // 4:3
-                      //执行代码
-                      break;
+    function removeAllDivElements() {
+        [...document.body.children].forEach((element) => {
+            if (element.tagName.toLowerCase() == 'div' || element.tagName.toLowerCase() == 'section') {
+                console.info(element.innerHTML);
+                element.remove()
+            }
+        })
+    }
 
-                  case 3: // 填充
-                      //执行代码
-                      break;
+    function addVideoPlayerMask(video) {
+        clearInterval(my_pollingIntervalId);
+        document.body.appendChild(video);
+        removeAllDivElements();
+        video.style = 'width: 100%; height: 100%;object-fit: contain;'
+        video.autoplay = true
+        document.body.style = 'width: 100vw; height: 100vh; margin: 0; min-width: 0; background: #000; padding: 0;'
+        Android.changeVideoResolution(1920, 1080);
+    }
 
-                  case 4: // 原始
-                      //执行代码
-                      break;
+    function enableVideo(video) {
+        if (video.muted || video.volume != 1 || video.autoplay === false) {
+            video.muted = false;
+            video.autoplay = true;
+            video.volume = 1;
+        }else{
+            clearInterval(enableVideo);
+        }
+    }
 
-                  case 5: // 裁剪
-                      //执行代码
-                      break;
-              }
-          }
+    function __initializetMain() {
+        let video = document.querySelector('video');
+        video = video ? video : getVideoParentShadowRoots();
+        if (Date.now() - ___startTime > 15000) {
+            clearInterval(my_pollingIntervalId);
+            try {
+                video.pause();
+            } catch (error) {
+                console.error('Error pausing video:', error);
+            }
+            Android.updatePlaceholderVisible(true,'加载失败');
+            return;
+        }
+        if (video && video.src) {
+            console.info(video.src);
+            if (video.paused) video.play();
+            video.volume = 1;
+            video.muted = false;
+            if (video.videoWidth * video.videoHeight !== 0) addVideoPlayerMask(video);
+            setInterval(enableVideo, 100, video); //2秒后再看一下
+        }
+     }
 
-
-   //指定视频时长（duration>0时，播放视频时app界面左右滑动弹出seekbar，单位秒）
-   ku9.setduration(duration)
-
-   //指定视频进度（播放视频时跳转指定时长）
-   ku9.setposition(position)
-
-   //视频暂停（app界面左右滑动弹出seekbar后，按暂停按钮执行此方法让视频暂停）
-   function pause() {
-    //执行代码
-  }
-
-   //视频播放（app界面左右滑动弹出seekbar后，按播放按钮执行此方法让视频播放）
-   function play() {
-    //执行代码
-   }
-
-   //拖动视频进度时（app界面左右滑动弹出seekbar后，移动seekbar执行此方法让视频跳转至position位置播放，单位秒）
-  function setposition(position) {
-    //执行代码
-   }
-
-   //视频倍速（app界面左右滑动弹出seekbar后，实现点击倍速按钮切换视频播放速度，长按恢复倍速功能）
-   function setspeed(float){
-   //执行代码（接收float类型的倍速值，设置视频倍速，如：video.playbackRate = float）
-   }
-
+    const my_pollingIntervalId = setInterval(__initializetMain, 100);
+  })();
