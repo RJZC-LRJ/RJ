@@ -244,7 +244,7 @@ CCTV4美洲,webview://https://tv.cctv.com/live/cctvamerica/
 
 
 
-央视频[Webview],#genre#
+央视频[Webview],#genre#JS=https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJVE_Online%20GitHub/js/webview_jscode.js
 
 
 CCTV1,webview://https://yangshipin.cn/tv/home?pid=600001859
@@ -311,7 +311,7 @@ CGTN阿语,webview://https://yangshipin.cn/tv/home?pid=600084782
 
 
 
-广东网[Webview],#genre#
+广东网[Webview],#genre#JS=https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJVE_Online%20GitHub/js/webview_jscode.js
 
 
 广东卫视,webview://https://www.gdtv.cn/tvChannelDetail/43
@@ -339,7 +339,7 @@ GRTN教育频道,webview://https://www.gdtv.cn/tvChannelDetail/104
 
 
 
-山东网[Webview],#genre#
+山东网[Webview],#genre#JS=https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJVE_Online%20GitHub/js/webview_jscode.js
 
 
 山东齐鲁,webview://https://v.iqilu.com/live/qlpd/
@@ -356,7 +356,7 @@ GRTN教育频道,webview://https://www.gdtv.cn/tvChannelDetail/104
 
 
 
-陕西网[Webview],#genre#
+陕西网[Webview],#genre#JS=https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJVE_Online%20GitHub/js/webview_jscode.js
 
 
 陕西卫视,webview://http://live.snrtv.com/?channel=陕西卫视
@@ -374,7 +374,7 @@ GRTN教育频道,webview://https://www.gdtv.cn/tvChannelDetail/104
 
 
 
-江苏网[Webview],#genre#
+江苏网[Webview],#genre#JS=https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJVE_Online%20GitHub/js/webview_jscode.js
 
 
 江苏卫视,webview://https://live.jstv.com?channel=江苏卫视
@@ -391,7 +391,7 @@ GRTN教育频道,webview://https://www.gdtv.cn/tvChannelDetail/104
 
 
 
-南京网[Webview],#genre#
+南京网[Webview],#genre#JS=https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJVE_Online%20GitHub/js/webview_jscode.js
 
 
 新闻综合频道,webview://https://www.nbs.cn/live/?channel=新闻综合频道
@@ -405,7 +405,7 @@ GRTN教育频道,webview://https://www.gdtv.cn/tvChannelDetail/104
 
 
 
-北京网[Webview],#genre#
+北京网[Webview],#genre#JS=https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJVE_Online%20GitHub/js/webview_jscode.js
 
 
 北京卫视,webview://https://www.brtn.cn/btv/btvsy_index?channel=北京卫视
@@ -423,7 +423,7 @@ BRTV新闻,webview://https://www.brtn.cn/btv/btvsy_index?channel=BRTV新闻
 
 
 
-安徽网[Webview],#genre#
+安徽网[Webview],#genre#JS=https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJVE_Online%20GitHub/js/webview_jscode.js
 
 安徽卫视,webview://https://h5.ahtv.cn/folder9000/folder20193?channel_id=47
 经济生活,webview://https://h5.ahtv.cn/folder9000/folder20193?channel_id=71
@@ -439,7 +439,7 @@ BRTV新闻,webview://https://www.brtn.cn/btv/btvsy_index?channel=BRTV新闻
 
 
 
-广西网[Webview],#genre#
+广西网[Webview],#genre#JS=https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJVE_Online%20GitHub/js/webview_jscode.js
 
 
 广西卫视,webview://https://tv.gxtv.cn/channel/channelivePlay_e7a7ab7df9fe11e88bcfe41f13b60c62.html
@@ -457,7 +457,7 @@ CETV-4,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca
 
 
 
-湖南网[Webview],#genre#
+湖南网[Webview],#genre#JS=https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJVE_Online%20GitHub/js/webview_jscode.js
 
 
 金鹰卡通,webview://https://live.mgtv.com/?channelId=287
@@ -481,7 +481,7 @@ CETV-4,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca
 
 
 
-上海网[Webview],#genre#
+上海网[Webview],#genre#JS=https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJVE_Online%20GitHub/js/webview_jscode.js
 
 
 东方卫视,webview://https://live.kankanews.com/huikan?id=1
@@ -498,7 +498,7 @@ CETV-4,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca
 
 
 
-浙江网[Webview],#genre#
+浙江网[Webview],#genre#JS=https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJVE_Online%20GitHub/js/webview_jscode.js
 
 
 浙江卫视,webview://https://www.cztv.com/liveTV/101
@@ -559,4 +559,5 @@ CETV-4,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca
 春晚2020,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
 春晚2024,https://ikcdn01.ikzybf.com/20240205/QBNgom4j/2000kb/hls/index.m3u8
 春晚2025,https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8
+
 
