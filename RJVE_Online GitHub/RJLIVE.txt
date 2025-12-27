@@ -215,7 +215,7 @@ CCTV-17高码,http://k.061899.xyz/m.php?id=cctv17
 
 
 
-央视网[Webview],#genre#JS=https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJVE_Online%20GitHub/js/webview_jscode.js
+央视网[Webview],#genre#DE=1#JS=https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJVE_Online%20GitHub/js/webview_jscode.js
 
 
 CCTV1,webview://https://tv.cctv.com/live/cctv1/
@@ -559,5 +559,6 @@ CETV-4,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca
 春晚2020,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
 春晚2024,https://ikcdn01.ikzybf.com/20240205/QBNgom4j/2000kb/hls/index.m3u8
 春晚2025,https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8
+
 
 
