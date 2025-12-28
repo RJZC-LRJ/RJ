@@ -111,7 +111,7 @@
     {
       "key": "天堂JAR",
       "name": "R. 天堂影视",
-      "type": 3,
+      "type": 1,
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/m3u8/",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
       "searchable": 1
@@ -183,7 +183,7 @@
       "ext": {
         "副标题": "pic-text text-right\"&&/span>",
         "请求头": "手机",
-        "简介": "装歌剧情介绍:+detail-sketch\"&&</span>",
+        "简介": "嵘基:+detail-sketch\"&&</span>",
         "播放数组": "stui-content__playlist clearfix\"&&</ul>",
         "分类url": "http://www.0719w.com/so-show/{cateId}-{area}--{class}-----{catePg}---{year}.html;;d",
         "分类": "电视剧$2#电影$1#动漫$4#综艺$3"
@@ -1864,6 +1864,7 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
 
