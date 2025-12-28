@@ -101,17 +101,18 @@
       "type": 3,
       "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/js/JIANPIAN.js",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
+      "searchable": 1,
       "ext": {
         "host": "https://api.ztcgi.com",
         "catesSet": "电影&电视剧&综艺&动漫&纪录片",
-        "tabsSet": "嵘基专线"
+        "tabsSet": "极速蓝光"
       }
     },
     {
       "key": "天堂JAR",
       "name": "R. 天堂影视",
       "type": 3,
-      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dytt/at/xml/",
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/m3u8/",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
       "searchable": 1
     },
@@ -1863,6 +1864,7 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
 
