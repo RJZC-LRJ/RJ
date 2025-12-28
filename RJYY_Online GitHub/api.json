@@ -1170,6 +1170,15 @@
       "searchable": 1
     },
     {
+      "key": "LocalFile",
+      "name": "S. 拉取俺的硬盘",
+      "type": 3,
+      "api": "csp_LocalFile",
+      "searchable": 0,
+      "indexs": 0,
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar"
+    },
+    {
       "key": "我的夸克JAR",
       "name": "S. 拉取俺的夸克",
       "type": 3,
@@ -1283,7 +1292,7 @@
     },
     {
       "key": "网盘配置JAR",
-      "name": "网盘配置中心",
+      "name": "S. 网盘配置中心",
       "type": 3,
       "api": "csp_ConfigGuard",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
@@ -1297,7 +1306,7 @@
     },
     {
       "key": "接口配置JAR",
-      "name": "接口配置中心",
+      "name": "S. 接口配置中心",
       "type": 3,
       "api": "csp_Config",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
@@ -1309,17 +1318,8 @@
       }
     },
     {
-      "key": "LocalFile",
-      "name": "本地视频播放",
-      "type": 3,
-      "api": "csp_LocalFile",
-      "searchable": 0,
-      "indexs": 0,
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar"
-    },
-    {
       "key": "Push",
-      "name": "推送专用空页",
+      "name": "S. 推送专用空页",
       "type": 3,
       "api": "csp_Push",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
@@ -1996,6 +1996,7 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
 
