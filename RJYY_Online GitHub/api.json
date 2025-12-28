@@ -183,7 +183,7 @@
       "ext": {
         "副标题": "pic-text text-right\"&&/span>",
         "请求头": "手机",
-        "简介": "嵘基:+detail-sketch\"&&</span>",
+        "简介": "装歌剧情介绍:+detail-sketch\"&&</span>",
         "播放数组": "stui-content__playlist clearfix\"&&</ul>",
         "分类url": "http://www.0719w.com/so-show/{cateId}-{area}--{class}-----{catePg}---{year}.html;;d",
         "分类": "电视剧$2#电影$1#动漫$4#综艺$3"
@@ -1206,7 +1206,7 @@
     },
     {
       "key": "RJAPI.B",
-      "name": "维护：25.12.21_优选",
+      "name": "维护：25.12.28_优选",
       "type": 3,
       "api": "csp_Notice",
       "searchable": 0,
@@ -1864,6 +1864,7 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
 
