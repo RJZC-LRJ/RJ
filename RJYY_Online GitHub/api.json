@@ -112,8 +112,8 @@
       "key": "天堂JAR",
       "name": "R. 天堂影视",
       "type": 1,
-      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/m3u8/",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
+      "api": "csp_DyGod",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/xyq.jar",
       "searchable": 1
     },
     {
@@ -1996,3 +1996,4 @@
     "cms.qdwght.com"
   ]
 }
+
