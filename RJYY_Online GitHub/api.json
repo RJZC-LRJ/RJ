@@ -734,6 +734,26 @@
       }
     },
     {
+      "key": "韩圈JAR",
+      "name": "Z. 韩圈韩剧",
+      "type": 3,
+      "api": "csp_HanXiaoQuanGuard",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
+      "searchable": 1,
+      "ext": {
+        "danmu": true
+      },
+      "timeout": 10
+    },
+    {
+      "key": "锦鲤JAR",
+      "name": "Z. 锦鲤短剧",
+      "type": 3,
+      "api": "csp_JinliGuard",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
+      "searchable": 1
+    },
+    {
       "key": "星芽PY",
       "name": "Z. 星芽短剧",
       "type": 3,
@@ -1864,6 +1884,7 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
 
