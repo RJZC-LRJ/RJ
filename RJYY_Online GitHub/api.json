@@ -679,7 +679,7 @@
       "name": "J. 88 看球",
       "type": 3,
       "api": "csp_KanqiuGuard",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
       "searchable": 1,
       "style": {
         "type": "list"
@@ -1996,6 +1996,7 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
 
