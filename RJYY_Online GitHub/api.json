@@ -109,12 +109,14 @@
       }
     },
     {
-      "key": "天堂JAR",
-      "name": "R. 天堂影视",
+      "key": "csp_DyGod",
+      "name": "🧲电影天堂",
       "type": 3,
       "api": "csp_DyGod",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/xyq.jar",
-      "searchable": 1
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "瓜子JAR",
@@ -1996,5 +1998,6 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
