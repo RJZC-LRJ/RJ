@@ -87,17 +87,16 @@
       "searchable": 1
     },
     {
-      "key": "荐片JAR",
-      "name": "R. 荐片磁力",
+      "key": "荐片PY",
+      "name": "R. 荐片影视",
       "type": 3,
-      "api": "csp_Jianpian",
+      "api": "https://raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/py/%E8%8D%90%E7%89%87.py",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "searchable": 1,
-      "ext": "https://api.ztcgi.com"
+      "searchable": 1
     },
     {
       "key": "荐片JS",
-      "name": "R. 荐片影视",
+      "name": "R. 荐片备用",
       "type": 3,
       "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/js/JIANPIAN.js",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
@@ -1998,6 +1997,7 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
 
