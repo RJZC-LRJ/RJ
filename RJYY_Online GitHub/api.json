@@ -161,8 +161,8 @@
       "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"
     },
     {
-      "key": "大佬JAR",
-      "name": "R. 大佬秒播",
+      "key": "专线JAR",
+      "name": "R. 专线影视",
       "type": 3,
       "api": "csp_AppYs",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
@@ -180,6 +180,20 @@
         "ratio": 1.33
       },
       "searchable": 1
+    },
+    {
+      "key": "布卡XBPQ",
+      "name": "R. 布卡影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/xbpq.jar",
+      "searchable": 1,
+      "ext": {
+        "副标题": "嵘基影音",
+        "请求头": "User-Agent$MOBILE_UA",
+        "编码": "UTF-8",
+        "分类url": "https://m.ycblcw.com/;;!H"
+      }
     },
     {
       "key": "快快XBPQ",
@@ -203,7 +217,7 @@
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/xbpq.jar",
       "searchable": 1,
       "ext": {
-        "副标题": "pic-text text-right\"&&/span>",
+        "副标题": "嵘基影音",
         "请求头": "手机",
         "简介": "装歌剧情介绍:+detail-sketch\"&&</span>",
         "播放数组": "stui-content__playlist clearfix\"&&</ul>",
@@ -2018,6 +2032,7 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
 
