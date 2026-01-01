@@ -161,6 +161,18 @@
       "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"
     },
     {
+      "key": "哇哇PY",
+      "name": "R. 哇哇影视",
+      "type": 3,
+      "api": "./py/哇哇.py",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "searchable": 1
+    },
+    {
       "key": "快快XBPQ",
       "name": "R. 快快影视",
       "type": 3,
@@ -1095,14 +1107,6 @@
       }
     },
     {
-      "key": "移动JAR",
-      "name": "️D. 移动网盘",
-      "type": 3,
-      "api": "csp_YD",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "searchable": 0
-    },
-    {
       "key": "二小JAR",
       "name": "D. 二小网盘",
       "type": 3,
@@ -2005,6 +2009,7 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
 
