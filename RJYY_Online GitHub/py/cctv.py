@@ -42,8 +42,6 @@ class Spider(Spider):
     def homeContent(self, filter):
         return {
             "class": [
-                {"type_id": "4K", "type_name": "4K"},
-                {"type_id": "栏目大全", "type_name": "栏目大全"},
                 {"type_id": "电视剧", "type_name": "电视剧"},
                 {"type_id": "纪录片", "type_name": "纪录片"},
                 {"type_id": "特别节目", "type_name": "特别节目"},
