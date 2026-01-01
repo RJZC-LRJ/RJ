@@ -1095,6 +1095,14 @@
       }
     },
     {
+      "key": "移动JAR",
+      "name": "️D. 移动网盘",
+      "type": 3,
+      "api": "csp_YD",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
+      "searchable": 0
+    },
+    {
       "key": "二小JAR",
       "name": "D. 二小网盘",
       "type": 3,
@@ -1997,6 +2005,7 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
 
