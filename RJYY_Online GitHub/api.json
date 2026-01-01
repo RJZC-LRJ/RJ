@@ -161,10 +161,19 @@
       "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"
     },
     {
+      "key": "大佬JAR",
+      "name": "R. 大佬秒播",
+      "type": 3,
+      "api": "csp_AppYs",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
+      "searchable": 1,
+      "ext": "http://m51.gotto.top/api.php/v1.vod"
+    },
+    {
       "key": "哇哇PY",
       "name": "R. 哇哇影视",
       "type": 3,
-      "api": "./py/哇哇.py",
+      "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/py/%E5%93%87%E5%93%87.py",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
       "style": {
         "type": "rect",
@@ -2009,6 +2018,7 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
 
