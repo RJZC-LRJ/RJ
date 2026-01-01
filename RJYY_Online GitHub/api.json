@@ -138,10 +138,10 @@
       "key": "金牌JAR",
       "name": "R. 金牌影视",
       "type": 3,
-      "api": "csp_Jpys",
+      "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/js/drpy2.min.js",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
       "searchable": 1,
-      "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
+      "ext": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/js/%E9%87%91%E7%89%8C%E5%BD%B1%E8%A7%86.js"
     },
     {
       "key": "时雨JAR",
@@ -1997,6 +1997,7 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
 
