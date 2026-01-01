@@ -775,7 +775,7 @@
       "type": 3,
       "api": "csp_HanXiaoQuanGuard",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
-      "searchable": 1,
+      "searchable": 0,
       "ext": {
         "danmu": true
       },
@@ -787,7 +787,7 @@
       "type": 3,
       "api": "csp_JinliGuard",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
-      "searchable": 1
+      "searchable": 0
     },
     {
       "key": "星芽PY",
@@ -2032,6 +2032,7 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
 
