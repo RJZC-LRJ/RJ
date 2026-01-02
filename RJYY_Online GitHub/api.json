@@ -806,12 +806,12 @@
       "searchable": 0
     },
     {
-      "key": "甜圈PY",
-      "name": "Z. 甜圈短剧",
+      "key": "剧和JS",
+      "name": "Z. 聚合短剧",
       "type": 3,
-      "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/py/%E7%94%9C%E5%9C%88%E7%9F%AD%E5%89%A7.py",
+      "searchable": 1,
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "searchable": 0
+      "api": "https://by1.430520.xyz/wb/down.php/798a8334359c3efb956c7c6291489011.js&123abc"
     },
     {
       "key": "蜻蜓JS",
@@ -2032,5 +2032,6 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
