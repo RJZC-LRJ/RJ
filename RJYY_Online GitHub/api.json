@@ -30,16 +30,16 @@
       "ua": "bingcha/1.1 (mianfeifenxiang) "
     },
     {
-      "name": "R. 猫TV『点击换接口』",
+      "name": "R. 嵘基直播『点击换接口』",
       "type": 0,
-      "url": "http://rihou.cc:555/gggg.nzk?type=.txt",
+      "url": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJVE_Online%20GitHub/RJLIVE.txt",
       "logo": "https://gitee.com/UserRJZC/rjgitee/raw/Admin/icon/%E7%9A%AE%E5%8D%A1%E4%B8%98.jpg",
       "epg": "http://epg.51zmt.top:8000/e.xml"
     },
     {
-      "name": "R. 嵘基直播『点击换接口』",
+      "name": "R. 猫TV『点击换接口』",
       "type": 0,
-      "url": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJVE_Online%20GitHub/RJLIVE.txt",
+      "url": "http://rihou.cc:555/gggg.nzk?type=.txt",
       "logo": "https://gitee.com/UserRJZC/rjgitee/raw/Admin/icon/%E7%9A%AE%E5%8D%A1%E4%B8%98.jpg",
       "epg": "http://epg.51zmt.top:8000/e.xml"
     },
@@ -1374,7 +1374,7 @@
     },
     {
       "key": "RJAPI.B",
-      "name": "维护：26.01.01_优选",
+      "name": "维护：26.01.02_优选",
       "type": 3,
       "api": "csp_Notice",
       "searchable": 0,
@@ -2032,6 +2032,5 @@
     "cms.qdwght.com"
   ]
 }
-
 
 
