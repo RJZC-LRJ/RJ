@@ -24,12 +24,6 @@
   ],
   "lives": [
     {
-      "name": "R. 冰茶TV『点击换接口』",
-      "type": 0,
-      "url": "https://bc.188766.xyz/?url=https://live.188766.xyz&mima=bingcha1130&json=true",
-      "ua": "bingcha/1.1 (mianfeifenxiang) "
-    },
-    {
       "name": "R. 嵘基直播『点击换接口』",
       "type": 0,
       "url": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJVE_Online%20GitHub/RJLIVE.txt",
@@ -37,9 +31,29 @@
       "epg": "http://epg.51zmt.top:8000/e.xml"
     },
     {
+      "name": "R. 冰茶TV『点击换接口』",
+      "type": 0,
+      "url": "https://bc.188766.xyz/?url=https://live.188766.xyz&mima=bingcha1130&json=true",
+      "ua": "bingcha/1.1 (mianfeifenxiang) "
+    },
+    {
       "name": "R. 猫TV『点击换接口』",
       "type": 0,
       "url": "http://rihou.cc:555/gggg.nzk?type=.txt",
+      "logo": "https://gitee.com/UserRJZC/rjgitee/raw/Admin/icon/%E7%9A%AE%E5%8D%A1%E4%B8%98.jpg",
+      "epg": "http://epg.51zmt.top:8000/e.xml"
+    },
+    {
+      "name": "R. 潇雨萌萌『点击换接口』",
+      "type": 0,
+      "url": "http://43.251.226.89:8080/live.txt",
+      "logo": "https://gitee.com/UserRJZC/rjgitee/raw/Admin/icon/%E7%9A%AE%E5%8D%A1%E4%B8%98.jpg",
+      "epg": "http://epg.51zmt.top:8000/e.xml"
+    },
+    {
+      "name": "R. 小雨直播『点击换接口』",
+      "type": 0,
+      "url": "https://9245.kstore.space/%E5%B0%8F%E9%9B%A8.txt",
       "logo": "https://gitee.com/UserRJZC/rjgitee/raw/Admin/icon/%E7%9A%AE%E5%8D%A1%E4%B8%98.jpg",
       "epg": "http://epg.51zmt.top:8000/e.xml"
     },
@@ -1374,7 +1388,7 @@
     },
     {
       "key": "RJAPI.B",
-      "name": "维护：26.01.02_优选",
+      "name": "维护：26.01.03_优选",
       "type": 3,
       "api": "csp_Notice",
       "searchable": 0,
