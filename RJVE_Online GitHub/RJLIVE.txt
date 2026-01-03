@@ -1,7 +1,7 @@
 嵘基直播[优选],#genre#
 
 
-26.01.02,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/AhXM2gNZ&pwd=1109
+26.01.03,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/AhXM2gNZ&pwd=1109
 接口公告,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/AhXM2gNZ&pwd=1109
 嵘基导航,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/9cXYr7Ks&pwd=1109
 无内置版,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/8kXYoxM9&pwd=1109
@@ -250,7 +250,7 @@ CCTV15,http://live1.jzjsnm.cn/live1/cctv15_sd.m3u8?auth_key=1674380822365-0-0-98
 爱国爱党[V4],#genre#
 
 
-80周年阅兵回放,https://vd3.bdstatic.com/mda-ri24zxxrst8trduf/576p/h264/1756872226406839383/mda-ri24zxxrst8trduf.mp4?v_from_s=bdapp-resbox-hbf
+80周年阅兵回放0,https://vd3.bdstatic.com/mda-ri24zxxrst8trduf/576p/h264/1756872226406839383/mda-ri24zxxrst8trduf.mp4?v_from_s=bdapp-resbox-hbf
 80周年阅兵回放1,https://vd3.bdstatic.com/mda-ri283wyxe135szm5/576p/h264/1756880513304056354/mda-ri283wyxe135szm5.mp4
 80周年阅兵回放2,https://vvip.high26-playback.com/20250903/20785_ad349260/index.m3u8
 80周年阅兵回放3,https://vip.dytt-cine.com/20250903/54616_ce842c8a/index.m3u8
@@ -815,6 +815,7 @@ CETV-4,http://A/ku9/js/web.js?id=https://tv.gxtv.cn/channel/channelivePlay_67eac
 
 本源不支持OK空壳,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/AhXM2gNZ&pwd=1109
 请用其他空壳测试,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/8kXYoxM9&pwd=1109
+
 
 
 
