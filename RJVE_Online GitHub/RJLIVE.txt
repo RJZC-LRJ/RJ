@@ -250,12 +250,7 @@ CCTV15,http://live1.jzjsnm.cn/live1/cctv15_sd.m3u8?auth_key=1674380822365-0-0-98
 爱国爱党[V4],#genre#
 
 
-80周年阅兵回放0,https://vd3.bdstatic.com/mda-ri24zxxrst8trduf/576p/h264/1756872226406839383/mda-ri24zxxrst8trduf.mp4?v_from_s=bdapp-resbox-hbf
-80周年阅兵回放1,https://vd3.bdstatic.com/mda-ri283wyxe135szm5/576p/h264/1756880513304056354/mda-ri283wyxe135szm5.mp4
-80周年阅兵回放2,https://vvip.high26-playback.com/20250903/20785_ad349260/index.m3u8
-80周年阅兵回放3,https://vip.dytt-cine.com/20250903/54616_ce842c8a/index.m3u8
-80周年阅兵回放5,https://m.douyin.com/aweme/v1/playwm/?video_id=v0200fg10000d2rtbv7og65occl7sv6g&ratio=720p&line=0
-80周年阅兵回放6,https://videon.img.ria.ru/Out/Flv/direct/2025_09_03_recording_xp0nzjnu.xwp.mp4
+80周年阅兵回放,https://vd3.bdstatic.com/mda-ri24zxxrst8trduf/576p/h264/1756872226406839383/mda-ri24zxxrst8trduf.mp4?v_from_s=bdapp-resbox-hbf
 
 
 
@@ -815,6 +810,7 @@ CETV-4,http://A/ku9/js/web.js?id=https://tv.gxtv.cn/channel/channelivePlay_67eac
 
 本源不支持OK空壳,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/AhXM2gNZ&pwd=1109
 请用其他空壳测试,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/8kXYoxM9&pwd=1109
+
 
 
 
