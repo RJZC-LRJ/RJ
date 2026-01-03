@@ -301,6 +301,29 @@ CCTV15,http://live1.jzjsnm.cn/live1/cctv15_sd.m3u8?auth_key=1674380822365-0-0-98
 春晚2020,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
 春晚2024,https://ikcdn01.ikzybf.com/20240205/QBNgom4j/2000kb/hls/index.m3u8
 春晚2025,https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8
+春晚2025北京,https://play.modujx11.com/20250130/KEdC3rWl/index.m3u8
+春晚2025吉林,https://cdn.ryplay10.com/20250126/35971_c32a136b/index.m3u8
+春晚2025吉林,https://v.cdnlz21.com/20250126/4862_b5485261/index.m3u8
+春晚2025东方卫视,https://cdn.ryplay10.com/20250130/36137_74d8136b/index.m3u8
+春晚2025东方卫视,https://svipsvip.ffzyread1.com/20250130/35479_aa1ec909/index.m3u8
+春晚2025东方卫视,https://v.cdnlz21.com/20250130/5033_1ab50b18/index.m3u8
+春晚2025湖南,https://cdn.ryplay10.com/20250126/35977_51b92f06/index.m3u8
+春晚2025湖南,https://v.cdnlz21.com/20250126/4872_dc38bbd1/index.m3u8
+春晚2025湖南,https://c1.7bbffvip.com/video/2025hunanweishixiaonianyechunwan/HD/index.m3u8
+春晚2025湖南,https://v5.qrssv.com/202501/26/4XKfNheidE21/video/index.m3u8
+春晚2025湖南纯享,https://cdn.ryplay10.com/20250126/35977_51b92f06/index.m3u8
+春晚2025湖南纯享,https://v.cdnlz21.com/20250126/4872_dc38bbd1/index.m3u8
+春晚2025河南,https://play.modujx11.com/20250127/9Yljzd4n/index.m3u8
+春晚2025河南,https://cdn.ryplay10.com/20250126/36006_a86654d5/index.m3u8
+春晚2025河南,https://svipsvip.ffzyread1.com/20250127/35406_62e44a80/index.m3u8
+春晚2025山东,https://play.modujx11.com/20250128/3lqQwrom/index.m3u8
+春晚2025安徽,https://play.modujx11.com/20250128/WGs0Su67/index.m3u8
+春晚2025天津相声,https://cdn.ryplay10.com/20250130/36135_7b945be4/index.m3u8
+春晚2025天津相声,https://v.cdnlz21.com/20250130/5031_3ed80174/index.m3u8
+春晚2025辽宁上,https://cdn.ryplay10.com/20250128/36082_dba1a987/index.m3u8
+春晚2025辽宁下,https://cdn.ryplay10.com/20250128/36084_e64309bc/index.m3u8
+春晚2025辽宁上,https://v.cdnlz21.com/20250128/4980_b61091f5/index.m3u8
+春晚2025辽宁下,https://svipsvip.ffzyread1.com/20250129/35457_6898fca8/index.m3u8
 
 
 
@@ -810,6 +833,7 @@ CETV-4,http://A/ku9/js/web.js?id=https://tv.gxtv.cn/channel/channelivePlay_67eac
 
 本源不支持OK空壳,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/AhXM2gNZ&pwd=1109
 请用其他空壳测试,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/8kXYoxM9&pwd=1109
+
 
 
 
