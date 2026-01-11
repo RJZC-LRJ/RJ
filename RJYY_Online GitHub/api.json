@@ -196,6 +196,14 @@
       "searchable": 1
     },
     {
+      "key": "4KVMPY",
+      "name": "R. 4KVM 影视",
+      "type": 3,
+      "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/py/4KVM.py",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
+      "searchable": 1
+    },
+    {
       "key": "布卡XBPQ",
       "name": "R. 布卡影视",
       "type": 3,
@@ -272,6 +280,14 @@
       "name": "R. 厂长影视",
       "type": 3,
       "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/py/%E5%8E%82%E9%95%BF%E8%B5%84%E6%BA%90.py",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
+      "searchable": 1
+    },
+    {
+      "key": "EmbyPY",
+      "name": "R. Emby 影视",
+      "type": 3,
+      "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/py/emby.py",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
       "searchable": 1
     },
@@ -1220,6 +1236,14 @@
       "searchable": 1
     },
     {
+      "key": "盘他JAR",
+      "name": "D. 盘他网盘",
+      "type": 3,
+      "api": "csp_PantaGuard",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
+      "searchable": 1
+    },
+    {
       "key": "LocalFile",
       "name": "S. 拉取俺的硬盘",
       "type": 3,
@@ -1388,7 +1412,7 @@
     },
     {
       "key": "RJAPI.B",
-      "name": "维护：26.01.03_优选",
+      "name": "维护：26.01.11_优选",
       "type": 3,
       "api": "csp_Notice",
       "searchable": 0,
@@ -2046,3 +2070,4 @@
     "cms.qdwght.com"
   ]
 }
+
