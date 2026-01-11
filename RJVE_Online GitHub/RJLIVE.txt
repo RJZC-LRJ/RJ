@@ -1,7 +1,7 @@
 嵘基直播[优选],#genre#
 
 
-26.01.06,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/AhXM2gNZ&pwd=1109
+26.01.11,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/AhXM2gNZ&pwd=1109
 嵘基分享,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/9cXYr7Ks&pwd=1109
 无内置版,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/8kXYoxM9&pwd=1109
 
@@ -760,27 +760,6 @@ CCTV-17高码,http://k.061899.xyz/m.php?id=cctv17
 
 
 CCTV4K,https://gongdian.top/tv/ku9/js/web.js?id=https://yangshipin.cn/tv/home?pid=600002264
-CCTV1,http://A/ku9/js/web.js?id=https://tv.cctv.com/live/cctv1/
-CCTV2,http://A/ku9/js/web.js?id=https://tv.cctv.com/live/cctv2/
-CCTV3,http://A/ku9/js/web.js?id=https://tv.cctv.com/live/cctv3/
-CCTV4,http://A/ku9/js/web.js?id=https://tv.cctv.com/live/cctv4/
-CCTV5,http://A/ku9/js/web.js?id=https://tv.cctv.com/live/cctv5/
-CCTV5,http://A/ku9/js/web.js?id=https://tv.cctv.com/live/cctv5plus/
-CCTV6,http://A/ku9/js/web.js?id=https://tv.cctv.com/live/cctv6/
-CCTV7,http://A/ku9/js/web.js?id=https://tv.cctv.com/live/cctv7/
-CCTV8,http://A/ku9/js/web.js?id=https://tv.cctv.com/live/cctv8/
-CCTV9,http://A/ku9/js/web.js?id=https://tv.cctv.com/live/cctvjilu/
-CCTV10,http://A/ku9/js/web.js?id=https://tv.cctv.com/live/cctv10/
-CCTV11,http://A/ku9/js/web.js?id=https://tv.cctv.com/live/cctv11/
-CCTV12,http://A/ku9/js/web.js?id=https://tv.cctv.com/live/cctv12/
-CCTV13,http://A/ku9/js/web.js?id=https://tv.cctv.com/live/cctv13/
-CCTV14,http://A/ku9/js/web.js?id=https://tv.cctv.com/live/cctvchild/
-CCTV15,http://A/ku9/js/web.js?id=https://tv.cctv.com/live/cctv15/
-CCTV16,http://A/ku9/js/web.js?id=https://tv.cctv.com/live/cctv16/
-CCTV17,http://A/ku9/js/web.js?id=https://tv.cctv.com/live/cctv17/
-CCTV4欧洲,http://A/ku9/js/web.js?id=https://tv.cctv.com/live/cctveurope/index.shtml
-CCTV4美洲,http://A/ku9/js/web.js?id=https://tv.cctv.com/live/cctvamerica/
-
 CCTV1,http://A/ku9/js/web.js?id=https://yangshipin.cn/tv/home?pid=600001859
 CCTV2,http://A/ku9/js/web.js?id=https://yangshipin.cn/tv/home?pid=600001800
 CCTV4,http://A/ku9/js/web.js?id=https://yangshipin.cn/tv/home?pid=600001814
@@ -1051,4 +1030,5 @@ CETV-4,http://A/ku9/js/web.js?id=https://tv.gxtv.cn/channel/channelivePlay_67eac
 
 本源不支持OK空壳,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/AhXM2gNZ&pwd=1109
 请用其他空壳测试,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/8kXYoxM9&pwd=1109
+
 
