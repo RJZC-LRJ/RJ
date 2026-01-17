@@ -679,18 +679,11 @@
     },
     {
       "key": "哔哩JSON.A",
-      "name": "J. 哔哩哔哩",
+      "name": "J. 哔哩合集",
       "type": 3,
-      "api": "csp_Bili",
+      "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/py/B%E7%AB%99%E8%81%9A%E5%90%88.py",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 1,
-      "ext": {
-        "json": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/json/B%E7%AB%99%E8%81%9A%E5%90%88.json"
-      }
+      "searchable": 1
     },
     {
       "key": "哔播PY",
@@ -875,17 +868,9 @@
       "key": "哔哩JSON.B",
       "name": "C. 哔哩音乐",
       "type": 3,
-      "api": "csp_Bili",
+      "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/py/B%E7%AB%99%E9%9F%B3%E4%B9%90.py",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "searchable": 0,
-      "ext": {
-        "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/json/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E6%BC%94%E5%94%B1%E4%BC%9A.json"
-      },
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      }
+      "searchable": 0
     },
     {
       "key": "乐虎JS",
@@ -933,138 +918,19 @@
     },
     {
       "key": "哔哩JSON.C",
-      "name": "C. 学堂教育",
+      "name": "C. 哔哩学堂",
       "type": 3,
-      "api": "csp_Bili",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "searchable": 0,
-      "ext": {
-        "json": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/json/%E5%AD%A6%E5%A0%82%E6%95%99%E8%82%B2.json"
-      },
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      }
+      "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/py/B%E7%AB%99%E5%AD%A6%E5%A0%82.py",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/RJYY_Online+Space/jar/rjzc.jar",
+      "searchable": 0
     },
     {
       "key": "哔哩JSON.D",
-      "name": "C. 少儿专区",
+      "name": "C. 哔哩少儿",
       "type": 3,
-      "api": "csp_Bili",
+      "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/py/%E5%84%BF%E7%AB%A5%E4%B8%93%E5%8C%BA.py",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "searchable": 0,
-      "ext": {
-        "json": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/json/%E5%B0%91%E5%84%BF%E5%90%88%E9%9B%86.json"
-      },
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      }
-    },
-    {
-      "key": "哔哩JSON.E",
-      "name": "C. 儿童口才",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "searchable": 0,
-      "ext": {
-        "json": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/json/%E5%84%BF%E7%AB%A5%E5%8F%A3%E6%89%8D.json"
-      },
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      }
-    },
-    {
-      "key": "哔哩JSON.F",
-      "name": "C. 儿童拼音",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "searchable": 0,
-      "ext": {
-        "json": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/json/%E5%84%BF%E7%AB%A5%E6%8B%BC%E9%9F%B3.json"
-      },
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      }
-    },
-    {
-      "key": "哔哩JSON.G",
-      "name": "C. 儿童识字",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "searchable": 0,
-      "ext": {
-        "json": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/json/%E5%84%BF%E7%AB%A5%E8%AF%86%E5%AD%97.json"
-      },
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      }
-    },
-    {
-      "key": "哔哩JSON.H",
-      "name": "C. 儿童思维",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "searchable": 0,
-      "ext": {
-        "json": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/json/%E5%84%BF%E7%AB%A5%E6%80%9D%E7%BB%B4.json"
-      },
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      }
-    },
-    {
-      "key": "哔哩JSON.I",
-      "name": "C. 灯塔科学",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "searchable": 0,
-      "ext": {
-        "json": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/json/%E5%B0%8F%E7%81%AF%E5%A1%94%E7%A7%91%E5%AD%A6.json"
-      },
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      }
-    },
-    {
-      "key": "哔哩JSON.Z",
-      "name": "C. 灯塔国学",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "searchable": 0,
-      "ext": {
-        "json": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/json/%E5%B0%8F%E7%81%AF%E5%A1%94%E5%9B%BD%E5%AD%A6.json"
-      },
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      }
-    },
-    {
-      "key": "哔哩JSON.K",
-      "name": "C. 儿童编程",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "searchable": 0,
-      "ext": {
-        "json": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/json/%E5%84%BF%E7%AB%A5%E7%BC%96%E7%A8%8B.json"
-      },
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      }
+      "searchable": 0
     },
     {
       "key": "养生JSON",
@@ -1096,54 +962,6 @@
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar"
     },
     {
-      "key": "哔哩JSON.L",
-      "name": "Y. 哔哩听书",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "searchable": 0,
-      "ext": {
-        "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/json/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E5%90%AC%E4%B9%A6.json"
-      },
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      }
-    },
-    {
-      "key": "哔哩JSON.M",
-      "name": "Y. 哔哩相声",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "searchable": 0,
-      "ext": {
-        "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/json/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E7%9B%B8%E5%A3%B0.json"
-      },
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      }
-    },
-    {
-      "key": "哔哩JSON.N",
-      "name": "Y. 哔哩小品",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "searchable": 0,
-      "ext": {
-        "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/json/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E5%B0%8F%E5%93%81.json"
-      },
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      }
-    },
-    {
       "key": "戏曲JAR",
       "name": "Y. 戏曲多多",
       "type": 3,
@@ -1152,22 +970,6 @@
       "searchable": 1,
       "style": {
         "type": "list"
-      }
-    },
-    {
-      "key": "哔哩JSON.O",
-      "name": "Y. 哔哩戏曲",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "searchable": 0,
-      "ext": {
-        "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/json/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E6%88%8F%E6%9B%B2.json"
-      },
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
       }
     },
     {
@@ -2081,6 +1883,7 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
 
