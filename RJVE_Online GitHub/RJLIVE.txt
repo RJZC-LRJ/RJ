@@ -1,7 +1,7 @@
 嵘基直播[优选],#genre#
 
 
-26.01.16,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/AhXM2gNZ&pwd=1109
+26.01.17,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/AhXM2gNZ&pwd=1109
 嵘基分享,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/9cXYr7Ks&pwd=1109
 无内置版,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/8kXYoxM9&pwd=1109
 
@@ -1030,6 +1030,7 @@ CETV-4,http://A/ku9/js/web.js?id=https://tv.gxtv.cn/channel/channelivePlay_67eac
 
 本源不支持OK空壳,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/AhXM2gNZ&pwd=1109
 请用其他空壳测试,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/8kXYoxM9&pwd=1109
+
 
 
 
