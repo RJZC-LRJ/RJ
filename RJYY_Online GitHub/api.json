@@ -343,6 +343,14 @@
       "searchable": 1
     },
     {
+      "key": "奈飞API",
+      "name": "R. 奈飞采集",
+      "type": 1,
+      "api": "https://yonghu.ffzyapi8.com/api.php/provide/vod/from/ffm3u8/at/xml/",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
+      "searchable": 1
+    },
+    {
       "key": "柚子API",
       "name": "R. 柚子采集",
       "type": 0,
@@ -1902,4 +1910,5 @@
     "cms.qdwght.com"
   ]
 }
+
 
