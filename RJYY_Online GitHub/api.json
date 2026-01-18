@@ -348,7 +348,35 @@
       "type": 1,
       "api": "https://yonghu.ffzyapi8.com/api.php/provide/vod/from/ffm3u8/at/xml/",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "searchable": 1
+      "searchable": 1,
+      "categories": [
+        "电影连续剧",
+        "喜剧片",
+        "科幻片",
+        "恐怖片",
+        "爱情片",
+        "剧情片",
+        "战争片",
+        "记录片",
+        "国产剧",
+        "欧美剧",
+        "香港剧",
+        "韩国剧",
+        "台湾剧",
+        "日本剧",
+        "海外剧",
+        "泰国剧",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺"
+      ]
+    },
     },
     {
       "key": "柚子API",
@@ -1910,5 +1938,6 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
