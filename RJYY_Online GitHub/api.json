@@ -93,7 +93,7 @@
   "sites": [
     {
       "key": "豆瓣JAR",
-      "name": "RJZC专属软件",
+      "name": "RJZC 改着玩的",
       "type": 3,
       "api": "csp_Douban",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
@@ -1902,6 +1902,7 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
 
