@@ -732,9 +732,8 @@
       "key": "虎牙XYQ",
       "name": "J. 虎牙直播",
       "type": 3,
-      "api": "csp_XYQHiker",
-      "ext": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/json/%E8%99%8E%E7%89%99%E7%9B%B4%E6%92%AD.json",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/xyq.jar",
+      "api": "csp_HuyaGuard",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
       "searchable": 0
     },
     {
@@ -1902,6 +1901,7 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
 
