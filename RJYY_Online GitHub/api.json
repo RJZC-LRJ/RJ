@@ -184,6 +184,38 @@
       "ext": "http://m51.gotto.top/api.php/v1.vod"
     },
     {
+      "key": "一起JAR",
+      "name": "R. 一起影视",
+      "type": 3,
+      "api": "csp_YqsGuard",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
+      "searchable": 1
+    },
+    {
+      "key": "鲸鱼JAR",
+      "name": "R. 鲸鱼影视",
+      "type": 3,
+      "api": "csp_JingYuGuard",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
+      "searchable": 1
+    },
+    {
+      "key": "仓鼠JAR",
+      "name": "R. 仓鼠影视",
+      "type": 3,
+      "api": "csp_CangShuGuard",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
+      "searchable": 1
+    },
+    {
+      "key": "奇奇JAR",
+      "name": "R. 奇奇影视",
+      "type": 3,
+      "api": "csp_QiQiGuard",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
+      "searchable": 1
+    },
+    {
       "key": "哇哇PY",
       "name": "R. 哇哇影视",
       "type": 3,
@@ -660,14 +692,6 @@
         "dataKey": "dyyztvapiappyyds",
         "dataIv": "dyyztvapiappyyds"
       }
-    },
-    {
-      "key": "一起JAR",
-      "name": "R. 一起影视",
-      "type": 3,
-      "api": "csp_YqsGuard",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
-      "searchable": 1
     },
     {
       "key": "1905PY",
@@ -1932,6 +1956,7 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
 
