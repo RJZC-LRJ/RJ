@@ -233,14 +233,6 @@
       "searchable": 1
     },
     {
-      "key": "4KVMPY",
-      "name": "R. 4KVM 影视",
-      "type": 3,
-      "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/py/4KVM.py",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "searchable": 1
-    },
-    {
       "key": "布卡XBPQ",
       "name": "R. 布卡影视",
       "type": 3,
@@ -319,25 +311,6 @@
       "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/py/%E5%8E%82%E9%95%BF%E8%B5%84%E6%BA%90.py",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
       "searchable": 1
-    },
-    {
-      "key": "EmbyPY",
-      "name": "R. Emby 影视",
-      "type": 3,
-      "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/py/emby.py",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "searchable": 1,
-        "ext": {
-        "server": "https://emby.bangumi.ca:443",
-        "username": "tangsan",
-        "password": "tangsan",
-        "proxy": "",
-        "thread": 0,
-        "device_name": "My Computer",
-        "client": "Hills Windows",
-        "client_version": "0.3.2",
-        "device_id": "a9f74849-83d5-4a28-8b85-a087af1402e3"
-      }
     },
     {
       "key": "爱看JAR",
@@ -696,6 +669,33 @@
         "site": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt",
         "dataKey": "dyyztvapiappyyds",
         "dataIv": "dyyztvapiappyyds"
+      }
+    },
+    {
+      "key": "4KVMPY",
+      "name": "R. 4KVM影视",
+      "type": 3,
+      "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/py/4KVM.py",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
+      "searchable": 1
+    },
+    {
+      "key": "EmbyPY",
+      "name": "R. Emby影视",
+      "type": 3,
+      "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/py/emby.py",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
+      "searchable": 1,
+        "ext": {
+        "server": "https://emby.bangumi.ca:443",
+        "username": "tangsan",
+        "password": "tangsan",
+        "proxy": "",
+        "thread": 0,
+        "device_name": "My Computer",
+        "client": "Hills Windows",
+        "client_version": "0.3.2",
+        "device_id": "a9f74849-83d5-4a28-8b85-a087af1402e3"
       }
     },
     {
@@ -1961,6 +1961,7 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
 
