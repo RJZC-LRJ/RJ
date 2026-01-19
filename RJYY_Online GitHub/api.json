@@ -200,20 +200,23 @@
       "searchable": 1
     },
     {
-      "key": "仓鼠JAR",
-      "name": "R. 仓鼠影视",
+      "key": "小猪JAR",
+      "name": "R. 小猪影视",
       "type": 3,
-      "api": "csp_CangShuGuard",
+      "api": "csp_XiaoZhuGuard",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
       "searchable": 1
     },
     {
-      "key": "奇奇JAR",
-      "name": "R. 奇奇影视",
+      "key": "木瓜JAR",
+      "name": "R. 木瓜影视",
       "type": 3,
-      "api": "csp_QiQiGuard",
+      "api": "csp_AppFoxGuard",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
-      "searchable": 1
+      "searchable": 1,
+      "ext": {
+        "danmu": true,
+        "siteUrl": "http://www.yezitv.top"
     },
     {
       "key": "哇哇PY",
@@ -1956,6 +1959,7 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
 
