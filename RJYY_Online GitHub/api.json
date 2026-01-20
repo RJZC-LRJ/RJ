@@ -681,30 +681,11 @@
     },
     {
       "key": "4KVMPY",
-      "name": "R. 4KVM影视",
+      "name": "R. 老曾影视",
       "type": 3,
       "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/py/4KVM.py",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
       "searchable": 1
-    },
-    {
-      "key": "EmbyPY",
-      "name": "R. Emby影视",
-      "type": 3,
-      "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/py/emby.py",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "searchable": 1,
-        "ext": {
-        "server": "https://emby.bangumi.ca:443",
-        "username": "tangsan",
-        "password": "tangsan",
-        "proxy": "",
-        "thread": 0,
-        "device_name": "My Computer",
-        "client": "Hills Windows",
-        "client_version": "0.3.2",
-        "device_id": "a9f74849-83d5-4a28-8b85-a087af1402e3"
-      }
     },
     {
       "key": "1905PY",
@@ -1950,6 +1931,7 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
 
