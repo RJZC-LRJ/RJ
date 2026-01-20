@@ -698,7 +698,7 @@
     },
     {
       "key": "好影XYQ",
-      "name": "R. 好影快看",
+      "name": "R. 好影影视",
       "type": 3,
       "api": "csp_XYQHiker",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
@@ -2003,6 +2003,7 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
 
