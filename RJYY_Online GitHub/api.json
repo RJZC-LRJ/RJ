@@ -789,14 +789,6 @@
       "timeout": 10
     },
     {
-      "key": "看球JAR",
-      "name": "J. 瓜子看球",
-      "type": 3,
-      "api": "csp_GzSportGuard",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
-      "searchable": 1
-    },
-    {
       "key": "巴士XYQ",
       "name": "Z. 巴士动漫",
       "type": 3,
@@ -856,12 +848,12 @@
       "searchable": 0
     },
     {
-      "key": "星芽PY",
+      "key": "星芽JAR",
       "name": "Z. 星芽短剧",
       "type": 3,
-      "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/py/%E6%98%9F%E8%8A%BD%E7%9F%AD%E5%89%A7.py",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "searchable": 0
+      "api": "csp_AppXYGuard",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
+      "searchable": 1
     },
     {
       "key": "河马PY",
@@ -1931,6 +1923,7 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
 
