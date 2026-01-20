@@ -44,13 +44,6 @@
       "epg": "http://epg.51zmt.top:8000/e.xml"
     },
     {
-      "name": "R. 潇雨萌萌『点击换接口』",
-      "type": 0,
-      "url": "http://43.251.226.89:8080/live.txt",
-      "logo": "https://gitee.com/UserRJZC/rjgitee/raw/Admin/icon/%E7%9A%AE%E5%8D%A1%E4%B8%98.jpg",
-      "epg": "http://epg.51zmt.top:8000/e.xml"
-    },
-    {
       "name": "R. 虎牙一起看『点击换接口』",
       "type": 0,
       "url": "https://sub.ottiptv.cc/huyayqk.m3u",
@@ -192,6 +185,31 @@
       "searchable": 1
     },
     {
+      "key": "专线JAR",
+      "name": "R. 专线影视",
+      "type": 3,
+      "api": "csp_AppYs",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
+      "searchable": 1,
+      "ext": "http://m51.gotto.top/api.php/v1.vod"
+    },
+    {
+      "key": "一起JAR",
+      "name": "R. 一起影视",
+      "type": 3,
+      "api": "csp_YqsGuard",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
+      "searchable": 1
+    },
+    {
+      "key": "文采JAR",
+      "name": "R. 文采影视",
+      "type": 3,
+      "api": "csp_JpysGuard",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
+      "searchable": 1
+    },
+    {
       "key": "糯米JAR",
       "name": "R. 糯米影视",
       "type": 3,
@@ -217,59 +235,12 @@
       "searchable": 1
     },
     {
-      "key": "南瓜JAR",
-      "name": "R. 南瓜影视",
+      "key": "云云JAR",
+      "name": "R. 云云影视",
       "type": 3,
-      "api": "csp_NanGua",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/lh.jar",
-      "searchable": 1,
-      "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"
-    },
-    {
-      "key": "专线JAR",
-      "name": "R. 专线影视",
-      "type": 3,
-      "api": "csp_AppYs",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "searchable": 1,
-      "ext": "http://m51.gotto.top/api.php/v1.vod"
-    },
-    {
-      "key": "一起JAR",
-      "name": "R. 一起影视",
-      "type": 3,
-      "api": "csp_YqsGuard",
+      "api": "csp_YunYunGuard",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
       "searchable": 1
-    },
-    {
-      "key": "鲸鱼JAR",
-      "name": "R. 鲸鱼影视",
-      "type": 3,
-      "api": "csp_JingYuGuard",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
-      "searchable": 1
-    },
-    {
-      "key": "小猪JAR",
-      "name": "R. 小猪影视",
-      "type": 3,
-      "api": "csp_XiaoZhuGuard",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
-      "searchable": 1
-    },
-    {
-      "key": "木瓜JAR",
-      "name": "R. 木瓜影视",
-      "type": 3,
-      "api": "csp_AppFoxGuard",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
-      "searchable": 1,
-      "ext": {
-        "danmu": true,
-        "siteUrl": "http://www.yezitv.top"
-      },
-      "timeout": 10
     },
     {
       "key": "哇哇PY",
@@ -284,73 +255,21 @@
       "searchable": 1
     },
     {
-      "key": "布卡XBPQ",
-      "name": "R. 布卡影视",
+      "key": "厂长JAR",
+      "name": "R. 厂长影视",
       "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/xbpq.jar",
-      "searchable": 1,
-      "ext": {
-        "副标题": "嵘基影音",
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "分类url": "https://m.ycblcw.com/;;!H"
-      }
+      "api": "csp_CzzyGuard",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
+      "searchable": 1
     },
     {
-      "key": "快快XBPQ",
-      "name": "R. 快快影视",
+      "key": "南瓜JAR",
+      "name": "R. 南瓜影视",
       "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/xbpq.jar",
+      "api": "csp_NanGua",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/lh.jar",
       "searchable": 1,
-      "ext": {
-        "副标题": "嵘基影音",
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "分类url": "https://4k4k.live/;;!H"
-      }
-    },
-    {
-      "key": "旺旺XBPQ",
-      "name": "R. 旺旺影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/xbpq.jar",
-      "searchable": 1,
-      "ext": {
-        "副标题": "嵘基影音",
-        "请求头": "手机",
-        "播放数组": "stui-content__playlist clearfix\"&&</ul>",
-        "分类url": "http://www.0719w.com/so-show/{cateId}-{area}--{class}-----{catePg}---{year}.html;;d",
-        "分类": "电视剧$2#电影$1#动漫$4#综艺$3"
-      }
-    },
-    {
-      "key": "VSXBPQ",
-      "name": "R. VS影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "ext": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/json/VSYS.json",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/xbpq.jar"
-    },
-    {
-      "key": "柠檬JAR",
-      "name": "R. 柠檬影视",
-      "type": 3,
-      "api": "csp_Nmvod",
-      "searchable": 1,
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/Nmvod.jar",
-      "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
-    },
-    {
-      "key": "奇优JAR",
-      "name": "R. 奇优影视",
-      "type": 3,
-      "api": "csp_Qiyou",
-      "searchable": 1,
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar"
+      "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"
     },
     {
       "key": "热播JAR",
@@ -364,11 +283,11 @@
       }
     },
     {
-      "key": "厂长JAR",
-      "name": "R. 厂长影视",
+      "key": "4KVMPY",
+      "name": "R. 老曾影视",
       "type": 3,
-      "api": "csp_CzzyGuard",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
+      "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/py/4KVM.py",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
       "searchable": 1
     },
     {
@@ -380,20 +299,48 @@
       "searchable": 1
     },
     {
-      "key": "文采JAR",
-      "name": "R. 文采影视",
+      "key": "柠檬JAR",
+      "name": "R. 柠檬影视",
       "type": 3,
-      "api": "csp_JpysGuard",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
-      "searchable": 1
+      "api": "csp_Nmvod",
+      "searchable": 1,
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/Nmvod.jar",
+      "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
     },
     {
-      "key": "云云JAR",
-      "name": "R. 云云影视",
-      "type": 3,
-      "api": "csp_YunYunGuard",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
-      "searchable": 1
+      "key": "非凡API",
+      "name": "R. 非凡采集",
+      "type": 1,
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
+      "searchable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "科幻片",
+        "恐怖片",
+        "爱情片",
+        "剧情片",
+        "战争片",
+        "记录片",
+        "国产剧",
+        "欧美剧",
+        "香港剧",
+        "韩国剧",
+        "台湾剧",
+        "日本剧",
+        "海外剧",
+        "泰国剧",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺"
+      ]
     },
     {
       "key": "柚子API",
@@ -446,41 +393,6 @@
       "name": "R. 量子采集",
       "type": 1,
       "api": "https://cj.lziapi.com/api.php/provide/vod/",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "searchable": 1,
-      "categories": [
-        "动作片",
-        "喜剧片",
-        "科幻片",
-        "恐怖片",
-        "爱情片",
-        "剧情片",
-        "战争片",
-        "记录片",
-        "国产剧",
-        "欧美剧",
-        "香港剧",
-        "韩国剧",
-        "台湾剧",
-        "日本剧",
-        "海外剧",
-        "泰国剧",
-        "国产动漫",
-        "日韩动漫",
-        "欧美动漫",
-        "港台动漫",
-        "海外动漫",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺"
-      ]
-    },
-    {
-      "key": "非凡API",
-      "name": "R. 非凡采集",
-      "type": 1,
-      "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
       "searchable": 1,
       "categories": [
@@ -627,6 +539,53 @@
       ]
     },
     {
+      "key": "鲸鱼JAR",
+      "name": "R. 鲸鱼影视",
+      "type": 3,
+      "api": "csp_JingYuGuard",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
+      "searchable": 1
+    },
+    {
+      "key": "小猪JAR",
+      "name": "R. 小猪影视",
+      "type": 3,
+      "api": "csp_XiaoZhuGuard",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
+      "searchable": 1
+    },
+    {
+      "key": "木瓜JAR",
+      "name": "R. 木瓜影视",
+      "type": 3,
+      "api": "csp_AppFoxGuard",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
+      "searchable": 1,
+      "ext": {
+        "danmu": true,
+        "siteUrl": "http://www.yezitv.top"
+      },
+      "timeout": 10
+    },
+    {
+      "key": "VSXBPQ",
+      "name": "R. VS 影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "ext": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/json/VSYS.json",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/xbpq.jar"
+    },
+    {
+      "key": "好影XYQ",
+      "name": "R. 好影影视",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
+      "searchable": 1,
+      "ext": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/json/%E5%A5%BD%E5%BD%B1%E5%BF%AB%E7%9C%8B.json"
+    },
+    {
       "key": "八戒PY",
       "name": "R. 八戒影视",
       "type": 3,
@@ -644,56 +603,47 @@
       "ext": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/json/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1VIP.json"
     },
     {
-      "key": "好影XYQ",
-      "name": "R. 好影影视",
+      "key": "布卡XBPQ",
+      "name": "R. 布卡影视",
       "type": 3,
-      "api": "csp_XYQHiker",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
+      "api": "csp_XBPQ",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/xbpq.jar",
       "searchable": 1,
-      "ext": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/json/%E5%A5%BD%E5%BD%B1%E5%BF%AB%E7%9C%8B.json"
-    },
-    {
-      "key": "灵虎JAR",
-      "name": "R. 灵虎影视",
-      "type": 3,
-      "searchable": 1,
-      "api": "csp_AppGet",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
       "ext": {
-        "site": "https://bind.315999.xyz/89.txt",
-        "dataKey": "#getapp@TMD@2025",
-        "dataIv": "#getapp@TMD@2025",
-        "version": "120"
+        "副标题": "嵘基影音",
+        "请求头": "User-Agent$MOBILE_UA",
+        "编码": "UTF-8",
+        "分类url": "https://m.ycblcw.com/;;!H"
       }
     },
     {
-      "key": "驿站JAR",
-      "name": "R. 驿站影视",
+      "key": "快快XBPQ",
+      "name": "R. 快快影视",
       "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/xbpq.jar",
       "searchable": 1,
-      "api": "csp_AppGet",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
       "ext": {
-        "site": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt",
-        "dataKey": "dyyztvapiappyyds",
-        "dataIv": "dyyztvapiappyyds"
+        "副标题": "嵘基影音",
+        "请求头": "User-Agent$MOBILE_UA",
+        "编码": "UTF-8",
+        "分类url": "https://4k4k.live/;;!H"
       }
     },
     {
-      "key": "4KVMPY",
-      "name": "R. 老曾影视",
+      "key": "旺旺XBPQ",
+      "name": "R. 旺旺影视",
       "type": 3,
-      "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/py/4KVM.py",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "searchable": 1
-    },
-    {
-      "key": "1905PY",
-      "name": "J. 1905电影",
-      "type": 3,
-      "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/py/1905.py",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "searchable": 0
+      "api": "csp_XBPQ",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/xbpq.jar",
+      "searchable": 1,
+      "ext": {
+        "副标题": "嵘基影音",
+        "请求头": "手机",
+        "播放数组": "stui-content__playlist clearfix\"&&</ul>",
+        "分类url": "http://www.0719w.com/so-show/{cateId}-{area}--{class}-----{catePg}---{year}.html;;d",
+        "分类": "电视剧$2#电影$1#动漫$4#综艺$3"
+      }
     },
     {
       "key": "哔哩JSON.A",
@@ -728,36 +678,25 @@
       "searchable": 1
     },
     {
-      "key": "虎牙JS",
-      "name": "J. 虎牙直播",
+      "key": "1905PY",
+      "name": "J. 1905电影",
       "type": 3,
-      "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/js/drpy2.min.js",
-      "ext": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/js/huya.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.755
-      },
-      "timeout": 10,
-      "playerType": "2",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0
+      "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/py/1905.py",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
+      "searchable": 0
     },
     {
-      "key": "斗鱼JS",
-      "name": "J. 斗鱼直播",
+      "key": "虎牙JAR",
+      "name": "J. 虎牙直播",
       "type": 3,
-      "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/js/drpy2.min.js",
-      "ext": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/js/douyu.js",
+      "api": "csp_HuyaGuard",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
+      "searchable": 0,
       "style": {
         "type": "rect",
-        "ratio": 1.755
+        "ratio": 1.433
       },
-      "timeout": 10,
-      "playerType": "2",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0
+      "timeout": 10
     },
     {
       "key": "暴风API",
@@ -1923,6 +1862,7 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
 
