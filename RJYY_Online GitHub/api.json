@@ -391,7 +391,7 @@
       "key": "云云JAR",
       "name": "R. 云云影视",
       "type": 3,
-      "api": "csp_CzzyGuard",
+      "api": "csp_YunYunGuard",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
       "searchable": 1
     },
@@ -1994,6 +1994,7 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
 
