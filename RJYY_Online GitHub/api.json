@@ -442,42 +442,6 @@
       ]
     },
     {
-      "key": "索尼API",
-      "name": "R. 索尼采集",
-      "type": 1,
-      "api": "https://suoniapi.com/api.php/provide/vod/",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "searchable": 1,
-      "categories": [
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "纪录片",
-        "动画片",
-        "国产剧",
-        "欧美剧",
-        "韩剧",
-        "日剧",
-        "港剧",
-        "台剧",
-        "泰剧",
-        "海外剧",
-        "大陆综艺",
-        "日韩综艺",
-        "港台综艺",
-        "欧美综艺",
-        "国产动漫",
-        "日韩动漫",
-        "欧美动漫",
-        "港台动漫",
-        "海外动漫"
-      ]
-    },
-    {
       "key": "量子API",
       "name": "R. 量子采集",
       "type": 1,
@@ -661,14 +625,6 @@
         "动漫",
         "综艺"
       ]
-    },
-    {
-      "key": "两个PY",
-      "name": "R. 两个影视",
-      "type": 3,
-      "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/py/%E4%B8%A4%E4%B8%AABT.py",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "searchable": 1
     },
     {
       "key": "八戒PY",
@@ -1994,6 +1950,7 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
 
