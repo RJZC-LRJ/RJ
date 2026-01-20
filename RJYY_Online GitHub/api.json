@@ -669,7 +669,7 @@
       "type": 3,
       "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/py/1905.py",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "searchable": 0
+      "searchable": 1
     },
     {
       "key": "虎牙JAR",
@@ -770,7 +770,7 @@
       "type": 3,
       "api": "csp_JinliGuard",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
-      "searchable": 1
+      "searchable": 0
     },
     {
       "key": "星芽JAR",
@@ -778,7 +778,7 @@
       "type": 3,
       "api": "csp_AppXYGuard",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
-      "searchable": 1
+      "searchable": 0
     },
     {
       "key": "河马PY",
@@ -786,7 +786,7 @@
       "type": 3,
       "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/py/%E6%B2%B3%E9%A9%AC%E7%9F%AD%E5%89%A7.py",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "searchable": 1
+      "searchable": 0
     },
     {
       "key": "剧和JS",
@@ -827,7 +827,7 @@
       "type": 3,
       "api": "csp_Kugou",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/Yoursmile.jar",
-      "searchable": 1,
+      "searchable": 0,
       "ext": {
         "classes": [
           {
@@ -843,7 +843,7 @@
       "type": 3,
       "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/js/drpy2.min.js",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "searchable": 1,
+      "searchable": 0,
       "ext": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/js/%E8%B4%9D%E4%B9%90%E8%99%8E%5B%E5%84%BF%5D.js"
     },
     {
@@ -857,7 +857,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "searchable": 1
+      "searchable": 0
     },
     {
       "key": "童趣JS",
@@ -865,7 +865,7 @@
       "type": 3,
       "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/js/drpy2.min.js",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "searchable": 1,
+      "searchable": 0,
       "ext": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/js/%E7%AB%A5%E8%B6%A3%5B%E5%84%BF%5D.js"
     },
     {
