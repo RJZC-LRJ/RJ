@@ -332,6 +332,7 @@
       "name": "R. VS影视",
       "type": 3,
       "api": "csp_XBPQ",
+      "searchable": 1,
       "ext": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/json/VSYS.json",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/xbpq.jar"
     },
@@ -2010,6 +2011,7 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
 
