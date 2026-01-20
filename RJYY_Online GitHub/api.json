@@ -853,7 +853,7 @@
       "type": 3,
       "api": "csp_AppXYGuard",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
-      "searchable": 1
+      "searchable": 0
     },
     {
       "key": "河马PY",
@@ -1923,6 +1923,7 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
 
