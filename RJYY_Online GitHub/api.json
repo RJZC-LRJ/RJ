@@ -192,13 +192,12 @@
       "searchable": 1
     },
     {
-      "key": "农民XYQ",
-      "name": "R. 农民影视",
+      "key": "糯米JAR",
+      "name": "R. 糯米影视",
       "type": 3,
-      "api": "csp_XYQHiker",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "searchable": 1,
-      "ext": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/json/%E5%86%9C%E6%B0%91%E5%BD%B1%E8%A7%86.json"
+      "api": "csp_NmysGuard",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
+      "searchable": 1
     },
     {
       "key": "金牌JAR",
@@ -2011,6 +2010,7 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
 
