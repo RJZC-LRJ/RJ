@@ -51,13 +51,6 @@
       "epg": "http://epg.51zmt.top:8000/e.xml"
     },
     {
-      "name": "R. 小雨直播『点击换接口』",
-      "type": 0,
-      "url": "https://9245.kstore.space/%E5%B0%8F%E9%9B%A8.txt",
-      "logo": "https://gitee.com/UserRJZC/rjgitee/raw/Admin/icon/%E7%9A%AE%E5%8D%A1%E4%B8%98.jpg",
-      "epg": "http://epg.51zmt.top:8000/e.xml"
-    },
-    {
       "name": "R. 虎牙一起看『点击换接口』",
       "type": 0,
       "url": "https://sub.ottiptv.cc/huyayqk.m3u",
@@ -93,12 +86,52 @@
   "sites": [
     {
       "key": "豆瓣JAR",
-      "name": "R. 豆瓣搜索",
+      "name": "R. 豆瓣搜索『点击此处或换源用其他』",
       "type": 3,
       "api": "csp_Douban",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
       "indexs": 1,
-      "searchable": 1
+      "searchable": 0
+    },
+    {
+      "key": "奇异JS",
+      "name": "R. 奇异搜索『点击此处或换源用其他』",
+      "type": 3,
+      "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/js/drpy2.min.js",
+      "ext": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/js/QY.js",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
+      "indexs": 1,
+      "searchable": 0
+    },
+    {
+      "key": "优酷JS",
+      "name": "R. 优酷搜索『点击此处或换源用其他』",
+      "type": 3,
+      "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/js/drpy2.min.js",
+      "ext": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/js/YK.js",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
+      "indexs": 1,
+      "searchable": 0
+    },
+    {
+      "key": "腾讯JS",
+      "name": "R. 腾讯搜索『点击此处或换源用其他』",
+      "type": 3,
+      "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/js/drpy2.min.js",
+      "ext": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/js/TX.js",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
+      "indexs": 1,
+      "searchable": 0
+    },
+    {
+      "key": "芒果JS",
+      "name": "R. 芒果搜索『点击此处或换源用其他』",
+      "type": 3,
+      "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/js/drpy2.min.js",
+      "ext": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/js/MG.js",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
+      "indexs": 1,
+      "searchable": 0
     },
     {
       "key": "荐片PY",
@@ -716,7 +749,7 @@
     },
     {
       "key": "哔哩JSON.B",
-      "name": "J. 哔哩搜索",
+      "name": "J. 哔哩引擎",
       "type": 3,
       "api": "csp_BiliGuard",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
@@ -1961,6 +1994,7 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
 
