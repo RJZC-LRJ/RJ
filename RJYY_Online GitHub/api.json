@@ -690,7 +690,7 @@
       "name": "J. 虎牙直播",
       "type": 3,
       "api": "csp_HuyaGuard",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
       "searchable": 0,
       "style": {
         "type": "rect",
@@ -1862,6 +1862,7 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
 
