@@ -322,11 +322,18 @@
       "ext": {
         "副标题": "嵘基影音",
         "请求头": "手机",
-        "简介": "装歌剧情介绍:+detail-sketch\"&&</span>",
         "播放数组": "stui-content__playlist clearfix\"&&</ul>",
         "分类url": "http://www.0719w.com/so-show/{cateId}-{area}--{class}-----{catePg}---{year}.html;;d",
         "分类": "电视剧$2#电影$1#动漫$4#综艺$3"
       }
+    },
+    {
+      "key": "VSXBPQ",
+      "name": "R. VS影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/json/VSYS.json",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/xbpq.jar"
     },
     {
       "key": "柠檬JAR",
@@ -2003,6 +2010,7 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
 
