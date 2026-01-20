@@ -134,6 +134,25 @@
       "searchable": 0
     },
     {
+      "key": "哔哩JSON",
+      "name": "R. 哔哩引擎『点击此处或换源用其他』",
+      "type": 3,
+      "api": "csp_BiliGuard",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "filterable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "json": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/json/blli.json"
+      },
+      "timeout": 20
+    },
+    {
       "key": "荐片PY",
       "name": "R. 荐片影视",
       "type": 3,
@@ -748,25 +767,6 @@
       "searchable": 0
     },
     {
-      "key": "哔哩JSON.B",
-      "name": "J. 哔哩引擎",
-      "type": 3,
-      "api": "csp_BiliGuard",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "filterable": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "ext": {
-        "json": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/json/blli.json"
-      },
-      "timeout": 20
-    },
-    {
       "key": "哔播PY",
       "name": "J. 哔哩直播",
       "type": 3,
@@ -960,7 +960,7 @@
       "searchable": 1
     },
     {
-      "key": "哔哩JSON.C",
+      "key": "哔哩JSON.B",
       "name": "C. 哔哩音乐",
       "type": 3,
       "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/py/B%E7%AB%99%E9%9F%B3%E4%B9%90.py",
@@ -1028,7 +1028,7 @@
       "gridview": "0-0-4.1"
     },
     {
-      "key": "哔哩JSON.D",
+      "key": "哔哩JSON.C",
       "name": "C. 哔哩学堂",
       "type": 3,
       "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/py/B%E7%AB%99%E5%AD%A6%E5%A0%82.py",
@@ -1036,7 +1036,7 @@
       "searchable": 0
     },
     {
-      "key": "哔哩JSON.E",
+      "key": "哔哩JSON.D",
       "name": "C. 哔哩少儿",
       "type": 3,
       "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/py/%E5%84%BF%E7%AB%A5%E4%B8%93%E5%8C%BA.py",
@@ -1336,7 +1336,7 @@
     },
     {
       "key": "RJAPI.B",
-      "name": "维护：26.01.19_优选",
+      "name": "维护：26.01.20_优选",
       "type": 3,
       "api": "csp_Notice",
       "searchable": 0,
@@ -1994,6 +1994,7 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
 
