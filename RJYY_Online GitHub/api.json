@@ -380,11 +380,11 @@
       "searchable": 1
     },
     {
-      "key": "猎手PY",
-      "name": "R. 猎手影视",
+      "key": "文采JAR",
+      "name": "R. 文采影视",
       "type": 3,
-      "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/py/%E7%94%B5%E5%BD%B1%E7%8C%8E%E6%89%8B.py",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
+      "api": "csp_JpysGuard",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
       "searchable": 1
     },
     {
@@ -2010,6 +2010,7 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
 
