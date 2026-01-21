@@ -138,6 +138,10 @@ class Spider(Spider):  # 元类 默认的元类 type
                     "type_name": "白噪音",
                     "type_id": "白噪音"
                 },
+				{
+                    "type_name": "美妆化妆",
+                    "type_id": "美妆化妆"
+                },
                 {
                     "type_name": "考公考证",
                     "type_id": "考公考证"
@@ -204,7 +208,7 @@ class Spider(Spider):  # 元类 默认的元类 type
                 },
 				{
                     "type_name": "AI技术",
-                    "type_id": "ai技术"
+                    "type_id": "AI技术"
                 },
 				{
                     "type_name": "DeepSeek",
