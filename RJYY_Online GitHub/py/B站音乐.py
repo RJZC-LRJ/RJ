@@ -70,33 +70,77 @@ class Spider(Spider):  # 元类 默认的元类 type
 				result['class'].append({'type_name': cate, 'type_id': cate})
 		if not 'class' in result or result['class'] == []:
 			result['class'] = [
-                {
-                    "type_name": "演唱会筛选",
-                    "type_id": "演唱会超清"
+				{
+                    "type_name": "2026年热榜",
+                    "type_id": "2026年音乐热榜"
+                },
+			    {
+                    "type_name": "2025年热榜",
+                    "type_id": "2025年音乐热榜"
+                },
+				{
+                    "type_name": "2024年热榜",
+                    "type_id": "2024年音乐热榜"
+                },
+				{
+                    "type_name": "2023年热榜",
+                    "type_id": "2023年音乐热榜"
+                },
+				{
+                    "type_name": "国语金曲",
+                    "type_id": "国语歌曲合集"
+                },
+				{
+                    "type_name": "粤语歌曲",
+                    "type_id": "粤语歌曲合集"
+                },
+				{
+                    "type_name": "英语歌曲",
+                    "type_id": "英语歌曲合集"
+                },
+			    {
+                    "type_name": "日韩歌曲",
+                    "type_id": "日韩歌曲合集"
                 },
                 {
-                    "type_name": "粤语",
-                    "type_id": "粤语歌曲超清"
-                },
-                {
-                    "type_name": "热榜",
-                    "type_id": "2022年热们歌曲超清"
+                    "type_name": "演唱会合集",
+                    "type_id": "演唱会"
                 },
                 {
                     "type_name": "抖音神曲",
-                    "type_id": "抖音神曲超清"
+                    "type_id": "抖音热歌"
+                },
+				{
+                    "type_name": "快手神曲",
+                    "type_id": "快手热歌"
                 },
                 {
                     "type_name": "经典老歌",
-                    "type_id": "经典老歌超清"
+                    "type_id": "经典老歌"
                 },
                 {
-                    "type_name": "DJ",
-                    "type_id": "DJ歌曲超清"
+                    "type_name": "车载DJ",
+                    "type_id": "车载DJ歌曲"
+                },
+                {
+                    "type_name": "MV合集",
+                    "type_id": "MV合集"
                 },
                 {
                     "type_name": "网红翻唱",
                     "type_id": "网红翻唱歌曲超清"
+                },
+                {
+                    "type_name": "国乐大典",
+                    "type_id": "国乐合集"
+                },
+                {
+                    "type_name": "古风歌曲",
+                    "type_id": "古风歌曲"
+                },
+                {
+                    "type_name": "禅修音乐",
+                    "type_id": "禅修音乐"
                 },
                 {
                     "type_name": "韩国女团",
