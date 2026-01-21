@@ -134,6 +134,10 @@ class Spider(Spider):  # 元类 默认的元类 type
                     "type_name": "美食",
                     "type_id": "美食"
                 },
+				{
+                    "type_name": "白噪音",
+                    "type_id": "白噪音"
+                },
                 {
                     "type_name": "考公考证",
                     "type_id": "考公考证"
@@ -145,6 +149,10 @@ class Spider(Spider):  # 元类 默认的元类 type
                 {
                     "type_name": "视频剪辑",
                     "type_id": "视频剪辑"
+                },
+				{
+                    "type_name": "摄影技巧",
+                    "type_id": "摄影技巧"
                 },
 				{
                     "type_name": "数码圈",
@@ -191,8 +199,64 @@ class Spider(Spider):  # 元类 默认的元类 type
                     "type_id": "网络通讯"
                 },
 				{
+                    "type_name": "无线电",
+                    "type_id": "无线电"
+                },
+				{
+                    "type_name": "AI技术",
+                    "type_id": "ai技术"
+                },
+				{
+                    "type_name": "DeepSeek",
+                    "type_id": "deepseek"
+                },
+				{
+                    "type_name": "ChatGPT",
+                    "type_id": "chatgpt"
+                },
+				{
+                    "type_name": "ai机器人",
+                    "type_id": "ai机器人"
+                },
+				{
+                    "type_name": "信息技术",
+                    "type_id": "信息技术"
+                },
+			    {
+                    "type_name": "手机刷机",
+                    "type_id": "手机刷机"
+                },
+				{
+                    "type_name": "盒子刷机",
+                    "type_id": "机顶盒刷机"
+                },
+				{
+                    "type_name": "电脑重装",
+                    "type_id": "电脑系统重装"
+                },
+				{
+                    "type_name": "软路由",
+                    "type_id": "软路由"
+                },
+				{
+                    "type_name": "物理服务器",
+                    "type_id": "物理服务器"
+                },
+				{
+                    "type_name": "软件开发",
+                    "type_id": "软件开发"
+                },
+				{
+                    "type_name": "NAS搭建",
+                    "type_id": "NAS搭建"
+                },
+				{
                     "type_name": "电工电路",
                     "type_id": "电工电路"
+                },
+			    {
+                    "type_name": "大疆无人机",
+                    "type_id": "大疆无人机"
                 },
                 {
                     "type_name": "动物世界",
@@ -305,10 +369,6 @@ class Spider(Spider):  # 元类 默认的元类 type
 				{
                     "type_name": "动画片",
                     "type_id": "动画片"
-                },
-                {
-                    "type_name": "白噪音",
-                    "type_id": "白噪音"
                 },
                 {
                     "type_name": "整理：RJZC",
