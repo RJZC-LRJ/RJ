@@ -72,31 +72,43 @@ class Spider(Spider):  # 元类 默认的元类 type
 			result['class'] = [
                 {
                     "type_name": "沙雕虾仁",
-                    "type_id": "沙雕虾仁"
-                },
-                {
-                    "type_name": "沙雕仙逆",
-                    "type_id": "沙雕仙逆"
+                    "type_id": "一口气看完沙雕虾仁"
                 },
                 {
                     "type_name": "沙雕熊猫头",
-                    "type_id": "熊猫头沙雕动漫"
+                    "type_id": "一口气看完沙雕熊猫头"
+                },
+				{
+                    "type_name": "沙雕末世文",
+                    "type_id": "一口气看完沙雕末世文"
+                },
+				{
+                    "type_name": "沙雕恐怖文",
+                    "type_id": "一口气看完沙雕恐怖文"
+                },
+				{
+                    "type_name": "沙雕仙逆",
+                    "type_id": "一口气看完沙雕仙逆"
                 },
                 {
-                    "type_name": "沙雕动漫",
-                    "type_id": "一口气沙雕动漫"
+                    "type_name": "沙雕动漫合集",
+                    "type_id": "一口气看完沙雕动漫"
                 },
                 {
                     "type_name": "凡人修仙传",
                     "type_id": "凡人修仙传"
                 },
+				{
+                    "type_name": "番剧",
+                    "type_id": "番剧"
+                },
                 {
                     "type_name": "荒野求生",
-                    "type_id": "荒野求生超清"
+                    "type_id": "荒野求生"
                 },
                 {
                     "type_name": "儿童",
-                    "type_id": "儿童超清"
+                    "type_id": "儿童"
                 },
                 {
                     "type_name": "露营",
@@ -116,35 +128,79 @@ class Spider(Spider):  # 元类 默认的元类 type
                 },
                 {
                     "type_name": "探索发现",
-                    "type_id": "探索发现超清"
+                    "type_id": "探索发现"
                 },
                 {
                     "type_name": "美食",
-                    "type_id": "美食超清"
+                    "type_id": "美食"
                 },
                 {
                     "type_name": "考公考证",
                     "type_id": "考公考证"
                 },
                 {
-                    "type_name": "平面设计教学",
-                    "type_id": "平面设计教学"
+                    "type_name": "图片设计",
+                    "type_id": "图片设计"
                 },
                 {
-                    "type_name": "软件教程",
-                    "type_id": "软件教程"
+                    "type_name": "视频剪辑",
+                    "type_id": "视频剪辑"
+                },
+				{
+                    "type_name": "数码圈",
+                    "type_id": "数码"
                 },
                 {
-                    "type_name": "Windows",
-                    "type_id": "Windows"
+                    "type_name": "Windows系统",
+                    "type_id": "windows系统"
+                },
+				{
+                    "type_name": "MacOS系统",
+                    "type_id": "macos系统"
+                },
+				{
+                    "type_name": "Android系统",
+                    "type_id": "android系统"
+                },
+				{
+                    "type_name": "IOS系统",
+                    "type_id": "ios系统"
+                },
+				{
+                    "type_name": "Linux系统",
+                    "type_id": "linux系统"
+                },
+				{
+                    "type_name": "KALL系统",
+                    "type_id": "kall系统"
+                },
+				{
+                    "type_name": "电脑病毒",
+                    "type_id": "电脑病毒"
+                },
+				{
+                    "type_name": "手机病毒",
+                    "type_id": "手机病毒"
+                },
+				{
+                    "type_name": "网络运维",
+                    "type_id": "网络运维"
+                },
+				{
+                    "type_name": "网络通讯",
+                    "type_id": "网络通讯"
+                },
+				{
+                    "type_name": "电工电路",
+                    "type_id": "电工电路"
                 },
                 {
                     "type_name": "动物世界",
-                    "type_id": "动物世界超清"
+                    "type_id": "动物世界"
                 },
                 {
                     "type_name": "相声小品",
-                    "type_id": "相声小品超清"
+                    "type_id": "相声小品"
                 },
                 {
                     "type_name": "戏曲",
@@ -152,7 +208,7 @@ class Spider(Spider):  # 元类 默认的元类 type
                 },
                 {
                     "type_name": "体育",
-                    "type_id": "体育超清"
+                    "type_id": "体育"
                 },
                 {
                     "type_name": "球星",
@@ -172,7 +228,7 @@ class Spider(Spider):  # 元类 默认的元类 type
                 },
                 {
                     "type_name": "纪录片",
-                    "type_id": "纪录片超清"
+                    "type_id": "纪录片"
                 },
                 {
                     "type_name": "食谱",
@@ -184,7 +240,7 @@ class Spider(Spider):  # 元类 默认的元类 type
                 },
                 {
                     "type_name": "风景",
-                    "type_id": "风景4K"
+                    "type_id": "风景"
                 },
                 {
                     "type_name": "说案",
@@ -196,7 +252,7 @@ class Spider(Spider):  # 元类 默认的元类 type
                 },
                 {
                     "type_name": "搞笑",
-                    "type_id": "搞笑超清"
+                    "type_id": "搞笑"
                 },
                 {
                     "type_name": "演讲",
@@ -204,7 +260,7 @@ class Spider(Spider):  # 元类 默认的元类 type
                 },
                 {
                     "type_name": "小姐姐",
-                    "type_id": "小姐姐超清"
+                    "type_id": "小姐姐"
                 },
                 {
                     "type_name": "广场舞",
@@ -216,7 +272,7 @@ class Spider(Spider):  # 元类 默认的元类 type
                 },
                 {
                     "type_name": "演唱会",
-                    "type_id": "演唱会超清"
+                    "type_id": "演唱会"
                 },
                 {
                     "type_name": "音乐",
@@ -227,16 +283,8 @@ class Spider(Spider):  # 元类 默认的元类 type
                     "type_id": "歌曲"
                 },
                 {
-                    "type_name": "MV",
-                    "type_id": "MV4K"
-                },
-                {
                     "type_name": "舞曲",
-                    "type_id": "舞曲超清"
-                },
-                {
-                    "type_name": "4K",
-                    "type_id": "4K"
+                    "type_id": "舞曲"
                 },
                 {
                     "type_name": "电影",
@@ -250,9 +298,17 @@ class Spider(Spider):  # 元类 默认的元类 type
                     "type_name": "动漫",
                     "type_id": "动漫合集"
                 },
+				{
+                    "type_name": "少儿动画",
+                    "type_id": "少儿动画"
+                },
+				{
+                    "type_name": "动画片",
+                    "type_id": "动画片"
+                },
                 {
                     "type_name": "白噪音",
-                    "type_id": "白噪音超清"
+                    "type_id": "白噪音"
                 },
                 {
                     "type_name": "整理：RJZC",
