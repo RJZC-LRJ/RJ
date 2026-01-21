@@ -139,6 +139,14 @@ class Spider(Spider):  # 元类 默认的元类 type
                     "type_id": "白噪音"
                 },
 				{
+                    "type_name": "男生穿搭",
+                    "type_id": "男生穿搭"
+                },
+				{
+                    "type_name": "女生穿搭",
+                    "type_id": "女生穿搭"
+                },
+				{
                     "type_name": "美妆化妆",
                     "type_id": "美妆化妆"
                 },
@@ -208,7 +216,7 @@ class Spider(Spider):  # 元类 默认的元类 type
                 },
 				{
                     "type_name": "AI技术",
-                    "type_id": "AI技术"
+                    "type_id": "ai技术"
                 },
 				{
                     "type_name": "DeepSeek",
@@ -219,7 +227,7 @@ class Spider(Spider):  # 元类 默认的元类 type
                     "type_id": "chatgpt"
                 },
 				{
-                    "type_name": "ai机器人",
+                    "type_name": "AI机器人",
                     "type_id": "ai机器人"
                 },
 				{
