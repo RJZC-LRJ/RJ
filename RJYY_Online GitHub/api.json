@@ -130,7 +130,7 @@
       "key": "哔哩JAR",
       "name": "R. 哔哩引擎",
       "type": 3,
-      "api": "csp_BiliGuard",
+      "api": "csp_AweSomeGuard",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
       "searchable": 1,
       "style": {
@@ -138,6 +138,7 @@
         "ratio": 1.433
       },
       "ext": {
+	    "sp": "Bili",
         "json": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/json/blli.json"
       },
       "timeout": 20
@@ -192,25 +193,40 @@
       "key": "一起JAR",
       "name": "R. 一起影视",
       "type": 3,
-      "api": "csp_YqsGuard",
+      "api": "csp_AweSomeGuard",
+	  "searchable": 1,
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
-      "searchable": 1
+      "ext": {
+        "sp": "Yqs",
+        "danmu": true
+      },
+      "timeout": 10
     },
     {
       "key": "文采JAR",
       "name": "R. 文采影视",
       "type": 3,
-      "api": "csp_JpysGuard",
+      "api": "csp_AweSomeGuard",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
-      "searchable": 1
+      "searchable": 1,
+      "ext": {
+        "sp": "Jpys",
+        "danmu": true
+      },
+      "timeout": 10
     },
     {
       "key": "糯米JAR",
       "name": "R. 糯米影视",
       "type": 3,
-      "api": "csp_NmysGuard",
+      "api": "csp_AweSomeGuard",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
-      "searchable": 1
+      "searchable": 1,
+      "ext": {
+        "sp": "Nmys",
+        "danmu": true
+      },
+      "timeout": 10
     },
     {
       "key": "金牌JAR",
@@ -225,17 +241,27 @@
       "key": "时雨JAR",
       "name": "R. 时雨影视",
       "type": 3,
-      "api": "csp_XpgGuard",
+      "api": "csp_AweSomeGuard",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
-      "searchable": 1
+      "searchable": 1,
+      "ext": {
+        "sp": "Xpg",
+        "danmu": true
+      },
+      "timeout": 10
     },
     {
       "key": "云云JAR",
       "name": "R. 云云影视",
       "type": 3,
-      "api": "csp_YunYunGuard",
+      "api": "csp_AweSomeGuard",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
-      "searchable": 1
+      "searchable": 1,
+      "ext": {
+        "sp": "YunYun",
+        "danmu": true
+      },
+      "timeout": 10
     },
     {
       "key": "猎手PY",
@@ -269,9 +295,14 @@
       "key": "厂长JAR",
       "name": "R. 厂长影视",
       "type": 3,
-      "api": "csp_CzzyGuard",
+      "api": "csp_AweSomeGuard",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
-      "searchable": 1
+      "searchable": 1,
+      "ext": {
+        "sp": "Czzy",
+        "danmu": true
+      },
+      "timeout": 10
     },
     {
       "key": "南瓜JAR",
@@ -695,27 +726,6 @@
       "searchable": 1
     },
     {
-      "key": "鲸鱼JAR",
-      "name": "R. 鲸鱼影视",
-      "type": 3,
-      "api": "csp_JingYuGuard",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
-      "searchable": 1
-    },
-    {
-      "key": "木瓜JAR",
-      "name": "R. 木瓜影视",
-      "type": 3,
-      "api": "csp_AppFoxGuard",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
-      "searchable": 1,
-      "ext": {
-        "danmu": true,
-        "siteUrl": "http://www.yezitv.top"
-      },
-      "timeout": 10
-    },
-    {
       "key": "VSXBPQ",
       "name": "R. VS 影视",
       "type": 3,
@@ -813,9 +823,17 @@
       "key": "快手直播JAR",
       "name": "J. 快手直播",
       "type": 3,
-      "api": "csp_KsLiveGuard",
+      "api": "csp_AweSomeGuard",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
-      "searchable": 0
+      "searchable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "sp": "KsLive"
+      },
+      "timeout": 10
     },
     {
       "key": "央视PY",
@@ -837,12 +855,15 @@
       "key": "虎牙JAR",
       "name": "J. 虎牙直播",
       "type": 3,
-      "api": "csp_HuyaGuard",
+      "api": "csp_AweSomeGuard",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
       "searchable": 0,
       "style": {
         "type": "rect",
         "ratio": 1.433
+      },
+      "ext": {
+        "sp": "Huya"
       },
       "timeout": 10
     },
@@ -867,11 +888,14 @@
       "key": "88JS",
       "name": "J. 88 看球",
       "type": 3,
-      "api": "csp_KanqiuGuard",
+      "api": "csp_AweSomeGuard",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
       "searchable": 0,
       "style": {
         "type": "list"
+      },
+      "ext": {
+        "sp": "Kanqiu"
       },
       "timeout": 10
     },
@@ -918,17 +942,25 @@
       "key": "锦鲤JAR",
       "name": "Z. 锦鲤短剧",
       "type": 3,
-      "api": "csp_JinliGuard",
+      "api": "csp_AweSomeGuard",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
-      "searchable": 0
+      "searchable": 0,
+      "ext": {
+        "sp": "Jinli"
+      },
+      "timeout": 10
     },
     {
       "key": "星芽JAR",
       "name": "Z. 星芽短剧",
       "type": 3,
-      "api": "csp_AppXYGuard",
+      "api": "csp_AweSomeGuard",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
-      "searchable": 0
+      "searchable": 0,
+      "ext": {
+        "sp": "AppXY"
+      },
+      "timeout": 10
     },
     {
       "key": "河马PY",
@@ -983,17 +1015,13 @@
       "key": "酷狗JAR",
       "name": "C. 酷狗音乐",
       "type": 3,
-      "api": "csp_Kugou",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/Yoursmile.jar",
+      "api": "csp_AweSomeGuard",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
       "searchable": 0,
       "ext": {
-        "classes": [
-          {
-            "type_name": "酷狗",
-            "type_id": "kugou"
-          }
-        ]
-      }
+        "sp": "KuGou"
+      },
+      "timeout": 10
     },
     {
       "key": "乐虎JS",
@@ -1072,17 +1100,25 @@
       "key": "世听JAR",
       "name": "Y. 世界听书",
       "type": 3,
-      "api": "csp_BookTingGuard",
+      "api": "csp_AweSomeGuard",
       "searchable": 0,
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar"
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
+      "ext": {
+        "sp": "BookTing"
+      },
+      "timeout": 10
     },
     {
       "key": "六听JAR",
       "name": "Y. 六月听书",
       "type": 3,
-      "api": "csp_WeiTingGuard",
+      "api": "csp_AweSomeGuard",
       "searchable": 0,
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar"
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
+      "ext": {
+        "sp": "WeiTing"
+      },
+      "timeout": 10
     },
     {
       "key": "戏曲JAR",
@@ -1099,75 +1135,119 @@
       "key": "玩偶JAR",
       "name": "D. 玩偶网盘",
       "type": 3,
-      "api": "csp_WoggGuard",
+      "api": "csp_AweSomeGuard",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
-      "searchable": 1
+      "searchable": 1,
+      "ext": {
+        "sp": "Wogg",
+        "danmu": true
+      },
+      "timeout": 30
     },
     {
       "key": "二小JAR",
       "name": "D. 二小网盘",
       "type": 3,
-      "api": "csp_ErXiaoGuard",
+      "api": "csp_AweSomeGuard",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
-      "searchable": 1
+      "searchable": 1,
+      "ext": {
+        "sp": "ErXiao",
+        "danmu": true
+      },
+      "timeout": 25
     },
     {
       "key": "虎斑JAR",
       "name": "D. 虎斑网盘",
       "type": 3,
-      "api": "csp_HuBanGuard",
+      "api": "csp_AweSomeGuard",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
-      "searchable": 1
+      "searchable": 1,
+      "ext": {
+        "sp": "HuBan",
+        "danmu": true
+      },
+      "timeout": 25
     },
     {
       "key": "蜡笔JAR",
       "name": "D. 蜡笔网盘",
       "type": 3,
-      "api": "csp_LabiGuard",
+      "api": "csp_AweSomeGuard",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
-      "searchable": 1
+      "searchable": 1,
+      "ext": {
+        "sp": "Labi",
+        "danmu": true
+      },
+      "timeout": 25
     },
     {
       "key": "木偶JAR",
       "name": "D. 木偶网盘",
       "type": 3,
-      "api": "csp_MuouGuard",
+      "api": "csp_AweSomeGuard",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
-      "searchable": 1
+      "searchable": 1,
+      "ext": {
+        "sp": "Muou",
+        "danmu": true
+      },
+      "timeout": 25
     },
     {
       "key": "多多JAR",
       "name": "D. 多多网盘",
       "type": 3,
-      "api": "csp_DuoDuoGuard",
+      "api": "csp_AweSomeGuard",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
-      "searchable": 1
+      "searchable": 1,
+      "ext": {
+        "sp": "DuoDuo",
+        "danmu": true
+      },
+      "timeout": 25
     },
     {
       "key": "至臻JAR",
       "name": "D. 至臻网盘",
       "type": 3,
-      "api": "csp_ZhiZhenGuard",
+      "api": "csp_AweSomeGuard",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
-      "searchable": 1
+      "searchable": 1,
+      "ext": {
+        "sp": "ZhiZhen",
+        "danmu": true
+      },
+      "timeout": 25
     },
     {
       "key": "立播JAR",
       "name": "D. 立播网盘",
       "type": 3,
-      "api": "csp_LibvioGuard",
+      "api": "csp_AweSomeGuard",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
-      "searchable": 1
+      "searchable": 1,
+      "ext": {
+        "sp": "Libvio",
+        "danmu": true
+      },
+      "timeout": 30
     },
     {
       "key": "双星JAR",
       "name": "D. 双星网盘",
       "type": 3,
-      "api": "csp_Star2Guard",
+      "api": "csp_AweSomeGuard",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
       "searchable": 1,
       "style": {
         "type": "list"
+      },
+      "ext": {
+        "sp": "Star2",
+        "danmu": true
       },
       "timeout": 25
     },
@@ -1175,9 +1255,13 @@
       "key": "盘他JAR",
       "name": "D. 盘他网盘",
       "type": 3,
-      "api": "csp_PantaGuard",
+      "api": "csp_AweSomeGuard",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
-      "searchable": 1
+      "searchable": 1,
+      "ext": {
+        "sp": "Panta"
+      },
+      "timeout": 25
     },
     {
       "key": "LocalFile",
@@ -1192,7 +1276,7 @@
       "key": "我的夸克JAR",
       "name": "S. 拉取俺的夸克",
       "type": 3,
-      "api": "csp_MyQuarkGuard",
+      "api": "csp_AweSomeGuard",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
       "searchable": 0,
       "quickSearch": 0,
@@ -1201,6 +1285,9 @@
       "indexs": 0,
       "style": {
         "type": "list"
+      },
+      "ext": {
+        "sp": "MyQuark"
       },
       "timeout": 30
     },
@@ -1208,7 +1295,7 @@
       "key": "我的UCJAR",
       "name": "S. 拉取俺的 UC",
       "type": 3,
-      "api": "csp_MyUcGuard",
+      "api": "csp_AweSomeGuard",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
       "searchable": 0,
       "quickSearch": 0,
@@ -1217,6 +1304,9 @@
       "indexs": 0,
       "style": {
         "type": "list"
+      },
+      "ext": {
+        "sp": "MyUc"
       },
       "timeout": 30
     },
@@ -1224,7 +1314,7 @@
       "key": "我的百度JAR",
       "name": "S. 拉取俺的度盘",
       "type": 3,
-      "api": "csp_MyBaiduGuard",
+      "api": "csp_AweSomeGuard",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
       "searchable": 0,
       "quickSearch": 0,
@@ -1233,6 +1323,9 @@
       "indexs": 0,
       "style": {
         "type": "list"
+      },
+      "ext": {
+        "sp": "MyBaidu"
       },
       "timeout": 30
     },
@@ -1240,7 +1333,7 @@
       "key": "我的123JAR",
       "name": "S. 拉取俺的 123",
       "type": 3,
-      "api": "csp_My123Guard",
+      "api": "csp_AweSomeGuard",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
       "searchable": 0,
       "quickSearch": 0,
@@ -1249,6 +1342,9 @@
       "indexs": 0,
       "style": {
         "type": "list"
+      },
+      "ext": {
+        "sp": "My123"
       },
       "timeout": 30
     },
@@ -1256,7 +1352,7 @@
       "key": "我的天逸JAR",
       "name": "S. 拉取俺的天逸",
       "type": 3,
-      "api": "csp_My189Guard",
+      "api": "csp_AweSomeGuard",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
       "searchable": 0,
       "quickSearch": 0,
@@ -1265,6 +1361,9 @@
       "indexs": 0,
       "style": {
         "type": "list"
+      },
+      "ext": {
+        "sp": "My189"
       },
       "timeout": 30
     },
@@ -1272,7 +1371,7 @@
       "key": "我的115JAR",
       "name": "S. 拉取俺的 115",
       "type": 3,
-      "api": "csp_My115Guard",
+      "api": "csp_AweSomeGuard",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
       "searchable": 0,
       "quickSearch": 0,
@@ -1281,6 +1380,9 @@
       "indexs": 0,
       "style": {
         "type": "list"
+      },
+      "ext": {
+        "sp": "My115"
       },
       "timeout": 30
     },
@@ -1288,7 +1390,7 @@
       "key": "我的阿里JAR",
       "name": "S. 拉取俺的阿里",
       "type": 3,
-      "api": "csp_MyAliGuard",
+      "api": "csp_AweSomeGuard",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
       "searchable": 0,
       "quickSearch": 0,
@@ -1298,13 +1400,16 @@
       "style": {
         "type": "list"
       },
+      "ext": {
+        "sp": "MyAli"
+      },
       "timeout": 30
     },
     {
       "key": "网盘配置JAR",
       "name": "S. 网盘配置中心",
       "type": 3,
-      "api": "csp_ConfigGuard",
+      "api": "csp_AweSomeGuard",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
       "searchable": 0,
       "changeable": 0,
@@ -1312,6 +1417,9 @@
       "style": {
         "type": "rect",
         "ratio": 1.43
+      },
+      "ext": {
+        "sp": "Config"
       }
     },
     {
@@ -1348,7 +1456,7 @@
     },
     {
       "key": "RJAPI.B",
-      "name": "维护：26.01.27_优选",
+      "name": "维护：26.01.31_优选",
       "type": 3,
       "api": "csp_Notice",
       "searchable": 0,
