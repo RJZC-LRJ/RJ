@@ -305,15 +305,6 @@
       "timeout": 10
     },
     {
-      "key": "南瓜JAR",
-      "name": "R. 南瓜影视",
-      "type": 3,
-      "api": "csp_NanGua",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/lh.jar",
-      "searchable": 1,
-      "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"
-    },
-    {
       "key": "热播JAR",
       "name": "R. 热播影视",
       "type": 3,
@@ -325,41 +316,12 @@
       }
     },
     {
-      "key": "4KVMPY",
-      "name": "R. 老曾影视",
-      "type": 3,
-      "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/py/4KVM.py",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "searchable": 1
-    },
-    {
       "key": "爱看JAR",
       "name": "R. 爱看影视",
       "type": 3,
       "api": "csp_Ikanbot",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
       "searchable": 1
-    },
-    {
-      "key": "柠檬JAR",
-      "name": "R. 柠檬影视",
-      "type": 3,
-      "api": "csp_Nmvod",
-      "searchable": 1,
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/Nmvod.jar",
-      "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
-    },
-    {
-      "key": "锦鲤XBPQ",
-      "name": "R. 锦鲤影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-	  "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/xbpq.jar",
-      "searchable": 1,
-      "ext": {
-        "分类url": "https://www.vx9d2.com/yingshi/{cateId}-{catePg}.html",
-        "分类": "国产剧$5#短剧$13#电视剧$1#电影$2#大陆综艺$22#综艺$3#动漫$4"
-      }
     },
     {
       "key": "非凡API",
@@ -394,52 +356,6 @@
         "港台综艺",
         "日韩综艺",
         "欧美综艺"
-      ]
-    },
-    {
-      "key": "柚子API",
-      "name": "R. 柚子采集",
-      "type": 0,
-      "api": "https://api.yzzy-api.com/inc/api.php",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "searchable": 1,
-      "categories": [
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "国产剧",
-        "台湾剧",
-        "韩国剧",
-        "欧美剧",
-        "香港剧",
-        "泰国剧",
-        "日本剧",
-        "福利",
-        "记录片",
-        "动画片",
-        "海外剧",
-        "倫理片",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺",
-        "国产动漫",
-        "日韩动漫",
-        "欧美动漫",
-        "港台动漫",
-        "海外动漫",
-        "搞笑",
-        "音乐",
-        "影视",
-        "汽车",
-        "短剧大全",
-        "预告片",
-        "预告片",
-        "体育"
       ]
     },
     {
@@ -478,258 +394,6 @@
       ]
     },
     {
-      "key": "茅台API",
-      "name": "R. 茅台采集",
-      "type": 1,
-      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8/",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "searchable": 1,
-      "playurl": "",
-      "categories": [
-        "动作片",
-        "科幻片",
-        "战争片",
-        "恐怖片",
-        "惊悚片",
-        "喜剧片",
-        "动漫电影",
-        "国产剧",
-        "欧美剧",
-        "香港剧",
-        "台湾剧",
-        "海外剧",
-        "国产动漫",
-        "港台动漫",
-        "日本动漫",
-        "欧美动漫",
-        "大陆综艺",
-        "港台综艺",
-        "短剧"
-      ]
-    },
-    {
-      "key": "墨都API",
-      "name": "R. 墨都采集",
-      "type": 1,
-      "api": "https://www.mdzyapi.com/api.php/provide/vod/",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "playUrl": "",
-      "searchable": 1,
-      "categories": [
-        "动作片",
-        "科幻片",
-        "战争片",
-        "恐怖片",
-        "惊悚片",
-        "古装片",
-        "悬疑片",
-        "历史片",
-        "犯罪片",
-        "喜剧片",
-        "灾难片",
-        "动漫电影",
-        "国产剧",
-        "香港剧",
-        "台湾剧",
-        "国产动漫",
-        "港台动漫",
-        "日韩动漫",
-        "欧美动漫",
-        "大陆综艺",
-        "港台综艺"
-      ]
-    },
-    {
-      "key": "如意API",
-      "name": "R. 如意采集",
-      "type": 1,
-      "api": "https://cj.rycjapi.com/api.php/provide/vod/",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "playUrl": "",
-      "searchable": 1,
-      "categories": [
-        "动作片",
-        "科幻片",
-        "战争片",
-        "恐怖片",
-        "国产剧",
-        "香港剧",
-        "台湾剧",
-        "日韩剧",
-        "动画电影",
-        "国产动漫",
-        "港台动漫",
-        "日韩动漫",
-        "欧美动漫",
-        "大陆综艺",
-        "港台综艺"
-      ]
-    },
-    {
-      "key": "最大API",
-      "name": "R. 最大采集",
-      "type": 1,
-      "api": "https://zuida.xyz/api.php/provide/vod/",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "searchable": 1,
-      "categories": [
-        "动作片",
-        "喜剧片",
-        "动画片",
-        "科幻片",
-        "惊悚片",
-        "冒险片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "历史片",
-        "犯罪片",
-        "悬疑片",
-        "国产剧",
-        "港台剧",
-        "欧美剧",
-        "动漫",
-        "综艺"
-      ]
-    },
-    {
-      "key": "猫眼API",
-      "name": "R. 猫眼采集",
-      "type": 1,
-      "api": "https://api.maoyanapi.top/api.php/provide/vod",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "searchable": 1,
-      "categories": [
-        "惊悚片",
-        "家庭篇",
-        "古装片",
-        "历史片",
-        "悬疑片",
-        "犯罪片",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "西部片",
-        "奇幻片",
-        "动画片",
-        "纪录片",
-        "国产剧",
-        "香港剧",
-        "韩国剧",
-        "欧美剧",
-        "台湾剧",
-        "日本剧"
-      ]
-    },
-    {
-      "key": "牛牛API",
-      "name": "R. 牛牛采集",
-      "type": 0,
-      "api": "https://api.niuniuzy.me/api.php/provide/vod/at/xml",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "searchable": 1,
-      "categories": [
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "战争片",
-        "邵氏电影",
-        "4K电影",
-        "国产剧",
-        "欧美剧",
-        "韩剧",
-        "日剧",
-        "港剧",
-        "台剧",
-        "泰剧"
-      ]
-    },
-    {
-      "key": "鸭鸭API",
-      "name": "R. 鸭鸭采集",
-      "type": 0,
-      "api": "https://yayazy2.com/api.php/provide/vod/at/xml",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "searchable": 1,
-      "categories": [
-        "邵氏电影",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "战争片",
-        "4K电影",
-        "国产剧",
-        "欧美剧",
-        "韩剧",
-        "日剧",
-        "港剧",
-        "台剧",
-        "泰剧"
-      ]
-    },
-    {
-      "key": "火狐API",
-      "name": "R. 火狐采集",
-      "type": 1,
-      "api": "https://hhzyapi.com/api.php/provide/vod",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "searchable": 1,
-      "categories": [
-        "恐怖片",
-        "动作片",
-        "喜剧片",
-        "科幻片",
-        "爱情片",
-        "战争片",
-        "纪录片",
-        "悬疑片",
-        "犯罪片",
-        "奇幻片",
-        "灾难片",
-        "伦理片",
-        "电影",
-        "内地剧",
-        "欧美剧",
-        "香港剧",
-        "韩剧",
-        "日剧",
-        "台湾剧",
-        "马泰剧"
-      ]
-    },
-    {
-      "key": "无尽API",
-      "name": "R. 无尽采集",
-      "type": 0,
-      "api": "https://api.wujinapi.me/api.php/provide/vod/from/wjm3u8/at/xml",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "searchable": 1,
-      "categories": [
-        "邵氏电影",
-        "恐怖片",
-        "动作片",
-        "喜剧片",
-        "科幻片",
-        "奇幻片",
-        "剧情片",
-        "战争片",
-        "爱情片",
-        "悬疑片",
-        "犯罪片",
-        "国产剧",
-        "香港剧",
-        "台湾剧"
-      ]
-    },
-    {
       "key": "好看PY",
       "name": "R. 好看影视",
       "type": 3,
@@ -738,136 +402,12 @@
       "searchable": 1
     },
     {
-      "key": "VSXBPQ",
-      "name": "R. VS 影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/xbpq.jar",
-      "ext": {
-        "站名": "VS影视",
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "图片代理": "0",
-        "主页url": "https://t.xy-zg.com",
-        "首页": "120",
-        "起始页": "1",
-        "分类url": "https://t.xy-zg.com//search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&area={area}&year={year}&letter={letter}&yuyan={lang}&state=&money=&ver=&jq={class};;mrc",
-        "分类": "电影&剧集&综艺&动漫&短剧",
-        "分类值": "1&2&3&4&25",
-        "二次截取": "",
-        "数组": "videopic lazy\"&&</a>",
-        "标题": "title=\"&&\"",
-        "图片": "data-original=\"&&\"",
-        "副标题": "note textbg\">&&<",
-        "链接": "href=\"&&\"",
-        "影片年代": "年份：&&</li>",
-        "影片地区": "地区：&&</li>",
-        "影片类型": "类型：&&</li>",
-        "状态": "时间：&&</li>",
-        "导演": "导演：&&</li>",
-        "主演": "主演：&&</li>",
-        "简介": "友情提醒：请不要相信视频中的广告，剧情介绍👉+<div class=\"plot\">&&</div>",
-        "线路二次截取": "",
-        "线路数组": "\\#playlist\"&&</a>[替换:=\">>=\"%E2%9C%A8%E4%B9%90%E5%93%A5%E6%8E%A8%E8%8D%90%E2%9C%A8]",
-        "线路标题": "urlDecode(title=\"&&\")",
-        "播放二次截取": "",
-        "播放数组": "<ul class=\"playlistlink&&</ul>",
-        "播放列表": "<a&&/a>",
-        "播放标题": "title=\"&&\"",
-        "播放链接": "href=\"&&\"",
-        "解析": "",
-        "直接播放": "0",
-        "播放请求头": "",
-        "嗅探词": ".mp4#.m3u8",
-        "过滤词": "",
-        "跳转播放链接": "var now=\"&&\"",
-        "跳转解析": "",
-        "搜索请求头": "User-Agent$MOBILE_UA",
-        "搜索url": "https://t.xy-zg.com/search.php?page={pg}&searchword={wd}&searchtype=",
-        "搜索模式": "1",
-        "搜索后缀": "",
-        "搜索二次截取": "",
-        "搜索数组": "videopic\"&&</h3>",
-        "搜索标题": "<a*>&&</a",
-        "搜索图片": "background: url(&&)",
-        "搜索副标题": "note textbg\">&&<",
-        "搜索链接": "href=\"&&\"",
-        "筛选": "1",
-        "类型": "",
-        "剧情": "",
-        "剧情值": "*",
-        "地区": "",
-        "地区值": "*",
-        "年份": "",
-        "年份值": "*",
-        "语言": "",
-        "语言值": "*",
-        "字母": "A&B&C&D&E&F&G&H&I&J&K&L&M&N&O&P&Q&R&S&T&U&V&W&X&Y&Z&0-9",
-        "字母值": "*",
-        "排序": "时间&人气&评分",
-        "排序值": "time&hits&score"
-      }
-    },
-    {
-      "key": "好影XYQ",
-      "name": "R. 好影影视",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "searchable": 1,
-      "ext": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/json/%E5%A5%BD%E5%BD%B1%E5%BF%AB%E7%9C%8B.json"
-    },
-    {
       "key": "八戒PY",
       "name": "R. 八戒影视",
       "type": 3,
       "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/py/%E5%85%AB%E6%88%92%E5%BD%B1%E8%A7%86.py",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
       "searchable": 1
-    },
-    {
-      "key": "布卡XBPQ",
-      "name": "R. 布卡影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/xbpq.jar",
-      "searchable": 1,
-      "ext": {
-        "副标题": "嵘基影音",
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "分类url": "https://m.ycblcw.com/;;!H"
-      }
-    },
-    {
-      "key": "快快XBPQ",
-      "name": "R. 快快影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/xbpq.jar",
-      "searchable": 1,
-      "ext": {
-        "副标题": "嵘基影音",
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "分类url": "https://4k4k.live/;;!H"
-      }
-    },
-    {
-      "key": "旺旺XBPQ",
-      "name": "R. 旺旺影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/xbpq.jar",
-      "searchable": 1,
-      "ext": {
-        "副标题": "嵘基影音",
-        "请求头": "手机",
-        "播放数组": "stui-content__playlist clearfix\"&&</ul>",
-        "分类url": "http://www.0719w.com/so-show/{cateId}-{area}--{class}-----{catePg}---{year}.html;;d",
-        "分类": "电视剧$2#电影$1#动漫$4#综艺$3"
-      }
     },
     {
       "key": "韩剧XBPQ",
@@ -1029,36 +569,6 @@
       "ext": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/json/%E5%B7%B4%E5%A3%AB%E5%8A%A8%E6%BC%AB.json"
     },
     {
-      "key": "曼波JAR",
-      "name": "Z. 曼波动漫",
-      "type": 3,
-      "api": "csp_AppGet",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "searchable": 1,
-      "ext": {
-        "url": "https://app.omofun1.top",
-        "dataKey": "66dc309cbeeca454",
-        "dataIv": "66dc309cbeeca454",
-        "deviceId": "",
-        "version": ""
-      }
-    },
-    {
-      "key": "咕咕JAR",
-      "name": "Z. 咕咕动漫",
-      "type": 3,
-      "searchable": 1,
-      "api": "csp_AppGet",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "ext": {
-        "url": "https://www.gugu3.com",
-        "dataKey": "nKfZ8KX6JTNWRzTD",
-        "dataIv": "nKfZ8KX6JTNWRzTD",
-        "deviceId": "",
-        "version": ""
-      }
-    },
-    {
       "key": "锦鲤JAR",
       "name": "Z. 锦鲤短剧",
       "type": 3,
@@ -1202,19 +712,6 @@
       "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/py/%E5%84%BF%E7%AB%A5%E4%B8%93%E5%8C%BA.py",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
       "searchable": 0
-    },
-    {
-      "key": "养生JSON",
-      "name": "Y. 养生知识",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 0,
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "ext": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/json/%E5%85%BB%E7%94%9F%E5%A0%82.json",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      }
     },
     {
       "key": "世听JAR",
@@ -2234,6 +1731,7 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
 
