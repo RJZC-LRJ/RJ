@@ -1212,13 +1212,14 @@
       }
     },
     {
-      "key": "Push",
-      "name": "S. 推送专用空页",
+      "key": "MoYuJAR",
+      "name": "S. 摸鱼推送中心",
       "type": 3,
       "api": "csp_Push",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/moyu.jar",
       "searchable": 0,
-      "indexs": 0
+      "indexs": 0,
+      "changeable": 0
     },
     {
       "key": "RJAPI.A",
@@ -1890,5 +1891,3 @@
     "cms.qdwght.com"
   ]
 }
-
-
