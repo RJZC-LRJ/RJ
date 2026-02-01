@@ -1,9 +1,9 @@
 嵘基直播[优选],#genre#
 
 
-26.01.31,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/AhXM2gNZ&pwd=1109
-嵘基分享,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/9cXYr7Ks&pwd=1109
-无内置版,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/8kXYoxM9&pwd=1109
+26.02.01,https://lz0.qaiu.top/parser?url=https://share.feijipan.com/s/AhXM2gNZ&pwd=1109
+嵘基分享,https://lz0.qaiu.top/parser?url=https://share.feijipan.com/s/9cXYr7Ks&pwd=1109
+无内置版,https://lz0.qaiu.top/parser?url=https://share.feijipan.com/s/8kXYoxM9&pwd=1109
 
 
 
@@ -2248,9 +2248,6 @@ CGTN-法,http://go.bkpcp.top/mg/cgtnf
 兵团卫视,http://go.bkpcp.top/mg/btws 
 黑龙江视,http://go.bkpcp.top/mg/hljws 
 
-本源不支持OK空壳,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/AhXM2gNZ&pwd=1109
-请用其他空壳测试,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/8kXYoxM9&pwd=1109
-
 
 
 央卫频道[6],#genre#
@@ -2299,9 +2296,6 @@ CCTV-14高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv14
 CCTV-15高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv15
 CCTV-16高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv16
 CCTV-17高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv17
-
-本源不支持OK空壳,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/AhXM2gNZ&pwd=1109
-请用其他空壳测试,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/8kXYoxM9&pwd=1109
 
 
 
@@ -2355,9 +2349,6 @@ CCTV-17高码,http://t.061899.xyz/tl/tl.php?id=cctv17
 内蒙古视高码,http://t.061899.xyz/tl/tl.php?id=nmgws
 黑龙江视高码,http://t.061899.xyz/tl/tl.php?id=hljws
 
-本源不支持OK空壳,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/AhXM2gNZ&pwd=1109
-请用其他空壳测试,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/8kXYoxM9&pwd=1109
-
 
 
 央卫频道[8],#genre#
@@ -2409,9 +2400,6 @@ CCTV-14高码,http://k.061899.xyz/m.php?id=cctv14
 CCTV-15高码,http://k.061899.xyz/m.php?id=cctv15
 CCTV-16高码,http://k.061899.xyz/m.php?id=cctv16
 CCTV-17高码,http://k.061899.xyz/m.php?id=cctv17
-
-本源不支持OK空壳,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/AhXM2gNZ&pwd=1109
-请用其他空壳测试,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/8kXYoxM9&pwd=1109
 
 
 
@@ -2480,9 +2468,6 @@ CGTN,http://A/ku9/js/web.js?id=https://www.yangshipin.cn/tv/home?pid=600014550
 西藏卫视,http://A/ku9/js/web.js?id=https://yangshipin.cn/tv/home?pid=600190403
 甘肃卫视,http://A/ku9/js/web.js?id=https://yangshipin.cn/tv/home?pid=600190408
 
-本源不支持OK空壳,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/AhXM2gNZ&pwd=1109
-请用其他空壳测试,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/8kXYoxM9&pwd=1109
-
 
 
 山东网页[V4],#genre#,JS=https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJVE_Online%20GitHub/js/webview.js
@@ -2496,9 +2481,6 @@ CGTN,http://A/ku9/js/web.js?id=https://www.yangshipin.cn/tv/home?pid=600014550
 山东文旅,http://A/ku9/js/web.js?id=https://v.iqilu.com/live/yspd/
 山东生活,http://A/ku9/js/web.js?id=https://v.iqilu.com/live/shpd/
 山东综艺,http://A/ku9/js/web.js?id=https://v.iqilu.com/live/zypd/
-
-本源不支持OK空壳,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/AhXM2gNZ&pwd=1109
-请用其他空壳测试,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/8kXYoxM9&pwd=1109
 
 
 
@@ -2525,9 +2507,6 @@ GRTN生活频道,http://A/ku9/js/web.js?id=https://www.gdtv.cn/tvChannelDetail/1
 GRTN教育频道,http://A/ku9/js/web.js?id=https://www.gdtv.cn/tvChannelDetail/104
 广东新闻广播,http://A/ku9/js/web.js?id=https://www.gdtv.cn/audioChannelDetail/85
 
-本源不支持OK空壳,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/AhXM2gNZ&pwd=1109
-请用其他空壳测试,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/8kXYoxM9&pwd=1109
-
 
 
 陕西网页[V4],#genre#,JS=https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJVE_Online%20GitHub/js/webview.js
@@ -2543,9 +2522,6 @@ GRTN教育频道,http://A/ku9/js/web.js?id=https://www.gdtv.cn/tvChannelDetail/1
 陕西农林卫视,http://A/ku9/js/web.js?id=http://live.snrtv.com/?channel=农林卫视
 陕西移动电视,http://A/ku9/js/web.js?id=http://live.snrtv.com/?channel=移动电视
 
-本源不支持OK空壳,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/AhXM2gNZ&pwd=1109
-请用其他空壳测试,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/8kXYoxM9&pwd=1109
-
 
 
 江苏网页[V4],#genre#,JS=https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJVE_Online%20GitHub/js/webview.js
@@ -2560,9 +2536,6 @@ GRTN教育频道,http://A/ku9/js/web.js?id=https://www.gdtv.cn/tvChannelDetail/1
 优漫卡通,http://A/ku9/js/web.js?id=https://live.jstv.com?channel=优漫卡通
 江苏国际,http://A/ku9/js/web.js?id=https://live.jstv.com?channel=江苏国际
 
-本源不支持OK空壳,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/AhXM2gNZ&pwd=1109
-请用其他空壳测试,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/8kXYoxM9&pwd=1109
-
 
 
 南京网页[V4],#genre#,JS=https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJVE_Online%20GitHub/js/webview.js
@@ -2573,9 +2546,6 @@ GRTN教育频道,http://A/ku9/js/web.js?id=https://www.gdtv.cn/tvChannelDetail/1
 教科频道,http://A/ku9/js/web.js?id=https://www.nbs.cn/live/?channel=教科频道
 文旅纪录频道,http://A/ku9/js/web.js?id=https://www.nbs.cn/live/?channel=文旅纪录频道
 少儿频道,http://A/ku9/js/web.js?id=https://www.nbs.cn/live/?channel=少儿频道
-
-本源不支持OK空壳,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/AhXM2gNZ&pwd=1109
-请用其他空壳测试,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/8kXYoxM9&pwd=1109
 
 
 
@@ -2592,9 +2562,6 @@ BRTV i生活,http://A/ku9/js/web.js?id=https://www.brtn.cn/btv/btvsy_index?chann
 BRTV新闻,http://A/ku9/js/web.js?id=https://www.brtn.cn/btv/btvsy_index?channel=BRTV新闻
 卡酷少儿,http://A/ku9/js/web.js?id=https://www.brtn.cn/btv/btvsy_index?channel=卡酷少儿
 
-本源不支持OK空壳,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/AhXM2gNZ&pwd=1109
-请用其他空壳测试,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/8kXYoxM9&pwd=1109
-
 
 
 安徽网页[V4],#genre#,JS=https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJVE_Online%20GitHub/js/webview.js
@@ -2608,9 +2575,6 @@ BRTV新闻,http://A/ku9/js/web.js?id=https://www.brtn.cn/btv/btvsy_index?channel
 农业·科教,http://A/ku9/js/web.js?id=https://h5.ahtv.cn/folder9000/folder20193?channel_id=51
 安徽国际,http://A/ku9/js/web.js?id=https://h5.ahtv.cn/folder9000/folder20193?channel_id=70
 移动电视,http://A/ku9/js/web.js?id=https://h5.ahtv.cn/folder9000/folder20193?channel_id=68
-
-本源不支持OK空壳,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/AhXM2gNZ&pwd=1109
-请用其他空壳测试,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/8kXYoxM9&pwd=1109
 
 
 
@@ -2626,9 +2590,6 @@ BRTV新闻,http://A/ku9/js/web.js?id=https://www.brtn.cn/btv/btvsy_index?channel
 CETV-1,http://A/ku9/js/web.js?id=https://tv.gxtv.cn/channel/channelivePlay_ffa6b6e1b32b4a16a73eb3ef66f8bfc7.html
 CETV-2,http://A/ku9/js/web.js?id=https://tv.gxtv.cn/channel/channelivePlay_80d0ffb42c114eaf9663708629ff0a3e.html
 CETV-4,http://A/ku9/js/web.js?id=https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca90800fb4225.html
-
-本源不支持OK空壳,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/AhXM2gNZ&pwd=1109
-请用其他空壳测试,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/8kXYoxM9&pwd=1109
 
 
 
@@ -2651,9 +2612,6 @@ CETV-4,http://A/ku9/js/web.js?id=https://tv.gxtv.cn/channel/channelivePlay_67eac
 长沙新闻综合,http://A/ku9/js/web.js?id=https://live.mgtv.com/?channelId=269
 长沙政法,http://A/ku9/js/web.js?id=https://live.mgtv.com/?channelId=254
 
-本源不支持OK空壳,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/AhXM2gNZ&pwd=1109
-请用其他空壳测试,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/8kXYoxM9&pwd=1109
-
 
 
 上海网页[V4],#genre#,JS=https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJVE_Online%20GitHub/js/webview.js
@@ -2667,9 +2625,6 @@ CETV-4,http://A/ku9/js/web.js?id=https://tv.gxtv.cn/channel/channelivePlay_67eac
 五星体育,http://A/ku9/js/web.js?id=https://live.kankanews.com/huikan?id=10
 都市频道,http://A/ku9/js/web.js?id=https://live.kankanews.com/huikan?id=4
 哈哈炫动,http://A/ku9/js/web.js?id=https://live.kankanews.com/huikan?id=9
-
-本源不支持OK空壳,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/AhXM2gNZ&pwd=1109
-请用其他空壳测试,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/8kXYoxM9&pwd=1109
 
 
 
@@ -2686,6 +2641,3 @@ CETV-4,http://A/ku9/js/web.js?id=https://tv.gxtv.cn/channel/channelivePlay_67eac
 浙江国际,http://A/ku9/js/web.js?id=https://www.cztv.com/liveTV/110
 好易购,http://A/ku9/js/web.js?id=https://www.cztv.com/liveTV/111
 之江纪录,http://A/ku9/js/web.js?id=https://www.cztv.com/liveTV/112
-
-本源不支持OK空壳,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/AhXM2gNZ&pwd=1109
-请用其他空壳测试,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/8kXYoxM9&pwd=1109
