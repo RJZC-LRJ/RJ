@@ -350,6 +350,18 @@
       "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
     },
     {
+      "key": "锦鲤XBPQ",
+      "name": "R. 锦鲤影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+	  "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/xbpq.jar",
+      "searchable": 1,
+      "ext": {
+        "分类url": "https://www.vx9d2.com/yingshi/{cateId}-{catePg}.html",
+        "分类": "国产剧$5#短剧$13#电视剧$1#电影$2#大陆综艺$22#综艺$3#动漫$4"
+      }
+    },
+    {
       "key": "非凡API",
       "name": "R. 非凡采集",
       "type": 1,
@@ -2114,3 +2126,4 @@
     "cms.qdwght.com"
   ]
 }
+
