@@ -28,7 +28,7 @@
       "type": 0,
       "url": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJVE_Online%20GitHub/RJLIVE.txt",
       "logo": "https://gitee.com/UserRJZC/rjgitee/raw/Admin/icon/%E7%9A%AE%E5%8D%A1%E4%B8%98.jpg",
-      "epg": "http://epg.51zmt.top:8000/e.xml"
+      "epg": "http://epg.51zmt.top:8000/e.xml.gz"
     },
     {
       "name": "R. 冰茶TV『点击换接口』",
@@ -37,18 +37,24 @@
       "ua": "bingcha/1.1 (mianfeifenxiang) "
     },
     {
+      "name": "R. Develop202『点击换接口』",
+      "type": 0,
+      "url": "https://git.yylx.win/raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+      "ua": "bingcha/1.1 (mianfeifenxiang) "
+    },
+    {
       "name": "R. 猫TV『点击换接口』",
       "type": 0,
       "url": "http://rihou.cc:555/gggg.nzk?type=.txt",
       "logo": "https://gitee.com/UserRJZC/rjgitee/raw/Admin/icon/%E7%9A%AE%E5%8D%A1%E4%B8%98.jpg",
-      "epg": "http://epg.51zmt.top:8000/e.xml"
+      "epg": "http://epg.51zmt.top:8000/e.xml.gz"
     },
     {
       "name": "R. 虎牙一起看『点击换接口』",
       "type": 0,
       "url": "https://sub.ottiptv.cc/huyayqk.m3u",
       "logo": "https://gitee.com/UserRJZC/rjgitee/raw/Admin/icon/%E7%9A%AE%E5%8D%A1%E4%B8%98.jpg",
-      "epg": "http://epg.51zmt.top:8000/e.xml",
+      "epg": "http://epg.51zmt.top:8000/e.xml.gz",
       "ua": "okHttp/Mod-1.4.0.0"
     },
     {
@@ -56,7 +62,7 @@
       "type": 0,
       "url": "https://sub.ottiptv.cc/douyuyqk.m3u",
       "logo": "https://gitee.com/UserRJZC/rjgitee/raw/Admin/icon/%E7%9A%AE%E5%8D%A1%E4%B8%98.jpg",
-      "epg": "http://epg.51zmt.top:8000/e.xml",
+      "epg": "http://epg.51zmt.top:8000/e.xml.gz",
       "ua": "okHttp/Mod-1.4.0.0"
     },
     {
@@ -64,7 +70,7 @@
       "type": 0,
       "url": "https://sub.ottiptv.cc/bililive.m3u",
       "logo": "https://gitee.com/UserRJZC/rjgitee/raw/Admin/icon/%E7%9A%AE%E5%8D%A1%E4%B8%98.jpg",
-      "epg": "http://epg.51zmt.top:8000/e.xml",
+      "epg": "http://epg.51zmt.top:8000/e.xml.gz",
       "ua": "okHttp/Mod-1.4.0.0"
     },
     {
@@ -72,7 +78,7 @@
       "type": 0,
       "url": "https://sub.ottiptv.cc/yylunbo.m3u",
       "logo": "https://gitee.com/UserRJZC/rjgitee/raw/Admin/icon/%E7%9A%AE%E5%8D%A1%E4%B8%98.jpg",
-      "epg": "http://epg.51zmt.top:8000/e.xml",
+      "epg": "http://epg.51zmt.top:8000/e.xml.gz",
       "ua": "okHttp/Mod-1.4.0.0"
     }
   ],
@@ -146,6 +152,194 @@
       "timeout": 20
     },
     {
+      "key": "文采JAR",
+      "name": "R. 文采影视",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": {
+        "sp": "Jpys",
+        "danmu": true
+      },
+      "timeout": 10
+    },
+    {
+      "key": "糯米JAR",
+      "name": "R. 糯米影视",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": {
+        "sp": "Nmys",
+        "danmu": true
+      },
+      "timeout": 10
+    },
+    {
+      "key": "一起JAR",
+      "name": "R. 一起影视",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
+      "ext": {
+        "sp": "Yqs",
+        "danmu": true
+      },
+      "timeout": 10
+    },
+    {
+      "key": "金牌JAR",
+      "name": "R. 金牌影视",
+      "type": 3,
+      "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/js/drpy2.min.js",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/js/%E9%87%91%E7%89%8C%E5%BD%B1%E8%A7%86.js"
+    },
+    {
+      "key": "瓜子JAR",
+      "name": "R. 瓜子影视",
+      "type": 3,
+      "api": "csp_Gz360",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
+      "quickSearch": 1,
+      "changeable": 1,
+      "searchable": 1
+    },
+    {
+      "key": "专线JAR",
+      "name": "R. 专线影视",
+      "type": 3,
+      "api": "csp_AppYs",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://m51.gotto.top/api.php/v1.vod"
+    },
+    {
+      "key": "时雨JAR",
+      "name": "R. 时雨影视",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": {
+        "sp": "Xpg",
+        "danmu": true
+      },
+      "timeout": 10
+    },
+    {
+      "key": "热播JAR",
+      "name": "R. 热播影视",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": {
+        "url": "http://v.rbotv.cn"
+      }
+    },
+    {
+      "key": "3QJS",
+      "name": "R. 3Q 影视",
+      "type": 3,
+      "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/js/3Q%E5%BD%B1%E8%A7%86.js",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "云云JAR",
+      "name": "R. 云云影视",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": {
+        "sp": "YunYun",
+        "danmu": true
+      },
+      "timeout": 10
+    },
+    {
+      "key": "哇哇PY",
+      "name": "R. 哇哇影视",
+      "type": 3,
+      "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/py/%E5%93%87%E5%93%87.py",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "猎手PY",
+      "name": "R. 猎手影视",
+      "type": 3,
+      "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/py/%E7%94%B5%E5%BD%B1%E7%8C%8E%E6%89%8B.py",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
+      "changeable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "八戒PY",
+      "name": "R. 八戒影视",
+      "type": 3,
+      "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/py/%E5%85%AB%E6%88%92%E5%BD%B1%E8%A7%86.py",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "厂长JAR",
+      "name": "R. 厂长影视",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": {
+        "sp": "Czzy",
+        "danmu": true
+      },
+      "timeout": 10
+    },
+    {
+      "key": "好看PY",
+      "name": "R. 好看影视",
+      "type": 3,
+      "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/py/HK.py",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
       "key": "荐片PY",
       "name": "R. 荐片影视",
       "type": 3,
@@ -179,174 +373,6 @@
       "quickSearch": 1,
       "changeable": 1,
       "searchable": 1
-    },
-    {
-      "key": "瓜子JAR",
-      "name": "R. 瓜子影视",
-      "type": 3,
-      "api": "csp_Gz360",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "quickSearch": 1,
-      "changeable": 1,
-      "searchable": 1
-    },
-    {
-      "key": "专线JAR",
-      "name": "R. 专线影视",
-      "type": 3,
-      "api": "csp_AppYs",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "http://m51.gotto.top/api.php/v1.vod"
-    },
-    {
-      "key": "一起JAR",
-      "name": "R. 一起影视",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
-      "ext": {
-        "sp": "Yqs",
-        "danmu": true
-      },
-      "timeout": 10
-    },
-    {
-      "key": "文采JAR",
-      "name": "R. 文采影视",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": {
-        "sp": "Jpys",
-        "danmu": true
-      },
-      "timeout": 10
-    },
-    {
-      "key": "糯米JAR",
-      "name": "R. 糯米影视",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": {
-        "sp": "Nmys",
-        "danmu": true
-      },
-      "timeout": 10
-    },
-    {
-      "key": "金牌JAR",
-      "name": "R. 金牌影视",
-      "type": 3,
-      "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/js/drpy2.min.js",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/js/%E9%87%91%E7%89%8C%E5%BD%B1%E8%A7%86.js"
-    },
-    {
-      "key": "时雨JAR",
-      "name": "R. 时雨影视",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": {
-        "sp": "Xpg",
-        "danmu": true
-      },
-      "timeout": 10
-    },
-    {
-      "key": "云云JAR",
-      "name": "R. 云云影视",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": {
-        "sp": "YunYun",
-        "danmu": true
-      },
-      "timeout": 10
-    },
-    {
-      "key": "猎手PY",
-      "name": "R. 猎手影视",
-      "type": 3,
-      "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/py/%E7%94%B5%E5%BD%B1%E7%8C%8E%E6%89%8B.py",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "changeable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "哇哇PY",
-      "name": "R. 哇哇影视",
-      "type": 3,
-      "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/py/%E5%93%87%E5%93%87.py",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      },
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "3QJS",
-      "name": "R. 3Q 影视",
-      "type": 3,
-      "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/js/3Q%E5%BD%B1%E8%A7%86.js",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "厂长JAR",
-      "name": "R. 厂长影视",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": {
-        "sp": "Czzy",
-        "danmu": true
-      },
-      "timeout": 10
-    },
-    {
-      "key": "热播JAR",
-      "name": "R. 热播影视",
-      "type": 3,
-      "api": "csp_AppRJ",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": {
-        "url": "http://v.rbotv.cn"
-      }
     },
     {
       "key": "爱看JAR",
@@ -431,26 +457,6 @@
         "日韩综艺",
         "欧美综艺"
       ]
-    },
-    {
-      "key": "好看PY",
-      "name": "R. 好看影视",
-      "type": 3,
-      "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/py/HK.py",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "八戒PY",
-      "name": "R. 八戒影视",
-      "type": 3,
-      "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/py/%E5%85%AB%E6%88%92%E5%BD%B1%E8%A7%86.py",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
     },
     {
       "key": "哔哩PY.A",
@@ -624,6 +630,15 @@
       "changeable": 1
     },
     {
+      "key": "哔哩PY.B",
+      "name": "C. 哔哩音乐",
+      "type": 3,
+      "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/py/B%E7%AB%99%E9%9F%B3%E4%B9%90.py",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
+      "searchable": 0,
+      "changeable": 1
+    },
+    {
       "key": "爱听PY",
       "name": "C. 爱听音乐",
       "type": 3,
@@ -641,15 +656,6 @@
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/xyq.jar",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "哔哩PY.B",
-      "name": "C. 哔哩音乐",
-      "type": 3,
-      "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/py/B%E7%AB%99%E9%9F%B3%E4%B9%90.py",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "searchable": 0,
       "changeable": 1
     },
     {
@@ -1115,7 +1121,7 @@
     },
     {
       "key": "RJAPI.B",
-      "name": "维护：26.02.01_新年快乐_优选",
+      "name": "维护：26.02.01_优选",
       "type": 3,
       "api": "csp_Notice",
       "searchable": 0,
