@@ -221,7 +221,7 @@
       "key": "界界PY",
       "name": "R. 界界影视",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/py/%E7%95%8C%E7%95%8C%E5%BD%B1%E8%A7%86.py",
+      "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/py/%E7%95%8C%E7%95%8C%E5%BD%B1%E8%A7%86.py",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
       "searchable": 1,
       "quickSearch": 1,
@@ -1900,3 +1900,4 @@
     "cms.qdwght.com"
   ]
 }
+
