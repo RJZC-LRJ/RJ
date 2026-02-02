@@ -218,15 +218,14 @@
       "searchable": 1
     },
     {
-      "key": "专线JAR",
-      "name": "R. 专线影视",
+      "key": "界界PY",
+      "name": "R. 界界影视",
       "type": 3,
-      "api": "csp_AppYs",
+      "api": "https://raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/py/%E7%95%8C%E7%95%8C%E5%BD%B1%E8%A7%86.py",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "ext": "http://m51.gotto.top/api.php/v1.vod"
+      "changeable": 1
     },
     {
       "key": "时雨JAR",
@@ -353,6 +352,16 @@
         "danmu": true
       },
       "timeout": 10
+    },
+    {
+      "key": "专线JAR",
+      "name": "R. 专线影视",
+      "type": 3,
+      "api": "csp_AppYs",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "http://m51.gotto.top/api.php/v1.vod"
     },
     {
       "key": "荐片PY",
@@ -1233,7 +1242,7 @@
     },
     {
       "key": "RJAPI.B",
-      "name": "维护：26.02.01_优选",
+      "name": "维护：26.02.02_优选",
       "type": 3,
       "api": "csp_Notice",
       "searchable": 0,
