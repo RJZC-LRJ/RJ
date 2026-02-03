@@ -676,6 +676,14 @@
       ]
     },
     {
+      "key": "预告JAR",
+      "name": "R. 新片预告",
+      "type": 3,
+      "api": "csp_YGP",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
+      "searchable": 0
+    },
+    {
       "key": "哔哩PY.A",
       "name": "J. 哔哩哔哩",
       "type": 3,
@@ -1145,6 +1153,21 @@
       "timeout": 25
     },
     {
+      "key": "小飒JAR",
+      "name": "D. 小飒网盘",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": {
+        "sp": "Xsayang",
+        "danmu": true
+      },
+      "timeout": 25
+    },
+    {
       "key": "LocalFile",
       "name": "S. 拉取俺的硬盘",
       "type": 3,
@@ -1326,6 +1349,17 @@
       "searchable": 0,
       "indexs": 0,
       "changeable": 0
+    },
+    {
+      "key": "资源JAR",
+      "name": "S. 资源下载中心",
+      "type": 3,
+      "api": "csp_Market",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
+      "searchable": 0,
+      "changeable": 0,
+      "indexs": 0,
+      "ext": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/json/Downloads.json"
     },
     {
       "key": "RJAPI.A",
@@ -1997,6 +2031,7 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
 
