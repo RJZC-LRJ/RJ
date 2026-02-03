@@ -133,6 +133,18 @@
       "searchable": 0
     },
     {
+      "key": "RJLIVEJS",
+      "name": "R. 嵘基直播『点击此处或换源用其他』",
+      "type": 3,
+      "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/js/live2vod.js",
+      "ext": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/json/RongjiLi.json"
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
+      "indexs": 0,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
       "key": "哔哩JAR",
       "name": "R. 哔哩引擎",
       "type": 3,
@@ -1985,6 +1997,7 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
 
