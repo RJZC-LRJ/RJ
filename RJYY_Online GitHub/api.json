@@ -218,6 +218,30 @@
       "searchable": 1
     },
     {
+      "key": "柠檬JAR",
+      "name": "R. 柠檬影视",
+      "type": 3,
+      "api": "csp_Nmvod",
+      "quickSearch": 1,
+      "changeable": 1,
+      "searchable": 1,
+      "playerType": 2,
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/lh250711.jar",
+      "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
+    },
+    {
+      "key": "南瓜JAR",
+      "name": "R. 南瓜影视",
+      "type": 3,
+      "api": "csp_NanGua",
+      "quickSearch": 1,
+      "changeable": 1,
+      "searchable": 1,
+      "playerType": 2,
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/lh250711.jar",
+      "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"
+    },
+    {
       "key": "界界PY",
       "name": "R. 界界影视",
       "type": 3,
@@ -1303,7 +1327,7 @@
     },
     {
       "key": "RJAPI.B",
-      "name": "维护：26.02.02_优选",
+      "name": "维护：26.02.03_优选",
       "type": 3,
       "api": "csp_Notice",
       "searchable": 0,
