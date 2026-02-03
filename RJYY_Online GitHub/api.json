@@ -247,6 +247,7 @@
       "type": 3,
       "api": "csp_RenRen",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/moyu.jar",
+      "vcodec": "software",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -1994,4 +1995,5 @@
     "cms.qdwght.com"
   ]
 }
+
 
