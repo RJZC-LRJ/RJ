@@ -242,6 +242,15 @@
       "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"
     },
     {
+      "key": "人人JAR",
+      "name": "R. 人人影视",
+      "type": 3,
+      "api": "csp_RenRen",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/moyu.jar",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
       "key": "界界PY",
       "name": "R. 界界影视",
       "type": 3,
@@ -1985,3 +1994,4 @@
     "cms.qdwght.com"
   ]
 }
+
