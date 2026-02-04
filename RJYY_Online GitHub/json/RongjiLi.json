@@ -23,20 +23,20 @@
     "name": "R. 猫TV（D佬）『免费接口』",
     "url": "http://rihou.cc:555/gggg.nzk?type=.txt"
   },
-      {
-      "name": "R. 虎牙一起看『免费接口』",
-      "url": "https://sub.ottiptv.cc/huyayqk.m3u"
-    },
-    {
-      "name": "R. 斗鱼一起看『免费接口』",
-      "url": "https://sub.ottiptv.cc/douyuyqk.m3u"
-    },
-    {
-      "name": "R. B站直播『免费接口』",
-      "url": "https://sub.ottiptv.cc/bililive.m3u"
-    },
-    {
-      "name": "R. YY轮播『免费接口』",
-      "url": "https://sub.ottiptv.cc/yylunbo.m3u"
-    }
+  {
+    "name": "R. 虎牙一起看『免费接口』",
+    "url": "https://sub.ottiptv.cc/huyayqk.m3u"
+  },
+  {
+    "name": "R. 斗鱼一起看『免费接口』",
+    "url": "https://sub.ottiptv.cc/douyuyqk.m3u"
+  },
+  {
+    "name": "R. B站直播『免费接口』",
+    "url": "https://sub.ottiptv.cc/bililive.m3u"
+  },
+  {
+    "name": "R. YY轮播『免费接口』",
+    "url": "https://sub.ottiptv.cc/yylunbo.m3u"
+  }
 ]
