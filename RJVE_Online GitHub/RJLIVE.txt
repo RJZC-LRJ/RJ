@@ -1,12 +1,15 @@
 嵘基直播[优选],#genre#
 
 
-26.02.02,https://lz0.qaiu.top/parser?url=https://share.feijipan.com/s/AhXM2gNZ&pwd=1109
-26.02.02,https://pan.tenire.com/view.php/d8e89b6a3c5145b0477dc64ec3db9591.mp4
+26.02.04,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/AhXM2gNZ&pwd=1109
+26.02.04,https://lz0.qaiu.top/parser?url=https://share.feijipan.com/s/AhXM2gNZ&pwd=1109
+26.02.04,https://d.kstore.dev/download/15123/RJYY_MP4/%E9%AB%98%E6%B8%85%E5%85%AC%E5%91%8A.mp4
+嵘基分享,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/9cXYr7Ks&pwd=1109
 嵘基分享,https://lz0.qaiu.top/parser?url=https://share.feijipan.com/s/9cXYr7Ks&pwd=1109
-嵘基分享,https://pan.tenire.com/view.php/1f7598ce9ec0e4187a32a0d39099be65.mp4
+嵘基分享,https://d.kstore.dev/download/15123/RJYY_MP4/%E5%B5%98%E5%9F%BA%E5%AF%BC%E8%88%AA.mp4
+无内置版,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/8kXYoxM9&pwd=1109
 无内置版,https://lz0.qaiu.top/parser?url=https://share.feijipan.com/s/8kXYoxM9&pwd=1109
-无内置版,https://pan.tenire.com/view.php/0b220eb3b7379425459c0a7676273e2b.mp4
+无内置版,https://d.kstore.dev/download/15123/RJYY_MP4/%E5%A4%84%E7%90%86%E5%85%AC%E5%91%8A.mp4
 
 
 
