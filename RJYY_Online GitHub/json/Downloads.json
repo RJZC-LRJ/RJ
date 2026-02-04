@@ -1,1 +1,151 @@
-no
+[
+  {
+    "name": "推荐",
+    "list": [
+      {
+        "name": "嵘基系列",
+        "icon": "https://gitee.com/UserRJZC/rjgitee/raw/Admin/icon/%E7%9A%AE%E5%8D%A1%E4%B8%98.jpg"
+      },
+      {
+        "name": "免费开源",
+        "icon": "https://gitee.com/UserRJZC/rjgitee/raw/Admin/icon/%E7%9A%AE%E5%8D%A1%E4%B8%98.jpg"
+      },
+      {
+        "name": "学习使用",
+        "icon": "https://gitee.com/UserRJZC/rjgitee/raw/Admin/icon/%E7%9A%AE%E5%8D%A1%E4%B8%98.jpg"
+      },
+      {
+        "name": "禁止商用",
+        "icon": "https://gitee.com/UserRJZC/rjgitee/raw/Admin/icon/%E7%9A%AE%E5%8D%A1%E4%B8%98.jpg"
+      },
+      {
+        "name": "禁止买卖",
+        "icon": "https://gitee.com/UserRJZC/rjgitee/raw/Admin/icon/%E7%9A%AE%E5%8D%A1%E4%B8%98.jpg"
+      }
+    ]
+  },
+  {
+    "name": "嵘基系列软件『全部免费』",
+    "list": [
+      {
+        "name": "嵘基玩盒通用版",
+        "url": "https://d.kstore.dev/download/15123/APK/com.android4.lrj.root.apk",
+        "icon": "https://gitee.com/UserRJZC/rjgitee/raw/Admin/icon/%E7%9A%AE%E5%8D%A1%E4%B8%98.jpg",
+        "version": "V8.8.8"
+      },
+      {
+        "name": "嵘基影音竖屏版",
+        "url": "https://d.kstore.dev/download/15123/APK/com.android5.lrj.mobile.apk",
+        "icon": "https://gitee.com/UserRJZC/rjgitee/raw/Admin/icon/%E7%9A%AE%E5%8D%A1%E4%B8%98.jpg",
+        "version": "V2.5.8"
+      },
+      {
+        "name": "嵘基影音大屏版",
+        "url": "https://d.kstore.dev/download/15123/APK/com.android5.lrj.leanback.apk",
+        "icon": "https://gitee.com/UserRJZC/rjgitee/raw/Admin/icon/%E7%9A%AE%E5%8D%A1%E4%B8%98.jpg",
+        "version": "V2.5.8"
+      },
+      {
+        "name": "嵘基直播通用版",
+        "url": "https://d.kstore.dev/download/15123/APK/com.android5.lrj.live.apk",
+        "icon": "https://gitee.com/UserRJZC/rjgitee/raw/Admin/icon/%E7%9A%AE%E5%8D%A1%E4%B8%98.jpg",
+        "version": "V2.5.8"
+      },
+      {
+        "name": "欢喜桌面定制版",
+        "url": "https://d.kstore.dev/download/15123/APK/com.huanxi.tvhome.apk",
+        "icon": "https://gitee.com/UserRJZC/rjgitee/raw/Admin/icon/%E7%9A%AE%E5%8D%A1%E4%B8%98.jpg",
+        "version": "V1.2.1"
+      }
+    ]
+  },
+  {
+    "name": "好用软件转载『全部免费，付费卸载』",
+    "list": [
+      {
+        "name": "野草助手软件通用版",
+        "url": "https://d.kstore.dev/download/15123/APK/fun.yecao.helper_2.0.13_1769756390_yecao.apk",
+        "icon": "https://d.kstore.dev/download/15123/APK_ICO/fun.yecao.helper.png",
+        "version": "2.0.13"
+      },
+      {
+        "name": "野草助手海信小米版",
+        "url": "https://d.kstore.dev/download/15123/APK/net.xmhx2.helper_2.0.12_1766458641_yecao.apk",
+        "icon": "https://d.kstore.dev/download/15123/APK_ICO/fun.yecao.helper.png",
+        "version": "2.0.12"
+      },
+      {
+        "name": "TAO管家",
+        "url": "https://d.kstore.dev/download/15123/APK/com.huawei.gjservice.taou_1.8.5_2018311931664306176_yecao.net.apk",
+        "icon": "https://d.kstore.dev/download/15123/APK_ICO/com.huawei.gjservice.taou.png",
+        "version": "1.8.5"
+      },
+      {
+        "name": "千寻直播",
+        "url": "https://d.kstore.dev/download/15123/APK/%E5%8D%83%E5%AF%BB_1.1.4.apk",
+        "icon": "https://d.kstore.dev/download/15123/APK_ICO/com.tv.qx.png",
+        "version": "V1.1.4"
+      },
+      {
+        "name": "电视直播Pro",
+        "url": "https://d.kstore.dev/download/15123/APK/%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD+Pro_2.6.15.apk",
+        "icon": "https://d.kstore.dev/download/15123/APK_ICO/com.jerry.live.pro.png",
+        "version": "V2.6.15"
+      },
+      {
+        "name": "星辰直播",
+        "url": "https://d.kstore.dev/download/15123/APK/com.xcds.tv_1.0.4_1985524090877874176_yecao.net.apk",
+        "icon": "https://d.kstore.dev/download/15123/APK_ICO/com.xcds.tv.png",
+        "version": "V1.04"
+      },
+      {
+        "name": "大屏快手",
+        "url": "https://d.kstore.dev/download/15123/APK/%E4%BA%91%E8%A7%86%E5%90%AC%E5%BF%ABTV_4.1.2.2220.apk",
+        "icon": "https://d.kstore.dev/download/15123/APK_ICO/com.kwai.tv.yst.png",
+        "version": "V4.1.2"
+      },
+      {
+        "name": "七星影仓",
+        "url": "https://d.kstore.dev/download/15123/APK/com.tianwei.qxyc_6.1.8_2008414125185081344_yecao.net.apk",
+        "icon": "https://d.kstore.dev/download/15123/APK_ICO/com.tianwei.qxyc.png",
+        "version": "V6.1.8"
+      },
+      {
+        "name": "小苹果影视",
+        "url": "https://d.kstore.dev/download/15123/APK/XPGBOX-release-1.6.2.apk",
+        "icon": "https://d.kstore.dev/download/15123/APK_ICO/com.phoenix.tv.png",
+        "version": "V1.6.2"
+      },
+      {
+        "name": "宝宝巴士",
+        "url": "https://d.kstore.dev/download/15123/APK/%E5%AE%9D%E5%AE%9D%E5%B7%B4%E5%A3%AB%E5%84%BF%E6%AD%8C_1.28.00.00.apk",
+        "icon": "https://d.kstore.dev/download/15123/APK_ICO/com.sinyee.babybus.nurseryrhymes.png",
+        "version": "学习版"
+      },
+      {
+        "name": "创世纪影视",
+        "url": "https://d.kstore.dev/download/15123/APK/com.csjyy.app_8.8_2005642561947496448_yecao.net.apk",
+        "icon": "https://d.kstore.dev/download/15123/APK_ICO/com.csjyy.app.png",
+        "version": "V8.8"
+      },
+      {
+        "name": "光元素投屏",
+        "url": "https://d.kstore.dev/download/15123/APK/%E5%85%89%E5%85%83%E7%B4%A0%E6%8A%95%E5%B1%8F_1.2.7-9dad2a0.apk",
+        "icon": "https://d.kstore.dev/download/15123/APK_ICO/com.gyspub.castsink.png",
+        "version": "V1.2.7"
+      },
+      {
+        "name": "小白文件管理",
+        "url": "https://d.kstore.dev/download/15123/APK/%E5%B0%8F%E7%99%BD%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86%E5%99%A8_2.8.0.apk",
+        "icon": "https://d.kstore.dev/download/15123/APK_ICO/com.xiaobaifile.tv.png",
+        "version": "V2.8.0"
+      },
+      {
+        "name": "优化大师",
+        "url": "https://d.kstore.dev/download/15123/APK/tv.fun.maste_3.0.1.0_1863506222314541056_yecao.net.apk",
+        "icon": "https://d.kstore.dev/download/15123/APK_ICO/tv.fun.maste.png",
+        "version": "V3.0.1"
+      }
+    ]
+  }
+]
