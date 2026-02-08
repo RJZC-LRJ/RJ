@@ -1,35 +1,25 @@
-Copyright (c) 2025 RJZC
+# 非商用开源许可证（适配接口/TVBox/FongMi场景）
+本项目（含接口源码、配置文件、API服务、数据订阅源）采用 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License（CC BY-NC-SA 4.0）协议授权。
 
-The Universal Permissive License (UPL), Version 1.0
+## 1. 允许的使用行为
+- 个人非盈利场景下的免费使用、学习、研究；
+- 非盈利目的的二次修改、适配（仅限自用或免费分享）；
+- 非盈利分发时，需完整保留原作者信息、本许可证声明及项目原始地址。
 
-Subject to the condition set forth below, permission is hereby granted to any
-person obtaining a copy of this software, associated documentation and/or data
-(collectively the "Software"), free of charge and under any and all copyright
-rights in the Software, and any and all patent rights owned or freely
-licensable by each licensor hereunder covering either (i) the unmodified
-Software as contributed to or provided by such licensor, or (ii) the Larger
-Works (as defined below), to deal in both
+## 2. 严格禁止的使用行为（核心防盈利条款）
+以下行为均视为「商用/盈利」，一律禁止：
+(1) 将本项目接口/源码打包为付费APP、付费盒子、付费订阅源、付费会员服务；
+(2) 收取搭建费、代更新费、定制费、倒卖接口费、广告变现费等任何形式费用；
+(3) 去除/修改作者署名、冒充原创发布，或闭源二次分发用于盈利；
+(4) 将本项目用于商业产品、商业服务、流量变现等盈利场景；
+(5) 适配/修改后违反「相同方式共享」原则（如闭源商用、更换为允许盈利的协议）。
 
-(a) the Software, and
-(b) any piece of software and/or hardware listed in the lrgrwrks.txt file if
-one is included with the Software (each a “Larger Work” to which the Software
-is contributed by such licensors),
+## 3. 法律约束
+- 任何违反本许可证的商用/盈利行为，作者保留追究其法律责任的权利；
+- 如需商用，必须提前联系作者获得书面授权，未经授权的商用行为均视为侵权；
+- 完整的 CC BY-NC-SA 4.0 官方协议文本可参考：https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
 
-without restriction, including without limitation the rights to copy, create
-derivative works of, display, perform, and distribute the Software and make,
-use, sell, offer for sale, import, export, have made, and have sold the
-Software and the Larger Work(s), and to sublicense the foregoing rights on
-either these or other terms.
-
-This license is subject to the following condition:
-The above copyright notice and either this complete permission notice or at
-a minimum a reference to the UPL must be included in all copies or
-substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+## 4. 基础信息（请替换为你的实际信息）
+- 原作者：[你的昵称/姓名]
+- 项目原始地址：[你的GitHub/Gitee仓库地址]
+- 许可证生效时间：[YYYY-MM-DD]
