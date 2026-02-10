@@ -324,6 +324,16 @@
       "changeable": 1
     },
     {
+      "key": "月光JS",
+      "name": "R. 月光影视",
+      "type": 3,
+      "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/js/%E6%9C%88%E5%85%89%E5%BD%B1%E8%A7%86.js",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
       "key": "奇优JAR",
       "name": "R. 奇优影视",
       "type": 3,
