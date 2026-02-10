@@ -1,12 +1,5 @@
 {
-  "spider": [
-    "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
-    "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-    "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/lh250711.jar",
-    "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/xyq.jar",
-    "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/moyu.jar",
-    "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/Notice.jar"
-  ],
+  "spider": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
   "logo": "https://gitee.com/UserRJZC/rjgitee/raw/Admin/icon/%E7%9A%AE%E5%8D%A1%E4%B8%98.jpg",
   "wallpaper": "https://wp.upx8.com/api.php?content=卡通",
   "warningText": "R:嵘基聚合在线接口免费交流学习使用禁止商用禁止买卖无任何内置软件所有相关文件请在24小时内删除！",
