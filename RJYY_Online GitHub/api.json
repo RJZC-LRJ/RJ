@@ -133,8 +133,17 @@
       "searchable": 0
     },
     {
+      "key": "华数PY",
+      "name": "R. 华数搜索『点击此处或换源用其他』",
+      "type": 3,
+      "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/py/%E5%8D%8E%E6%95%B0TV.py",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
+      "indexs": 1,
+      "searchable": 0
+    },
+    {
       "key": "RJLIVEJS",
-      "name": "R. 嵘基直播『点击此处或换源用其他』",
+      "name": "R. 嵘基直播",
       "type": 3,
       "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/js/live2vod.js",
       "ext": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/json/RongjiLi.json",
@@ -358,6 +367,15 @@
       "name": "R. 猎手影视",
       "type": 3,
       "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/py/%E7%94%B5%E5%BD%B1%E7%8C%8E%E6%89%8B.py",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
+      "changeable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "人人PY",
+      "name": "R. 人人影视",
+      "type": 3,
+      "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/py/RRPY.py",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
       "changeable": 1,
       "quickSearch": 1
