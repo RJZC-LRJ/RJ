@@ -295,10 +295,10 @@
       }
     },
     {
-      "key": "3QJS",
-      "name": "R. 3Q 影视",
+      "key": "星辰JS",
+      "name": "R. 星辰影视",
       "type": 3,
-      "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/js/3Q%E5%BD%B1%E8%A7%86.js",
+      "api": "https://raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/js/%E6%98%9F%E8%BE%B0%E5%BD%B1%E9%99%A2.js",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
       "searchable": 1,
       "quickSearch": 1,
@@ -2032,3 +2032,4 @@
     "cms.qdwght.com"
   ]
 }
+
