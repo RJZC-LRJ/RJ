@@ -1,5 +1,12 @@
 {
-  "spider": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
+  "spider": [
+    "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
+    "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
+    "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/lh250711.jar",
+    "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/xyq.jar",
+    "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/moyu.jar",
+    "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/Notice.jar"
+  ],
   "logo": "https://gitee.com/UserRJZC/rjgitee/raw/Admin/icon/%E7%9A%AE%E5%8D%A1%E4%B8%98.jpg",
   "wallpaper": "https://wp.upx8.com/api.php?content=卡通",
   "warningText": "R:嵘基聚合在线接口免费交流学习使用禁止商用禁止买卖无任何内置软件所有相关文件请在24小时内删除！",
@@ -309,6 +316,16 @@
       "name": "R. 永乐影视",
       "type": 3,
       "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/js/%E6%B0%B8%E4%B9%90%E8%A7%86%E9%A2%91.js",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "奇优JAR",
+      "name": "R. 奇优影视",
+      "type": 3,
+      "api": "csp_Qiyou",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
       "searchable": 1,
       "quickSearch": 1,
@@ -677,6 +694,16 @@
         "日韩综艺",
         "欧美综艺"
       ]
+    },
+    {
+      "key": "鬼片JS",
+      "name": "R. 鬼片大全",
+      "type": 3,
+      "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/js/%E9%AC%BC%E7%89%87%E4%B9%8B%E5%AE%B6.js",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 1
     },
     {
       "key": "预告JAR",
@@ -2034,3 +2061,4 @@
     "cms.qdwght.com"
   ]
 }
+
