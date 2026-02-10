@@ -894,6 +894,20 @@
       "changeable": 1
     },
     {
+      "key": "易听JAR",
+      "name": "C. 易听音乐",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": {
+        "sp": "ShiJiMusic"
+      },
+      "timeout": 10
+    },
+    {
       "key": "爱听PY",
       "name": "C. 爱听音乐",
       "type": 3,
@@ -919,7 +933,7 @@
       "type": 3,
       "api": "csp_AweSomeGuard",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
-      "searchable": 0,
+      "searchable": 1,
       "changeable": 1,
       "ext": {
         "sp": "KuGou"
@@ -1403,7 +1417,7 @@
     },
     {
       "key": "RJAPI.B",
-      "name": "维护：26.02.04_优选",
+      "name": "维护：26.02.10_优选",
       "type": 3,
       "api": "csp_Notice",
       "searchable": 0,
@@ -2061,4 +2075,3 @@
     "cms.qdwght.com"
   ]
 }
-
