@@ -276,21 +276,6 @@
       "changeable": 1
     },
     {
-      "key": "时雨JAR",
-      "name": "R. 时雨影视",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": {
-        "sp": "Xpg",
-        "danmu": true
-      },
-      "timeout": 10
-    },
-    {
       "key": "热播JAR",
       "name": "R. 热播影视",
       "type": 3,
@@ -389,6 +374,16 @@
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
       "changeable": 1,
       "quickSearch": 1
+    },
+    {
+      "key": "骚火JAR",
+      "name": "R. 骚火影视",
+      "type": 3,
+      "api": "csp_SaoHuo",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
+      "changeable": 1,
+      "quickSearch": 1,
+      "ext": "https://shdy5.us"
     },
     {
       "key": "厂长JAR",
@@ -1438,7 +1433,7 @@
     },
     {
       "key": "RJAPI.B",
-      "name": "维护：26.02.10_优选",
+      "name": "维护：26.02.12_优选",
       "type": 3,
       "api": "csp_Notice",
       "searchable": 0,
