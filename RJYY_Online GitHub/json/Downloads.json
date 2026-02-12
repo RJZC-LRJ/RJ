@@ -99,6 +99,12 @@
         "version": "V1.04"
       },
       {
+        "name": "沧海直播",
+        "url": "https://d.kstore.dev/download/15123/APK/com.canghaitv.tvbox_1.0.1_1916348076839743488_yecao.net.apk",
+        "icon": "https://d.kstore.dev/download/15123/APK_ICO/com.canghaitv.tvbox.png",
+        "version": "V1.0.1"
+      },
+      {
         "name": "大屏快手",
         "url": "https://d.kstore.dev/download/15123/APK/%E4%BA%91%E8%A7%86%E5%90%AC%E5%BF%ABTV_4.1.2.2220.apk",
         "icon": "https://d.kstore.dev/download/15123/APK_ICO/com.kwai.tv.yst.png",
@@ -109,12 +115,6 @@
         "url": "https://d.kstore.dev/download/15123/APK/com.tianwei.qxyc_6.1.8_2008414125185081344_yecao.net.apk",
         "icon": "https://d.kstore.dev/download/15123/APK_ICO/com.tianwei.qxyc.png",
         "version": "V6.1.8"
-      },
-      {
-        "name": "小苹果影视",
-        "url": "https://d.kstore.dev/download/15123/APK/XPGBOX-release-1.6.2.apk",
-        "icon": "https://d.kstore.dev/download/15123/APK_ICO/com.phoenix.tv.png",
-        "version": "V1.6.2"
       },
       {
         "name": "宝宝巴士",
