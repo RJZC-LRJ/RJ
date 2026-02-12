@@ -1997,7 +1997,7 @@ GRTN生活频道,http://111.170.156.74:3344/广东地方/gdtv.php?id=102
 
 
 
-云南频道[V4],#genre#
+云南频道,#genre#
 
 
 云南卫视,http://111.170.156.74:3344/地方/地方/yunnan/yunnan.php?id=ynws
