@@ -328,16 +328,16 @@
       "quickSearch": 1,
       "changeable": 1
     },
-		{
-			"key": "云云PY",
-			"name": "R. 云云影视",
-			"type": 3,
-			"api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/py/YYPY.py",
+    {
+      "key": "云云PY",
+      "name": "R. 云云影视",
+      "type": 3,
+      "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/py/YYPY.py",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 1
-		},
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
     {
       "key": "哇哇PY",
       "name": "R. 哇哇影视",
@@ -370,26 +370,26 @@
       "changeable": 1,
       "quickSearch": 1
     },
-	  		{
-			"key": "麦田PY",
-			"name": "R. 麦田影视",
-			"type": 3,
-			"api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/py/%E6%AC%A3%E6%AC%A3%E5%BD%B1%E8%A7%86.py",
+    {
+      "key": "麦田PY",
+      "name": "R. 麦田影视",
+      "type": 3,
+      "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/py/%E6%AC%A3%E6%AC%A3%E5%BD%B1%E8%A7%86.py",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 1
-		},
-	  	  		{
-			"key": "欣欣PY",
-			"name": "R. 欣欣影视",
-			"type": 3,
-			"api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/py/%E9%BA%A6%E7%94%B0%E5%BD%B1%E9%99%A2.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "欣欣PY",
+      "name": "R. 欣欣影视",
+      "type": 3,
+      "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/py/%E9%BA%A6%E7%94%B0%E5%BD%B1%E9%99%A2.py",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 1
-		},
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
     {
       "key": "骚火JAR",
       "name": "R. 骚火影视",
@@ -425,7 +425,7 @@
       "quickSearch": 1,
       "changeable": 1
     },
-	      {
+    {
       "key": "土豆PY",
       "name": "R. 土豆影视",
       "type": 3,
