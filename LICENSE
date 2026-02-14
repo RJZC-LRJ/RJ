@@ -1,0 +1,81 @@
+# Custom Non-Commercial Use License with Liability Disclaimer
+## 自定义非商业使用许可证（含免责声明）
+### Version 1.0, February 2026
+### 版本 1.0，2026年2月
+
+## 1. Preamble 前言
+This License Agreement (hereinafter referred to as the "Agreement") is formulated by the maintainer of the open-source project (hereinafter referred to as the "Maintainer") for all users (hereinafter referred to as the "User") who obtain, use, or disseminate the files, code, and related content of the project (hereinafter referred to as the "Project") hosted on the GitHub platform. The core purpose of this Agreement is to clarify the rights and obligations of both parties in the process of using the Project, strictly restrict illegal and commercial use of the Project, and clearly define the liability exemption scope of the Maintainer. By downloading, cloning, copying, or using any content of the Project in any form, the User is deemed to have fully read, understood, and unconditionally agreed to all the terms and conditions of this Agreement. If the User does not agree with any clause of this Agreement, the User shall immediately stop accessing and using the Project and delete all copies of the Project content in their possession.
+本许可证协议（以下简称“本协议”）由托管于GitHub平台的开源项目（以下简称“本项目”）的维护者（以下简称“维护者”）制定，适用于所有获取、使用、传播本项目文件、代码及相关内容的使用者（以下简称“使用者”）。本协议的核心目的是明确双方在使用本项目过程中的权利与义务，严格限制对本项目的违法使用及商业使用行为，并清晰界定维护者的免责范围。使用者以任何形式下载、克隆、复制、使用本项目任何内容的行为，均视为已完整阅读、理解并无条件同意本协议的全部条款。若使用者不同意本协议任何条款，应立即停止访问和使用本项目，并删除其持有的本项目内容的全部副本。
+
+## 2. Scope of Use Rights 使用权范围
+### 2.1 Free Non-Commercial Use 免费非商用使用
+The Project is provided to the User on a completely free basis, and the User shall have the right to use all files, code, and related resources of the Project solely for personal non-commercial purposes. Personal non-commercial purposes refer to the use of the Project for personal study, technical research, and non-profit self-use scenarios, which do not involve any form of profit-making behavior, including but not limited to: (1) Using the Project's content for personal daily study and research on programming technology, without providing paid technical services to third parties; (2) Using the Project's files for personal non-profit entertainment needs, without charging fees to others for providing access to the Project's content; (3) Modifying the Project's code for personal technical verification, without distributing the modified version to the public for profit.
+本项目以完全免费的方式向使用者提供，使用者有权仅将本项目的所有文件、代码及相关资源用于个人非商业用途。个人非商业用途指将本项目用于个人学习、技术研究、非营利性自用场景，不涉及任何形式的营利行为，包括但不限于：（1）将本项目内容用于个人日常的编程技术学习研究，未向第三方提供有偿技术服务；（2）将本项目文件用于个人非营利性的娱乐需求，未向他人收取费用以提供本项目内容的访问权限；（3）对本项目代码进行修改以完成个人技术验证，未将修改后的版本向公众发布并从中获利。
+
+### 2.2 Strict Prohibition of Illegal Use 严禁违法使用
+The User shall strictly abide by all national laws, regulations, and public order and good customs, and it is unconditionally prohibited to use the Project for any illegal or criminal activities. Illegal use scenarios include but are not limited to: (1) Using the Project to produce, disseminate, or store pornographic, violent, terrorist, separatist, or other harmful information that violates national laws and regulations; (2) Using the Project to infringe upon the intellectual property rights of others, including but not limited to copyright, trademark rights, patent rights, and trade secrets; (3) Using the Project to carry out network fraud, hacking attacks, data theft, or other cybercrime activities; (4) Using the Project to assist in the implementation of illegal and criminal acts such as gambling, money laundering, and pyramid schemes; (5) Other uses that violate the provisions of national laws, administrative regulations, or public order and good customs. Once the User is found to use the Project for illegal purposes, the Maintainer has the right to revoke the User's use rights at any time, and reserve the right to pursue legal liabilities against the User in accordance with the law.
+使用者应严格遵守国家各项法律、法规及公序良俗，无条件禁止将本项目用于任何违法犯罪活动。违法使用场景包括但不限于：（1）利用本项目制作、传播、存储色情、暴力、恐怖、分裂等违反国家法律法规的有害信息；（2）利用本项目侵犯他人知识产权，包括但不限于著作权、商标权、专利权、商业秘密等；（3）利用本项目开展网络诈骗、黑客攻击、数据窃取等网络犯罪活动；（4）利用本项目协助实施赌博、洗钱、传销等违法犯罪行为；（5）其他违反国家法律、行政法规规定或公序良俗的使用行为。一旦发现使用者将本项目用于违法用途，维护者有权随时撤销使用者的使用权限，并保留依法追究使用者法律责任的权利。
+
+### 2.3 Prohibition of Commercial Use 禁止商用
+Commercial use of the Project in any form is strictly prohibited. Commercial use refers to any behavior that directly or indirectly obtains economic benefits through the use of the Project, including but not limited to: (1) Selling, renting, or licensing the Project's files, code, or modified versions to third parties for profit; (2) Using the Project's content to operate paid membership services, advertising monetization, or value-added services; (3) Incorporating the Project's code or resources into commercial products for sale or distribution; (4) Using the Project to provide paid technical support, training, or consulting services to others; (5) Other behaviors that use the Project to obtain cash, physical objects, or other economic benefits. If the User violates the provisions of this clause and engages in commercial use of the Project, the Maintainer has the right to demand the User to stop the infringement immediately, delete all commercialized content related to the Project, and compensate for all direct and indirect losses caused to the Maintainer (if any).
+严禁以任何形式将本项目用于商业用途。商业用途指通过使用本项目直接或间接获取经济利益的行为，包括但不限于：（1）将本项目的文件、代码或修改版本出售、出租、授权给第三方以获取利润；（2）利用本项目内容运营付费会员服务、广告变现、增值服务等；（3）将本项目的代码或资源融入商业产品中进行销售或分发；（4）利用本项目向他人提供有偿的技术支持、培训、咨询服务；（5）其他利用本项目获取现金、实物或其他经济利益的行为。使用者若违反本条款约定，将本项目用于商业用途，维护者有权要求使用者立即停止侵权行为，删除所有与本项目相关的商业化内容，并赔偿给维护者造成的全部直接和间接损失（如有）。
+
+### 2.4 Mandatory 24-Hour Deletion Requirement 强制24小时删除要求
+The User shall delete all files, code, and related copies of the Project (including local storage, cloud disk storage, mobile device storage, etc.) within 24 hours from the moment of downloading, cloning, or obtaining the Project content. The 24-hour time limit starts from the time when the User completes the download or acquisition of the Project content, and the User shall bear the sole responsibility for failing to delete the Project content within the time limit. The consequences of failing to delete on time include but are not limited to: (1) Any legal liability arising from the retention of the Project content, such as copyright infringement, shall be borne by the User alone; (2) Any economic losses or disputes caused by the unauthorized dissemination of the retained Project content shall be settled by the User independently; (3) The Maintainer shall not be liable for any losses suffered by the User due to failure to delete on time. The User confirms that they have fully understood the risks of failing to delete on time and voluntarily assume all corresponding responsibilities.
+使用者应自下载、克隆、获取本项目内容之时起24小时内，删除本项目的所有文件、代码及相关副本（包括本地存储、网盘存储、移动设备存储等）。24小时时限从使用者完成本项目内容的下载或获取操作时开始计算，未按时删除本项目内容的责任由使用者单独承担。未按时删除的后果包括但不限于：（1）因留存本项目内容引发的任何法律责任，如著作权侵权等，均由使用者自行承担；（2）因擅自传播留存的本项目内容造成的经济损失或纠纷，由使用者自行解决；（3）使用者因未按时删除而遭受的任何损失，维护者不承担任何责任。使用者确认已充分理解未按时删除的风险，并自愿承担所有相应责任。
+
+## 3. Liability Disclaimer 免责声明
+### 3.1 Source of Content 内容来源
+All content of the Project, including but not limited to code, files, links, and resource addresses, is sourced from the public network. The Maintainer only collects and organizes the above content for technical exchange and sharing purposes, and does not claim ownership of the copyright, trademark right, or other intellectual property rights of the original content. The Maintainer has not conducted a comprehensive review of the legality, authenticity, and completeness of the network-sourced content, and the User shall independently verify and judge the content when using it.
+本项目的所有内容，包括但不限于代码、文件、链接、资源地址等，均来源于公开网络。维护者仅为技术交流和分享目的对上述内容进行收集、整理，不主张对原始内容的著作权、商标权或其他知识产权享有所有权。维护者未对来源于网络的内容的合法性、真实性、完整性进行全面审核，使用者在使用时应自行对内容进行验证和判断。
+
+### 3.2 Exemption from Legal Liability 法律责任豁免
+The Maintainer shall not be liable for any direct, indirect, incidental, special, or consequential damages or legal liabilities arising from the User's use of the Project, including but not limited to: (1) Legal liabilities such as administrative penalties, civil compensation, or criminal sanctions borne by the User due to violation of national laws and regulations when using the Project; (2) Economic losses suffered by the User due to the inaccuracy, incompleteness, or invalidity of the Project content; (3) Copyright, privacy, or other civil disputes between the User and third parties arising from the use of the Project; (4) Losses caused by the failure of the Project's functions, including but not limited to data loss, system crash, or service interruption; (5) Other losses or liabilities not listed above but arising from the use of the Project. The User agrees that in any case, the maximum liability of the Maintainer for the User shall not exceed zero yuan (RMB), and the User shall waive all claims against the Maintainer for losses arising from the use of the Project.
+对于使用者因使用本项目而产生的任何直接、间接、附带、特殊或后果性的损害或法律责任，维护者均不承担责任，包括但不限于：（1）使用者在使用本项目时因违反国家法律法规而承担的行政处罚、民事赔偿、刑事制裁等法律责任；（2）使用者因本项目内容不准确、不完整、失效而遭受的经济损失；（3）使用者因使用本项目与第三方发生的著作权、隐私权等民事纠纷；（4）因本项目功能失效造成的损失，包括但不限于数据丢失、系统崩溃、服务中断等；（5）其他未列明但因使用本项目产生的损失或责任。使用者同意，在任何情况下，维护者对使用者承担的最大赔偿责任不超过零元（人民币），使用者应放弃因使用本项目产生损失而向维护者提出的所有索赔要求。
+
+### 3.3 Indemnification 赔偿保障
+If the Maintainer is involved in litigation, arbitration, or administrative penalties due to the User's violation of this Agreement (including but not limited to illegal use, commercial use, or failure to delete on time), the User shall indemnify the Maintainer for all losses incurred thereby, including but not limited to litigation fees, attorney fees, compensation amounts, administrative fines, and reputation losses. The User shall bear the corresponding compensation liability within 7 days after receiving the Maintainer's written notice, and shall actively cooperate with the Maintainer to handle relevant legal matters.
+若因使用者违反本协议约定（包括但不限于违法使用、商用、未按时删除等）导致维护者卷入诉讼、仲裁或行政处罚程序，使用者应赔偿维护者因此产生的全部损失，包括但不限于诉讼费、律师费、赔偿金额、行政罚款、名誉损失等。使用者应在收到维护者书面通知后7日内承担相应的赔偿责任，并积极配合维护者处理相关法律事宜。
+
+## 4. Termination of Agreement 协议终止
+### 4.1 Automatic Termination 自动终止
+This Agreement shall automatically terminate when the User deletes all content of the Project within the 24-hour time limit as stipulated in Clause 2.4. After the termination of the Agreement, the User shall no longer have the right to use any content of the Project, and shall not download or obtain the Project content again without the written consent of the Maintainer.
+当使用者按照第2.4条约定在24小时时限内删除本项目全部内容时，本协议自动终止。协议终止后，使用者不再享有使用本项目任何内容的权利，未经维护者书面同意，不得再次下载或获取本项目内容。
+
+### 4.2 Termination by the Maintainer 维护者终止
+The Maintainer has the right to terminate this Agreement at any time and revoke the User's use rights if the User violates any clause of this Agreement, and the User shall delete all Project content immediately upon receiving the termination notice. The termination of the Agreement shall not affect the liability that the User should bear for the violations committed before the termination.
+若使用者违反本协议任何条款，维护者有权随时终止本协议并撤销使用者的使用权限，使用者应在收到终止通知后立即删除全部本项目内容。协议终止不影响使用者对终止前的违约行为应承担的责任。
+
+## 5. Governing Law and Dispute Resolution 适用法律及争议解决
+### 5.1 Governing Law 适用法律
+This Agreement shall be governed by and construed in accordance with the laws of the People's Republic of China. Any matters not covered by this Agreement shall be handled in accordance with the relevant provisions of Chinese laws and regulations.
+本协议受中华人民共和国法律管辖，并依其解释。本协议未作规定的事项，按照中国相关法律法规的规定处理。
+
+### 5.2 Dispute Resolution 争议解决
+Any dispute arising from or in connection with this Agreement shall first be resolved through friendly negotiation between the User and the Maintainer. If the negotiation fails, either party may file a lawsuit with the people's court having jurisdiction over the place where the Maintainer is located. During the dispute resolution process, the valid clauses of this Agreement shall continue to be enforced except for the disputed part.
+因本协议引起的或与本协议有关的任何争议，应首先由使用者与维护者通过友好协商解决。协商不成的，任何一方均有权向维护者所在地有管辖权的人民法院提起诉讼。争议解决期间，除争议部分外，本协议的有效条款应继续执行。
+
+## 6. Other Provisions 其他条款
+### 6.1 Entire Agreement 完整协议
+This Agreement constitutes the entire agreement between the User and the Maintainer regarding the use of the Project, replacing all prior oral or written agreements, understandings, or commitments between the two parties. Any supplementary agreement to this Agreement shall be valid only if it is signed or confirmed in writing by both parties.
+本协议构成使用者与维护者之间关于使用本项目的完整协议，取代双方此前所有口头或书面的协议、谅解或承诺。对本协议的任何补充协议，仅在双方书面签署或确认后生效。
+
+### 6.2 Severability 可分割性
+If any clause of this Agreement is deemed invalid or unenforceable by a court or arbitration institution with competent jurisdiction, the remaining clauses shall remain valid and enforceable to the maximum extent permitted by law. The invalid or unenforceable clause shall be replaced by a valid clause that best achieves the original purpose of the clause.
+若本协议任何条款被有管辖权的法院或仲裁机构认定为无效或不可执行，其余条款仍应在法律允许的最大范围内保持有效和可执行。无效或不可执行的条款应被替换为最能实现该条款原有目的的有效条款。
+
+### 6.3 Modification and Update 修改与更新
+The Maintainer reserves the right to modify or update the terms of this Agreement at any time. The modified Agreement shall be published on the GitHub project page, and the modified terms shall take effect from the date of publication. The User's continued use of the Project after the modification of the Agreement shall be deemed to have agreed to the modified terms.
+维护者保留随时修改或更新本协议条款的权利。修改后的协议将在GitHub项目页面发布，修改后的条款自发布之日起生效。使用者在协议修改后继续使用本项目的行为，视为已同意修改后的条款。
+
+### 6.4 Notice 通知
+All notices, demands, or communications under this Agreement shall be sent to the contact information published on the GitHub project page. The Maintainer may publish notices through the project page, and the notice shall be deemed to have been received by the User on the date of publication.
+本协议项下的所有通知、要求或沟通，均应发送至GitHub项目页面公布的联系方式。维护者可通过项目页面发布通知，通知自发布之日起视为已送达使用者。
+
+## 7. Final Provisions 最终条款
+This Agreement shall take effect from the moment the User downloads, clones, or uses any content of the Project. The User confirms that they have the capacity to enter into this Agreement (including civil capacity and behavioral capacity), and the signing and performance of this Agreement do not violate any agreements or obligations that the User has assumed to third parties.
+本协议自使用者下载、克隆或使用本项目任何内容之时起生效。使用者确认其具备签订本协议的能力（包括民事行为能力和权利能力），且本协议的签订和履行不违反使用者对第三方承担的任何协议或义务。
+
+Last Updated: February 15, 2026
+Updated by: [Your GitHub Username/Nickname]
+Contact: [Your Contact Information (Optional)]
