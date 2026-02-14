@@ -235,16 +235,11 @@
       "key": "瓜子JAR",
       "name": "R. 瓜子影视",
       "type": 3,
-      "api": "csp_AweSomeGuard",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
+      "api": "csp_Guazi",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/moyu.jar",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "ext": {
-        "sp": "Guazi",
-        "danmu": true
-      },
-      "timeout": 10
+      "changeable": 1
     },
     {
       "key": "柠檬JAR",
@@ -2127,3 +2122,4 @@
     "cms.qdwght.com"
   ]
 }
+
