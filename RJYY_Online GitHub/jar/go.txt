@@ -5,5 +5,4 @@
   "goproxy_amd64": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/go/goproxy_amd64",
   "goproxy_arm": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/go/goproxy_arm",
   "goproxy_arm64": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/go/goproxy_arm64"
-
 }
