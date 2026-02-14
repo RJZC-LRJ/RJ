@@ -133,7 +133,7 @@ class Spider(Spider):
                 'vod_actor': i['vodActor'],
                 'vod_director': i['vodDirector'],
                 'vod_content': i['vodContent'],
-                'vod_play_from': '云盒专享',
+                'vod_play_from': '界界影视网',
                 'vod_play_url': '#'.join(urls),
 
             }
@@ -173,4 +173,5 @@ class Spider(Spider):
         return headers
 
 if __name__ == '__main__':
+
     pass
