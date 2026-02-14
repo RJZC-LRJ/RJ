@@ -430,6 +430,16 @@
       "searchable": 1,
       "changeable": 1
     },
+        {
+      "key": "土豆PY",
+      "name": "R. 土豆影视",
+      "type": 3,
+      "api": "https://10167.kstore.space/RJYY_Online+Space/py/%E5%9C%9F%E8%B1%86%E6%B5%8F%E8%A7%88%E5%99%A8.py",
+      "jar": "https://10167.kstore.space/RJYY_Online+Space/jar/rjzc.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
     {
       "key": "人人PY",
       "name": "R. 人人影视",
@@ -2085,3 +2095,4 @@
     "cms.qdwght.com"
   ]
 }
+
