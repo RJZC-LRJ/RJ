@@ -425,6 +425,16 @@
       "quickSearch": 1,
       "changeable": 1
     },
+	      {
+      "key": "土豆PY",
+      "name": "R. 土豆影视",
+      "type": 3,
+      "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/py/%E5%9C%9F%E8%B1%86%E6%B5%8F%E8%A7%88%E5%99%A8.py",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
     {
       "key": "比特JAR",
       "name": "R. 比特影视",
@@ -1454,7 +1464,7 @@
     },
     {
       "key": "RJAPI.B",
-      "name": "维护：26.02.12_优选",
+      "name": "维护：26.02.14_优选",
       "type": 3,
       "api": "csp_Notice",
       "searchable": 0,
@@ -2112,5 +2122,3 @@
     "cms.qdwght.com"
   ]
 }
-
-
