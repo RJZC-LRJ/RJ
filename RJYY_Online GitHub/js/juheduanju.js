@@ -25,9 +25,9 @@ const aggConfig = {
     甜圈: { host: 'https://mov.cenguigui.cn', url1: '/duanju/api.php?classname', url2: '/duanju/api.php?book_id', search: '/duanju/api.php?name' }
   },
   platformList: [
-    { name: '七猫短剧', id: '七猫' }, { name: '锦鲤短剧', id: '锦鲤' },
-    { name: '番茄短剧', id: '番茄' }, { name: '星芽短剧', id: '星芽' }, { name: '西饭短剧', id: '西饭' },
-    { name: '软鸭短剧', id: '软鸭' }, { name: '围观短剧', id: '围观' }
+    { name: '七猫短剧', id: '七猫' },
+    { name: '星芽短剧', id: '星芽' },
+    { name: '围观短剧', id: '围观' }
   ],
   search: { limit: 30, timeout: 6000 }
 };
