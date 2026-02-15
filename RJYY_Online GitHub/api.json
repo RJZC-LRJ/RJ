@@ -861,19 +861,6 @@
       "ext": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/json/%E5%B7%B4%E5%A3%AB%E5%8A%A8%E6%BC%AB.json"
     },
     {
-      "key": "锦鲤JAR",
-      "name": "Z. 锦鲤短剧",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
-      "searchable": 0,
-      "changeable": 1,
-      "ext": {
-        "sp": "Jinli"
-      },
-      "timeout": 10
-    },
-    {
       "key": "星芽JAR",
       "name": "Z. 星芽短剧",
       "type": 3,
@@ -894,6 +881,20 @@
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
       "searchable": 0,
       "changeable": 1
+    },
+    {
+      "key": "碎片JAR",
+      "name": "Z. 碎片短剧",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "sp": "SuiPian"
+      },
+      "timeout": 10
     },
     {
       "key": "剧和JS",
