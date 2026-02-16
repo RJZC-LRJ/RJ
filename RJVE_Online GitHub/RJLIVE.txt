@@ -1,4 +1,4 @@
-嵘基直播[优选],#genre#
+嵘基直播[优选],#genre#,JS=https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJVE_Online%20GitHub/js/webview.js
 
 
 26.02.16,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/WKQGfOoN&pwd=1109
@@ -10,9 +10,9 @@
 央视网抖直播[FM],video://https://live.douyin.com/870887192950
 央视网快看播[FM],video://https://live.douyin.com/127453393722
 央视一套直播[FM],video://https://live.douyin.com/456815963645
-央视网抖直播[K9],https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJVE_Online%20GitHub/js/webview.js?id=https://live.douyin.com/870887192950
-央视网快看播[K9],https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJVE_Online%20GitHub/js/webview.js?id=https://live.douyin.com/127453393722
-央视一套直播[K9],https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJVE_Online%20GitHub/js/webview.js?id=https://live.douyin.com/456815963645
+央视网抖直播[K9],http://A/ku9/js/web.js?id=https://live.douyin.com/870887192950
+央视网快看播[K9],http://A/ku9/js/web.js?id=https://live.douyin.com/127453393722
+央视一套直播[K9],http://A/ku9/js/web.js?id=https://live.douyin.com/456815963645
 
 
 
@@ -2905,6 +2905,7 @@ CETV-4,http://A/ku9/js/web.js?id=https://tv.gxtv.cn/channel/channelivePlay_67eac
 浙江国际,http://A/ku9/js/web.js?id=https://www.cztv.com/liveTV/110
 好易购,http://A/ku9/js/web.js?id=https://www.cztv.com/liveTV/111
 之江纪录,http://A/ku9/js/web.js?id=https://www.cztv.com/liveTV/112
+
 
 
 
