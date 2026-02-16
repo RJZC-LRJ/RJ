@@ -1,4 +1,4 @@
-嵘基直播[优选],#genre#,JS=https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJVE_Online%20GitHub/js/webview.js
+嵘基直播[优选],#genre#
 
 
 26.02.16,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/WKQGfOoN&pwd=1109
@@ -10,16 +10,10 @@
 嵘基分享,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/NrQGf33P&pwd=1109
 嵘基分享,https://lz0.qaiu.top/parser?url=https://share.feijipan.com/s/NrQGf33P&pwd=1109
 嵘基分享,https://d.kstore.dev/download/15123/RJYY_MP4/2.mp4
-央视网抖直播[FM],video://https://live.douyin.com/870887192950
-央视网快看播[FM],video://https://live.douyin.com/127453393722
-央视一套直播[FM],video://https://live.douyin.com/456815963645
-央视网抖直播[K9],webview://https://live.douyin.com/870887192950
-央视网快看播[K9],webview://https://live.douyin.com/127453393722
-央视一套直播[K9],webview://https://live.douyin.com/456815963645
 
 
 
-央卫频道[1],#genre#
+央卫频道[01],#genre#
 
 
 CCTV-1HD,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
@@ -175,7 +169,7 @@ CCTV-央视台球,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
 
 
 
-央卫频道[2],#genre#
+央卫频道[02],#genre#
 
 
 CCTV1综合,http://101.200.122.188:1234/608807420
@@ -295,7 +289,7 @@ CETV4,http://101.200.122.188:1234/923287339
 
 
 
-央卫频道[3],#genre#
+央卫频道[03],#genre#
 
 
 CCTV1HD,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
@@ -360,7 +354,7 @@ CCTV女性时尚,http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
 
 
 
-央卫频道[4],#genre#
+央卫频道[04],#genre#
 
 
 CCTV1,http://116.77.239.26:44300/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -422,7 +416,7 @@ CGTN,http://116.77.239.26:44300/tsfile/live/1012_1.m3u8?key=txiptv&playlive=0&au
 
 
 
-经典回顾,#genre#
+经典回顾[V4],#genre#
 
 
 春晚1983,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
@@ -497,7 +491,7 @@ CGTN,http://116.77.239.26:44300/tsfile/live/1012_1.m3u8?key=txiptv&playlive=0&au
 
 
 
-全国景区,#genre#
+全国景区[V4],#genre#
 
 
 直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
@@ -599,7 +593,7 @@ CGTN,http://116.77.239.26:44300/tsfile/live/1012_1.m3u8?key=txiptv&playlive=0&au
 
 
 
-北京频道,#genre#
+北京频道[V4],#genre#
 
 
 北京卫视,http://111.170.156.74:3344/地方/地方/beijing/beijing.php?id=bjws
@@ -615,7 +609,7 @@ BRTV新闻,http://111.170.156.74:3344/地方/地方/beijing/beijing.php?id=bjxw
 
 
 
-安徽频道,#genre#
+安徽频道[V4],#genre#
 
 
 安徽经济生活,http://111.170.156.74:3344/地方/地方/anhui/anhui.php?id=ahjjsh
@@ -648,7 +642,7 @@ BRTV新闻,http://111.170.156.74:3344/地方/地方/beijing/beijing.php?id=bjxw
 
 
 
-天津频道,#genre#
+天津频道[V4],#genre#
 
 
 天津卫视,http://8.140.57.83:88/wsd.php?id=30001110000000000000000000000698
@@ -662,7 +656,7 @@ BRTV新闻,http://111.170.156.74:3344/地方/地方/beijing/beijing.php?id=bjxw
 
 
 
-湖南频道,#genre#
+湖南频道[V4],#genre#
 
 
 湖南经视,http://111.170.156.74:3344/地方/地方/hunan/hunan.php?id=hnjs
@@ -686,7 +680,7 @@ BRTV新闻,http://111.170.156.74:3344/地方/地方/beijing/beijing.php?id=bjxw
 
 
 
-上海频道,#genre#
+上海频道[V4],#genre#
 
 
 上海新闻综合,http://bp-livetytv.bestv.cn/ch/bestvxwzh.m3u8
@@ -706,7 +700,7 @@ BRTV新闻,http://111.170.156.74:3344/地方/地方/beijing/beijing.php?id=bjxw
 
 
 
-广东地方,#genre#
+广东地方[V4],#genre#
 
 
 广东卫视,http://111.170.156.74:3344/广东地方/gdtv.php?id=43
@@ -783,7 +777,7 @@ GRTN生活频道,http://111.170.156.74:3344/广东地方/gdtv.php?id=102
 
 
 
-山东频道,#genre#
+山东频道[V4],#genre#
 
 
 山东卫视,http://111.170.156.74:3344/山东频道/sdtv.php?id=sdws
@@ -1168,7 +1162,7 @@ GRTN生活频道,http://111.170.156.74:3344/广东地方/gdtv.php?id=102
 
 
 
-江苏频道,#genre#
+江苏频道[V4],#genre#
 
 
 江苏卫视4K,http://111.170.156.74:3344/地方频道/js.php?id=jsws4kpro
@@ -1230,7 +1224,7 @@ GRTN生活频道,http://111.170.156.74:3344/广东地方/gdtv.php?id=102
 
 
 
-浙江频道,#genre#
+浙江频道[V4],#genre#
 
 
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
@@ -1358,7 +1352,7 @@ GRTN生活频道,http://111.170.156.74:3344/广东地方/gdtv.php?id=102
 
 
 
-辽宁频道,#genre#
+辽宁频道[V4],#genre#
 
 
 辽宁都市,http://sh.lnott.top:880/dx20.m3u8
@@ -1433,7 +1427,7 @@ GRTN生活频道,http://111.170.156.74:3344/广东地方/gdtv.php?id=102
 
 
 
-黑龙江频道,#genre#
+龙江频道[V4],#genre#
 
 
 黑龙江卫视频道,http://111.170.156.74:3344/黑龙江频道/hljtv.php?id=hljws
@@ -1469,7 +1463,7 @@ GRTN生活频道,http://111.170.156.74:3344/广东地方/gdtv.php?id=102
 
 
 
-吉林频道,#genre#
+吉林频道[V4],#genre#
 
 
 吉林卫视,http://111.170.156.74:3344/地方/地方/jilin/jilin.php?id=jlws
@@ -1532,7 +1526,7 @@ GRTN生活频道,http://111.170.156.74:3344/广东地方/gdtv.php?id=102
 
 
 
-河北频道,#genre#
+河北频道[V4],#genre#
 
 
 河北卫视,http://111.170.156.74:3344/河北频道/hbtv.php?id=hbws
@@ -1616,7 +1610,7 @@ GRTN生活频道,http://111.170.156.74:3344/广东地方/gdtv.php?id=102
 
 
 
-湖北频道,#genre#
+湖北频道[V4],#genre#
 
 
 湖北卫视,http://111.170.156.74:3344/湖北/hbtv.php?id=hbws
@@ -1643,7 +1637,7 @@ GRTN生活频道,http://111.170.156.74:3344/广东地方/gdtv.php?id=102
 
 
 
-河南频道,#genre#
+河南频道[V4],#genre#
 
 
 河南卫视,http://111.170.156.74:3344/河南频道/hntv.php?id=hnws
@@ -1754,7 +1748,7 @@ GRTN生活频道,http://111.170.156.74:3344/广东地方/gdtv.php?id=102
 
 
 
-四川频道,#genre#
+四川频道[V4],#genre#
 
 
 四川卫视,http://111.170.156.74:3344/sctv.php?id=1
@@ -1804,7 +1798,7 @@ GRTN生活频道,http://111.170.156.74:3344/广东地方/gdtv.php?id=102
 
 
 
-山西频道,#genre#
+山西频道[V4],#genre#
 
 
 山西卫视,http://111.170.156.74:3344/地方/地方/shanxi/difang.php?id=sxws_fy
@@ -1860,7 +1854,7 @@ GRTN生活频道,http://111.170.156.74:3344/广东地方/gdtv.php?id=102
 
 
 
-重庆频道,#genre#
+重庆频道[V4],#genre#
 
 
 重庆.垫江综合,http://play-sh.quklive.com/live/1672366847646284.m3u8
@@ -1886,7 +1880,7 @@ GRTN生活频道,http://111.170.156.74:3344/广东地方/gdtv.php?id=102
 
 
 
-陕西频道,#genre#
+陕西频道[V4],#genre#
 
 
 陕西卫视,http://111.170.156.74:3344/地方/地方/shanxi2/shanxi.php?id=sxws
@@ -1910,7 +1904,7 @@ GRTN生活频道,http://111.170.156.74:3344/广东地方/gdtv.php?id=102
 
 
 
-青海频道,#genre#
+青海频道[V4],#genre#
 
 
 青海.青神综合,https://lmt.scqstv.com/live1/live1.m3u8
@@ -1929,7 +1923,7 @@ GRTN生活频道,http://111.170.156.74:3344/广东地方/gdtv.php?id=102
 
 
 
-广西频道,#genre#
+广西频道[V4],#genre#
 
 
 广西卫视,http://111.170.156.74:3344/广西频道/gxtv.php?id=1
@@ -1948,7 +1942,7 @@ GRTN生活频道,http://111.170.156.74:3344/广东地方/gdtv.php?id=102
 
 
 
-福建频道,#genre#
+福建频道[V4],#genre#
 
 
 福建综合,http://111.170.156.74:3344/地方频道/fujian/haibo.php?id=fjzh
@@ -1968,7 +1962,7 @@ GRTN生活频道,http://111.170.156.74:3344/广东地方/gdtv.php?id=102
 
 
 
-江西频道,#genre#
+江西频道[V4],#genre#
 
 
 江西都市,http://111.170.156.74:3344/地方/jx.php?u=http://play-live-jsp.jxtvcn.com.cn/live-city/tv_jxtv2
@@ -1990,7 +1984,7 @@ GRTN生活频道,http://111.170.156.74:3344/广东地方/gdtv.php?id=102
 
 
 
-贵州频道,#genre#
+贵州频道[V4],#genre#
 
 
 贵州卫视,http://111.170.156.74:3344/地方/地方/guizhou/guizhou.php?id=gzws
@@ -2006,7 +2000,7 @@ GRTN生活频道,http://111.170.156.74:3344/广东地方/gdtv.php?id=102
 
 
 
-云南频道,#genre#
+云南频道[V4],#genre#
 
 
 云南卫视,http://111.170.156.74:3344/地方/地方/yunnan/yunnan.php?id=ynws
@@ -2032,7 +2026,7 @@ GRTN生活频道,http://111.170.156.74:3344/广东地方/gdtv.php?id=102
 
 
 
-海南频道,#genre#
+海南频道[V4],#genre#
 
 
 海南卫视,http://111.170.156.74:3344/地方/地方/hainan/hainan.php?id=hnws
@@ -2045,7 +2039,7 @@ GRTN生活频道,http://111.170.156.74:3344/广东地方/gdtv.php?id=102
 
 
 
-内蒙古频道,#genre#
+蒙古频道[V4],#genre#
 
 
 内蒙古卫视,http://111.170.156.74:3344/地方/地方/neimeng/neimeng.php?id=nmws
@@ -2079,7 +2073,7 @@ GRTN生活频道,http://111.170.156.74:3344/广东地方/gdtv.php?id=102
 
 
 
-新疆频道,#genre#
+新疆频道[V4],#genre#
 
 
 新疆卫视,http://111.170.156.74:3344/地方/地方/xinjiang/xinjiang.php?id=xjws
@@ -2155,7 +2149,7 @@ GRTN生活频道,http://111.170.156.74:3344/广东地方/gdtv.php?id=102
 
 
 
-西藏频道,#genre#
+西藏频道[V4],#genre#
 
 
 西藏卫视,http://111.170.156.74:3344/地方/地方/xizang/xizang.php?id=xzws
@@ -2176,7 +2170,7 @@ lswl,http://111.170.156.74:3344/地方/地方/xizang/lasa.php?id=lswl
 
 
 
-甘肃频道,#genre#
+甘肃频道[V4],#genre#
 
 
 甘肃卫视,http://111.170.156.74:3344/甘肃频道/stgs.php?n=%E5%8D%AB%E8%A7%86
@@ -2220,7 +2214,7 @@ lswl,http://111.170.156.74:3344/地方/地方/xizang/lasa.php?id=lswl
 
 
 
-宁夏频道,#genre#
+宁夏频道[V4],#genre#
 
 
 宁夏卫视频道,http://111.170.156.74:3344/宁夏频道/nx.php?ua=YWxpcGxheWVyKGFwcHY9MS4xLjQmYXY9Ny4yLjAmYXYyPTcuMi4wXzQ0OTYxMzU3Jm9zPWFuZHJvaWQmb3Y9MTImZG09U00tQTU1NjAp&referer=aHR0cHM6Ly9hcGkuY2hpbmFhdWRpb3Zpc3VhbC5jbi8=&mode=1&hls=aHR0cHM6Ly9obHMubmluZ3hpYWh1YW5naGV5dW4uY29tL2xpdmUvbnh3czFNLm0zdTg=
@@ -2231,7 +2225,7 @@ lswl,http://111.170.156.74:3344/地方/地方/xizang/lasa.php?id=lswl
 
 
 
-央卫频道[5],#genre#
+央卫频道[KU9],#genre#
 
 
 CCTV1,http://go.bkpcp.top/mg/cctv1
@@ -2277,7 +2271,7 @@ CGTN-法,http://go.bkpcp.top/mg/cgtnf
 
 
 
-央卫频道[6],#genre#
+卫央频道[K9],#genre#
 
 
 北京卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=bjws
@@ -2326,7 +2320,7 @@ CCTV-17高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv17
 
 
 
-央卫频道[7],#genre#
+央卫高码[K9],#genre#
 
 
 CCTV-01高码,http://t.061899.xyz/tl/tl.php?id=cctv1
@@ -2378,7 +2372,7 @@ CCTV-17高码,http://t.061899.xyz/tl/tl.php?id=cctv17
 
 
 
-央卫频道[8],#genre#
+卫央高码[K9],#genre#
 
 
 北京卫视高码,http://k.061899.xyz/m.php?id=bjws
@@ -2431,6 +2425,10 @@ CCTV-17高码,http://k.061899.xyz/m.php?id=cctv17
 
 央视网页[FM],#genre#
 
+
+央视网抖直播,video://https://live.douyin.com/870887192950
+央视网快看播,video://https://live.douyin.com/127453393722
+央视一套直播,video://https://live.douyin.com/456815963645
 
 CCTV4K,video://https://yangshipin.cn/tv/home?pid=600002264
 CCTV1,video://https://yangshipin.cn/tv/home?pid=600001859
@@ -2673,6 +2671,10 @@ CETV-4,video://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca90
 央视网页[K9],#genre#,JS=https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJVE_Online%20GitHub/js/webview.js
 
 
+央视网抖直播,webview://https://live.douyin.com/870887192950
+央视网快看播,webview://https://live.douyin.com/127453393722
+央视一套直播,webview://https://live.douyin.com/456815963645
+
 CCTV4K,https://gongdian.top/tv/ku9/js/web.js?id=https://yangshipin.cn/tv/home?pid=600002264
 CCTV1,http://A/ku9/js/web.js?id=https://yangshipin.cn/tv/home?pid=600001859
 CCTV2,http://A/ku9/js/web.js?id=https://yangshipin.cn/tv/home?pid=600001800
@@ -2908,6 +2910,7 @@ CETV-4,http://A/ku9/js/web.js?id=https://tv.gxtv.cn/channel/channelivePlay_67eac
 浙江国际,http://A/ku9/js/web.js?id=https://www.cztv.com/liveTV/110
 好易购,http://A/ku9/js/web.js?id=https://www.cztv.com/liveTV/111
 之江纪录,http://A/ku9/js/web.js?id=https://www.cztv.com/liveTV/112
+
 
 
 
