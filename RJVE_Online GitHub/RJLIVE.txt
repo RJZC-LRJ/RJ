@@ -2246,7 +2246,7 @@ CCTV-17高码,http://k.061899.xyz/m.php?id=cctv17
 央视网快看播,webview://https://live.douyin.com/127453393722
 央视一套直播,webview://https://live.douyin.com/456815963645
 
-CCTV4K,https://gongdian.top/tv/ku9/js/web.js?id=https://yangshipin.cn/tv/home?pid=600002264
+CCTV4K,http://A/ku9/js/web.js?id=https://yangshipin.cn/tv/home?pid=600002264
 CCTV1,http://A/ku9/js/web.js?id=https://yangshipin.cn/tv/home?pid=600001859
 CCTV2,http://A/ku9/js/web.js?id=https://yangshipin.cn/tv/home?pid=600001800
 CCTV4,http://A/ku9/js/web.js?id=https://yangshipin.cn/tv/home?pid=600001814
