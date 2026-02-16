@@ -2752,32 +2752,6 @@ GRTN教育频道,http://A/ku9/js/web.js?id=https://www.gdtv.cn/tvChannelDetail/1
 
 
 
-北京网页[K9],#genre#,JS=https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJVE_Online%20GitHub/js/webview.js
-
-
-北京卫视,http://A/ku9/js/web.js?id=https://www.brtn.cn/btv/btvsy_index?channel=北京卫视
-BRTV文艺,http://A/ku9/js/web.js?id=https://www.brtn.cn/btv/btvsy_index?channel=BRTV文艺
-BRTV纪实科教,http://A/ku9/js/web.js?id=https://www.brtn.cn/btv/btvsy_index?channel=BRTV纪实科教
-BRTV影视,http://A/ku9/js/web.js?id=https://www.brtn.cn/btv/btvsy_index?channel=BRTV影视
-BRTV财经,http://A/ku9/js/web.js?id=https://www.brtn.cn/btv/btvsy_index?channel=BRTV财经
-BRTV体育休闲,http://A/ku9/js/web.js?id=https://www.brtn.cn/btv/btvsy_index?channel=BRTV体育休闲
-BRTV i生活,http://A/ku9/js/web.js?id=https://www.brtn.cn/btv/btvsy_index?channel=BRTV i生活
-BRTV新闻,http://A/ku9/js/web.js?id=https://www.brtn.cn/btv/btvsy_index?channel=BRTV新闻
-卡酷少儿,http://A/ku9/js/web.js?id=https://www.brtn.cn/btv/btvsy_index?channel=卡酷少儿
-
-
-
-安徽网页[K9],#genre#,JS=https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJVE_Online%20GitHub/js/webview.js
-
-
-安徽卫视,http://A/ku9/js/web.js?id=https://h5.ahtv.cn/folder9000/folder20193?channel_id=47
-经济生活,http://A/ku9/js/web.js?id=https://h5.ahtv.cn/folder9000/folder20193?channel_id=71
-综艺体育,http://A/ku9/js/web.js?id=https://h5.ahtv.cn/folder9000/folder20193?channel_id=73
-影视频道,http://A/ku9/js/web.js?id=https://h5.ahtv.cn/folder9000/folder20193?channel_id=72
-安徽公共,http://A/ku9/js/web.js?id=https://h5.ahtv.cn/folder9000/folder20193?channel_id=50
-农业·科教,http://A/ku9/js/web.js?id=https://h5.ahtv.cn/folder9000/folder20193?channel_id=51
-安徽国际,http://A/ku9/js/web.js?id=https://h5.ahtv.cn/folder9000/folder20193?channel_id=70
-移动电视,http://A/ku9/js/web.js?id=https://h5.ahtv.cn/folder9000/folder20193?channel_id=68
 
 
 
@@ -2817,17 +2791,7 @@ CETV-4,http://A/ku9/js/web.js?id=https://tv.gxtv.cn/channel/channelivePlay_67eac
 
 
 
-上海网页[K9],#genre#,JS=https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJVE_Online%20GitHub/js/webview.js
 
-
-东方卫视,http://A/ku9/js/web.js?id=https://live.kankanews.com/huikan?id=1
-新闻综合,http://A/ku9/js/web.js?id=https://live.kankanews.com/huikan?id=2
-魔都眼,http://A/ku9/js/web.js?id=https://live.kankanews.com/huikan?id=11
-第一财经,http://A/ku9/js/web.js?id=https://live.kankanews.com/huikan?id=5
-新纪实,http://A/ku9/js/web.js?id=https://live.kankanews.com/huikan?id=12
-五星体育,http://A/ku9/js/web.js?id=https://live.kankanews.com/huikan?id=10
-都市频道,http://A/ku9/js/web.js?id=https://live.kankanews.com/huikan?id=4
-哈哈炫动,http://A/ku9/js/web.js?id=https://live.kankanews.com/huikan?id=9
 
 
 
@@ -2844,6 +2808,7 @@ CETV-4,http://A/ku9/js/web.js?id=https://tv.gxtv.cn/channel/channelivePlay_67eac
 浙江国际,http://A/ku9/js/web.js?id=https://www.cztv.com/liveTV/110
 好易购,http://A/ku9/js/web.js?id=https://www.cztv.com/liveTV/111
 之江纪录,http://A/ku9/js/web.js?id=https://www.cztv.com/liveTV/112
+
 
 
 
