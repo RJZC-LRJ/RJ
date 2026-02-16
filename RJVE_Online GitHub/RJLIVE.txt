@@ -4,6 +4,9 @@
 26.02.16,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/WKQGfOoN&pwd=1109
 26.02.16,https://lz0.qaiu.top/parser?url=https://share.feijipan.com/s/WKQGfOoN&pwd=1109
 26.02.16,https://d.kstore.dev/download/15123/RJYY_MP4/1.mp4
+列表说明,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/2YQeMoay&pwd=1109
+列表说明,https://lz0.qaiu.top/parser?url=https://share.feijipan.com/s/2YQeMoay&pwd=1109
+列表说明,https://d.kstore.dev/download/15123/RJYY_MP4/3.mp4
 嵘基分享,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/NrQGf33P&pwd=1109
 嵘基分享,https://lz0.qaiu.top/parser?url=https://share.feijipan.com/s/NrQGf33P&pwd=1109
 嵘基分享,https://d.kstore.dev/download/15123/RJYY_MP4/2.mp4
@@ -2905,6 +2908,7 @@ CETV-4,http://A/ku9/js/web.js?id=https://tv.gxtv.cn/channel/channelivePlay_67eac
 浙江国际,http://A/ku9/js/web.js?id=https://www.cztv.com/liveTV/110
 好易购,http://A/ku9/js/web.js?id=https://www.cztv.com/liveTV/111
 之江纪录,http://A/ku9/js/web.js?id=https://www.cztv.com/liveTV/112
+
 
 
 
