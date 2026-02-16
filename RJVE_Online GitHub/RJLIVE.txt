@@ -2430,68 +2430,67 @@ CCTV-17高码,http://k.061899.xyz/m.php?id=cctv17
 央视网快看播,video://https://live.douyin.com/127453393722
 央视一套直播,video://https://live.douyin.com/456815963645
 
-CCTV4K,video://https://yangshipin.cn/tv/home?pid=600002264
-CCTV1,video://https://yangshipin.cn/tv/home?pid=600001859
-CCTV2,video://https://yangshipin.cn/tv/home?pid=600001800
-CCTV4,video://https://yangshipin.cn/tv/home?pid=600001814
-CCTV5,video://https://yangshipin.cn/tv/home?pid=600001818
-CCTV5,video://https://yangshipin.cn/tv/home?pid=600001817
-CCTV6,video://https://yangshipin.cn/tv/home?pid=600108442
-CCTV7,video://https://yangshipin.cn/tv/home?pid=600004092
-CCTV8,video://https://yangshipin.cn/tv/home?pid=600001803
-CCTV9,video://https://yangshipin.cn/tv/home?pid=600004078
-CCTV10,video://https://yangshipin.cn/tv/home?pid=600001805
-CCTV11,video://https://yangshipin.cn/tv/home?pid=600001806
-CCTV12,video://https://yangshipin.cn/tv/home?pid=600001807
-CCTV13,video://https://yangshipin.cn/tv/home?pid=600001811
-CCTV14,video://https://yangshipin.cn/tv/home?pid=600001809
-CCTV15,video://https://yangshipin.cn/tv/home?pid=600001815
-CCTV16,video://https://yangshipin.cn/tv/home?pid=600098637
-CCTV17,video://https://yangshipin.cn/tv/home?pid=600001810
-CGTN,video://https://yangshipin.cn/tv/home?pid=600014550
-CGTN纪录,video://https://yangshipin.cn/tv/home?pid=600084781
-CGTN俄语,video://https://yangshipin.cn/tv/home?pid=600084758
-CGTN法语,video://https://yangshipin.cn/tv/home?pid=600084704
-CGTN西语,video://https://yangshipin.cn/tv/home?pid=600084744
-CGTN阿语,video://https://yangshipin.cn/tv/home?pid=600084782
+CCTV4K,video://https://yangshipin.cn/tv/home?channel=600002264
+CCTV1,video://https://yangshipin.cn/tv/home?channel=600001859
+CCTV2,video://https://yangshipin.cn/tv/home?channel=600001800
+CCTV4,video://https://yangshipin.cn/tv/home?channel=600001814
+CCTV5,video://https://yangshipin.cn/tv/home?channel=600001818
+CCTV5,video://https://yangshipin.cn/tv/home?channel=600001817
+CCTV6,video://https://yangshipin.cn/tv/home?channel=600108442
+CCTV7,video://https://yangshipin.cn/tv/home?channel=600004092
+CCTV8,video://https://yangshipin.cn/tv/home?channel=600001803
+CCTV9,video://https://yangshipin.cn/tv/home?channel=600004078
+CCTV10,video://https://yangshipin.cn/tv/home?channel=600001805
+CCTV11,video://https://yangshipin.cn/tv/home?channel=600001806
+CCTV12,video://https://yangshipin.cn/tv/home?channel=600001807
+CCTV13,video://https://yangshipin.cn/tv/home?channel=600001811
+CCTV14,video://https://yangshipin.cn/tv/home?channel=600001809
+CCTV15,video://https://yangshipin.cn/tv/home?channel=600001815
+CCTV16,video://https://yangshipin.cn/tv/home?channel=600098637
+CCTV17,video://https://yangshipin.cn/tv/home?channel=600001810
+CGTN,video://https://yangshipin.cn/tv/home?channel=600014550
+CGTN纪录,video://https://yangshipin.cn/tv/home?channel=600084781
+CGTN俄语,video://https://yangshipin.cn/tv/home?channel=600084758
+CGTN法语,video://https://yangshipin.cn/tv/home?channel=600084704
+CGTN西语,video://https://yangshipin.cn/tv/home?channel=600084744
+CGTN阿语,video://https://yangshipin.cn/tv/home?channel=600084782
 CGTN,video://https://www.cgtn.com/tv
-CGTN,video://https://www.yangshipin.cn/tv/home?pid=600014550
+CGTN,video://https://www.yangshipin.cn/tv/home?channel=600014550
 
-风云剧场,video://https://yangshipin.cn/tv/home?pid=600099658
-第一剧场,video://https://yangshipin.cn/tv/home?pid=600099655
-怀旧剧场,video://https://yangshipin.cn/tv/home?pid=600099620
-北京卫视,video://https://yangshipin.cn/tv/home?pid=600002309
-江苏卫视,video://https://yangshipin.cn/tv/home?pid=600002521
-东方卫视,video://https://yangshipin.cn/tv/home?pid=600002483
-浙江卫视,video://https://yangshipin.cn/tv/home?pid=600002520
-湖南卫视,video://https://yangshipin.cn/tv/home?pid=600002475
-湖北卫视,video://https://yangshipin.cn/tv/home?pid=600002508
-广东卫视,video://https://yangshipin.cn/tv/home?pid=600002485
-广西卫视,video://https://yangshipin.cn/tv/home?pid=600002509
-黑龙江卫视,video://https://yangshipin.cn/tv/home?pid=600002498
-海南卫视,video://https://yangshipin.cn/tv/home?pid=600002506
-重庆卫视,video://https://yangshipin.cn/tv/home?pid=600002531
-深圳卫视,video://https://yangshipin.cn/tv/home?pid=600002481
-四川卫视,video://https://yangshipin.cn/tv/home?pid=600002516
-河南卫视,video://https://yangshipin.cn/tv/home?pid=600002525
-东南卫视,video://https://yangshipin.cn/tv/home?pid=600002484
-贵州卫视,video://https://yangshipin.cn/tv/home?pid=600002490
-江西卫视,video://https://yangshipin.cn/tv/home?pid=600002503
-辽宁卫视,video://https://yangshipin.cn/tv/home?pid=600002505
-安徽卫视,video://https://yangshipin.cn/tv/home?pid=600002532
-河北卫视,video://https://yangshipin.cn/tv/home?pid=600002493
-山东卫视,video://https://yangshipin.cn/tv/home?pid=600002513
-天津卫视,video://https://yangshipin.cn/tv/home?pid=600152137
-吉林卫视,video://https://yangshipin.cn/tv/home?pid=600190405
-陕西卫视,video://https://yangshipin.cn/tv/home?pid=600190400
-宁夏卫视,video://https://yangshipin.cn/tv/home?pid=600190737
-内蒙古卫视,video://https://yangshipin.cn/tv/home?pid=600190401
-云南卫视,video://https://yangshipin.cn/tv/home?pid=600190402
-山西卫视,video://https://yangshipin.cn/tv/home?pid=600190407
-青海卫视,video://https://yangshipin.cn/tv/home?pid=600190406
-西藏卫视,video://https://yangshipin.cn/tv/home?pid=600190403
-甘肃卫视,video://https://yangshipin.cn/tv/home?pid=600190408
-
+风云剧场,video://https://yangshipin.cn/tv/home?channel=600099658
+第一剧场,video://https://yangshipin.cn/tv/home?channel=600099655
+怀旧剧场,video://https://yangshipin.cn/tv/home?channel=600099620
+北京卫视,video://https://yangshipin.cn/tv/home?channel=600002309
+江苏卫视,video://https://yangshipin.cn/tv/home?channel=600002521
+东方卫视,video://https://yangshipin.cn/tv/home?channel=600002483
+浙江卫视,video://https://yangshipin.cn/tv/home?channel=600002520
+湖南卫视,video://https://yangshipin.cn/tv/home?channel=600002475
+湖北卫视,video://https://yangshipin.cn/tv/home?channel=600002508
+广东卫视,video://https://yangshipin.cn/tv/home?channel=600002485
+广西卫视,video://https://yangshipin.cn/tv/home?channel=600002509
+黑龙江卫视,video://https://yangshipin.cn/tv/home?channel=600002498
+海南卫视,video://https://yangshipin.cn/tv/home?channel=600002506
+重庆卫视,video://https://yangshipin.cn/tv/home?channel=600002531
+深圳卫视,video://https://yangshipin.cn/tv/home?channel=600002481
+四川卫视,video://https://yangshipin.cn/tv/home?channel=600002516
+河南卫视,video://https://yangshipin.cn/tv/home?channel=600002525
+东南卫视,video://https://yangshipin.cn/tv/home?channel=600002484
+贵州卫视,video://https://yangshipin.cn/tv/home?channel=600002490
+江西卫视,video://https://yangshipin.cn/tv/home?channel=600002503
+辽宁卫视,video://https://yangshipin.cn/tv/home?channel=600002505
+安徽卫视,video://https://yangshipin.cn/tv/home?channel=600002532
+河北卫视,video://https://yangshipin.cn/tv/home?channel=600002493
+山东卫视,video://https://yangshipin.cn/tv/home?channel=600002513
+天津卫视,video://https://yangshipin.cn/tv/home?channel=600152137
+吉林卫视,video://https://yangshipin.cn/tv/home?channel=600190405
+陕西卫视,video://https://yangshipin.cn/tv/home?channel=600190400
+宁夏卫视,video://https://yangshipin.cn/tv/home?channel=600190737
+内蒙古卫视,video://https://yangshipin.cn/tv/home?channel=600190401
+云南卫视,video://https://yangshipin.cn/tv/home?channel=600190402
+山西卫视,video://https://yangshipin.cn/tv/home?channel=600190407
+青海卫视,video://https://yangshipin.cn/tv/home?channel=600190406
+西藏卫视,video://https://yangshipin.cn/tv/home?channel=600190403
+甘肃卫视,video://https://yangshipin.cn/tv/home?channel=600190408
 
 
 山东网页[FM],#genre#
@@ -2505,31 +2504,6 @@ CGTN,video://https://www.yangshipin.cn/tv/home?pid=600014550
 山东文旅,video://https://v.iqilu.com/live/yspd/
 山东生活,video://https://v.iqilu.com/live/shpd/
 山东综艺,video://https://v.iqilu.com/live/zypd/
-
-
-
-广东网页[FM],#genre#
-
-
-广东卫视,video://https://www.gdtv.cn/tvChannelDetail/43
-广东珠江,video://https://www.gdtv.cn/tvChannelDetail/44
-广东新闻,video://https://www.gdtv.cn/tvChannelDetail/45
-广东民生,video://https://www.gdtv.cn/tvChannelDetail/48
-广东体育,video://https://www.gdtv.cn/tvChannelDetail/47
-广东影视,video://https://www.gdtv.cn/tvChannelDetail/53
-4K超高清,video://https://www.gdtv.cn/tvChannelDetail/16
-广东少儿,video://https://www.gdtv.cn/tvChannelDetail/54
-嘉佳卡通,video://https://www.gdtv.cn/tvChannelDetail/66
-南方购物,video://https://www.gdtv.cn/tvChannelDetail/42
-岭南戏曲,video://https://www.gdtv.cn/tvChannelDetail/15
-广东移动,video://https://www.gdtv.cn/tvChannelDetail/74
-荔枝台,video://https://www.gdtv.cn/tvChannelDetail/100
-纪录片,video://https://www.gdtv.cn/tvChannelDetail/94
-GRTN健康频道,video://https://www.gdtv.cn/tvChannelDetail/99
-GRTN文化频道,video://https://www.gdtv.cn/tvChannelDetail/75
-GRTN生活频道,video://https://www.gdtv.cn/tvChannelDetail/102
-GRTN教育频道,video://https://www.gdtv.cn/tvChannelDetail/104
-广东新闻广播,video://https://www.gdtv.cn/audioChannelDetail/85
 
 
 
@@ -2573,20 +2547,6 @@ GRTN教育频道,video://https://www.gdtv.cn/tvChannelDetail/104
 
 
 
-北京网页[FM],#genre#
-
-
-北京卫视,video://https://www.brtn.cn/btv/btvsy_index?channel=北京卫视
-BRTV文艺,video://https://www.brtn.cn/btv/btvsy_index?channel=BRTV文艺
-BRTV纪实科教,video://https://www.brtn.cn/btv/btvsy_index?channel=BRTV纪实科教
-BRTV影视,video://https://www.brtn.cn/btv/btvsy_index?channel=BRTV影视
-BRTV财经,video://https://www.brtn.cn/btv/btvsy_index?channel=BRTV财经
-BRTV体育休闲,video://https://www.brtn.cn/btv/btvsy_index?channel=BRTV体育休闲
-BRTV i生活,video://https://www.brtn.cn/btv/btvsy_index?channel=BRTV i生活
-BRTV新闻,video://https://www.brtn.cn/btv/btvsy_index?channel=BRTV新闻
-卡酷少儿,video://https://www.brtn.cn/btv/btvsy_index?channel=卡酷少儿
-
-
 
 安徽网页[FM],#genre#
 
@@ -2602,53 +2562,27 @@ BRTV新闻,video://https://www.brtn.cn/btv/btvsy_index?channel=BRTV新闻
 
 
 
-广西网页[FM],#genre#
-
-
-广西卫视,video://https://tv.gxtv.cn/channel/channelivePlay_e7a7ab7df9fe11e88bcfe41f13b60c62.html
-综艺旅游频道,video://https://tv.gxtv.cn/channel/channelivePlay_f3335975f9fe11e88bcfe41f13b60c62.html
-都市频道,video://https://tv.gxtv.cn/channel/channelivePlay_fdbaf085f9fe11e88bcfe41f13b60c62.html
-影视频道,video://https://tv.gxtv.cn/channel/channelivePlay_5e923d82058e11e9ba67e41f13b60c62.html
-新闻频道,video://https://tv.gxtv.cn/channel/channelivePlay_9dfd8600075811e9ba67e41f13b60c62.html
-移动数字电视频道,video://https://tv.gxtv.cn/channel/channelivePlay_78dbfd44e6b74ab687204d2d8113cbf5.html
-CETV-1,video://https://tv.gxtv.cn/channel/channelivePlay_ffa6b6e1b32b4a16a73eb3ef66f8bfc7.html
-CETV-2,video://https://tv.gxtv.cn/channel/channelivePlay_80d0ffb42c114eaf9663708629ff0a3e.html
-CETV-4,video://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca90800fb4225.html
 
 
 
 湖南网页[FM],#genre#
 
 
-金鹰卡通,video://https://live.mgtv.com/?channelId=287
-快乐购,video://https://live.mgtv.com/?channelId=267
-湖南经视,video://https://live.mgtv.com/?channelId=280
-湖南娱乐,video://https://live.mgtv.com/?channelId=344
-湖南电影,video://https://live.mgtv.com/?channelId=221
-湖南都市,video://https://live.mgtv.com/?channelId=346
-湖南电视剧,video://https://live.mgtv.com/?channelId=484
-金鹰纪实,video://https://live.mgtv.com/?channelId=316
-湖南爱晚,video://https://live.mgtv.com/?channelId=261
-国际频道,video://https://live.mgtv.com/?channelId=229
-先锋乒羽,video://https://live.mgtv.com/?channelId=329
-茶频道,video://https://live.mgtv.com/?channelId=578
-快乐垂钓,video://https://live.mgtv.com/?channelId=218
-长沙新闻综合,video://https://live.mgtv.com/?channelId=269
-长沙政法,video://https://live.mgtv.com/?channelId=254
-
-
-
-上海网页[FM],#genre#
-
-
-东方卫视,video://https://live.kankanews.com/huikan?id=1
-新闻综合,video://https://live.kankanews.com/huikan?id=2
-魔都眼,video://https://live.kankanews.com/huikan?id=11
-第一财经,video://https://live.kankanews.com/huikan?id=5
-新纪实,video://https://live.kankanews.com/huikan?id=12
-五星体育,video://https://live.kankanews.com/huikan?id=10
-都市频道,video://https://live.kankanews.com/huikan?id=4
-哈哈炫动,video://https://live.kankanews.com/huikan?id=9
+金鹰卡通,video://https://live.mgtv.com/?channel=287
+快乐购,video://https://live.mgtv.com/?channel=267
+湖南经视,video://https://live.mgtv.com/?channel=280
+湖南娱乐,video://https://live.mgtv.com/?channel=344
+湖南电影,video://https://live.mgtv.com/?channel=221
+湖南都市,video://https://live.mgtv.com/?channel=346
+湖南电视剧,video://https://live.mgtv.com/?channel=484
+金鹰纪实,video://https://live.mgtv.com/?channel=316
+湖南爱晚,video://https://live.mgtv.com/?channel=261
+国际频道,video://https://live.mgtv.com/?channel=229
+先锋乒羽,video://https://live.mgtv.com/?channel=329
+茶频道,video://https://live.mgtv.com/?channel=578
+快乐垂钓,video://https://live.mgtv.com/?channel=218
+长沙新闻综合,video://https://live.mgtv.com/?channel=269
+长沙政法,video://https://live.mgtv.com/?channel=254
 
 
 
@@ -2910,6 +2844,7 @@ CETV-4,http://A/ku9/js/web.js?id=https://tv.gxtv.cn/channel/channelivePlay_67eac
 浙江国际,http://A/ku9/js/web.js?id=https://www.cztv.com/liveTV/110
 好易购,http://A/ku9/js/web.js?id=https://www.cztv.com/liveTV/111
 之江纪录,http://A/ku9/js/web.js?id=https://www.cztv.com/liveTV/112
+
 
 
 
