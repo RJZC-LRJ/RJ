@@ -798,21 +798,51 @@
       "changeable": 1
     },
     {
-      "key": "虎牙JAR",
+      "key": "虎牙JS",
       "name": "J. 虎牙直播",
       "type": 3,
-      "api": "csp_AweSomeGuard",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/okjack.jar",
-      "searchable": 0,
-      "changeable": 1,
+      "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/js/drpy2.min.js",
+      "ext": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/js/%E8%99%8E%E7%89%99.js",
       "style": {
         "type": "rect",
-        "ratio": 1.433
+        "ratio": 1.755
       },
-      "ext": {
-        "sp": "Huya"
+      "timeout": 10,
+      "playerType": "2",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "斗鱼JS",
+      "name": "J. 斗鱼直播",
+      "type": 3,
+      "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/js/drpy2.min.js",
+      "ext": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/js/%E6%96%97%E9%B1%BC%E7%9B%B4%E6%92%AD.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
       },
-      "timeout": 10
+      "timeout": 10,
+      "playerType": "2",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "游波JS",
+      "name": "J. 游戏直播",
+      "type": 3,
+      "api": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/py/%E7%BD%91%E7%BB%9C%E7%9B%B4%E6%92%AD.py",
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "timeout": 10,
+      "playerType": "2",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
     },
     {
       "key": "暴风API",
@@ -1437,7 +1467,7 @@
     },
     {
       "key": "RJAPI.B",
-      "name": "维护：26.02.15_优选",
+      "name": "维护：26.02.19_优选",
       "type": 3,
       "api": "csp_Notice",
       "searchable": 0,
