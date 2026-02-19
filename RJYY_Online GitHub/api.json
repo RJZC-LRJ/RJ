@@ -357,6 +357,17 @@
       "timeout": 20
     },
     {
+      "key": "木兮JAR",
+      "name": "R. 木兮影视",
+      "type": 3,
+      "api": "csp_Symx",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/moyu.jar",
+      "quickSearch": 1,
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://film.symx.club"
+    },
+    {
       "key": "星辰JS",
       "name": "R. 星辰影视",
       "type": 3,
