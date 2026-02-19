@@ -1,9 +1,9 @@
 嵘基直播[优选],#genre#
 
 
-26.02.16,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/WKQGfOoN&pwd=1109
-26.02.16,https://lz0.qaiu.top/parser?url=https://share.feijipan.com/s/WKQGfOoN&pwd=1109
-26.02.16,https://d.kstore.dev/download/15123/RJYY_MP4/1.mp4
+26.02.19,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/WKQGfOoN&pwd=1109
+26.02.19,https://lz0.qaiu.top/parser?url=https://share.feijipan.com/s/WKQGfOoN&pwd=1109
+26.02.19,https://d.kstore.dev/download/15123/RJYY_MP4/1.mp4
 列表说明,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/2YQeMoay&pwd=1109
 列表说明,https://lz0.qaiu.top/parser?url=https://share.feijipan.com/s/2YQeMoay&pwd=1109
 列表说明,https://d.kstore.dev/download/15123/RJYY_MP4/3.mp4
@@ -343,30 +343,8 @@ CGTN,http://116.77.239.26:44300/tsfile/live/1012_1.m3u8?key=txiptv&playlive=0&au
 春晚2020,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
 春晚2024,https://ikcdn01.ikzybf.com/20240205/QBNgom4j/2000kb/hls/index.m3u8
 春晚2025,https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8
+春晚2026,https://v.lzcdn28.com/20260217/8616_1de9f6e5/index.m3u8
 
-春晚2025北京,https://play.modujx11.com/20250130/KEdC3rWl/index.m3u8
-春晚2025吉林,https://cdn.ryplay10.com/20250126/35971_c32a136b/index.m3u8
-春晚2025吉林,https://v.cdnlz21.com/20250126/4862_b5485261/index.m3u8
-春晚2025东方卫视,https://cdn.ryplay10.com/20250130/36137_74d8136b/index.m3u8
-春晚2025东方卫视,https://svipsvip.ffzyread1.com/20250130/35479_aa1ec909/index.m3u8
-春晚2025东方卫视,https://v.cdnlz21.com/20250130/5033_1ab50b18/index.m3u8
-春晚2025湖南,https://cdn.ryplay10.com/20250126/35977_51b92f06/index.m3u8
-春晚2025湖南,https://v.cdnlz21.com/20250126/4872_dc38bbd1/index.m3u8
-春晚2025湖南,https://c1.7bbffvip.com/video/2025hunanweishixiaonianyechunwan/HD/index.m3u8
-春晚2025湖南,https://v5.qrssv.com/202501/26/4XKfNheidE21/video/index.m3u8
-春晚2025湖南纯享,https://cdn.ryplay10.com/20250126/35977_51b92f06/index.m3u8
-春晚2025湖南纯享,https://v.cdnlz21.com/20250126/4872_dc38bbd1/index.m3u8
-春晚2025河南,https://play.modujx11.com/20250127/9Yljzd4n/index.m3u8
-春晚2025河南,https://cdn.ryplay10.com/20250126/36006_a86654d5/index.m3u8
-春晚2025河南,https://svipsvip.ffzyread1.com/20250127/35406_62e44a80/index.m3u8
-春晚2025山东,https://play.modujx11.com/20250128/3lqQwrom/index.m3u8
-春晚2025安徽,https://play.modujx11.com/20250128/WGs0Su67/index.m3u8
-春晚2025天津相声,https://cdn.ryplay10.com/20250130/36135_7b945be4/index.m3u8
-春晚2025天津相声,https://v.cdnlz21.com/20250130/5031_3ed80174/index.m3u8
-春晚2025辽宁上,https://cdn.ryplay10.com/20250128/36082_dba1a987/index.m3u8
-春晚2025辽宁下,https://cdn.ryplay10.com/20250128/36084_e64309bc/index.m3u8
-春晚2025辽宁上,https://v.cdnlz21.com/20250128/4980_b61091f5/index.m3u8
-春晚2025辽宁下,https://svipsvip.ffzyread1.com/20250129/35457_6898fca8/index.m3u8
 80周年阅兵回放,https://vd3.bdstatic.com/mda-ri24zxxrst8trduf/576p/h264/1756872226406839383/mda-ri24zxxrst8trduf.mp4?v_from_s=bdapp-resbox-hbf
 
 
