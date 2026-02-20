@@ -2684,26 +2684,21 @@ CHC动作电影,http://27.215.67.69:51006/yhyx/IP-DZDY-HD.m3u8
 
 
 
+//酷9.网页源.中国IPTV.Webview
 
 
-
-
-
-
-
-
-
-
-
-
-央视网页[K9],#genre#,JS=https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJVE_Online%20GitHub/js/webview.js
+抖音网页[K9],#genre#,JS=https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJVE_Online%20GitHub/js/webview.js
 
 
 央视网抖直播,webview://https://live.douyin.com/870887192950
 央视网快看播,webview://https://live.douyin.com/127453393722
 央视一套直播,webview://https://live.douyin.com/456815963645
 
-央视;央视网,#genre#,JS=https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJVE_Online%20GitHub/js/webview.js
+
+
+央视网页[K9],#genre#,JS=https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJVE_Online%20GitHub/js/webview.js
+
+
 CCTV1,webview://https://tv.cctv.com/live/cctv1/
 CCTV2,webview://https://tv.cctv.com/live/cctv2/
 CCTV3,webview://https://tv.cctv.com/live/cctv3/
@@ -2725,7 +2720,11 @@ CCTV17,webview://https://tv.cctv.com/live/cctv17/
 CCTV4欧洲,webview://https://tv.cctv.com/live/cctveurope/index.shtml
 CCTV4美洲,webview://https://tv.cctv.com/live/cctvamerica/
 
-央视;央视频,#genre#,JS=https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJVE_Online%20GitHub/js/webview.js
+
+
+央视频网[K9],#genre#,JS=https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJVE_Online%20GitHub/js/webview.js
+
+
 CCTV1,webview://https://yangshipin.cn/tv/home?pid=600001859
 CCTV2,webview://https://yangshipin.cn/tv/home?pid=600001800
 CCTV4,webview://https://yangshipin.cn/tv/home?pid=600001814
@@ -2743,6 +2742,7 @@ CCTV14,webview://https://yangshipin.cn/tv/home?pid=600001809
 CCTV15,webview://https://yangshipin.cn/tv/home?pid=600001815
 CCTV16,webview://https://yangshipin.cn/tv/home?pid=600098637
 CCTV17,webview://https://yangshipin.cn/tv/home?pid=600001810
+
 CGTN,webview://https://yangshipin.cn/tv/home?pid=600014550
 CGTN纪录,webview://https://yangshipin.cn/tv/home?pid=600084781
 CGTN俄语,webview://https://yangshipin.cn/tv/home?pid=600084758
@@ -2753,7 +2753,6 @@ CGTN阿语,webview://https://yangshipin.cn/tv/home?pid=600084782
 第一剧场,webview://https://yangshipin.cn/tv/home?pid=600099655
 怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
 
-卫视;央视频,#genre#,JS=https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJVE_Online%20GitHub/js/webview.js
 北京卫视,webview://https://yangshipin.cn/tv/home?pid=600002309
 江苏卫视,webview://https://yangshipin.cn/tv/home?pid=600002521
 东方卫视,webview://https://yangshipin.cn/tv/home?pid=600002483
@@ -2784,18 +2783,25 @@ CGTN阿语,webview://https://yangshipin.cn/tv/home?pid=600084782
 山西卫视,webview://https://yangshipin.cn/tv/home?pid=600190407
 青海卫视,webview://https://yangshipin.cn/tv/home?pid=600190406
 西藏卫视,webview://https://yangshipin.cn/tv/home?pid=600190403
-
-卫视;央视频;央视频,#genre#,JS=https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJVE_Online%20GitHub/js/webview.js
+浙江卫视,webview://https://www.cztv.com/liveTV/101
+东方卫视,webview://https://live.kankanews.com/huikan?id=1
 甘肃卫视,webview://https://yangshipin.cn/tv/home?pid=600190408
-
-广东,#genre#,JS=https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJVE_Online%20GitHub/js/webview.js
 广东卫视,webview://https://www.gdtv.cn/tvChannelDetail/43
+陕西卫视,webview://http://live.snrtv.com/?channel=陕西卫视
+江苏卫视,webview://https://live.jstv.com?channel=江苏卫视
+北京卫视,webview://https://www.brtn.cn/btv/btvsy_index?channel=北京卫视
+安徽卫视,webview://https://h5.ahtv.cn/folder9000/folder20193?channel_id=47
+广西卫视,webview://https://tv.gxtv.cn/channel/channelivePlay_e7a7ab7df9fe11e88bcfe41f13b60c62.html
+
+
+
+地方网页[K9],#genre#,JS=https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJVE_Online%20GitHub/js/webview.js
+
+
 广东珠江,webview://https://www.gdtv.cn/tvChannelDetail/44
 广东新闻,webview://https://www.gdtv.cn/tvChannelDetail/45
 广东民生,webview://https://www.gdtv.cn/tvChannelDetail/48
 广东体育,webview://https://www.gdtv.cn/tvChannelDetail/47
-大湾区卫视,webview://https://www.gdtv.cn/tvChannelDetail/51
-大湾区卫视（海外版）,webview://https://www.gdtv.cn/tvChannelDetail/46
 广东影视,webview://https://www.gdtv.cn/tvChannelDetail/53
 4K超高清,webview://https://www.gdtv.cn/tvChannelDetail/16
 广东少儿,webview://https://www.gdtv.cn/tvChannelDetail/54
@@ -2811,7 +2817,6 @@ GRTN生活频道,webview://https://www.gdtv.cn/tvChannelDetail/102
 GRTN教育频道,webview://https://www.gdtv.cn/tvChannelDetail/104
 广东新闻广播,webview://https://www.gdtv.cn/audioChannelDetail/85
 
-山东,#genre#,JS=https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJVE_Online%20GitHub/js/webview.js
 山东齐鲁,webview://https://v.iqilu.com/live/qlpd/
 山东新闻,webview://https://v.iqilu.com/live/ggpd/
 山东农科,webview://https://v.iqilu.com/live/nkpd/
@@ -2821,8 +2826,6 @@ GRTN教育频道,webview://https://www.gdtv.cn/tvChannelDetail/104
 山东生活,webview://https://v.iqilu.com/live/shpd/
 山东综艺,webview://https://v.iqilu.com/live/zypd/
 
-陕西,#genre#,JS=https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJVE_Online%20GitHub/js/webview.js
-陕西卫视,webview://http://live.snrtv.com/?channel=陕西卫视
 陕西新闻资讯,webview://http://live.snrtv.com/?channel=新闻资讯
 陕西都市青春,webview://http://live.snrtv.com/?channel=都市青春
 陕西银龄频道,webview://http://live.snrtv.com/?channel=银龄频道
@@ -2832,8 +2835,6 @@ GRTN教育频道,webview://https://www.gdtv.cn/tvChannelDetail/104
 陕西农林卫视,webview://http://live.snrtv.com/?channel=农林卫视
 陕西移动电视,webview://http://live.snrtv.com/?channel=移动电视
 
-江苏,#genre#,JS=https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJVE_Online%20GitHub/js/webview.js
-江苏卫视,webview://https://live.jstv.com?channel=江苏卫视
 江苏城市,webview://https://live.jstv.com?channel=江苏城市
 江苏综艺,webview://https://live.jstv.com?channel=江苏综艺
 江苏公共新闻,webview://https://live.jstv.com?channel=江苏新闻
@@ -2842,15 +2843,12 @@ GRTN教育频道,webview://https://www.gdtv.cn/tvChannelDetail/104
 优漫卡通,webview://https://live.jstv.com?channel=优漫卡通
 江苏国际,webview://https://live.jstv.com?channel=江苏国际
 
-南京,#genre#,JS=https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJVE_Online%20GitHub/js/webview.js
 新闻综合频道,webview://https://www.nbs.cn/live/?channel=新闻综合频道
 十八·生活频道,webview://https://www.nbs.cn/live/?channel=十八·生活频道
 教科频道,webview://https://www.nbs.cn/live/?channel=教科频道
 文旅纪录频道,webview://https://www.nbs.cn/live/?channel=文旅纪录频道
-少儿频道,webview://https://www.nbs.cn/live/?channel=少儿频道
+南京少儿,webview://https://www.nbs.cn/live/?channel=少儿频道
 
-北京,#genre#,JS=https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJVE_Online%20GitHub/js/webview.js
-北京卫视,webview://https://www.brtn.cn/btv/btvsy_index?channel=北京卫视
 BRTV文艺,webview://https://www.brtn.cn/btv/btvsy_index?channel=BRTV文艺
 BRTV纪实科教,webview://https://www.brtn.cn/btv/btvsy_index?channel=BRTV纪实科教
 BRTV影视,webview://https://www.brtn.cn/btv/btvsy_index?channel=BRTV影视
@@ -2860,8 +2858,6 @@ BRTV i生活,webview://https://www.brtn.cn/btv/btvsy_index?channel=BRTV i生活
 BRTV新闻,webview://https://www.brtn.cn/btv/btvsy_index?channel=BRTV新闻
 卡酷少儿,webview://https://www.brtn.cn/btv/btvsy_index?channel=卡酷少儿
 
-安徽,#genre#,JS=https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJVE_Online%20GitHub/js/webview.js
-安徽卫视,webview://https://h5.ahtv.cn/folder9000/folder20193?channel_id=47
 经济生活,webview://https://h5.ahtv.cn/folder9000/folder20193?channel_id=71
 综艺体育,webview://https://h5.ahtv.cn/folder9000/folder20193?channel_id=73
 影视频道,webview://https://h5.ahtv.cn/folder9000/folder20193?channel_id=72
@@ -2870,18 +2866,12 @@ BRTV新闻,webview://https://www.brtn.cn/btv/btvsy_index?channel=BRTV新闻
 安徽国际,webview://https://h5.ahtv.cn/folder9000/folder20193?channel_id=70
 移动电视,webview://https://h5.ahtv.cn/folder9000/folder20193?channel_id=68
 
-广西,#genre#,JS=https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJVE_Online%20GitHub/js/webview.js
-广西卫视,webview://https://tv.gxtv.cn/channel/channelivePlay_e7a7ab7df9fe11e88bcfe41f13b60c62.html
 综艺旅游频道,webview://https://tv.gxtv.cn/channel/channelivePlay_f3335975f9fe11e88bcfe41f13b60c62.html
 都市频道,webview://https://tv.gxtv.cn/channel/channelivePlay_fdbaf085f9fe11e88bcfe41f13b60c62.html
 影视频道,webview://https://tv.gxtv.cn/channel/channelivePlay_5e923d82058e11e9ba67e41f13b60c62.html
 新闻频道,webview://https://tv.gxtv.cn/channel/channelivePlay_9dfd8600075811e9ba67e41f13b60c62.html
 移动数字电视频道,webview://https://tv.gxtv.cn/channel/channelivePlay_78dbfd44e6b74ab687204d2d8113cbf5.html
-CETV-1,webview://https://tv.gxtv.cn/channel/channelivePlay_ffa6b6e1b32b4a16a73eb3ef66f8bfc7.html
-CETV-2,webview://https://tv.gxtv.cn/channel/channelivePlay_80d0ffb42c114eaf9663708629ff0a3e.html
-CETV-4,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca90800fb4225.html
 
-湖南,#genre#,JS=https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJVE_Online%20GitHub/js/webview.js
 金鹰卡通,webview://https://live.mgtv.com/?channelId=287
 快乐购,webview://https://live.mgtv.com/?channelId=267
 湖南经视,webview://https://live.mgtv.com/?channelId=280
@@ -2898,8 +2888,6 @@ CETV-4,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca
 长沙新闻综合,webview://https://live.mgtv.com/?channelId=269
 长沙政法,webview://https://live.mgtv.com/?channelId=254
 
-上海,#genre#,JS=https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJVE_Online%20GitHub/js/webview.js
-东方卫视,webview://https://live.kankanews.com/huikan?id=1
 新闻综合,webview://https://live.kankanews.com/huikan?id=2
 魔都眼,webview://https://live.kankanews.com/huikan?id=11
 第一财经,webview://https://live.kankanews.com/huikan?id=5
@@ -2908,21 +2896,12 @@ CETV-4,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca
 都市频道,webview://https://live.kankanews.com/huikan?id=4
 哈哈炫动,webview://https://live.kankanews.com/huikan?id=9
 
-浙江,#genre#,JS=https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJVE_Online%20GitHub/js/webview.js
-浙江卫视,webview://https://www.cztv.com/liveTV/101
 钱江都市,webview://https://www.cztv.com/liveTV/102
 经济生活,webview://https://www.cztv.com/liveTV/103
 教科影视,webview://https://www.cztv.com/liveTV/104
 民生休闲,webview://https://www.cztv.com/liveTV/106
-新闻,webview://https://www.cztv.com/liveTV/107
-少儿频道,webview://https://www.cztv.com/liveTV/108
+新蓝新闻,webview://https://www.cztv.com/liveTV/107
+新蓝少儿,webview://https://www.cztv.com/liveTV/108
 浙江国际,webview://https://www.cztv.com/liveTV/110
 好易购,webview://https://www.cztv.com/liveTV/111
 之江纪录,webview://https://www.cztv.com/liveTV/112
-
-
-
-
-
-
-
