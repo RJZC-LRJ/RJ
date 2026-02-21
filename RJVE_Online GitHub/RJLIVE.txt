@@ -1,7 +1,7 @@
 //通用.简介.公告
 
 
-嵘基直播[优选],#genre#
+泄露严重此版本将停止拉取！,#genre#
 
 
 26.02.20,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/WKQGfOoN&pwd=1109
@@ -2905,3 +2905,4 @@ BRTV新闻,webview://https://www.brtn.cn/btv/btvsy_index?channel=BRTV新闻
 浙江国际,webview://https://www.cztv.com/liveTV/110
 好易购,webview://https://www.cztv.com/liveTV/111
 之江纪录,webview://https://www.cztv.com/liveTV/112
+
