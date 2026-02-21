@@ -84,7 +84,7 @@
   "sites": [
     {
       "key": "豆瓣JAR",
-      "name": "R. 豆瓣搜索『点击此处或换源用其他』",
+      "name": "泄露严重此版本将停止拉取！",
       "type": 3,
       "api": "csp_Douban",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
@@ -2151,3 +2151,4 @@
     "cms.qdwght.com"
   ]
 }
+
