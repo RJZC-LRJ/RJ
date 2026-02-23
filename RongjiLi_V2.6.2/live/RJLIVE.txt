@@ -1,12 +1,12 @@
 //通用.简介.公告
 
 
-泄露严重此版本将停止拉取！,#genre#
+嵘基直播[优选],#genre#
 
 
-26.02.20,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/WKQGfOoN&pwd=1109
-26.02.20,https://lz0.qaiu.top/parser?url=https://share.feijipan.com/s/WKQGfOoN&pwd=1109
-26.02.20,https://d.kstore.dev/download/15123/RJYY_MP4/1.mp4
+26.02.23,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/WKQGfOoN&pwd=1109
+26.02.23,https://lz0.qaiu.top/parser?url=https://share.feijipan.com/s/WKQGfOoN&pwd=1109
+26.02.23,https://d.kstore.dev/download/15123/RJYY_MP4/1.mp4
 列表说明,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/2YQeMoay&pwd=1109
 列表说明,https://lz0.qaiu.top/parser?url=https://share.feijipan.com/s/2YQeMoay&pwd=1109
 列表说明,https://d.kstore.dev/download/15123/RJYY_MP4/3.mp4
@@ -2687,7 +2687,7 @@ CHC动作电影,http://27.215.67.69:51006/yhyx/IP-DZDY-HD.m3u8
 //酷9.网页源.中国IPTV.Webview
 
 
-抖音网页[K9],#genre#,JS=https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJVE_Online%20GitHub/js/webview.js
+抖音网页[K9],#genre#,JS=https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RongjiLi_V2.6.2/live/js/webview.js
 
 
 央视网抖直播,webview://https://live.douyin.com/870887192950
@@ -2696,7 +2696,7 @@ CHC动作电影,http://27.215.67.69:51006/yhyx/IP-DZDY-HD.m3u8
 
 
 
-央视网页[K9],#genre#,JS=https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJVE_Online%20GitHub/js/webview.js
+央视网页[K9],#genre#,JS=https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RongjiLi_V2.6.2/live/js/webview.js
 
 
 CCTV1,webview://https://tv.cctv.com/live/cctv1/
@@ -2722,7 +2722,7 @@ CCTV4美洲,webview://https://tv.cctv.com/live/cctvamerica/
 
 
 
-央视频网[K9],#genre#,JS=https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJVE_Online%20GitHub/js/webview.js
+央视频网[K9],#genre#,JS=https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RongjiLi_V2.6.2/live/js/webview.js
 
 
 CCTV1,webview://https://yangshipin.cn/tv/home?pid=600001859
@@ -2795,7 +2795,7 @@ CGTN阿语,webview://https://yangshipin.cn/tv/home?pid=600084782
 
 
 
-地方网页[K9],#genre#,JS=https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJVE_Online%20GitHub/js/webview.js
+地方网页[K9],#genre#,JS=https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RongjiLi_V2.6.2/live/js/webview.js
 
 
 广东珠江,webview://https://www.gdtv.cn/tvChannelDetail/44
@@ -2905,4 +2905,5 @@ BRTV新闻,webview://https://www.brtn.cn/btv/btvsy_index?channel=BRTV新闻
 浙江国际,webview://https://www.cztv.com/liveTV/110
 好易购,webview://https://www.cztv.com/liveTV/111
 之江纪录,webview://https://www.cztv.com/liveTV/112
+
 
