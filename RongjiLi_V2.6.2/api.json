@@ -972,8 +972,8 @@
       "key": "蜻蜓JS",
       "name": "C. 蜻蜓 FM",
       "type": 3,
-      "api": "https://d.kstore.dev/download/10167/RongjiLi_V2.6.2/js/drpy5.min.js",
-      "ext": "https://d.kstore.dev/download/10167/RongjiLi_V2.6.2/json/%E8%9C%BB%E8%9C%93FM.json",
+      "api": "https://10167.kstore.space/RongjiLi_V2.6.2/js/drpy5.min.js",
+      "ext": "https://10167.kstore.space/RongjiLi_V2.6.2/%E8%9C%BB%E8%9C%93FM.json",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RongjiLi_V2.6.2/jar/rjzc.jar",
       "searchable": 0,
       "changeable": 1
