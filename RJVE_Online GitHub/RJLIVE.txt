@@ -1,18 +1,18 @@
 //通用.简介.公告
 
 
-泄露严重此版本将停止拉取！,#genre#
+最新版空壳2.6.2,#genre#
 
 
-26.02.20,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/WKQGfOoN&pwd=1109
-26.02.20,https://lz0.qaiu.top/parser?url=https://share.feijipan.com/s/WKQGfOoN&pwd=1109
-26.02.20,https://d.kstore.dev/download/15123/RJYY_MP4/1.mp4
-列表说明,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/2YQeMoay&pwd=1109
-列表说明,https://lz0.qaiu.top/parser?url=https://share.feijipan.com/s/2YQeMoay&pwd=1109
-列表说明,https://d.kstore.dev/download/15123/RJYY_MP4/3.mp4
-嵘基分享,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/NrQGf33P&pwd=1109
-嵘基分享,https://lz0.qaiu.top/parser?url=https://share.feijipan.com/s/NrQGf33P&pwd=1109
-嵘基分享,https://d.kstore.dev/download/15123/RJYY_MP4/2.mp4
+此版本不维护,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/WKQGfOoN&pwd=1109
+此版本不维护,https://lz0.qaiu.top/parser?url=https://share.feijipan.com/s/WKQGfOoN&pwd=1109
+此版本不维护,https://d.kstore.dev/download/15123/RJYY_MP4/1.mp4
+此版本不维护,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/2YQeMoay&pwd=1109
+此版本不维护,https://lz0.qaiu.top/parser?url=https://share.feijipan.com/s/2YQeMoay&pwd=1109
+此版本不维护,https://d.kstore.dev/download/15123/RJYY_MP4/3.mp4
+此版本不维护,https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/NrQGf33P&pwd=1109
+此版本不维护,https://lz0.qaiu.top/parser?url=https://share.feijipan.com/s/NrQGf33P&pwd=1109
+此版本不维护,https://d.kstore.dev/download/15123/RJYY_MP4/2.mp4
 
 
 
@@ -2905,4 +2905,5 @@ BRTV新闻,webview://https://www.brtn.cn/btv/btvsy_index?channel=BRTV新闻
 浙江国际,webview://https://www.cztv.com/liveTV/110
 好易购,webview://https://www.cztv.com/liveTV/111
 之江纪录,webview://https://www.cztv.com/liveTV/112
+
 
