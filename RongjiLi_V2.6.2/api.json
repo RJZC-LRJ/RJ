@@ -1,6 +1,6 @@
 {
   "spider": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RongjiLi_V2.6.2/jar/okjack.jar",
-  "logo": "https://gitee.com/UserRJZC/rjgitee/raw/Admin/FongMi/JSON.jpg",
+  "logo": "https://gitee.com/UserRJZC/rjgitee/raw/Admin/icon/%E7%9A%AE%E5%8D%A1%E4%B8%98.jpg",
   "wallpaper": "https://wp.upx8.com/api.php?content=卡通",
   "headers": [
     {
@@ -26,7 +26,7 @@
       "name": "R. 嵘基直播『点击换接口』",
       "type": 0,
       "url": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RongjiLi_V2.6.2/live/RJLIVE.txt",
-      "logo": "https://gitee.com/UserRJZC/rjgitee/raw/Admin/FongMi/JSON.jpg",
+      "logo": "https://gitee.com/UserRJZC/rjgitee/raw/Admin/icon/%E7%9A%AE%E5%8D%A1%E4%B8%98.jpg",
       "epg": "http://epg.51zmt.top:8000/e.xml.gz"
     },
     {
@@ -45,14 +45,14 @@
       "name": "R. 猫TV『点击换接口』",
       "type": 0,
       "url": "http://rihou.cc:555/gggg.nzk?type=.txt",
-      "logo": "https://gitee.com/UserRJZC/rjgitee/raw/Admin/FongMi/JSON.jpg",
+      "logo": "https://gitee.com/UserRJZC/rjgitee/raw/Admin/icon/%E7%9A%AE%E5%8D%A1%E4%B8%98.jpg",
       "epg": "http://epg.51zmt.top:8000/e.xml.gz"
     },
     {
       "name": "R. 虎牙一起看『点击换接口』",
       "type": 0,
       "url": "https://sub.ottiptv.cc/huyayqk.m3u",
-      "logo": "https://gitee.com/UserRJZC/rjgitee/raw/Admin/FongMi/JSON.jpg",
+      "logo": "https://gitee.com/UserRJZC/rjgitee/raw/Admin/icon/%E7%9A%AE%E5%8D%A1%E4%B8%98.jpg",
       "epg": "http://epg.51zmt.top:8000/e.xml.gz",
       "ua": "okHttp/Mod-1.4.0.0"
     },
@@ -60,7 +60,7 @@
       "name": "R. 斗鱼一起看『点击换接口』",
       "type": 0,
       "url": "https://sub.ottiptv.cc/douyuyqk.m3u",
-      "logo": "https://gitee.com/UserRJZC/rjgitee/raw/Admin/FongMi/JSON.jpg",
+      "logo": "https://gitee.com/UserRJZC/rjgitee/raw/Admin/icon/%E7%9A%AE%E5%8D%A1%E4%B8%98.jpg",
       "epg": "http://epg.51zmt.top:8000/e.xml.gz",
       "ua": "okHttp/Mod-1.4.0.0"
     },
@@ -68,7 +68,7 @@
       "name": "R. B站直播『点击换接口』",
       "type": 0,
       "url": "https://sub.ottiptv.cc/bililive.m3u",
-      "logo": "https://gitee.com/UserRJZC/rjgitee/raw/Admin/FongMi/JSON.jpg",
+      "logo": "https://gitee.com/UserRJZC/rjgitee/raw/Admin/icon/%E7%9A%AE%E5%8D%A1%E4%B8%98.jpg",
       "epg": "http://epg.51zmt.top:8000/e.xml.gz",
       "ua": "okHttp/Mod-1.4.0.0"
     },
@@ -76,7 +76,7 @@
       "name": "R. YY轮播『点击换接口』",
       "type": 0,
       "url": "https://sub.ottiptv.cc/yylunbo.m3u",
-      "logo": "https://gitee.com/UserRJZC/rjgitee/raw/Admin/FongMi/JSON.jpg",
+      "logo": "https://gitee.com/UserRJZC/rjgitee/raw/Admin/icon/%E7%9A%AE%E5%8D%A1%E4%B8%98.jpg",
       "epg": "http://epg.51zmt.top:8000/e.xml.gz",
       "ua": "okHttp/Mod-1.4.0.0"
     }
@@ -972,8 +972,8 @@
       "key": "蜻蜓JS",
       "name": "C. 蜻蜓 FM",
       "type": 3,
-      "api": "https://d.kstore.dev/download/10167/RJYY_Online+GitHub/js/drpy5.min.js",
-      "ext": "https://d.kstore.dev/download/10167/RJYY_Online+GitHub/json/%E8%9C%BB%E8%9C%93FM.json",
+      "api": "https://d.kstore.dev/download/10167/RongjiLi_V2.6.2/js/drpy5.min.js",
+      "ext": "https://d.kstore.dev/download/10167/RongjiLi_V2.6.2/json/%E8%9C%BB%E8%9C%93FM.json",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RongjiLi_V2.6.2/jar/rjzc.jar",
       "searchable": 0,
       "changeable": 1
