@@ -84,12 +84,23 @@
   "sites": [
     {
       "key": "豆瓣JAR",
-      "name": "泄露严重此版本将停止拉取！",
+      "name": "新版点换源到资源下载中心下载！",
       "type": 3,
       "api": "csp_Douban",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
       "indexs": 1,
       "searchable": 0
+    },
+    {
+      "key": "资源JAR",
+      "name": "资源下载中心",
+      "type": 3,
+      "api": "csp_Market",
+      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
+      "searchable": 0,
+      "changeable": 0,
+      "indexs": 0,
+      "ext": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/json/Downloads.json"
     },
     {
       "key": "腾讯JS",
@@ -1471,17 +1482,6 @@
       "changeable": 0
     },
     {
-      "key": "资源JAR",
-      "name": "S. 资源下载中心",
-      "type": 3,
-      "api": "csp_Market",
-      "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
-      "searchable": 0,
-      "changeable": 0,
-      "indexs": 0,
-      "ext": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/json/Downloads.json"
-    },
-    {
       "key": "RJAPI.A",
       "name": "网站：link3.cc/rjzc",
       "type": 3,
@@ -2151,4 +2151,5 @@
     "cms.qdwght.com"
   ]
 }
+
 
