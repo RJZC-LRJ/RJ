@@ -1,7 +1,7 @@
 {
-  "pvideo-x86_64": "https://gh-proxy.org/https://raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RongjiLi_V2.6.2/jar/Pizazz/pvideo-x86_64",
-  "pvideo-armeabi-v7a": "https://gh-proxy.org/https://raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RongjiLi_V2.6.2/jar/Pizazz/pvideo-armeabi-v7a",
-  "pvideo-arm64-v8a": "https://gh-proxy.org/https://raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RongjiLi_V2.6.2/jar/Pizazz/pvideo-arm64-v8a",
+  "pvideo-x86_64": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RongjiLi_V2.6.2/jar/Pizazz/pvideo-x86_64",
+  "pvideo-armeabi-v7a": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RongjiLi_V2.6.2/jar/Pizazz/pvideo-armeabi-v7a",
+  "pvideo-arm64-v8a": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RongjiLi_V2.6.2/jar/Pizazz/pvideo-arm64-v8a",
   "pvideo-x86_64.md5": "1c45abc3ec72197077e055ae5d72e6a4",
   "pvideo-armeabi-v7a.md5": "3e7e3f504f69f6b8fce6380bca7e720b",
   "pvideo-arm64-v8a.md5": "c7e1d1fd29698b37a1c91d4a21f4fe15"
