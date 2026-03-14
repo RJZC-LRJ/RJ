@@ -1,4 +1,4 @@
-测试,#genre#
+懒得搞,#genre#
 CCTV1,https://xmlive.zeabur.app/yw/whyd?id=cctv1
 CCTV2,https://xmlive.zeabur.app/yw/whyd?id=cctv2
 CCTV3,https://xmlive.zeabur.app/yw/whyd?id=cctv3
