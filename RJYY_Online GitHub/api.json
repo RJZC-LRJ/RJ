@@ -24,7 +24,7 @@
   "sites": [
     {
       "key": "豆瓣JAR",
-      "name": "Config Temporary Storage/Users_NOW~_26.12.30_00:00:00",
+      "name": "该版本播放出现闪退到设置中关闭弹幕即可正常",
       "type": 3,
       "api": "csp_Douban",
       "jar": "https://git.yylx.win/raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJYY_Online%20GitHub/jar/rjzc.jar",
