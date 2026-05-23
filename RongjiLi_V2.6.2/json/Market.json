@@ -102,19 +102,14 @@
         "icon": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E7%BC%A9%E7%95%A5%E5%9B%BE/%E7%9B%B4%E6%92%AD/%E6%B2%A7%E6%B5%B7TV.png"
       },
       {
-        "name": "星辰直播",
-        "url": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E5%AE%89%E8%A3%85%E5%8C%85/%E7%9B%B4%E6%92%AD/%E6%98%9F%E8%BE%B0%E7%9B%B4%E6%92%AD.apk",
-        "icon": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E7%BC%A9%E7%95%A5%E5%9B%BE/%E7%9B%B4%E6%92%AD/%E6%98%9F%E8%BE%B0%E7%9B%B4%E6%92%AD.png"
-      },
-      {
         "name": "直播大全",
         "url": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E5%AE%89%E8%A3%85%E5%8C%85/%E7%9B%B4%E6%92%AD/%E7%9B%B4%E6%92%AD%E5%A4%A7%E5%85%A8.apk",
         "icon": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E7%BC%A9%E7%95%A5%E5%9B%BE/%E7%9B%B4%E6%92%AD/%E7%9B%B4%E6%92%AD%E5%A4%A7%E5%85%A8.png"
       },
       {
-        "name": "电视直播Pro",
-        "url": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E5%AE%89%E8%A3%85%E5%8C%85/%E7%9B%B4%E6%92%AD/%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%ADPro.apk",
-        "icon": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E7%BC%A9%E7%95%A5%E5%9B%BE/%E7%9B%B4%E6%92%AD/%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%ADPro.png"
+        "name": "乡村电视",
+        "url": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E5%AE%89%E8%A3%85%E5%8C%85/%E7%9B%B4%E6%92%AD/%E4%B9%A1%E6%9D%91%E7%94%B5%E8%A7%86.apk",
+        "icon": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E7%BC%A9%E7%95%A5%E5%9B%BE/%E7%9B%B4%E6%92%AD/%E4%B9%A1%E6%9D%91%E7%94%B5%E8%A7%86.png"
       }
     ]
   },
@@ -122,9 +117,14 @@
     "name": "影音软件",
     "list": [
       {
-        "name": "电视影院TV",
-        "url": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E5%AE%89%E8%A3%85%E5%8C%85/%E5%BD%B1%E9%9F%B3/%E7%94%B5%E8%A7%86%E5%BD%B1%E9%99%A2TV.apk",
-        "icon": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E7%BC%A9%E7%95%A5%E5%9B%BE/%E5%BD%B1%E9%9F%B3/%E7%94%B5%E8%A7%86%E5%BD%B1%E9%99%A2TV.png"
+        "name": "悦酷TV",
+        "url": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E5%AE%89%E8%A3%85%E5%8C%85/%E5%BD%B1%E9%9F%B3/%E6%82%A6%E9%85%B7TV.apk",
+        "icon": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E7%BC%A9%E7%95%A5%E5%9B%BE/%E5%BD%B1%E9%9F%B3/%E6%82%A6%E9%85%B7TV.png"
+      },
+      {
+        "name": "剧影TV",
+        "url": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E5%AE%89%E8%A3%85%E5%8C%85/%E5%BD%B1%E9%9F%B3/%E5%89%A7%E5%BD%B1TV.apk",
+        "icon": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E7%BC%A9%E7%95%A5%E5%9B%BE/%E5%BD%B1%E9%9F%B3/%E5%89%A7%E5%BD%B1TV.png"
       },
       {
         "name": "超玩家影视",
