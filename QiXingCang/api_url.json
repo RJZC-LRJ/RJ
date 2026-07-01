@@ -1,7 +1,7 @@
 {
   "urls": [
     {
-      "url": "https://git.yylx.win/github.com/RJZC-LRJ/RJ/blob/main/QiXingCang/api/api.json",
+      "url": "./api/api.json",
       "name": "🚀默认线路"
     },
     {
@@ -67,6 +67,10 @@
     {
       "url": "https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json",
       "name": "🚀CandyMu线路"
+    },
+    {
+      "url": "无内容",
+      "name": "如果全废了就重置或重装APP"
     }
   ]
 }
