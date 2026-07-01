@@ -1,7 +1,7 @@
 {
   "urls": [
     {
-      "url": "./api/api.json",
+      "url": "raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/QiXingCang/api/api.json",
       "name": "🚀默认线路"
     },
     {
