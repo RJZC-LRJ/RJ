@@ -1,7 +1,7 @@
 {
   "urls": [
     {
-      "url": "/api/api.json",
+      "url": "./api/api.json",
       "name": "🚀默认线路"
     },
     {
