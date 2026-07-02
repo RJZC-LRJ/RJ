@@ -1675,7 +1675,7 @@
     },
     {
       "key": "Config1",
-      "name": "不再进行维护",
+      "name": "接口不再维护",
       "type": 3,
       "api": "csp_Config",
       "jar": "./jar/app.jar",
