@@ -259,6 +259,158 @@
       "api": "./py/华数.py",
       "changeable": 1
     },
+        {
+      "key": "柯南",
+      "name": "柯南｜4K",
+      "type": 3,
+      "api": "./py/柯南.py",
+      "jar": "./kjtw.jar",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "csp_茶杯狐",
+      "name": "茶杯狐｜[影视]",
+      "type": 3,
+      "jar": "./kjtw.jar",
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": {
+        "分类url": "https://www.china-itrade.com/label/cupfox-list/{cateId}-{area}--{class}-----{catePg}---{year}.html"
+      }
+    },
+    {
+      "key": "蜗牛",
+      "name": "🎀蜗牛 | 4K",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./kjtw.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": {
+        "分类url": "https://zmi.kdns.fr"
+      }
+    },
+    {
+      "key": "悟空影视",
+      "name": "悟空｜[影视]",
+      "type": 3,
+      "jar": "./kjtw.jar",
+      "api": "csp_XBPQ",
+      "ext": {
+        "分类url": "https://www.wudaola.com"
+      }
+    },
+    {
+      "key": "冠峰",
+      "name": "🎀冠峰｜4K",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./kjtw.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": {
+        "分类url": "https://www.guan-feng.com/"
+      }
+    },
+    {
+      "key": "火云",
+      "name": "火云｜[4k]",
+      "type": 3,
+      "api": "./js/火云.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "changeable": 1
+    },
+    {
+      "key": "港城影视",
+      "name": "港城｜4k",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./kjtw.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": {
+        "分类url": "http://www.6789DYY.com/"
+      }
+    },
+    {
+      "key": "骄阳影视",
+      "name": "骄阳｜4k",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./kjtw.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": {
+        "分类url": "https://feikuai.in/"
+      }
+    },
+    {
+      "key": "炎霄影视",
+      "name": "炎霄｜[4k]",
+      "type": 3,
+      "api": "./js/炎霄.js"
+    },
+    {
+      "key": "流霞影视",
+      "name": "流霞｜[4k]",
+      "type": 3,
+      "api": "./js/流霞.js",
+      "ext": {
+        "host": "http://45.207.218.160:6622",
+        "key": "wNCwbXzr0Bm6cS2C",
+        "init": "V122",
+        "api": 2,
+        "ua": "okhttp/3.10.0"
+      }
+    },
+    {
+      "key": "熬鹰影视",
+      "name": "熬鹰｜影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./kjtw.jar",
+      "style": {
+        "type": "rect",
+        "ratio": 0.75
+      },
+      "changeable": 1,
+      "ext": {
+        "简介": "请不要相信视频中的广告，以免上当受骗！+description\" content=\"&&\"",
+        "分类url": "https://m.ycblcw.com/"
+      }
+    },
+    {
+      "key": "魅影影视",
+      "name": "魅影｜影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./kjtw.jar",
+      "style": {
+        "type": "rect",
+        "ratio": 0.75
+      },
+      "changeable": 1,
+      "ext": {
+        "分类url": "https://www.heitujc.com/screen/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
+      }
+    },
+    {
+      "key": "冰河影视",
+      "name": "冰河｜影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./kjtw.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": {
+        "分类url": "https://txdzby.com/xunbosw/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}"
+      }
+    },
      {
             "key": "4K影视",
             "name": "☀观影🔹秒播",
