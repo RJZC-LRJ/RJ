@@ -18,24 +18,10 @@
       "epg": "https://epg.pw/xmltv/epg_CN.xml"
     },
     {
-      "name": "开门列表『点此处用其他』",
-      "type": 0,
-      "playerType": 2,
-      "url": "https://git.yylx.win/raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
-      "epg": "https://epg.pw/xmltv/epg_CN.xml"
-    },
-    {
       "name": "小飞列表『点此处用其他』",
       "type": 0,
       "playerType": 2,
       "url": "https://site.249051.xyz/live/scripts/live-tenfeitest.txt",
-      "epg": "https://epg.pw/xmltv/epg_CN.xml"
-    },
-    {
-      "name": "潇雨列表『点此处用其他』",
-      "type": 0,
-      "playerType": 2,
-      "url": "https://itv.tv1288.xyz/",
       "epg": "https://epg.pw/xmltv/epg_CN.xml"
     },
     {
@@ -50,6 +36,13 @@
       "type": 0,
       "playerType": 2,
       "url": "http://jiekou.dpdns.org/xiang/hotel.php",
+      "epg": "https://epg.pw/xmltv/epg_CN.xml"
+    },
+    {
+      "name": "开门列表『点此处用其他』",
+      "type": 0,
+      "playerType": 2,
+      "url": "https://git.yylx.win/raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
       "epg": "https://epg.pw/xmltv/epg_CN.xml"
     },
     {
