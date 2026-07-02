@@ -39,13 +39,6 @@
       "epg": "https://epg.pw/xmltv/epg_CN.xml"
     },
     {
-      "name": "开门列表『点此处用其他』",
-      "type": 0,
-      "playerType": 2,
-      "url": "https://git.yylx.win/raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
-      "epg": "https://epg.pw/xmltv/epg_CN.xml"
-    },
-    {
       "name": "猫猫列表『点此处用其他』",
       "type": 0,
       "playerType": 2,
