@@ -868,7 +868,7 @@
         "buildSignature": "99DA983CF878CEC016616175464A91A94775E20A489F07F76FCDEA1A0F2B6B45"
       }
     },
-	{
+    {
       "key": "资源搜索",
       "name": "七星·资源搜索",
       "type": 3,
@@ -1118,7 +1118,7 @@
         "ratio": 1.597
       }
     },
-   {
+    {
       "key": "虎牙JS",
       "name": "七星·虎牙直播",
       "type": 3,
@@ -1570,7 +1570,7 @@
       "changeable": 0,
       "playerType": 2
     },
-   {
+    {
       "key": "玩偶JAR",
       "name": "七星·玩偶网盘",
       "type": 3,
@@ -1788,6 +1788,32 @@
     {
       "key": "Config",
       "name": "接口配置中心",
+      "type": 3,
+      "api": "csp_Config",
+      "jar": "./jar/app.jar",
+      "indexs": 0,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "categories": [
+        "夸克网盘配置",
+        "UC网盘配置",
+        "百度网盘配置",
+        "阿里云盘配置",
+        "天翼云盘配置",
+        "123云盘配置",
+        "哔哩配置",
+        "综合配置",
+        "重置配置"
+      ],
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      }
+    },
+    {
+      "key": "Config1",
+      "name": "个人测试使用",
       "type": 3,
       "api": "csp_Config",
       "jar": "./jar/app.jar",
