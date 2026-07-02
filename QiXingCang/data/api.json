@@ -1,6 +1,6 @@
 {
   "spider": "./jar/app.jar",
-  "notice": "七星影仓：接口免费严禁贩卖·请勿相信视频中的广告·该接口不再进行维护操作属于绝版·扫码授权是免费的",
+  "warningText": "七星影仓：接口免费严禁贩卖·请勿相信视频中的广告·该接口不再进行维护操作属于绝版·扫码授权是免费的",
   "wallpaper": "暂不开放！",
   "lives": [
     {
@@ -542,7 +542,7 @@
       "jar": "./jar/app.jar",
       "timeout": 5,
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "changeable": 1,
       "playerType": 2
     },
@@ -554,7 +554,7 @@
       "jar": "./jar/app.jar",
       "timeout": 5,
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "changeable": 1,
       "playerType": 2
     },
@@ -566,7 +566,7 @@
       "jar": "./jar/app.jar",
       "timeout": 5,
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "changeable": 1,
       "playerType": 2
     },
@@ -578,7 +578,7 @@
       "jar": "./jar/app.jar",
       "timeout": 5,
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "changeable": 1,
       "playerType": 2,
       "categories": [
@@ -603,7 +603,7 @@
       "jar": "./jar/app.jar",
       "timeout": 5,
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "changeable": 1,
       "playerType": 2,
       "categories": [
@@ -633,7 +633,7 @@
       "jar": "./jar/app.jar",
       "timeout": 5,
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "changeable": 1,
       "playerType": 2,
       "categories": [
@@ -661,7 +661,7 @@
       "jar": "./jar/app.jar",
       "timeout": 5,
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "changeable": 1,
       "playerType": 2,
       "categories": [
@@ -689,7 +689,7 @@
       "jar": "./jar/app.jar",
       "timeout": 5,
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "changeable": 1,
       "playerType": 2,
       "categories": [
@@ -715,7 +715,7 @@
       "jar": "./jar/app.jar",
       "timeout": 5,
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "changeable": 1,
       "playerType": 2,
       "categories": [
@@ -740,7 +740,7 @@
       "jar": "./jar/app.jar",
       "timeout": 5,
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "changeable": 1,
       "playerType": 2,
       "categories": [
@@ -783,7 +783,7 @@
       "jar": "./jar/app.jar",
       "timeout": 15,
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "changeable": 1,
       "playerType": 2
     },
