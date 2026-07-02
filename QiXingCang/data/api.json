@@ -67,7 +67,7 @@
       "type": 3,
       "api": "csp_Douban",
       "jar": "./jar/app.jar",
-      "indexs": 0,
+      "indexs": 1,
       "searchable": 0
     },
     {
