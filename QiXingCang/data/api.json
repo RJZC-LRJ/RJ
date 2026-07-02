@@ -67,7 +67,7 @@
       "type": 3,
       "api": "csp_Douban",
       "jar": "./jar/app.jar",
-      "indexs": 1,
+      "indexs": 0,
       "searchable": 0
     },
     {
@@ -77,7 +77,7 @@
       "api": "./js/drpy2.min.js",
       "ext": "./js/YK.js",
       "jar": "./jar/notice.jar",
-      "indexs": 1,
+      "indexs": 0,
       "searchable": 0,
       "categories": [
         "电影",
