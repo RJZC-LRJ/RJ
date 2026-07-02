@@ -71,14 +71,23 @@
       "searchable": 0
     },
     {
-      "key": "弹幕APP",
-      "name": "七星·智能弹幕",
+      "key": "主页APP",
+      "name": "七星·优酷推荐",
       "type": 3,
-      "api": "csp_Douban",
-      "jar": "./jar/moyu.jar",
-      "ext": "./json/DanmuDouban.json",
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/YK.js",
+      "jar": "./jar/notice.jar",
       "indexs": 1,
-      "searchable": 0
+      "searchable": 0,
+      "categories": [
+        "电影",
+        "电视剧",
+        "少儿",
+        "动漫",
+        "短剧",
+        "综艺",
+        "纪录片"
+      ]
     },
     {
       "key": "预告APP",
