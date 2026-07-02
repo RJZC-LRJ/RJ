@@ -210,7 +210,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "playerType": 2,
+      "playerType": 1,
       "categories": [
         "动作片",
         "喜剧片",
@@ -499,46 +499,10 @@
       }
     },
     {
-      "key": "枫叶JAR",
-      "name": "七星·枫叶影视",
-      "type": 3,
-      "api": "./py/fy.py",
-      "jar": "./jar/app.jar",
-      "timeout": 5,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "playerType": 2
-    },
-    {
       "key": "猎手PY",
       "name": "七星·猎手影视",
       "type": 3,
       "api": "./py/%E7%8C%8E%E6%89%8B%E5%BD%B1%E8%A7%86.py",
-      "jar": "./jar/app.jar",
-      "timeout": 5,
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 1,
-      "playerType": 2
-    },
-    {
-      "key": "永乐JS",
-      "name": "七星·永乐影视",
-      "type": 3,
-      "api": "./js/%E6%B0%B8%E4%B9%90%E8%A7%86%E9%A2%91.js",
-      "jar": "./jar/app.jar",
-      "timeout": 5,
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 1,
-      "playerType": 2
-    },
-    {
-      "key": "哇哇PY",
-      "name": "七星·哇哇影视",
-      "type": 3,
-      "api": "./py/%E5%93%87%E5%93%87.py",
       "jar": "./jar/app.jar",
       "timeout": 5,
       "searchable": 1,
@@ -642,7 +606,6 @@
       "playerType": 2,
       "categories": [
         "直播",
-        "教育",
         "电影",
         "剧集",
         "动漫",
@@ -681,31 +644,6 @@
         "site": "https://mobile-1251126973.cos.ap-guangzhou.myqcloud.com/maccos_config.txt",
         "dataKey": "8R33VQSxzmCaHpEX",
         "dataIv": "8R33VQSxzmCaHpEX"
-      }
-    },
-    {
-      "key": "分享API",
-      "name": "七星·分享影视",
-      "type": 3,
-      "api": "./js/get.js",
-      "jar": "./jar/app.jar",
-      "timeout": 5,
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 1,
-      "playerType": 2,
-      "categories": [
-        "电影",
-        "剧集",
-        "动漫",
-        "综艺",
-        "纪录片"
-      ],
-      "ext": {
-        "api": 2,
-        "类型": "APP",
-        "host": "http://107.151.244.162:6622",
-        "key": "wNCwbXzr0Bm6cS2C"
       }
     },
     {
@@ -748,18 +686,6 @@
       "timeout": 10,
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "playerType": 2
-    },
-    {
-      "key": "荐片JAR",
-      "name": "七星·荐片影视",
-      "type": 3,
-      "api": "csp_JianPian",
-      "jar": "./jar/app.jar",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 0,
       "changeable": 1,
       "playerType": 2
     },
@@ -925,22 +851,6 @@
       }
     },
     {
-      "key": "歌厅JAR",
-      "name": "七星·歌厅音乐",
-      "type": 3,
-      "api": "csp_MusicIKtvGuard",
-      "jar": "./jar/wex.jar",
-      "timeout": 10,
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 1,
-      "playerType": 2,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      }
-    },
-    {
       "key": "爱听JAR",
       "name": "七星·爱听音乐",
       "type": 3,
@@ -1005,22 +915,6 @@
       "name": "七星·哔哩直播",
       "type": 3,
       "api": "./py/BLZB.py",
-      "jar": "./jar/app.jar",
-      "timeout": 10,
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "playerType": 2,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      }
-    },
-    {
-      "key": "抖音PY",
-      "name": "七星·抖音直播",
-      "type": 3,
-      "api": "./py/DYZB.py",
       "jar": "./jar/app.jar",
       "timeout": 10,
       "searchable": 0,
@@ -1318,22 +1212,6 @@
       }
     },
     {
-      "key": "糖豆JAR",
-      "name": "七星·糖豆舞蹈",
-      "type": 3,
-      "api": "csp_WexTangDouGuard",
-      "jar": "./jar/wex.jar",
-      "timeout": 10,
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "playerType": 2,
-      "style": {
-        "type": "rect",
-        "ratio": 2
-      }
-    },
-    {
       "key": "小龙JAR",
       "name": "七星·小龙漫剧",
       "type": 3,
@@ -1399,18 +1277,6 @@
       "name": "七星·好看短剧",
       "type": 3,
       "api": "csp_DuanJuHaoKanGuard",
-      "jar": "./jar/wex.jar",
-      "timeout": 10,
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "playerType": 2
-    },
-    {
-      "key": "小马JAR",
-      "name": "七星·小马短剧",
-      "type": 3,
-      "api": "csp_DuanJuHeMaGuard",
       "jar": "./jar/wex.jar",
       "timeout": 10,
       "searchable": 0,
