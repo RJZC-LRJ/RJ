@@ -4,42 +4,42 @@
   "wallpaper": "https://t.alcy.cc/fj",
   "lives": [
     {
-      "name": "默认列表『点此处用其他』",
+      "name": "默认列表",
       "type": 0,
       "playerType": 2,
       "url": "http://www.52top.com.cn:678/downloads/migu.txt",
       "epg": "https://epg.pw/xmltv/epg_CN.xml"
     },
     {
-      "name": "咪咕列表『点此处用其他』",
+      "name": "咪咕列表",
       "type": 0,
       "playerType": 2,
       "url": "https://git.yylx.win/raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
       "epg": "https://epg.pw/xmltv/epg_CN.xml"
     },
     {
-      "name": "小飞列表『点此处用其他』",
+      "name": "小飞列表",
       "type": 0,
       "playerType": 2,
       "url": "https://site.249051.xyz/live/scripts/live-tenfeitest.txt",
       "epg": "https://epg.pw/xmltv/epg_CN.xml"
     },
     {
-      "name": "裤佬列表『点此处用其他』",
+      "name": "裤佬列表",
       "type": 0,
       "playerType": 2,
       "url": "https://git.yylx.win/raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u",
       "epg": "https://epg.pw/xmltv/epg_CN.xml"
     },
     {
-      "name": "猫总列表『点此处用其他』",
+      "name": "猫总列表",
       "type": 0,
       "playerType": 2,
       "url": "http://jiekou.dpdns.org/xiang/hotel.php",
       "epg": "https://epg.pw/xmltv/epg_CN.xml"
     },
     {
-      "name": "猫猫列表『点此处用其他』",
+      "name": "猫猫列表",
       "type": 0,
       "playerType": 2,
       "url": "http://rihou.cc:555/gggg.nzk?type=.txt",
