@@ -910,22 +910,6 @@
       }
     },
     {
-      "key": "网易PY",
-      "name": "七星·网易音乐",
-      "type": 3,
-      "api": "./py/%E7%BD%91%E6%98%93%E9%9F%B3%E4%B9%90.py",
-      "jar": "./jar/app.jar",
-      "timeout": 10,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "playerType": 2,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      }
-    },
-    {
       "key": "呦呦JAR",
       "name": "七星·呦呦音乐",
       "type": 3,
