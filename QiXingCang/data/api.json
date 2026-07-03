@@ -1444,32 +1444,6 @@
       "timeout": 30
     },
     {
-      "key": "混搜JAR",
-      "name": "七星·混合引擎",
-      "type": 3,
-      "api": "csp_HunHePan",
-      "jar": "./jar/app.jar",
-      "hide": 1,
-      "timeout": 30,
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 1,
-      "playerType": 2
-    },
-    {
-      "key": "盘搜JAR",
-      "name": "七星·盘搜引擎",
-      "type": 3,
-      "api": "csp_PanSou",
-      "jar": "./jar/app.jar",
-      "hide": 1,
-      "timeout": 30,
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 1,
-      "playerType": 2
-    },
-    {
       "key": "Config",
       "name": "接口配置中心",
       "type": 3,
