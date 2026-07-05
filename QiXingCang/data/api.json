@@ -56,7 +56,7 @@
   "sites": [
     {
       "key": "个性APP",
-      "name": "不会用别麻烦别人，选中图标按遥控器菜单键选择卸载即可！！",
+      "name": "不会用别麻烦别人，卸载即可！",
       "type": 3,
       "api": "csp_Douban",
       "jar": "./jar/app.jar",
@@ -499,9 +499,9 @@
         "纪录片"
       ],
       "ext": {
-        "site": "https://yzysap.oss-cn-hangzhou.aliyuncs.com/sss.txt",
-        "dataKey": "wNCwbXzr0Bm6cS2C",
-        "dataIv": "wNCwbXzr0Bm6cS2C",
+        "site": "https://yzysap.oss-cn-hangzhou.aliyuncs.com/kkk.txt",
+        "dataKey": "8eeObuwrmS3lRDEs",
+        "dataIv": "8eeObuwrmS3lRDEs",
         "ua": "okhttp/3.10.0"
       }
     },
