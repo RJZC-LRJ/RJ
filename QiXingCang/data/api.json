@@ -56,7 +56,7 @@
   "sites": [
     {
       "key": "个性APP",
-      "name": "不会用别麻烦别人，卸载即可！",
+      "name": "苍总晚上好",
       "type": 3,
       "api": "csp_Douban",
       "jar": "./jar/app.jar",
