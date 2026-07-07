@@ -56,7 +56,7 @@
   "sites": [
     {
       "key": "个性APP",
-      "name": "不要质疑，保持低调~",
+      "name": "七星·豆瓣推荐🤓",
       "type": 3,
       "api": "csp_Douban",
       "jar": "./jar/app.jar",
@@ -65,7 +65,7 @@
     },
     {
       "key": "预告APP",
-      "name": "七星·新片预告",
+      "name": "七星·新片预告🤓",
       "type": 3,
       "api": "csp_YGP",
       "jar": "./jar/app.jar",
