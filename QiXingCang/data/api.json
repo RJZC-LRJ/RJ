@@ -653,6 +653,18 @@
         "dataIv": "8R33VQSxzmCaHpEX"
       }
     },
+        {
+      "key": "幕白影视",
+      "name": "七星·幕白影视",
+      "type": 3,
+      "api": "./js/mubai.js",
+      "jar": "./jar/app.jar",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": 2
+    },
     {
       "key": "资源搜索",
       "name": "七星·资源搜索",
