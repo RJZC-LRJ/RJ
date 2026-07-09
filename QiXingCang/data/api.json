@@ -656,9 +656,8 @@
     {
       "key": "幕白影视",
       "name": "七星·幕白影视",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/mubai.js",
+      "type": 4,
+      "api": "./js/mubai.js",
       "jar": "./jar/app.jar",
       "timeout": 10,
       "searchable": 1,
