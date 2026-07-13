@@ -1487,32 +1487,6 @@
         "type": "rect",
         "ratio": 1.597
       }
-    },
-    {
-      "key": "Config1",
-      "name": "接口不再维护",
-      "type": 3,
-      "api": "csp_Config",
-      "jar": "./jar/app.jar",
-      "indexs": 0,
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "categories": [
-        "夸克网盘配置",
-        "UC网盘配置",
-        "百度网盘配置",
-        "阿里云盘配置",
-        "天翼云盘配置",
-        "123云盘配置",
-        "哔哩配置",
-        "综合配置",
-        "重置配置"
-      ],
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      }
     }
   ],
   "doh": [
