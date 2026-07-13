@@ -1,0 +1,144 @@
+{
+  "class": [
+    {
+      "type_name": "戏曲合集",
+      "type_id": "戏曲合集"
+    },
+    {
+      "type_name": "名家名段",
+      "type_id": "名家名段"
+    },
+    {
+      "type_name": "京剧",
+      "type_id": "京剧"
+    },
+    {
+      "type_name": "吕剧",
+      "type_id": "吕剧"
+    },
+    {
+      "type_name": "豫剧",
+      "type_id": "豫剧"
+    },
+    {
+      "type_name": "越剧",
+      "type_id": "越剧"
+    },
+    {
+      "type_name": "粤剧",
+      "type_id": "粤剧"
+    },
+    {
+      "type_name": "黄梅戏",
+      "type_id": "黄梅戏"
+    },
+    {
+      "type_name": "秦腔",
+      "type_id": "秦腔"
+    },
+    {
+      "type_name": "河南坠子",
+      "type_id": "河南坠子"
+    },
+    {
+      "type_name": "河北梆子",
+      "type_id": "河北梆子"
+    },
+    {
+      "type_name": "赣剧",
+      "type_id": "赣剧"
+    },
+    {
+      "type_name": "昆曲",
+      "type_id": "昆曲"
+    },
+    {
+      "type_name": "楚剧",
+      "type_id": "楚剧"
+    },
+    {
+      "type_name": "京韵大鼓",
+      "type_id": "京韵大鼓"
+    },
+    {
+      "type_name": "评剧",
+      "type_id": "评剧"
+    },
+    {
+      "type_name": "川剧",
+      "type_id": "川剧"
+    },
+    {
+      "type_name": "花鼓戏",
+      "type_id": "花鼓戏"
+    },
+    {
+      "type_name": "庐剧",
+      "type_id": "庐剧"
+    },
+    {
+      "type_name": "淮剧",
+      "type_id": "淮剧"
+    },
+    {
+      "type_name": "扬剧",
+      "type_id": "扬剧"
+    },
+    {
+      "type_name": "绍剧",
+      "type_id": "绍剧"
+    },
+    {
+      "type_name": "潮剧",
+      "type_id": "潮剧"
+    },
+    {
+      "type_name": "沪剧",
+      "type_id": "沪剧"
+    },
+    {
+      "type_name": "歌仔戏",
+      "type_id": "歌仔戏"
+    },
+    {
+      "type_name": "晋剧",
+      "type_id": "晋剧"
+    },
+    {
+      "type_name": "蒲剧",
+      "type_id": "蒲剧"
+    },
+    {
+      "type_name": "陕西说唱",
+      "type_id": "陕西说唱"
+    },
+    {
+      "type_name": "唐山皮影戏",
+      "type_id": "唐山皮影戏"
+    },
+    {
+      "type_name": "相声",
+      "type_id": "相声"
+    },
+    {
+      "type_name": "小品",
+      "type_id": "小品"
+    },
+    {
+      "type_name": "评书",
+      "type_id": "评书"
+    },
+    {
+      "type_name": "听小说",
+      "type_id": "有声书"
+    },
+    {
+      "type_name": "二人转",
+      "type_id": "二人转"
+    },
+    {
+      "type_name": "整理：RJZC",
+      "type_id": ""
+    }
+  ]
+}
