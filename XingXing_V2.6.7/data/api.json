@@ -4,59 +4,52 @@
   "wallpaper": "https://t.alcy.cc/fj",
   "lives": [
     {
-      "name": "直播列表1",
+      "name": "默认列表",
       "type": 0,
-      "playerType": 2,
+      "playerType": 1,
       "url": "http://www.52top.com.cn:678/downloads/migu.txt",
       "epg": "https://epg.pw/xmltv/epg_CN.xml"
     },
     {
-      "name": "直播列表2",
+      "name": "直播列表",
       "type": 0,
-      "playerType": 2,
-      "url": "https://git.yylx.win/raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+      "playerType": 1,
+      "url": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
       "epg": "https://epg.pw/xmltv/epg_CN.xml"
     },
     {
-      "name": "直播列表3",
+      "name": "飞飞列表",
       "type": 0,
-      "playerType": 2,
+      "playerType": 1,
       "url": "https://site.249051.xyz/live/scripts/live-tenfeitest.txt",
       "epg": "https://epg.pw/xmltv/epg_CN.xml"
     },
     {
-      "name": "直播列表4",
+      "name": "裤哥列表",
       "type": 0,
-      "playerType": 2,
-      "url": "https://git.yylx.win/raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u",
+      "playerType": 1,
+      "url": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u",
       "epg": "https://epg.pw/xmltv/epg_CN.xml"
     },
     {
-      "name": "直播列表5",
+      "name": "猫哥列表",
       "type": 0,
-      "playerType": 2,
+      "playerType": 1,
       "url": "http://jiekou.dpdns.org/xiang/hotel.php",
       "epg": "https://epg.pw/xmltv/epg_CN.xml"
     },
     {
-      "name": "直播列表6",
+      "name": "猫猫列表",
       "type": 0,
-      "playerType": 2,
-      "url": "http://82.156.243.185:33389/fwc.m3u",
-      "epg": "https://epg.pw/xmltv/epg_CN.xml"
-    },
-    {
-      "name": "直播列表7",
-      "type": 0,
-      "playerType": 2,
-      "url": "http://rihou.cc:555/gggg.nzk?type=.txt",
+      "playerType": 1,
+      "url": "http://rihou.cc:555/gggg.nzk?type=txt",
       "epg": "https://epg.pw/xmltv/epg_CN.xml"
     }
   ],
   "sites": [
     {
       "key": "个性APP",
-      "name": "七星·豆瓣推荐🤓",
+      "name": "豆瓣推荐『点主页/换源用其他』",
       "type": 3,
       "api": "csp_Douban",
       "jar": "./jar/app.jar",
@@ -65,7 +58,7 @@
     },
     {
       "key": "预告APP",
-      "name": "七星·新片预告🤓",
+      "name": "新片预告『点主页/换源用其他』",
       "type": 3,
       "api": "csp_YGP",
       "jar": "./jar/app.jar",
@@ -73,11 +66,11 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "playerType": 2
+      "playerType": 1
     },
     {
       "key": "天堂API",
-      "name": "七星·[1源]",
+      "name": "堂堂影视",
       "type": 1,
       "api": "https://caiji.dyttzyapi.com/api.php/provide/vod",
       "jar": "./jar/app.jar",
@@ -85,7 +78,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "playerType": 2,
+      "playerType": 1,
       "categories": [
         "动作片",
         "喜剧片",
@@ -123,7 +116,7 @@
     },
     {
       "key": "量子API",
-      "name": "七星·[2源]",
+      "name": "量量影视",
       "type": 1,
       "api": "http://cj.lziapi.com/api.php/provide/vod/",
       "jar": "./jar/app.jar",
@@ -131,7 +124,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "playerType": 2,
+      "playerType": 1,
       "categories": [
         "动作片",
         "喜剧片",
@@ -169,7 +162,7 @@
     },
     {
       "key": "茶杯API",
-      "name": "七星·[3源]",
+      "name": "茶茶影视",
       "type": 1,
       "api": "http://www.haohuazy.com/api.php/provide/vod",
       "jar": "./jar/app.jar",
@@ -177,7 +170,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "playerType": 2,
+      "playerType": 1,
       "categories": [
         "内地剧",
         "香港剧",
@@ -209,7 +202,7 @@
     },
     {
       "key": "索尼API",
-      "name": "七星·[4源]",
+      "name": "尼尼影视",
       "type": 1,
       "api": "https://suoniapi.com/api.php/provide/vod/",
       "jar": "./jar/app.jar",
@@ -255,7 +248,7 @@
     },
     {
       "key": "卫士API",
-      "name": "七星·[5源]",
+      "name": "卫卫影视",
       "type": 1,
       "api": "https://360zy.com/api.php/provide/vod",
       "jar": "./jar/app.jar",
@@ -263,7 +256,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "playerType": 2,
+      "playerType": 1,
       "categories": [
         "动作片",
         "喜剧片",
@@ -301,7 +294,7 @@
     },
     {
       "key": "金牌JAR",
-      "name": "七星·[6源]",
+      "name": "金金影视",
       "type": 3,
       "api": "./js/%E9%87%91%E7%89%8C%E5%BD%B1%E9%99%A2.js",
       "jar": "./jar/app.jar",
@@ -309,7 +302,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "playerType": 2,
+      "playerType": 1,
       "categories": [
         "电影",
         "电视剧",
@@ -320,7 +313,7 @@
     },
     {
       "key": "农民JAR",
-      "name": "七星·[7源]",
+      "name": "农农影视",
       "type": 3,
       "api": "csp_Wwys",
       "jar": "./jar/app.jar",
@@ -329,7 +322,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "playerType": 2,
+      "playerType": 1,
       "categories": [
         "电影",
         "连续剧",
@@ -340,7 +333,7 @@
     },
     {
       "key": "瓜子JAR",
-      "name": "七星·[8源]",
+      "name": "瓜瓜影视",
       "type": 3,
       "api": "csp_Gz360",
       "jar": "./jar/app.jar",
@@ -352,7 +345,7 @@
     },
     {
       "key": "热播JAR",
-      "name": "七星·[9源]",
+      "name": "热热影视",
       "type": 3,
       "api": "csp_AppRJ",
       "jar": "./jar/app.jar",
@@ -360,7 +353,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "playerType": 2,
+      "playerType": 1,
       "categories": [
         "内地",
         "电影",
@@ -373,7 +366,7 @@
     },
     {
       "key": "星辰JS",
-      "name": "七星·[10源]",
+      "name": "星星影视",
       "type": 3,
       "api": "./js/%E6%98%9F%E8%BE%B0%E5%BD%B1%E9%99%A2.js",
       "jar": "./jar/app.jar",
@@ -385,7 +378,7 @@
     },
     {
       "key": "三秋JAR",
-      "name": "七星·[11源]",
+      "name": "三球影视",
       "type": 3,
       "api": "csp_App3Q",
       "jar": "./jar/app.jar",
@@ -397,7 +390,7 @@
     },
     {
       "key": "橘汁JAR",
-      "name": "七星·[12源]",
+      "name": "橘橘影视",
       "type": 3,
       "api": "csp_AppDrama",
       "jar": "./jar/app.jar",
@@ -405,7 +398,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "playerType": 2,
+      "playerType": 1,
       "categories": [
         "直播",
         "电影",
@@ -430,7 +423,7 @@
     },
     {
       "key": "苹果JAR",
-      "name": "七星·[13源]",
+      "name": "平平影视",
       "type": 3,
       "api": "csp_AppDrama",
       "jar": "./jar/app.jar",
@@ -438,7 +431,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "playerType": 2,
+      "playerType": 1,
       "categories": [
         "直播",
         "电影",
@@ -461,7 +454,7 @@
     },
     {
       "key": "看剧PY",
-      "name": "七星·[14源]",
+      "name": "看看影视",
       "type": 3,
       "api": "./py/AppToV5.py",
       "jar": "./jar/app.jar",
@@ -470,7 +463,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "playerType": 2,
+      "playerType": 1,
       "categories": [
         "电影",
         "电视剧",
@@ -480,34 +473,8 @@
       ]
     },
     {
-      "key": "四叶JAR",
-      "name": "七星·[15源]",
-      "type": 3,
-      "api": "csp_AppQi",
-      "jar": "./jar/app.jar",
-      "timeout": 5,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "playerType": 2,
-      "categories": [
-        "电影",
-        "剧集",
-        "少儿",
-        "动漫",
-        "短剧",
-        "纪录片"
-      ],
-      "ext": {
-        "site": "https://yzysap.oss-cn-hangzhou.aliyuncs.com/kkk.txt",
-        "dataKey": "8eeObuwrmS3lRDEs",
-        "dataIv": "8eeObuwrmS3lRDEs",
-        "ua": "okhttp/3.10.0"
-      }
-    },
-    {
       "key": "猎手PY",
-      "name": "七星·[16源]",
+      "name": "猎猎影视",
       "type": 3,
       "api": "./py/%E7%8C%8E%E6%89%8B%E5%BD%B1%E8%A7%86.py",
       "jar": "./jar/app.jar",
@@ -519,7 +486,7 @@
     },
     {
       "key": "曼波JAR",
-      "name": "七星·[17源]",
+      "name": "曼波影视",
       "type": 3,
       "api": "csp_AppGet",
       "jar": "./jar/app.jar",
@@ -527,7 +494,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 1,
-      "playerType": 2,
+      "playerType": 1,
       "categories": [
         "日本动漫",
         "国产动漫",
@@ -543,38 +510,8 @@
       }
     },
     {
-      "key": "爱盈JAR",
-      "name": "七星·[18源]",
-      "type": 3,
-      "api": "csp_AppQi",
-      "jar": "./jar/app.jar",
-      "timeout": 5,
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 1,
-      "playerType": 2,
-      "categories": [
-        "直播",
-        "体育",
-        "电影",
-        "电视剧",
-        "少儿",
-        "纪录片",
-        "动漫",
-        "综艺",
-        "短剧"
-      ],
-      "ext": {
-        "site": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q23.txt",
-        "dataKey": "nzEqOgYk3QzHuEP8",
-        "dataIv": "nzEqOgYk3QzHuEP8",
-        "init": "initV122",
-        "ua": "Lavf/58.12.10"
-      }
-    },
-    {
       "key": "剧圈JAR",
-      "name": "七星·[19源]",
+      "name": "剧剧影视",
       "type": 3,
       "api": "csp_App99",
       "jar": "./jar/app.jar",
@@ -582,7 +519,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 1,
-      "playerType": 2,
+      "playerType": 1,
       "categories": [
         "电影",
         "剧集",
@@ -601,35 +538,8 @@
       }
     },
     {
-      "key": "星河JAR",
-      "name": "七星·[20源]",
-      "type": 3,
-      "api": "csp_AppQi",
-      "jar": "./jar/app.jar",
-      "timeout": 5,
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 1,
-      "playerType": 2,
-      "categories": [
-        "直播",
-        "电影",
-        "剧集",
-        "动漫",
-        "综艺",
-        "短剧"
-      ],
-      "ext": {
-        "site": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxhqj.txt",
-        "dataKey": "kj37zs29q22jk96t",
-        "dataIv": "kj37zs29q22jk96t",
-        "init": "initV122",
-        "ua": "okhttp/3.10.0"
-      }
-    },
-    {
       "key": "葫芦JAR",
-      "name": "七星·[21源]",
+      "name": "胡胡影视",
       "type": 3,
       "api": "csp_AppQi",
       "jar": "./jar/app.jar",
@@ -637,7 +547,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 1,
-      "playerType": 2,
+      "playerType": 1,
       "categories": [
         "电影",
         "电视剧",
@@ -654,20 +564,8 @@
       }
     },
     {
-      "key": "幕白影视",
-      "name": "七星·幕白影视",
-      "type": 4,
-      "api": "./js/mubai.js",
-      "jar": "./jar/app.jar",
-      "timeout": 10,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "playerType": 2
-    },
-    {
       "key": "资源搜索",
-      "name": "七星·资源搜索",
+      "name": "资源搜索",
       "type": 3,
       "api": "csp_Bili",
       "jar": "./jar/app.jar",
@@ -680,7 +578,7 @@
     },
     {
       "key": "哔哩JAR·A",
-      "name": "七星·哔哩大全",
+      "name": "哔哩大全",
       "type": 3,
       "api": "csp_Bili",
       "jar": "./jar/app.jar",
@@ -688,7 +586,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 1,
-      "playerType": 2,
+      "playerType": 1,
       "style": {
         "type": "rect",
         "ratio": 1.433
@@ -699,7 +597,7 @@
     },
     {
       "key": "1905PY",
-      "name": "七星·经典电影",
+      "name": "经典电影",
       "type": 3,
       "api": "./py/1905.py",
       "jar": "./jar/app.jar",
@@ -711,7 +609,7 @@
     },
     {
       "key": "央视PY",
-      "name": "七星·洋洋影库",
+      "name": "洋洋影库",
       "type": 3,
       "api": "./py/cctv.py",
       "jar": "./jar/app.jar",
@@ -719,7 +617,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 1,
-      "playerType": 2,
+      "playerType": 1,
       "categories": [
         "动画片",
         "电视剧",
@@ -729,7 +627,7 @@
     },
     {
       "key": "乐虎JS",
-      "name": "七星·乐乐儿歌",
+      "name": "乐乐儿歌",
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./js/%E8%B4%9D%E4%B9%90%E8%99%8E%5B%E5%84%BF%5D.js",
@@ -737,7 +635,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "playerType": 2,
+      "playerType": 1,
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -745,7 +643,7 @@
     },
     {
       "key": "小贝JS",
-      "name": "七星·贝贝儿歌",
+      "name": "贝贝儿歌",
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./js/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
@@ -753,7 +651,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "playerType": 2,
+      "playerType": 1,
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -761,7 +659,7 @@
     },
     {
       "key": "蜻蜓JS",
-      "name": "七星·蜻蜓广播",
+      "name": "蜻蜓广播",
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./json/%E8%9C%BB%E8%9C%93FM.json",
@@ -769,7 +667,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "playerType": 2,
+      "playerType": 1,
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -777,7 +675,7 @@
     },
     {
       "key": "凤凰JS",
-      "name": "七星·凤凰广播",
+      "name": "凤凰广播",
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./json/%E5%87%A4%E5%87%B0FM.json",
@@ -785,7 +683,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "playerType": 2,
+      "playerType": 1,
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -793,7 +691,7 @@
     },
     {
       "key": "哔哩JAR·B",
-      "name": "七星·BL音乐",
+      "name": "哔哩音乐",
       "type": 3,
       "api": "csp_Bili",
       "jar": "./jar/app.jar",
@@ -801,7 +699,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 1,
-      "playerType": 2,
+      "playerType": 1,
       "style": {
         "type": "rect",
         "ratio": 1.433
@@ -812,7 +710,7 @@
     },
     {
       "key": "呦呦JAR",
-      "name": "七星·呦呦音乐",
+      "name": "呦呦音乐",
       "type": 3,
       "api": "csp_Djuu",
       "jar": "./jar/app.jar",
@@ -824,7 +722,7 @@
     },
     {
       "key": "酷狗JAR",
-      "name": "七星·酷GO音乐",
+      "name": "嗷呜音乐",
       "type": 3,
       "api": "csp_KuGouAmns",
       "jar": "./jar/aowu.jar",
@@ -832,7 +730,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 1,
-      "playerType": 2,
+      "playerType": 1,
       "genre": "music",
       "style": {
         "type": "rect",
@@ -841,7 +739,7 @@
     },
     {
       "key": "爱听JAR",
-      "name": "七星·爱听音乐",
+      "name": "爱听音乐",
       "type": 3,
       "api": "csp_MusicKuWoGuard",
       "jar": "./jar/wex.jar",
@@ -853,7 +751,7 @@
     },
     {
       "key": "易听JAR",
-      "name": "七星·易听音乐",
+      "name": "易听音乐",
       "type": 3,
       "api": "csp_Music163Guard",
       "jar": "./jar/wex.jar",
@@ -861,7 +759,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "playerType": 2,
+      "playerType": 1,
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -869,7 +767,7 @@
     },
     {
       "key": "虎牙JS",
-      "name": "七星·虎Y直播",
+      "name": "虎牙直播",
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./js/%E8%99%8E%E7%89%99.js",
@@ -877,7 +775,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "playerType": 2,
+      "playerType": 1,
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -885,7 +783,7 @@
     },
     {
       "key": "斗鱼JS",
-      "name": "七星·斗Y直播",
+      "name": "斗鱼直播",
       "type": 3,
       "api": "./js/drpy2.min.js",
       "ext": "./js/%E6%96%97%E9%B1%BC%E7%9B%B4%E6%92%AD.js",
@@ -893,7 +791,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "playerType": 2,
+      "playerType": 1,
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -901,7 +799,7 @@
     },
     {
       "key": "哔播PY",
-      "name": "七星·哔L直播",
+      "name": "哔哩直播",
       "type": 3,
       "api": "./py/BLZB.py",
       "jar": "./jar/app.jar",
@@ -909,23 +807,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "playerType": 2,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      }
-    },
-    {
-      "key": "酷狗API",
-      "name": "七星·酷G直播",
-      "type": 4,
-      "api": "http://nm.4688888.xyz/vod/kg/kglive.php/provide/vod/",
-      "jar": "./jar/app.jar",
-      "timeout": 10,
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "playerType": 2,
+      "playerType": 1,
       "style": {
         "type": "rect",
         "ratio": 1.433
@@ -933,7 +815,7 @@
     },
     {
       "key": "网播PY",
-      "name": "七星·网络直播",
+      "name": "网络直播",
       "type": 3,
       "api": "./py/%E7%BD%91%E7%BB%9C%E7%9B%B4%E6%92%AD.py",
       "jar": "./jar/app.jar",
@@ -941,7 +823,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "playerType": 2,
+      "playerType": 1,
       "categories": [
         "虎牙",
         "斗鱼",
@@ -950,7 +832,7 @@
     },
     {
       "key": "球通JAR",
-      "name": "七星·球通体育",
+      "name": "球通体育",
       "type": 3,
       "api": "csp_QiutongTY",
       "jar": "./jar/app.jar",
@@ -958,14 +840,14 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "playerType": 2,
+      "playerType": 1,
       "style": {
         "type": "list"
       }
     },
     {
       "key": "瓜子JAR",
-      "name": "七星·瓜子体育",
+      "name": "瓜子体育",
       "type": 3,
       "api": "csp_GuaziTY",
       "jar": "./jar/app.jar",
@@ -973,14 +855,14 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "playerType": 2,
+      "playerType": 1,
       "style": {
         "type": "list"
       }
     },
     {
       "key": "919JAR",
-      "name": "七星·就要体育",
+      "name": "就要体育",
       "type": 3,
       "api": "csp_919TY",
       "jar": "./jar/app.jar",
@@ -988,14 +870,14 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "playerType": 2,
+      "playerType": 1,
       "style": {
         "type": "list"
       }
     },
     {
       "key": "企鹅PY",
-      "name": "七星·企鹅体育",
+      "name": "企鹅体育",
       "type": 3,
       "api": "./py/%E4%BC%81%E9%B9%85%E4%BD%93%E8%82%B2.py",
       "jar": "./jar/app.jar",
@@ -1003,7 +885,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "playerType": 2,
+      "playerType": 1,
       "style": {
         "type": "rect",
         "ratio": 1.433
@@ -1011,7 +893,7 @@
     },
     {
       "key": "暴风API",
-      "name": "七星·暴风体育",
+      "name": "暴风体育",
       "type": 1,
       "api": "https://bfzyapi.com/api.php/provide/vod/",
       "jar": "./jar/app.jar",
@@ -1019,7 +901,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "playerType": 2,
+      "playerType": 1,
       "categories": [
         "足球",
         "篮球",
@@ -1032,7 +914,7 @@
     },
     {
       "key": "咖啡JAR",
-      "name": "七星·咖啡体育",
+      "name": "咖啡体育",
       "type": 3,
       "api": "csp_SportKaFeiGuard",
       "jar": "./jar/wex.jar",
@@ -1040,14 +922,14 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "playerType": 2,
+      "playerType": 1,
       "style": {
         "type": "list"
       }
     },
     {
       "key": "WWEJAR",
-      "name": "七星·摔角体育",
+      "name": "摔角体育",
       "type": 3,
       "api": "csp_SportWweGuard",
       "jar": "./jar/wex.jar",
@@ -1055,14 +937,14 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "playerType": 2,
+      "playerType": 1,
       "style": {
         "type": "list"
       }
     },
     {
       "key": "急救JAR",
-      "name": "七星·急救教学",
+      "name": "急救教学",
       "type": 3,
       "api": "csp_FirstAid",
       "jar": "./jar/app.jar",
@@ -1070,7 +952,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "playerType": 2,
+      "playerType": 1,
       "style": {
         "type": "rect",
         "ratio": 3.8
@@ -1079,7 +961,7 @@
     },
     {
       "key": "哔哩JAR·C",
-      "name": "七星·BL学堂",
+      "name": "哔哩学堂",
       "type": 3,
       "api": "csp_Bili",
       "jar": "./jar/app.jar",
@@ -1087,7 +969,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 1,
-      "playerType": 2,
+      "playerType": 1,
       "style": {
         "type": "rect",
         "ratio": 1.433
@@ -1098,7 +980,7 @@
     },
     {
       "key": "哔哩JAR·D",
-      "name": "七星·BL少儿",
+      "name": "哔哩少儿",
       "type": 3,
       "api": "csp_Bili",
       "jar": "./jar/app.jar",
@@ -1106,7 +988,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 1,
-      "playerType": 2,
+      "playerType": 1,
       "style": {
         "type": "rect",
         "ratio": 1.433
@@ -1117,7 +999,7 @@
     },
     {
       "key": "哔哩JAR·E",
-      "name": "七星·BL听书",
+      "name": "哔哩听书",
       "type": 3,
       "api": "csp_Bili",
       "jar": "./jar/app.jar",
@@ -1125,7 +1007,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 1,
-      "playerType": 2,
+      "playerType": 1,
       "style": {
         "type": "rect",
         "ratio": 1.433
@@ -1136,7 +1018,7 @@
     },
     {
       "key": "养生JSON",
-      "name": "七星·养生知识",
+      "name": "养生知识",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./json/%E5%85%BB%E7%94%9F%E5%A0%82.json",
@@ -1145,7 +1027,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "playerType": 2,
+      "playerType": 1,
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -1153,7 +1035,7 @@
     },
     {
       "key": "世听JAR",
-      "name": "七星·世界听书",
+      "name": "世界听书",
       "type": 3,
       "api": "csp_TingShijie",
       "jar": "./jar/app.jar",
@@ -1161,14 +1043,14 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "playerType": 2,
+      "playerType": 1,
       "style": {
         "type": "list"
       }
     },
     {
       "key": "哔哩JAR·F",
-      "name": "七星·BL戏曲",
+      "name": "哔哩戏曲",
       "type": 3,
       "api": "csp_Bili",
       "jar": "./jar/app.jar",
@@ -1176,7 +1058,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 1,
-      "playerType": 2,
+      "playerType": 1,
       "style": {
         "type": "rect",
         "ratio": 1.433
@@ -1187,7 +1069,7 @@
     },
     {
       "key": "多多JAR",
-      "name": "七星·多多戏曲",
+      "name": "多多戏曲",
       "type": 3,
       "api": "csp_AppLY",
       "jar": "./jar/app.jar",
@@ -1195,14 +1077,14 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "playerType": 2,
+      "playerType": 1,
       "style": {
         "type": "list"
       }
     },
     {
       "key": "小龙JAR",
-      "name": "七星·小龙漫剧",
+      "name": "小龙漫剧",
       "type": 3,
       "api": "csp_ManJuHuoLongGuard",
       "jar": "./jar/wex.jar",
@@ -1214,7 +1096,7 @@
     },
     {
       "key": "小猫JAR",
-      "name": "七星·小猫漫剧",
+      "name": "小猫漫剧",
       "type": 3,
       "api": "csp_ManJuQiMaoGuard",
       "jar": "./jar/wex.jar",
@@ -1226,7 +1108,7 @@
     },
     {
       "key": "围观JAR",
-      "name": "七星·围观短剧",
+      "name": "围观短剧",
       "type": 3,
       "api": "csp_WeiguanDJ",
       "jar": "./jar/app.jar",
@@ -1239,7 +1121,7 @@
     },
     {
       "key": "河马PY",
-      "name": "七星·河M短剧",
+      "name": "盒马短剧",
       "type": 3,
       "api": "./py/%E6%B2%B3%E9%A9%AC%E7%9F%AD%E5%89%A7.py",
       "jar": "./jar/app.jar",
@@ -1251,7 +1133,7 @@
     },
     {
       "key": "星星JAR",
-      "name": "七星·星星短剧",
+      "name": "星星短剧",
       "type": 3,
       "api": "csp_DuanJuXingYaGuard",
       "jar": "./jar/wex.jar",
@@ -1263,7 +1145,7 @@
     },
     {
       "key": "好看JAR",
-      "name": "七星·好看短剧",
+      "name": "好看短剧",
       "type": 3,
       "api": "csp_DuanJuHaoKanGuard",
       "jar": "./jar/wex.jar",
@@ -1275,14 +1157,14 @@
     },
     {
       "key": "玩偶JAR",
-      "name": "七星·玩偶网盘",
+      "name": "玩偶网盘",
       "type": 3,
       "api": "csp_Wogg",
       "jar": "./jar/app.jar",
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 1,
-      "playerType": 2,
+      "playerType": 1,
       "ext": {
         "site": [
           "https://wogg.xxooo.cf",
@@ -1296,14 +1178,14 @@
     },
     {
       "key": "木偶JAR",
-      "name": "七星·木偶网盘",
+      "name": "木偶网盘",
       "type": 3,
       "api": "csp_PanWebShare",
       "jar": "./jar/app.jar",
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 1,
-      "playerType": 2,
+      "playerType": 1,
       "ext": {
         "site": [
           "https://123.666291.xyz",
@@ -1316,14 +1198,14 @@
     },
     {
       "key": "蜡笔JAR",
-      "name": "七星·蜡笔网盘",
+      "name": "蜡笔网盘",
       "type": 3,
       "api": "csp_PanWebShare",
       "jar": "./jar/app.jar",
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 1,
-      "playerType": 2,
+      "playerType": 1,
       "ext": {
         "site": [
           "http://www.xiaocgege.shop",
@@ -1341,14 +1223,14 @@
     },
     {
       "key": "至臻JAR",
-      "name": "七星·至臻网盘",
+      "name": "至臻网盘",
       "type": 3,
       "api": "csp_PanWebShare",
       "jar": "./jar/app.jar",
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 1,
-      "playerType": 2,
+      "playerType": 1,
       "ext": {
         "site": [
           "https://mihd七星·top",
@@ -1363,14 +1245,14 @@
     },
     {
       "key": "多多JAR",
-      "name": "七星·多多网盘",
+      "name": "多多网盘",
       "type": 3,
       "api": "csp_PanWebShare",
       "jar": "./jar/app.jar",
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 1,
-      "playerType": 2,
+      "playerType": 1,
       "ext": {
         "site": [
           "https://tv.yydsys.top",
@@ -1382,14 +1264,14 @@
     },
     {
       "key": "欧哥JAR",
-      "name": "七星·欧哥网盘",
+      "name": "欧哥网盘",
       "type": 3,
       "api": "csp_PanWebShare",
       "jar": "./jar/app.jar",
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 1,
-      "playerType": 2,
+      "playerType": 1,
       "ext": {
         "site": [
           "https://woog.nxog.eu.org",
@@ -1402,14 +1284,14 @@
     },
     {
       "key": "快映JAR",
-      "name": "七星·快映网盘",
+      "name": "快映网盘",
       "type": 3,
       "api": "csp_PanWebShare",
       "jar": "./jar/app.jar",
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 1,
-      "playerType": 2,
+      "playerType": 1,
       "ext": {
         "site": [
           "http://38.76.197.172:12521"
@@ -1419,14 +1301,14 @@
     },
     {
       "key": "虎斑JAR",
-      "name": "七星·虎斑网盘",
+      "name": "虎斑网盘",
       "type": 3,
       "api": "csp_PanWebShare",
       "jar": "./jar/app.jar",
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 1,
-      "playerType": 2,
+      "playerType": 1,
       "ext": {
         "site": [
           "http://xhban.xyz:20720",
@@ -1437,7 +1319,7 @@
     },
     {
       "key": "人人JAR",
-      "name": "七星·人人网盘",
+      "name": "人人网盘",
       "type": 3,
       "api": "csp_RenRen",
       "jar": "./jar/app.jar",
@@ -1449,14 +1331,14 @@
     },
     {
       "key": "双星JAR",
-      "name": "七星·双星网盘",
+      "name": "双星网盘",
       "type": 3,
       "api": "csp_ShuangXing",
       "jar": "./jar/app.jar",
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 1,
-      "playerType": 2,
+      "playerType": 1,
       "style": {
         "type": "list"
       },
@@ -1464,7 +1346,7 @@
     },
     {
       "key": "Config",
-      "name": "接口配置中心",
+      "name": "配置中心",
       "type": 3,
       "api": "csp_Config",
       "jar": "./jar/app.jar",
