@@ -510,66 +510,11 @@
       }
     },
     {
-      "key": "剧圈JAR",
-      "name": "剧剧影视",
-      "type": 3,
-      "api": "csp_App99",
-      "jar": "./jar/app.jar",
-      "timeout": 5,
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 1,
-      "playerType": 2,
-      "categories": [
-        "电影",
-        "剧集",
-        "动漫",
-        "综艺",
-        "短剧"
-      ],
-      "ext": {
-        "host": "http://124.221.3.182:19987/app/bn",
-        "appkey": "d1f0c269eab74d93821fffc9befdbbba",
-        "versionName": "1.2.0",
-        "name": "剧圈圈",
-        "package": "com.qingtangxiaozhuan.xyz",
-        "buildNumber": "2002",
-        "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
-      }
-    },
-    {
-      "key": "葫芦JAR",
-      "name": "胡胡影视",
-      "type": 3,
-      "api": "csp_AppQi",
-      "jar": "./jar/app.jar",
-      "timeout": 5,
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 1,
-      "playerType": 2,
-      "categories": [
-        "电影",
-        "电视剧",
-        "少儿",
-        "少儿精选",
-        "动漫",
-        "综艺",
-        "短剧"
-      ],
-      "ext": {
-        "site": "https://mobile-1251126973.cos.ap-guangzhou.myqcloud.com/maccos_config.txt",
-        "dataKey": "8R33VQSxzmCaHpEX",
-        "dataIv": "8R33VQSxzmCaHpEX"
-      }
-    },
-    {
       "key": "资源搜索",
       "name": "资源搜索",
       "type": 3,
       "api": "csp_Bili",
       "jar": "./jar/app.jar",
-      "hide": 1,
       "timeout": 10,
       "searchable": 1,
       "quickSearch": 1,
@@ -658,38 +603,6 @@
       }
     },
     {
-      "key": "蜻蜓JS",
-      "name": "蜻蜓广播",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./json/%E8%9C%BB%E8%9C%93FM.json",
-      "timeout": 10,
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "playerType": 2,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      }
-    },
-    {
-      "key": "凤凰JS",
-      "name": "凤凰广播",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./json/%E5%87%A4%E5%87%B0FM.json",
-      "timeout": 10,
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "playerType": 2,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      }
-    },
-    {
       "key": "哔哩JAR·B",
       "name": "哔哩音乐",
       "type": 3,
@@ -748,22 +661,6 @@
       "quickSearch": 0,
       "changeable": 0,
       "playerType": 2
-    },
-    {
-      "key": "易听JAR",
-      "name": "易听音乐",
-      "type": 3,
-      "api": "csp_Music163Guard",
-      "jar": "./jar/wex.jar",
-      "timeout": 10,
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "playerType": 2,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      }
     },
     {
       "key": "虎牙JS",
@@ -861,21 +758,6 @@
       }
     },
     {
-      "key": "919JAR",
-      "name": "就要体育",
-      "type": 3,
-      "api": "csp_919TY",
-      "jar": "./jar/app.jar",
-      "timeout": 10,
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "playerType": 2,
-      "style": {
-        "type": "list"
-      }
-    },
-    {
       "key": "企鹅PY",
       "name": "企鹅体育",
       "type": 3,
@@ -885,7 +767,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "playerType": 2,
+      "playerType": 1,
       "style": {
         "type": "rect",
         "ratio": 1.433
@@ -901,28 +783,13 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "playerType": 2,
+      "playerType": 1,
       "categories": [
         "足球",
         "篮球",
         "网球",
         "斯诺克"
       ],
-      "style": {
-        "type": "list"
-      }
-    },
-    {
-      "key": "咖啡JAR",
-      "name": "咖啡体育",
-      "type": 3,
-      "api": "csp_SportKaFeiGuard",
-      "jar": "./jar/wex.jar",
-      "timeout": 10,
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "playerType": 2,
       "style": {
         "type": "list"
       }
@@ -1083,43 +950,6 @@
       }
     },
     {
-      "key": "小龙JAR",
-      "name": "小龙漫剧",
-      "type": 3,
-      "api": "csp_ManJuHuoLongGuard",
-      "jar": "./jar/wex.jar",
-      "timeout": 10,
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "playerType": 2
-    },
-    {
-      "key": "小猫JAR",
-      "name": "小猫漫剧",
-      "type": 3,
-      "api": "csp_ManJuQiMaoGuard",
-      "jar": "./jar/wex.jar",
-      "timeout": 10,
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "playerType": 2
-    },
-    {
-      "key": "围观JAR",
-      "name": "围观短剧",
-      "type": 3,
-      "api": "csp_WeiguanDJ",
-      "jar": "./jar/app.jar",
-      "genre": "shortdrama",
-      "timeout": 10,
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "playerType": 2
-    },
-    {
       "key": "河马PY",
       "name": "盒马短剧",
       "type": 3,
@@ -1197,31 +1027,6 @@
       "timeout": 30
     },
     {
-      "key": "蜡笔JAR",
-      "name": "蜡笔网盘",
-      "type": 3,
-      "api": "csp_PanWebShare",
-      "jar": "./jar/app.jar",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 1,
-      "playerType": 2,
-      "ext": {
-        "site": [
-          "http://www.xiaocgege.shop",
-          "http://xiaocge.fun",
-          "http://feimo.fun",
-          "https://feimao666.fun",
-          "http://feimao888.fun",
-          "http://www.labi88.sbs",
-          "http://fmao.site",
-          "http://fmao.shop",
-          "http://xiaocgege.shop"
-        ]
-      },
-      "timeout": 30
-    },
-    {
       "key": "至臻JAR",
       "name": "至臻网盘",
       "type": 3,
@@ -1233,11 +1038,11 @@
       "playerType": 2,
       "ext": {
         "site": [
-          "https://mihd七星·top",
+          "https://mihdr·top",
           "https://www.miqk.cc",
           "https://xiaomiai.site",
           "https://xiaomi666.fun",
-          "https://www.mihd七星·top",
+          "https://www.mihdr·top",
           "https://www.zhizhenpan.fun"
         ]
       },
