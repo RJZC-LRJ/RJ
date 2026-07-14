@@ -66,7 +66,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "playerType": 1
+      "playerType": 0
     },
     {
       "key": "天堂API",
@@ -78,7 +78,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "playerType": 1,
+      "playerType": 0,
       "categories": [
         "动作片",
         "喜剧片",
@@ -124,7 +124,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "playerType": 1,
+      "playerType": 0,
       "categories": [
         "动作片",
         "喜剧片",
@@ -170,7 +170,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "playerType": 1,
+      "playerType": 0,
       "categories": [
         "内地剧",
         "香港剧",
@@ -210,7 +210,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "playerType": 1,
+      "playerType": 0,
       "categories": [
         "动作片",
         "喜剧片",
@@ -256,7 +256,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "playerType": 1,
+      "playerType": 0,
       "categories": [
         "动作片",
         "喜剧片",
@@ -302,7 +302,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "playerType": 1,
+      "playerType": 2,
       "categories": [
         "电影",
         "电视剧",
@@ -322,7 +322,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "playerType": 1,
+      "playerType": 2,
       "categories": [
         "电影",
         "连续剧",
@@ -353,7 +353,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "playerType": 1,
+      "playerType": 2,
       "categories": [
         "内地",
         "电影",
@@ -398,7 +398,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "playerType": 1,
+      "playerType": 2,
       "categories": [
         "直播",
         "电影",
@@ -431,7 +431,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "playerType": 1,
+      "playerType": 2,
       "categories": [
         "直播",
         "电影",
@@ -463,7 +463,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "playerType": 1,
+      "playerType": 2,
       "categories": [
         "电影",
         "电视剧",
@@ -494,7 +494,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 1,
-      "playerType": 1,
+      "playerType": 2,
       "categories": [
         "日本动漫",
         "国产动漫",
@@ -519,7 +519,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 1,
-      "playerType": 1,
+      "playerType": 2,
       "categories": [
         "电影",
         "剧集",
@@ -547,7 +547,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 1,
-      "playerType": 1,
+      "playerType": 2,
       "categories": [
         "电影",
         "电视剧",
@@ -586,7 +586,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 1,
-      "playerType": 1,
+      "playerType": 2,
       "style": {
         "type": "rect",
         "ratio": 1.433
@@ -617,7 +617,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 1,
-      "playerType": 1,
+      "playerType": 2,
       "categories": [
         "动画片",
         "电视剧",
@@ -635,7 +635,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "playerType": 1,
+      "playerType": 2,
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -651,7 +651,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "playerType": 1,
+      "playerType": 2,
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -667,7 +667,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "playerType": 1,
+      "playerType": 2,
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -683,7 +683,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "playerType": 1,
+      "playerType": 2,
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -699,7 +699,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 1,
-      "playerType": 1,
+      "playerType": 2,
       "style": {
         "type": "rect",
         "ratio": 1.433
@@ -730,7 +730,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 1,
-      "playerType": 1,
+      "playerType": 2,
       "genre": "music",
       "style": {
         "type": "rect",
@@ -759,7 +759,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "playerType": 1,
+      "playerType": 2,
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -775,7 +775,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "playerType": 1,
+      "playerType": 2,
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -791,7 +791,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "playerType": 1,
+      "playerType": 2,
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -807,7 +807,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "playerType": 1,
+      "playerType": 2,
       "style": {
         "type": "rect",
         "ratio": 1.433
@@ -823,7 +823,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "playerType": 1,
+      "playerType": 2,
       "categories": [
         "虎牙",
         "斗鱼",
@@ -840,7 +840,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "playerType": 1,
+      "playerType": 2,
       "style": {
         "type": "list"
       }
@@ -855,7 +855,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "playerType": 1,
+      "playerType": 2,
       "style": {
         "type": "list"
       }
@@ -870,7 +870,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "playerType": 1,
+      "playerType": 2,
       "style": {
         "type": "list"
       }
@@ -885,7 +885,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "playerType": 1,
+      "playerType": 2,
       "style": {
         "type": "rect",
         "ratio": 1.433
@@ -901,7 +901,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "playerType": 1,
+      "playerType": 2,
       "categories": [
         "足球",
         "篮球",
@@ -922,7 +922,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "playerType": 1,
+      "playerType": 2,
       "style": {
         "type": "list"
       }
@@ -937,7 +937,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "playerType": 1,
+      "playerType": 2,
       "style": {
         "type": "list"
       }
@@ -952,7 +952,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "playerType": 1,
+      "playerType": 2,
       "style": {
         "type": "rect",
         "ratio": 3.8
@@ -969,7 +969,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 1,
-      "playerType": 1,
+      "playerType": 2,
       "style": {
         "type": "rect",
         "ratio": 1.433
@@ -988,7 +988,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 1,
-      "playerType": 1,
+      "playerType": 2,
       "style": {
         "type": "rect",
         "ratio": 1.433
@@ -1007,7 +1007,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 1,
-      "playerType": 1,
+      "playerType": 2,
       "style": {
         "type": "rect",
         "ratio": 1.433
@@ -1027,7 +1027,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "playerType": 1,
+      "playerType": 2,
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -1043,7 +1043,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "playerType": 1,
+      "playerType": 2,
       "style": {
         "type": "list"
       }
@@ -1058,7 +1058,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 1,
-      "playerType": 1,
+      "playerType": 2,
       "style": {
         "type": "rect",
         "ratio": 1.433
@@ -1077,7 +1077,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "playerType": 1,
+      "playerType": 2,
       "style": {
         "type": "list"
       }
@@ -1164,7 +1164,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 1,
-      "playerType": 1,
+      "playerType": 2,
       "ext": {
         "site": [
           "https://wogg.xxooo.cf",
@@ -1185,7 +1185,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 1,
-      "playerType": 1,
+      "playerType": 2,
       "ext": {
         "site": [
           "https://123.666291.xyz",
@@ -1205,7 +1205,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 1,
-      "playerType": 1,
+      "playerType": 2,
       "ext": {
         "site": [
           "http://www.xiaocgege.shop",
@@ -1230,7 +1230,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 1,
-      "playerType": 1,
+      "playerType": 2,
       "ext": {
         "site": [
           "https://mihd七星·top",
@@ -1252,7 +1252,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 1,
-      "playerType": 1,
+      "playerType": 2,
       "ext": {
         "site": [
           "https://tv.yydsys.top",
@@ -1271,7 +1271,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 1,
-      "playerType": 1,
+      "playerType": 2,
       "ext": {
         "site": [
           "https://woog.nxog.eu.org",
@@ -1291,7 +1291,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 1,
-      "playerType": 1,
+      "playerType": 2,
       "ext": {
         "site": [
           "http://38.76.197.172:12521"
@@ -1308,7 +1308,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 1,
-      "playerType": 1,
+      "playerType": 2,
       "ext": {
         "site": [
           "http://xhban.xyz:20720",
@@ -1338,7 +1338,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 1,
-      "playerType": 1,
+      "playerType": 2,
       "style": {
         "type": "list"
       },
