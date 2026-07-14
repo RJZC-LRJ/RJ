@@ -1027,29 +1027,7 @@
       "timeout": 30
     },
     {
-      "key": "至臻JAR",
-      "name": "至臻网盘",
-      "type": 3,
-      "api": "csp_PanWebShare",
-      "jar": "./jar/app.jar",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 1,
-      "playerType": 2,
-      "ext": {
-        "site": [
-          "https://mihdr·top",
-          "https://www.miqk.cc",
-          "https://xiaomiai.site",
-          "https://xiaomi666.fun",
-          "https://www.mihdr·top",
-          "https://www.zhizhenpan.fun"
-        ]
-      },
-      "timeout": 30
-    },
-    {
-      "key": "多多JAR",
+      "key": "多盘JAR",
       "name": "多多网盘",
       "type": 3,
       "api": "csp_PanWebShare",
@@ -1152,6 +1130,58 @@
     {
       "key": "Config",
       "name": "配置中心",
+      "type": 3,
+      "api": "csp_Config",
+      "jar": "./jar/app.jar",
+      "indexs": 0,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "categories": [
+        "夸克网盘配置",
+        "UC网盘配置",
+        "百度网盘配置",
+        "阿里云盘配置",
+        "天翼云盘配置",
+        "123云盘配置",
+        "哔哩配置",
+        "综合配置",
+        "重置配置"
+      ],
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      }
+    },
+    {
+      "key": "Config1",
+      "name": "接口不在进行维护",
+      "type": 3,
+      "api": "csp_Config",
+      "jar": "./jar/app.jar",
+      "indexs": 0,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "categories": [
+        "夸克网盘配置",
+        "UC网盘配置",
+        "百度网盘配置",
+        "阿里云盘配置",
+        "天翼云盘配置",
+        "123云盘配置",
+        "哔哩配置",
+        "综合配置",
+        "重置配置"
+      ],
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      }
+    },
+    {
+      "key": "Config2",
+      "name": "遵守法律高于一切",
       "type": 3,
       "api": "csp_Config",
       "jar": "./jar/app.jar",
