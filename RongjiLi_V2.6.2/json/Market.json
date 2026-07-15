@@ -1,0 +1,276 @@
+[
+  {
+    "name": "推荐",
+    "list": [
+      {
+        "name": "嵘基系列",
+        "icon": "https://raw.giteeusercontent.com/UserRJZC/rjgitee/raw/Admin/icon/%E7%9A%AE%E5%8D%A1%E4%B8%98.jpg"
+      },
+      {
+        "name": "免费开源",
+        "icon": "https://raw.giteeusercontent.com/UserRJZC/rjgitee/raw/Admin/icon/%E7%9A%AE%E5%8D%A1%E4%B8%98.jpg"
+      },
+      {
+        "name": "学习使用",
+        "icon": "https://raw.giteeusercontent.com/UserRJZC/rjgitee/raw/Admin/icon/%E7%9A%AE%E5%8D%A1%E4%B8%98.jpg"
+      },
+      {
+        "name": "禁止商用",
+        "icon": "https://raw.giteeusercontent.com/UserRJZC/rjgitee/raw/Admin/icon/%E7%9A%AE%E5%8D%A1%E4%B8%98.jpg"
+      },
+      {
+        "name": "禁止买卖",
+        "icon": "https://raw.giteeusercontent.com/UserRJZC/rjgitee/raw/Admin/icon/%E7%9A%AE%E5%8D%A1%E4%B8%98.jpg"
+      }
+    ]
+  },
+  {
+    "name": "嵘基系列",
+    "list": [
+      {
+        "name": "嵘基玩盒物理机通用",
+        "url": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E5%AE%89%E8%A3%85%E5%8C%85/%E5%B5%98%E5%9F%BA/%E5%B5%98%E5%9F%BA%E7%8E%A9%E7%9B%92.apk",
+        "icon": "https://raw.giteeusercontent.com/UserRJZC/rjgitee/raw/Admin/icon/%E7%9A%AE%E5%8D%A1%E4%B8%98.jpg",
+        "version": "V8.8.8"
+      },
+      {
+        "name": "大屏通用版嵘基影音",
+        "url": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E5%AE%89%E8%A3%85%E5%8C%85/%E5%B5%98%E5%9F%BA/%E5%B5%98%E5%9F%BA%E5%BD%B1%E9%9F%B3%E5%A4%A7%E5%B1%8F%E9%80%9A%E7%94%A8%E7%89%88.apk",
+        "icon": "https://raw.giteeusercontent.com/UserRJZC/rjgitee/raw/Admin/icon/%E7%9A%AE%E5%8D%A1%E4%B8%98.jpg",
+        "version": "V2.6.2"
+      },
+      {
+        "name": "大屏64位版嵘基影音",
+        "url": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E5%AE%89%E8%A3%85%E5%8C%85/%E5%B5%98%E5%9F%BA/%E5%B5%98%E5%9F%BA%E5%BD%B1%E9%9F%B3%E5%A4%A7%E5%B1%8F64%E4%BD%8D%E7%89%88.apk",
+        "icon": "https://raw.giteeusercontent.com/UserRJZC/rjgitee/raw/Admin/icon/%E7%9A%AE%E5%8D%A1%E4%B8%98.jpg",
+        "version": "V2.6.2"
+      },
+      {
+        "name": "竖屏64位版嵘基影音",
+        "url": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E5%AE%89%E8%A3%85%E5%8C%85/%E5%B5%98%E5%9F%BA/%E5%B5%98%E5%9F%BA%E5%BD%B1%E9%9F%B3%E7%AB%96%E5%B1%8F64%E4%BD%8D%E7%89%88.apk",
+        "icon": "https://raw.giteeusercontent.com/UserRJZC/rjgitee/raw/Admin/icon/%E7%9A%AE%E5%8D%A1%E4%B8%98.jpg",
+        "version": "V2.6.2"
+      },
+      {
+        "name": "欢喜桌面大屏定制版",
+        "url": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E5%AE%89%E8%A3%85%E5%8C%85/%E5%B5%98%E5%9F%BA/%E5%B5%98%E5%9F%BA%E6%A1%8C%E9%9D%A2.apk",
+        "icon": "https://raw.giteeusercontent.com/UserRJZC/rjgitee/raw/Admin/icon/%E7%9A%AE%E5%8D%A1%E4%B8%98.jpg",
+        "version": "V1.2.7"
+      },
+      {
+        "name": "夏杰语音大屏定制版",
+        "url": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E5%AE%89%E8%A3%85%E5%8C%85/%E5%B5%98%E5%9F%BA/%E5%A4%8F%E6%9D%B0%E8%AF%AD%E9%9F%B3.apk",
+        "icon": "https://raw.giteeusercontent.com/UserRJZC/rjgitee/raw/Admin/icon/%E7%9A%AE%E5%8D%A1%E4%B8%98.jpg",
+        "version": "夏杰语音"
+      },
+      {
+        "name": "语音遥控器助手定制版",
+        "url": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E5%AE%89%E8%A3%85%E5%8C%85/%E5%B5%98%E5%9F%BA/%E8%AF%AD%E9%9F%B3%E9%81%A5%E6%8E%A7%E5%99%A8%E5%8A%A9%E6%89%8B.apk",
+        "icon": "https://raw.giteeusercontent.com/UserRJZC/rjgitee/raw/Admin/icon/%E7%9A%AE%E5%8D%A1%E4%B8%98.jpg",
+        "version": "夏杰必装"
+      },
+      {
+        "name": "AIManager 定制版",
+        "url": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E5%AE%89%E8%A3%85%E5%8C%85/%E5%B5%98%E5%9F%BA/AIManager.apk",
+        "icon": "https://raw.giteeusercontent.com/UserRJZC/rjgitee/raw/Admin/icon/%E7%9A%AE%E5%8D%A1%E4%B8%98.jpg",
+        "version": "夏杰插件1"
+      },
+      {
+        "name": "AIAssist 定制版",
+        "url": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E5%AE%89%E8%A3%85%E5%8C%85/%E5%B5%98%E5%9F%BA/AIAssist.apk",
+        "icon": "https://raw.giteeusercontent.com/UserRJZC/rjgitee/raw/Admin/icon/%E7%9A%AE%E5%8D%A1%E4%B8%98.jpg",
+        "version": "夏杰插件2"
+      },
+      {
+        "name": "嵘基监控竖屏版",
+        "url": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E5%AE%89%E8%A3%85%E5%8C%85/%E5%B5%98%E5%9F%BA/%E5%B5%98%E5%9F%BA%E7%9B%91%E6%8E%A7.apk",
+        "icon": "https://raw.giteeusercontent.com/UserRJZC/rjgitee/raw/Admin/icon/%E7%9A%AE%E5%8D%A1%E4%B8%98.jpg",
+        "version": "专属软件"
+      }
+    ]
+  },
+  {
+    "name": "直播软件",
+    "list": [
+      {
+        "name": "千寻直播",
+        "url": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E5%AE%89%E8%A3%85%E5%8C%85/%E7%9B%B4%E6%92%AD/%E5%8D%83%E5%AF%BB.apk",
+        "icon": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E7%BC%A9%E7%95%A5%E5%9B%BE/%E7%9B%B4%E6%92%AD/%E5%8D%83%E5%AF%BB.png"
+      },
+      {
+        "name": "电视直播Pro",
+        "url": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E5%AE%89%E8%A3%85%E5%8C%85/%E7%9B%B4%E6%92%AD/%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%ADPro.apk",
+        "icon": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E7%BC%A9%E7%95%A5%E5%9B%BE/%E7%9B%B4%E6%92%AD/%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%ADPro.png"
+      },
+      {
+        "name": "沧海TV",
+        "url": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E5%AE%89%E8%A3%85%E5%8C%85/%E7%9B%B4%E6%92%AD/%E6%B2%A7%E6%B5%B7TV.apk",
+        "icon": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E7%BC%A9%E7%95%A5%E5%9B%BE/%E7%9B%B4%E6%92%AD/%E6%B2%A7%E6%B5%B7TV.png"
+      },
+      {
+        "name": "直播大全",
+        "url": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E5%AE%89%E8%A3%85%E5%8C%85/%E7%9B%B4%E6%92%AD/%E7%9B%B4%E6%92%AD%E5%A4%A7%E5%85%A8.apk",
+        "icon": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E7%BC%A9%E7%95%A5%E5%9B%BE/%E7%9B%B4%E6%92%AD/%E7%9B%B4%E6%92%AD%E5%A4%A7%E5%85%A8.png"
+      },
+      {
+        "name": "简单IPTV",
+        "url": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E5%AE%89%E8%A3%85%E5%8C%85/%E7%9B%B4%E6%92%AD/%E7%AE%80%E5%8D%95IPTV.apk",
+        "icon": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E7%BC%A9%E7%95%A5%E5%9B%BE/%E7%9B%B4%E6%92%AD/%E7%AE%80%E5%8D%95IPTV.png"
+      },
+      {
+        "name": "星辰电视",
+        "url": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E5%AE%89%E8%A3%85%E5%8C%85/%E7%9B%B4%E6%92%AD/%E6%98%9F%E8%BE%B0%E7%94%B5%E8%A7%86.apk",
+        "icon": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E7%BC%A9%E7%95%A5%E5%9B%BE/%E7%9B%B4%E6%92%AD/%E6%98%9F%E8%BE%B0%E7%94%B5%E8%A7%86.png"
+      },
+      {
+        "name": "乡村电视",
+        "url": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E5%AE%89%E8%A3%85%E5%8C%85/%E7%9B%B4%E6%92%AD/%E4%B9%A1%E6%9D%91%E7%94%B5%E8%A7%86.apk",
+        "icon": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E7%BC%A9%E7%95%A5%E5%9B%BE/%E7%9B%B4%E6%92%AD/%E4%B9%A1%E6%9D%91%E7%94%B5%E8%A7%86.png"
+      },
+      {
+        "name": "油桃TV",
+        "url": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E5%AE%89%E8%A3%85%E5%8C%85/%E7%9B%B4%E6%92%AD/%E6%B2%B9%E6%A1%83TV.apk",
+        "icon": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E7%BC%A9%E7%95%A5%E5%9B%BE/%E7%9B%B4%E6%92%AD/%E6%B2%B9%E6%A1%83TV.png"
+      }
+    ]
+  },
+  {
+    "name": "影音软件",
+    "list": [
+      {
+        "name": "OK影视大屏版",
+        "url": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E5%AE%89%E8%A3%85%E5%8C%85/%E5%BD%B1%E9%9F%B3/OK%E5%BD%B1%E8%A7%86%E5%A4%A7%E5%B1%8F%E7%89%88.apk",
+        "icon": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E7%BC%A9%E7%95%A5%E5%9B%BE/%E5%BD%B1%E9%9F%B3/OK%E5%BD%B1%E8%A7%86.png",
+        "version": "空壳配接口是目前最好最稳定的方案，使用方法自行网上搜索！"
+      },
+      {
+        "name": "OK影视竖屏版",
+        "url": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E5%AE%89%E8%A3%85%E5%8C%85/%E5%BD%B1%E9%9F%B3/OK%E5%BD%B1%E8%A7%86%E7%AB%96%E5%B1%8F%E7%89%88.apk",
+        "icon": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E7%BC%A9%E7%95%A5%E5%9B%BE/%E5%BD%B1%E9%9F%B3/OK%E5%BD%B1%E8%A7%86.png",
+        "version": "空壳配接口是目前最好最稳定的方案，使用方法自行网上搜索！"
+      },
+      {
+        "name": "影视仓大屏版",
+        "url": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E5%AE%89%E8%A3%85%E5%8C%85/%E5%BD%B1%E9%9F%B3/%E5%BD%B1%E8%A7%86%E4%BB%93%E5%A4%A7%E5%B1%8F%E7%89%88.apk",
+        "icon": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E7%BC%A9%E7%95%A5%E5%9B%BE/%E5%BD%B1%E9%9F%B3/%E5%BD%B1%E8%A7%86%E4%BB%93.png",
+        "version": "空壳配接口是目前最好最稳定的方案，使用方法自行网上搜索！"
+      },
+      {
+        "name": "至尊4K",
+        "url": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E5%AE%89%E8%A3%85%E5%8C%85/%E5%BD%B1%E9%9F%B3/%E8%87%B3%E5%B0%8A4K.apk",
+        "icon": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E7%BC%A9%E7%95%A5%E5%9B%BE/%E5%BD%B1%E9%9F%B3/%E8%87%B3%E5%B0%8A4K.png",
+        "version": "每天观看几秒钟广告可以免费观看免扫4K影片，并且稳定数月！"
+      },
+      {
+        "name": "超玩家影视",
+        "url": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E5%AE%89%E8%A3%85%E5%8C%85/%E5%BD%B1%E9%9F%B3/%E8%B6%85%E7%8E%A9%E5%AE%B6%E5%BD%B1%E8%A7%86.apk",
+        "icon": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E7%BC%A9%E7%95%A5%E5%9B%BE/%E5%BD%B1%E9%9F%B3/%E8%B6%85%E7%8E%A9%E5%AE%B6%E5%BD%B1%E8%A7%86.png"
+      },
+      {
+        "name": "云视听快TV",
+        "url": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E5%AE%89%E8%A3%85%E5%8C%85/%E5%BD%B1%E9%9F%B3/%E4%BA%91%E8%A7%86%E5%90%AC%E5%BF%ABTV.apk",
+        "icon": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E7%BC%A9%E7%95%A5%E5%9B%BE/%E5%BD%B1%E9%9F%B3/%E4%BA%91%E8%A7%86%E5%90%AC%E5%BF%ABTV.png"
+      },
+      {
+        "name": "宝宝巴士",
+        "url": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E5%AE%89%E8%A3%85%E5%8C%85/%E5%BD%B1%E9%9F%B3/%E5%AE%9D%E5%AE%9D%E5%B7%B4%E5%A3%AB.apk",
+        "icon": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E7%BC%A9%E7%95%A5%E5%9B%BE/%E5%BD%B1%E9%9F%B3/%E5%AE%9D%E5%AE%9D%E5%B7%B4%E5%A3%AB.png"
+      }
+    ]
+  },
+  {
+    "name": "其他软件",
+    "list": [
+      {
+        "name": "小草助手",
+        "url": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E5%AE%89%E8%A3%85%E5%8C%85/%E5%B7%A5%E5%85%B7/%E5%B0%8F%E8%8D%89%E5%8A%A9%E6%89%8B.apk",
+        "icon": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E7%BC%A9%E7%95%A5%E5%9B%BE/%E5%B7%A5%E5%85%B7/%E5%B0%8F%E8%8D%89%E5%8A%A9%E6%89%8B.png",
+        "version": "口令:883B,8268,VXXX,Y888,8443,TTAA,57FF,9D99,ESW7-其他分享码的软件尽量别下，容易中毒！"
+      },
+      {
+        "name": "应用管家",
+        "url": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E5%AE%89%E8%A3%85%E5%8C%85/%E5%B7%A5%E5%85%B7/%E5%BA%94%E7%94%A8%E7%AE%A1%E5%AE%B6.apk",
+        "icon": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E7%BC%A9%E7%95%A5%E5%9B%BE/%E5%B7%A5%E5%85%B7/%E5%BA%94%E7%94%A8%E7%AE%A1%E5%AE%B6.png",
+        "version": "注意小草助手上陌生分享码的管家千万不要乱下，有些人非常喜欢在高权限应用里面植入病毒！"
+      },
+      {
+        "name": "DG市场",
+        "url": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E5%AE%89%E8%A3%85%E5%8C%85/%E5%B7%A5%E5%85%B7/DG%E5%B8%82%E5%9C%BA.apk",
+        "icon": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E7%BC%A9%E7%95%A5%E5%9B%BE/%E5%B7%A5%E5%85%B7/DG%E5%B8%82%E5%9C%BA.png",
+        "version": "找DG影院，DG直播等软件的直接下载DG市场，打开后输入盒圈UID激活！"
+      },
+      {
+        "name": "光元素投屏",
+        "url": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E5%AE%89%E8%A3%85%E5%8C%85/%E5%B7%A5%E5%85%B7/%E5%85%89%E5%85%83%E7%B4%A0%E6%8A%95%E5%B1%8F.apk",
+        "icon": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E7%BC%A9%E7%95%A5%E5%9B%BE/%E5%B7%A5%E5%85%B7/%E5%85%89%E5%85%83%E7%B4%A0%E6%8A%95%E5%B1%8F.png"
+      },
+      {
+        "name": "小白文件管理",
+        "url": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E5%AE%89%E8%A3%85%E5%8C%85/%E5%B7%A5%E5%85%B7/%E5%B0%8F%E7%99%BD%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86.apk",
+        "icon": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E7%BC%A9%E7%95%A5%E5%9B%BE/%E5%B7%A5%E5%85%B7/%E5%B0%8F%E7%99%BD%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86.png"
+      },
+      {
+        "name": "优化大师",
+        "url": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E5%AE%89%E8%A3%85%E5%8C%85/%E5%B7%A5%E5%85%B7/%E4%BC%98%E5%8C%96%E5%A4%A7%E5%B8%88.apk",
+        "icon": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E7%BC%A9%E7%95%A5%E5%9B%BE/%E5%B7%A5%E5%85%B7/%E4%BC%98%E5%8C%96%E5%A4%A7%E5%B8%88.png"
+      },
+      {
+        "name": "沙发助手",
+        "url": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E5%AE%89%E8%A3%85%E5%8C%85/%E5%B7%A5%E5%85%B7/%E6%B2%99%E5%8F%91%E5%8A%A9%E6%89%8B.apk",
+        "icon": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E7%BC%A9%E7%95%A5%E5%9B%BE/%E5%B7%A5%E5%85%B7/%E6%B2%99%E5%8F%91%E5%8A%A9%E6%89%8B.png"
+      },
+      {
+        "name": "AIDA64",
+        "url": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E5%AE%89%E8%A3%85%E5%8C%85/%E5%B7%A5%E5%85%B7/AIDA64.apk",
+        "icon": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E7%BC%A9%E7%95%A5%E5%9B%BE/%E5%B7%A5%E5%85%B7/AIDA64.png"
+      },
+      {
+        "name": "安兔兔测评",
+        "url": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E5%AE%89%E8%A3%85%E5%8C%85/%E5%B7%A5%E5%85%B7/%E5%AE%89%E5%85%94%E5%85%94%E8%AF%84%E6%B5%8B.apk",
+        "icon": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E7%BC%A9%E7%95%A5%E5%9B%BE/%E5%B7%A5%E5%85%B7/%E5%AE%89%E5%85%94%E5%85%94%E8%AF%84%E6%B5%8B.png"
+      },
+      {
+        "name": "当贝播放器",
+        "url": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E5%AE%89%E8%A3%85%E5%8C%85/%E5%B7%A5%E5%85%B7/%E5%BD%93%E8%B4%9D%E6%92%AD%E6%94%BE%E5%99%A8.apk",
+        "icon": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E7%BC%A9%E7%95%A5%E5%9B%BE/%E5%B7%A5%E5%85%B7/%E5%BD%93%E8%B4%9D%E6%92%AD%E6%94%BE%E5%99%A8.png"
+      },
+      {
+        "name": "Kodi",
+        "url": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E5%AE%89%E8%A3%85%E5%8C%85/%E5%B7%A5%E5%85%B7/Kodi.apk",
+        "icon": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E7%BC%A9%E7%95%A5%E5%9B%BE/%E5%B7%A5%E5%85%B7/Kodi.png"
+      },
+      {
+        "name": "网易爆米花",
+        "url": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E5%AE%89%E8%A3%85%E5%8C%85/%E5%B7%A5%E5%85%B7/%E7%BD%91%E6%98%93%E7%88%86%E7%B1%B3%E8%8A%B1.apk",
+        "icon": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E7%BC%A9%E7%95%A5%E5%9B%BE/%E5%B7%A5%E5%85%B7/%E7%BD%91%E6%98%93%E7%88%86%E7%B1%B3%E8%8A%B1.png"
+      },
+      {
+        "name": "飞牛TV",
+        "url": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E5%AE%89%E8%A3%85%E5%8C%85/%E5%B7%A5%E5%85%B7/%E9%A3%9E%E7%89%9BTV.apk",
+        "icon": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E7%BC%A9%E7%95%A5%E5%9B%BE/%E5%B7%A5%E5%85%B7/%E9%A3%9E%E7%89%9BTV.png"
+      },
+      {
+        "name": "Emby",
+        "url": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E5%AE%89%E8%A3%85%E5%8C%85/%E5%B7%A5%E5%85%B7/Emby.apk",
+        "icon": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E7%BC%A9%E7%95%A5%E5%9B%BE/%E5%B7%A5%E5%85%B7/Emby.png"
+      },
+      {
+        "name": "OrionTV",
+        "url": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E5%AE%89%E8%A3%85%E5%8C%85/%E5%B7%A5%E5%85%B7/OrionTV.apk",
+        "icon": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E7%BC%A9%E7%95%A5%E5%9B%BE/%E5%B7%A5%E5%85%B7/OrionTV.png"
+      },
+      {
+        "name": "酷咖游戏",
+        "url": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E5%AE%89%E8%A3%85%E5%8C%85/%E5%B7%A5%E5%85%B7/%E9%85%B7%E5%92%96%E6%B8%B8%E6%88%8F.apk",
+        "icon": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E7%BC%A9%E7%95%A5%E5%9B%BE/%E5%B7%A5%E5%85%B7/%E9%85%B7%E5%92%96%E6%B8%B8%E6%88%8F.png",
+        "version": "低配置垃圾设备别装！"
+      },
+      {
+        "name": "EmotnUI",
+        "url": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E5%AE%89%E8%A3%85%E5%8C%85/%E5%B7%A5%E5%85%B7/EmotnUI.apk",
+        "icon": "https://d.kstore.dev/download/15123/%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E4%B8%AD%E5%BF%83%E7%BC%A9%E7%95%A5%E5%9B%BE/%E5%B7%A5%E5%85%B7/EmotnUI.png",
+        "version": "该桌面应用别TM瞎装！"
+      }
+    ]
+  }
+]
