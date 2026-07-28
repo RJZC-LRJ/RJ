@@ -1,8 +1,36 @@
 {
   "urls": [
     {
-      "name": "不搞了用嗷呜吧~",
+      "name": "嗷呜主线",
       "url": "http://www.xn--nsr30bl8nb2kyt7a8vs.top/tv"
+    },
+    {
+      "name": "嗷呜备线",
+      "url": "http://itv666.cc/aowu/config.webp"
+    },
+    {
+      "name": "嗷呜备用",
+      "url": "https://9763.kstore.vip/aowu.json"
+    },
+    {
+      "name": "二小主线",
+      "url": "http://new.xn--4kq62z5rby2qupq9ub.top/"
+    },
+    {
+      "name": "二小备线",
+      "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/"
+    },
+    {
+      "name": "饭硬主线",
+      "url": "http://www.xn--sss604efuw.cc/tv"
+    },
+    {
+      "name": "饭硬备线",
+      "url": "http://fty.xxooo.cf/tv"
+    },
+    {
+      "name": "饭硬江苏",
+      "url": "https://cdn09022024.gitlink.org.cn/api/v1/repos/xxooo/in/raw/in.bmp"
     }
   ]
 }
