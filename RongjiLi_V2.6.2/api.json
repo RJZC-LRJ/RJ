@@ -718,6 +718,18 @@
       ]
     },
     {
+      "key": "片库影视",
+      "name": "R.片库影视",
+      "type": 3,
+      "api": "./js/%E7%89%87%E5%BA%93.js",
+      "jar": "./jar/Rong/rjzc.jar",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "playerType": 2
+    },
+    {
       "key": "大众影视",
       "name": "R.大众影视",
       "type": 3,
@@ -755,6 +767,30 @@
       "name": "R.枫叶影视",
       "type": 3,
       "api": "./py/%E6%9E%AB%E5%8F%B6.py",
+      "jar": "./jar/Rong/rjzc.jar",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "playerType": 2
+    },
+    {
+      "key": "可可影视",
+      "name": "R.可可影视",
+      "type": 3,
+      "api": "./py/%E5%8F%AF%E5%8F%AF%E5%BD%B1%E8%A7%86.py",
+      "jar": "./jar/Rong/rjzc.jar",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "playerType": 2
+    },
+    {
+      "key": "剧好影视",
+      "name": "R.剧好影视",
+      "type": 3,
+      "api": "./py/%E5%89%A7OK.py",
       "jar": "./jar/Rong/rjzc.jar",
       "timeout": 10,
       "searchable": 1,
