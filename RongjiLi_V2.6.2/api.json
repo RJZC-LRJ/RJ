@@ -730,6 +730,55 @@
       "playerType": 2
     },
     {
+      "key": "山楂影视",
+      "name": "R.山楂影视",
+      "type": 3,
+      "api": "./py/%E5%B1%B1%E6%A5%82.py",
+      "jar": "./jar/Rong/rjzc.jar",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "playerType": 2,
+      "categories": [
+        "电影",
+        "电视剧",
+        "少儿",
+        "动漫",
+        "综艺",
+        "纪录片",
+        "短剧"
+      ]
+    },
+    {
+      "key": "枫叶影视",
+      "name": "R.枫叶影视",
+      "type": 3,
+      "api": "./py/%E6%9E%AB%E5%8F%B6.py",
+      "jar": "./jar/Rong/rjzc.jar",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "playerType": 2
+    },
+    {
+      "key": "柯南影视",
+      "name": "R.柯南影视",
+      "type": 3,
+      "api": "./py/%E6%9F%AF%E5%8D%97.py",
+      "jar": "./jar/Rong/rjzc.jar",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "playerType": 2,
+      "categories": [
+        "电影",
+        "连续剧"
+      ]
+    },
+    {
       "key": "RJ_Config",
       "name": "接口配置中心",
       "type": 3,
