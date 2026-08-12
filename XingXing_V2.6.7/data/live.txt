@@ -1,6 +1,8 @@
 列表说明-七星,#genre#
 
-index.m3u8,https://v6.gh-proxy.org/https://raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/XingXing_V2.6.7/data/m3u8/live_m3u8_ts1/index.m3u8
+七星影仓[防墙版],https://v6.gh-proxy.org/https://raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/XingXing_V2.6.7/data/m3u8/live_m3u8_ts1/index.m3u8
+测试项目，不稳定,https://v6.gh-proxy.org/https://raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/XingXing_V2.6.7/data/m3u8/live_m3u8_ts1/index.m3u8
+该违规项目不在维护,https://v6.gh-proxy.org/https://raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/XingXing_V2.6.7/data/m3u8/live_m3u8_ts1/index.m3u8
 
 
 
@@ -241,7 +243,7 @@ CCTV-女性时尚,http://204.12.221.218:8181/3m1080p/nxss.m3u8
 
 
 
-测试直播-央视,#genre#
+咕咕超清-全部,#genre#
 
 CCTV1综合,http://47.100.80.251:50001/608807420
 CCTV2财经,http://47.100.80.251:50001/631780532
@@ -272,10 +274,6 @@ CGTN俄语,http://47.100.80.251:50001/609006446
 中学生,http://47.100.80.251:50001/708869532
 CGTN,http://47.100.80.251:50001/609017205
 
-
-
-测试直播-卫视,#genre#
-
 东方卫视,http://47.100.80.251:50001/651632648
 江苏卫视,http://47.100.80.251:50001/623899368
 广东卫视,http://47.100.80.251:50001/608831231
@@ -298,10 +296,6 @@ CGTN,http://47.100.80.251:50001/609017205
 重庆卫视,http://47.100.80.251:50001/738910914
 三沙卫视,http://47.100.80.251:50001/961023778
 黑龙江卫视,http://47.100.80.251:50001/738906901
-
-
-
-测试直播-地方,#genre#
 
 上海新闻综合,http://47.100.80.251:50001/651632657
 上视东方影视,http://47.100.80.251:50001/617290047
@@ -340,10 +334,6 @@ CGTN,http://47.100.80.251:50001/609017205
 海南广播电视总台少儿频道,http://47.100.80.251:50001/962067523
 广东珠江频道,http://47.100.80.251:50001/639731952
 
-
-
-测试直播-其他,#genre#
-
 赛事最经典,http://47.100.80.251:50001/646596895
 体坛名栏汇,http://47.100.80.251:50001/629943305
 四海钓鱼,http://47.100.80.251:50001/637444975
@@ -364,6 +354,7 @@ CETV1,http://47.100.80.251:50001/923287154
 CETV2,http://47.100.80.251:50001/923287211
 CETV4,http://47.100.80.251:50001/923287339
 山东教育,http://47.100.80.251:50001/609154353
+
 熊猫频道01高清,http://47.100.80.251:50001/609158151
 熊猫频道1,http://47.100.80.251:50001/608933610
 熊猫频道2,http://47.100.80.251:50001/608933640
@@ -860,7 +851,7 @@ CETV4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
 
 
 
-陕西移动-央卫,#genre#
+陕西移动-测试,#genre#
 
 CCTV-1综合,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 CCTV-2财经,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
