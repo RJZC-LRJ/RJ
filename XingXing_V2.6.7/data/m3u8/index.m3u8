@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-VERSION:4
+#EXT-X-TARGETDURATION:6
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TIMESTAMP-MAP=MPEGTS:90000,LOCAL:unix时间戳
+#EXT-X-PLAYLIST-TYPE:EVENT
+#EXTINF:6.000,
+https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/XingXing_V2.6.7/data/m3u8/clip_1-soConvert.ts
+#EXTINF:6.000,
+https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/XingXing_V2.6.7/data/m3u8/clip_2-soConvert.ts
+#EXTINF:6.000,
+https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/XingXing_V2.6.7/data/m3u8/clip_3-soConvert.ts
+#EXTINF:6.000,
+https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/XingXing_V2.6.7/data/m3u8/clip_4-soConvert.ts
+
