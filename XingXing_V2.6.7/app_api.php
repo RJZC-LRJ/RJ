@@ -1,1 +1,1 @@
-{"storeHouse":[{"sourceName":"俺的专用仓库","sourceUrl":"https://gh-proxy.com/https://raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/XingXing_V2.6.7/api_url.json"},{"sourceName":"双龙影视仓库","sourceUrl":"https://xn--jory77o.u.xn--dkw.xn--6qq986b3xl/nxog/oua.php?b=%E5%8F%8C%E9%BE%99"}]}
+{"storeHouse":[{"sourceName":"StoreHouse","sourceUrl":"https://gh-proxy.com/https://raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/XingXing_V2.6.7/api_url.json"}]}
