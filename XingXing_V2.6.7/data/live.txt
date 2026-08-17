@@ -1,9 +1,6 @@
-直播列表[0],#genre#
-
-m3u8 练习,https://gh-proxy.com/https://raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/XingXing_V2.6.7/data/m3u8/index.m3u8
-
-
 央视频道[1],#genre#
+
+流媒体技术实验,https://gh-proxy.com/https://raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/XingXing_V2.6.7/data/m3u8/index.m3u8
 
 CCTV-1综合,http://go.bkpcp.top/mg/cctv1 
 CCTV-2财经,http://go.bkpcp.top/mg/cctv2 
