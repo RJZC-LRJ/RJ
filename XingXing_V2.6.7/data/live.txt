@@ -755,6 +755,12 @@ CETV4,http://119.233.255.62:1234/923287339
 
 其他采集[1],#genre#
 
+01,https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/XingXing_V2.6.7/data/Hello/1-soConvert.ts
+02,https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/XingXing_V2.6.7/data/Hello/2-soConvert.ts
+03,https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/XingXing_V2.6.7/data/Hello/3-soConvert.ts
+04,https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/XingXing_V2.6.7/data/Hello/4-soConvert.ts
+05,https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/XingXing_V2.6.7/data/Hello/5-soConvert.ts
+
 01[刷新就是新内容],http://av.npcq.cn/api.php
 02[刷新就是新内容],https://xn--vusr00g.v.nxog.top/m/tv/xjj.php?id=0
 03[刷新就是新内容],http://xjj1.716888.xyz/fenlei/djxjj/dj1.php
