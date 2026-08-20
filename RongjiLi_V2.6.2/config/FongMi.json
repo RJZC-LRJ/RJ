@@ -1,2 +1,28 @@
-//
-{"urls":[{"name":"R.星星线路[URL]","url":"https://gh-proxy.com/https://raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/XingXing_V2.6.7/data/api.json"},{"name":"R.嗷呜线路[URL]","url":"http://www.xn--nsr30bl8nb2kyt7a8vs.top/tv"},{"name":"R.二小线路[URL]","url":"http://new.xn--4kq62z5rby2qupq9ub.top/"},{"name":"R.饭硬线路[URL]","url":"http://www.xn--sss604efuw.cc/tv"},{"name":"R.摸鱼线路[URL]","url":"http://www.xn--ihq545aq7p.com/"},{"name":"R.盒迷线路[URL]","url":"https://xn--i8sz35d1yr.top/%E7%A6%81%E6%AD%A2%E8%B4%A9%E5%8D%96?type=json"}]}
+{
+  "urls": [
+    {
+      "name": "R.星星线路[URL]",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/XingXing_V2.6.7/data/api.json"
+    },
+    {
+      "name": "R.嗷呜线路[URL]",
+      "url": "http://www.xn--nsr30bl8nb2kyt7a8vs.top/tv"
+    },
+    {
+      "name": "R.二小线路[URL]",
+      "url": "http://new.xn--4kq62z5rby2qupq9ub.top/"
+    },
+    {
+      "name": "R.饭硬线路[URL]",
+      "url": "http://www.xn--sss604efuw.cc/tv"
+    },
+    {
+      "name": "R.摸鱼线路[URL]",
+      "url": "http://www.xn--ihq545aq7p.com/"
+    },
+    {
+      "name": "R.盒迷线路[URL]",
+      "url": "https://xn--i8sz35d1yr.top/%E7%A6%81%E6%AD%A2%E8%B4%A9%E5%8D%96?type=json"
+    }
+  ]
+}
