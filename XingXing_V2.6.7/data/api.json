@@ -239,7 +239,11 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "BiliHeji",
+      "ext": {
+        "home": "1",
+        "json": "https://file.icve.com.cn/file_doc/299/797/4AFC77E563EDEDB37F18BA6458610E16.aowu",
+        "cookie": ""
+      },
       "style": {
         "type": "rect",
         "ratio": 1.433
@@ -253,7 +257,10 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "BiliGequ",
+      "ext": {
+        "json": "https://cdn.waimaimingtang.com/file/images/bwc/20260527100843-9aefe070b5.aowu",
+        "cookie": ""
+      },
       "style": {
         "type": "rect",
         "ratio": 1.433
@@ -267,7 +274,10 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "BiliXiqu",
+      "ext": {
+        "json": "https://cdn.waimaimingtang.com/file/images/bwc/20260527100913-7601517540.aowu",
+        "cookie": ""
+      },
       "style": {
         "type": "rect",
         "ratio": 1.433
@@ -281,7 +291,10 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "BiliSer",
+      "ext": {
+        "json": "https://nos.netease.com/youdata-netease/public-utilUpload-7y79ukN4TsLcdydmg5TFRj.gz",
+        "cookie": ""
+      },
       "style": {
         "type": "rect",
         "ratio": 1.433
@@ -295,7 +308,10 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "BiliXxue",
+      "ext": {
+        "json": "https://nos.netease.com/youdata-netease/public-utilUpload-4VMpA5z1erwuRYyDVSkc9T.gz",
+        "cookie": ""
+      },
       "style": {
         "type": "rect",
         "ratio": 1.433
@@ -309,7 +325,10 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "BiliCzong",
+      "ext": {
+        "json": "https://file.icve.com.cn/file_doc/281/941/466EB55404EAB8AD6EC37A5F73444B27.aowu",
+        "cookie": ""
+      },
       "style": {
         "type": "rect",
         "ratio": 1.433
@@ -323,7 +342,10 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "BiliGzong",
+      "ext": {
+        "json": "https://nos.netease.com/youdata-netease/public-utilUpload-vsfDQmE86Ei5LCTWJ2X6Nv.gz",
+        "cookie": ""
+      },
       "style": {
         "type": "rect",
         "ratio": 1.433
