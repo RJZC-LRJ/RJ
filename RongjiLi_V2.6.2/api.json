@@ -1,77 +1,58 @@
 {
   "spider": "./jar/Rong/rjzc.jar",
-  "notice": "嵘基接口免费严禁贩卖·请勿相信视频中的广告·扫码授权是免费的",
   "logo": "assets://4_JSON.png",
-  "danmaku": "http://127.0.0.1:2525/danmu?name={name}&epid={episode}",
   "lives": [
     {
       "name": "嵘基『点此处用其他』",
-      "type": 0,
-      "playerType": 2,
-      "url": "./live.txt",
-      "logo": "assets://4_JSON.png",
-      "epg": "http://epg.51zmt.top:8000/e.xml.gz"
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJLIVE_V2.6.8/rj_live.m3u"
     },
     {
       "name": "咪咕『点此处用其他』",
-      "type": 0,
-      "playerType": 2,
-      "url": "http://www.52top.com.cn:678/downloads/migu.txt",
-      "logo": "assets://4_JSON.png",
-      "epg": "http://epg.51zmt.top:8000/e.xml.gz"
+      "url": "http://www.52top.com.cn:678/downloads/migu.txt"
     },
     {
       "name": "开门『点此处用其他』",
-      "type": 0,
-      "playerType": 2,
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
-      "logo": "assets://4_JSON.png",
-      "epg": "http://epg.51zmt.top:8000/e.xml.gz"
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u"
     },
     {
       "name": "小飞『点此处用其他』",
-      "type": 0,
-      "playerType": 2,
-      "url": "https://site.249051.xyz/live/scripts/live-tenfeitest.txt",
-      "logo": "assets://4_JSON.png",
-      "epg": "http://epg.51zmt.top:8000/e.xml.gz"
+      "url": "https://site.249051.xyz/live/scripts/live-tenfeitest.txt"
     },
     {
       "name": "裤佬『点此处用其他』",
-      "type": 0,
-      "playerType": 2,
-      "url": "https://live.445569.xyz/live.m3u",
-      "logo": "assets://4_JSON.png",
-      "epg": "http://epg.51zmt.top:8000/e.xml.gz"
+      "url": "https://live.445569.xyz/live.m3u"
     },
     {
       "name": "猫总『点此处用其他』",
-      "type": 0,
-      "playerType": 2,
-      "url": "http://jiekou.dpdns.org/xiang/hotel.php",
-      "logo": "assets://4_JSON.png",
-      "epg": "http://epg.51zmt.top:8000/e.xml.gz"
+      "url": "http://jiekou.dpdns.org/xiang/hotel.php"
+    },
+    {
+      "name": "至尊『点此处用其他』",
+      "url": "http://zd.mftv.top/zb8.txt"
+    },
+    {
+      "name": "蜜蜂『点此处用其他』",
+      "url": "http://zd.mftv.top/tv_proxy_list.txt"
+    },
+    {
+      "name": "蜂巢『点此处用其他』",
+      "url": "https://pub.tgyes.eu.org/111.txt"
+    },
+    {
+      "name": "日后『点此处用其他』",
+      "url": "http://rihou.cc:555/gggg.nzk"
     },
     {
       "name": "斗鱼『点此处用其他』",
-      "type": 0,
-      "playerType": 2,
-      "url": "https://sub.ottiptv.cc/douyuyqk.m3u",
-      "logo": "assets://4_JSON.png"
+      "url": "https://sub.ottiptv.cc/douyuyqk.m3u"
     },
     {
       "name": "虎牙『点此处用其他』",
-      "type": 0,
-      "playerType": 2,
-      "url": "https://sub.ottiptv.cc/huyayqk.m3u",
-      "logo": "assets://4_JSON.png"
+      "url": "https://sub.ottiptv.cc/huyayqk.m3u"
     },
     {
       "name": "歪歪『点此处用其他』",
-      "type": 0,
-      "playerType": 2,
-      "url": "https://sub.ottiptv.cc/yylunbo.m3u",
-      "logo": "assets://4_JSON.png"
+      "url": "https://sub.ottiptv.cc/yylunbo.m3u"
     }
   ],
   "sites": [
