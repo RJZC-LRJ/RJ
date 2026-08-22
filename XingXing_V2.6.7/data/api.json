@@ -5,14 +5,12 @@
     {
       "name": "默认列表",
       "type": 0,
-      "url": "./live.txt",
-      "epg": "https://epg.pw/xmltv/epg_CN.xml"
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJLIVE_V2.6.8/rj_live.m3u"
     },
     {
       "name": "备用列表",
       "type": 0,
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
-      "epg": "https://epg.pw/xmltv/epg_CN.xml"
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u"
     }
   ],
   "sites": [
