@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz" catchup="append" catchup-days="7" catchup-source="?playseek={utc:YmdHMS}-{utcend:YmdHMS}"
+#EXTM3U x-tvg-url="https://gh-proxy.com/https://raw.githubusercontent.com/kuke31/xmlgz/main/e.xml.gz" catchup="append" catchup-days="7" catchup-source="?playseek={utc:YmdHMS}-{utcend:YmdHMS}"
 #EXTINF:-1 tvg-id="1" tvg-name="流媒体技术实验" group-title="央视频道[2]",流媒体技术实验
 https://gh-proxy.com/https://raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJLIVE_V2.6.8/m3u8/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV1" group-title="央视频道[2]",CCTV1
