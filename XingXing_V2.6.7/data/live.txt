@@ -1,54 +1,6 @@
 央视频道[1],#genre#
 
-流媒体技术实验,https://gh-proxy.com/https://raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/XingXing_V2.6.7/data/m3u8/index.m3u8
-
-CCTV-1综合,http://go.bkpcp.top/mg/cctv1 
-CCTV-2财经,http://go.bkpcp.top/mg/cctv2 
-CCTV-3综艺,http://go.bkpcp.top/mg/cctv3 
-CCTV-4中文国际,http://go.bkpcp.top/mg/cctv4 
-CCTV-5体育,http://go.bkpcp.top/mg/cctv5
-CCTV-5+体育赛事,http://go.bkpcp.top/mg/cctv5p 
-CCTV-6电影,http://go.bkpcp.top/mg/cctv6
-CCTV-7国防军事,http://go.bkpcp.top/mg/cctv7 
-CCTV-8电视剧,http://go.bkpcp.top/mg/cctv8
-CCTV-9记录,http://go.bkpcp.top/mg/cctv9
-CCTV-10科教,http://go.bkpcp.top/mg/cctv10 
-CCTV-11戏曲,http://go.bkpcp.top/mg/cctv11
-CCTV-12社会与法,http://go.bkpcp.top/mg/cctv12 
-CCTV-13新闻,http://go.bkpcp.top/mg/cctv13 
-CCTV-14少儿,http://go.bkpcp.top/mg/cctv14
-CCTV-15音乐,http://go.bkpcp.top/mg/cctv15
-CCTV-16奥林匹配,http://go.bkpcp.top/mg/cctv16
-CCTV-17农村农业,http://go.bkpcp.top/mg/cctv17 
-cctV-4中文国际-欧洲,http://go.bkpcp.top/mg/cctv4o
-cctV-4中文国际-美洲,http://go.bkpcp.top/mg/cctv4m
-CGTN-中国国际-西班呀,http://go.bkpcp.top/mg/cgtne 
-CGTN-中国国际-阿拉伯,http://go.bkpcp.top/mg/cgtna 
-CGTN-中国国际-法语,http://go.bkpcp.top/mg/cgtnf 
-
-
-
-卫视频道[1],#genre#
-
-北京卫视,http://go.bkpcp.top/mg/bjws
-东方卫视,http://go.bkpcp.top/mg/dfws
-浙江卫视,http://go.bkpcp.top/mg/zjws 
-江苏卫视,http://go.bkpcp.top/mg/jsws 
-湖南卫视,http://go.bkpcp.top/mg/hunws 
-广东卫视,http://go.bkpcp.top/mg/gdws 
-深圳卫视4k,http://go.bkpcp.top/mg/szws 
-山东卫视,http://go.bkpcp.top/mg/sdws
-河南卫视,http://go.bkpcp.top/mg/hnws
-江西卫视,http://go.bkpcp.top/mg/jxws 
-湖北卫视,http://go.bkpcp.top/mg/hubws 
-海南卫视,http://go.bkpcp.top/mg/hinws
-陕西卫视,http://go.bkpcp.top/mg/sxws 
-兵团卫视,http://go.bkpcp.top/mg/btws 
-黑龙江视,http://go.bkpcp.top/mg/hljws
-
-
-
-央视频道[2],#genre#
+流媒体技术实验,https://gh-proxy.com/https://raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJLIVE_V2.6.8/m3u8/index.m3u8
 
 CCTV-1综合,http://204.12.221.218:8181/3m1080p/cctv1.m3u8
 CCTV-2财经,http://204.12.221.218:8181/3m1080p/cctv2.m3u8
@@ -79,7 +31,7 @@ CCTV-女性时尚,http://204.12.221.218:8181/3m1080p/nxss.m3u8
 
 
 
-卫视频道[2],#genre#
+卫视频道[1],#genre#
 
 北京卡酷少儿,http://204.12.221.218:8181/3m1080p/btvkk.m3u8
 嘉佳卡通,http://204.12.221.218:8181/3m1080p/gdjjkt.m3u8
@@ -125,7 +77,7 @@ CCTV-女性时尚,http://204.12.221.218:8181/3m1080p/nxss.m3u8
 
 
 
-央视频道[3],#genre#
+央视频道[2],#genre#
 
 CCTV1,http://42.240.145.105:2003/zhao.php?id=CCTV1
 CCTV2,http://42.240.145.105:2003/zhao.php?id=CCTV2
@@ -148,7 +100,7 @@ CCTV17,http://42.240.145.105:2003/zhao.php?id=CCTV17
 
 
 
-卫视频道[3],#genre#
+卫视频道[2],#genre#
 
 北京卫视,http://42.240.145.105:2003/zhao.php?id=北京卫视
 东方卫视,http://42.240.145.105:2003/zhao.php?id=东方卫视
@@ -185,7 +137,7 @@ CCTV17,http://42.240.145.105:2003/zhao.php?id=CCTV17
 
 
 
-央视频道[4],#genre#
+央视频道[3],#genre#
 
 CCTV1,http://125.94.244.29:2101/1234.php?id=18&s=8
 CCTV2,http://125.94.244.29:2101/1234.php?id=19&s=8
@@ -208,7 +160,7 @@ CCTV17,http://125.94.244.29:2101/1234.php?id=17&s=8
 
 
 
-卫视频道[4],#genre#
+卫视频道[3],#genre#
 
 北京卫视,http://125.94.244.29:2101/1234.php?id=21&s=8
 东方卫视,http://125.94.244.29:2101/1234.php?id=25&s=8
@@ -243,188 +195,6 @@ CCTV17,http://125.94.244.29:2101/1234.php?id=17&s=8
 新疆卫视,http://125.94.244.29:2101/1234.php?id=46&s=6
 西藏卫视,http://125.94.244.29:2101/1234.php?id=48&s=8
 大湾区卫视,http://125.94.244.29:2101/1234.php?id=4&s=8
-
-
-
-央视备用[1],#genre#
-
-CCTV1,http://m.061899.xyz/mg/cctv1
-CCTV2,http://m.061899.xyz/mg/cctv2
-CCTV3,http://m.061899.xyz/mg/cctv3
-CCTV4,http://m.061899.xyz/mg/cctv4
-CCTV5,http://m.061899.xyz/mg/cctv5
-CCTV5+,http://m.061899.xyz/mg/cctv5p
-CCTV6,http://m.061899.xyz/mg/cctv6
-CCTV7,http://m.061899.xyz/mg/cctv7
-CCTV8,http://m.061899.xyz/mg/cctv8
-CCTV9,http://m.061899.xyz/mg/cctv9
-CCTV10,http://m.061899.xyz/mg/cctv10
-CCTV11,http://m.061899.xyz/mg/cctv11
-CCTV12,http://m.061899.xyz/mg/cctv12
-CCTV13,http://m.061899.xyz/mg/cctv13
-CCTV14,http://m.061899.xyz/mg/cctv14
-CCTV15,http://m.061899.xyz/mg/cctv15
-CCTV16,http://m.061899.xyz/mg/cctv16
-CCTV17,http://m.061899.xyz/mg/cctv17
-
-
-
-卫视备用[1],#genre#
-
-北京卫视,http://m.061899.xyz/mg/bjws
-东方卫视,http://m.061899.xyz/mg/dfws
-浙江卫视,http://m.061899.xyz/mg/zjws
-江苏卫视,http://m.061899.xyz/mg/jsws
-湖南卫视,http://m.061899.xyz/mg/hunws
-广东卫视,http://m.061899.xyz/mg/gdws
-深圳卫视,http://m.061899.xyz/mg/szws
-天津卫视,http://m.061899.xyz/mg/tjws
-安徽卫视,http://m.061899.xyz/mg/ahws
-山东卫视,http://m.061899.xyz/mg/sdws
-河北卫视,http://m.061899.xyz/mg/hbws
-河南卫视,http://m.061899.xyz/mg/hnws
-江西卫视,http://m.061899.xyz/mg/jxws
-四川卫视,http://m.061899.xyz/mg/scws
-重庆卫视,http://m.061899.xyz/mg/cqws
-贵州卫视,http://m.061899.xyz/mg/gzws
-湖北卫视,http://m.061899.xyz/mg/hubws
-广西卫视,http://m.061899.xyz/mg/gxws
-东南卫视,http://m.061899.xyz/mg/dnws
-海南卫视,http://m.061899.xyz/mg/hinws
-甘肃卫视,http://m.061899.xyz/mg/gsws
-青海卫视,http://m.061899.xyz/mg/qhws
-陕西卫视,http://m.061899.xyz/mg/sxws
-宁夏卫视,http://m.061899.xyz/mg/nxws
-新疆卫视,http://m.061899.xyz/mg/xjws
-西藏卫视,http://m.061899.xyz/mg/xzws
-兵团卫视,http://m.061899.xyz/mg/btws
-吉林卫视,http://m.061899.xyz/mg/jlws
-内蒙古视,http://m.061899.xyz/mg/nmgws
-黑龙江视,http://m.061899.xyz/mg/hljws
-重温经典,http://m.061899.xyz/mg/cwjd
-劲爆体育,http://m.061899.xyz/mg/jbty
-咪咕体育,http://m.061899.xyz/mg/mgty
-北京体育,http://m.061899.xyz/mg/bjty
-北京新闻,http://m.061899.xyz/mg/bjxw
-北京财经,http://m.061899.xyz/mg/bjcj
-北京文艺,http://m.061899.xyz/mg/bjwy
-北京生活,http://m.061899.xyz/mg/bjsh
-北京少儿,http://m.061899.xyz/mg/bjkk
-北京影视,http://m.061899.xyz/mg/bjys
-北京纪实,http://m.061899.xyz/mg/bjjs
-东方影视,http://m.061899.xyz/mg/shys
-东方纪实,http://m.061899.xyz/mg/xjs
-红色轮播,http://m.061899.xyz/mg/hslb
-金色剧场,http://m.061899.xyz/mg/jsjc
-乡村振兴,http://m.061899.xyz/mg/xczx
-重温经典,http://8.138.7.223/tv/cwjd.php
-
-
-
-央视备用[2],#genre#
-
-CCTV1,http://j.s.bkpcp.top/jj/cctv1
-CCTV2,http://j.s.bkpcp.top/jj/cctv2
-CCTV3,http://j.s.bkpcp.top/jj/cctv3
-CCTV4,http://j.s.bkpcp.top/jj/cctv4
-CCTV5,http://j.s.bkpcp.top/jj/cctv5
-CCTV5+,http://j.s.bkpcp.top/jj/cctv5p
-CCTV6,http://j.s.bkpcp.top/jj/cctv6
-CCTV7,http://j.s.bkpcp.top/jj/cctv7
-CCTV8,http://j.s.bkpcp.top/jj/cctv8
-CCTV9,http://j.s.bkpcp.top/jj/cctv9
-CCTV10,http://j.s.bkpcp.top/jj/cctv10
-CCTV11,http://j.s.bkpcp.top/jj/cctv11
-CCTV12,http://j.s.bkpcp.top/jj/cctv12
-CCTV13,http://j.s.bkpcp.top/jj/cctv13
-CCTV14,http://j.s.bkpcp.top/jj/cctv14
-CCTV15,http://j.s.bkpcp.top/jj/cctv15
-CCTV16,http://j.s.bkpcp.top/jj/cctv16
-CCTV17,http://j.s.bkpcp.top/jj/cctv17
-CCTV4欧洲,http://j.s.bkpcp.top/jj/cctv4o
-CCTV4美洲,http://j.s.bkpcp.top/jj/cctv4m
-CGTN-西,http://j.s.bkpcp.top/jj/cgtne
-CGTN-阿,http://j.s.bkpcp.top/jj/cgtna
-CGTN-法,http://j.s.bkpcp.top/jj/cgtnf
-
-
-
-卫视备用[2],#genre#
-
-北京卫视,http://j.s.bkpcp.top/jj/bjws
-东方卫视,http://j.s.bkpcp.top/jj/dfws
-浙江卫视,http://j.s.bkpcp.top/jj/zjws
-江苏卫视,http://j.s.bkpcp.top/jj/jsws
-湖南卫视,http://j.s.bkpcp.top/jj/hunws
-广东卫视,http://j.s.bkpcp.top/jj/gdws
-深圳卫视4k,http://j.s.bkpcp.top/jj/szws
-山东卫视,http://j.s.bkpcp.top/jj/sdws
-河南卫视,http://j.s.bkpcp.top/jj/hnws
-江西卫视,http://j.s.bkpcp.top/jj/jxws
-湖北卫视,http://j.s.bkpcp.top/jj/hubws
-海南卫视,http://j.s.bkpcp.top/jj/hinws
-陕西卫视,http://j.s.bkpcp.top/jj/sxws
-兵团卫视,http://j.s.bkpcp.top/jj/btws
-黑龙江视,http://j.s.bkpcp.top/jj/hljws
-
-
-
-央视备用[3],#genre#
-
-CCTV1,http://t.061899.xyz/tl/tl.php?id=cctv1
-CCTV2,http://t.061899.xyz/tl/tl.php?id=cctv2
-CCTV3,http://t.061899.xyz/tl/tl.php?id=cctv3
-CCTV4,http://t.061899.xyz/tl/tl.php?id=cctv4
-CCTV5,http://t.061899.xyz/tl/tl.php?id=cctv5
-CCTV5+,http://t.061899.xyz/tl/tl.php?id=cctv5p
-CCTV6,http://t.061899.xyz/tl/tl.php?id=cctv6
-CCTV7,http://t.061899.xyz/tl/tl.php?id=cctv7
-CCTV8,http://t.061899.xyz/tl/tl.php?id=cctv8
-CCTV9,http://t.061899.xyz/tl/tl.php?id=cctv9
-CCTV10,http://t.061899.xyz/tl/tl.php?id=cctv10
-CCTV11,http://t.061899.xyz/tl/tl.php?id=cctv11
-CCTV12,http://t.061899.xyz/tl/tl.php?id=cctv12
-CCTV13,http://t.061899.xyz/tl/tl.php?id=cctv13
-CCTV14,http://t.061899.xyz/tl/tl.php?id=cctv14
-CCTV15,http://t.061899.xyz/tl/tl.php?id=cctv15
-CCTV16,http://t.061899.xyz/tl/tl.php?id=cctv16
-CCTV17,http://t.061899.xyz/tl/tl.php?id=cctv17
-
-
-
-卫视备用[3],#genre#
-
-北京卫视,http://t.061899.xyz/tl/tl.php?id=bjws
-东方卫视,http://t.061899.xyz/tl/tl.php?id=dfws
-浙江卫视,http://t.061899.xyz/tl/tl.php?id=zjws
-江苏卫视,http://t.061899.xyz/tl/tl.php?id=jsws
-湖南卫视,http://t.061899.xyz/tl/tl.php?id=hunws
-广东卫视,http://t.061899.xyz/tl/tl.php?id=gdws
-深圳卫视,http://t.061899.xyz/tl/tl.php?id=szws
-天津卫视,http://t.061899.xyz/tl/tl.php?id=tjws
-安徽卫视,http://t.061899.xyz/tl/tl.php?id=ahws
-山东卫视,http://t.061899.xyz/tl/tl.php?id=sdws
-山西卫视,http://t.061899.xyz/tl/tl.php?id=sxiws
-辽宁卫视,http://t.061899.xyz/tl/tl.php?id=lnws
-河北卫视,http://t.061899.xyz/tl/tl.php?id=hbws
-河南卫视,http://t.061899.xyz/tl/tl.php?id=hnws
-江西卫视,http://t.061899.xyz/tl/tl.php?id=jxws
-四川卫视,http://t.061899.xyz/tl/tl.php?id=scws
-重庆卫视,http://t.061899.xyz/tl/tl.php?id=cqws
-贵州卫视,http://t.061899.xyz/tl/tl.php?id=gzws
-湖北卫视,http://t.061899.xyz/tl/tl.php?id=hubws
-广西卫视,http://t.061899.xyz/tl/tl.php?id=gxws
-东南卫视,http://t.061899.xyz/tl/tl.php?id=dnws
-海南卫视,http://t.061899.xyz/tl/tl.php?id=hinws
-青海卫视,http://t.061899.xyz/tl/tl.php?id=qhws
-宁夏卫视,http://t.061899.xyz/tl/tl.php?id=nxws
-陕西卫视,http://t.061899.xyz/tl/tl.php?id=sxws
-甘肃卫视,http://t.061899.xyz/tl/tl.php?id=gsws
-新疆卫视,http://t.061899.xyz/tl/tl.php?id=xjws
-吉林卫视,http://t.061899.xyz/tl/tl.php?id=jlws
-西藏卫视,http://t.061899.xyz/tl/tl.php?id=xzws
-内蒙古视,http://t.061899.xyz/tl/tl.php?id=nmgws
-黑龙江视,http://t.061899.xyz/tl/tl.php?id=hljws
 
 
 
