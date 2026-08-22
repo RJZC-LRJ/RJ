@@ -1,8 +1,6 @@
 {
   "spider": "./jar/Rong/rjzc.jar",
-  "notice": "嵘基接口免费严禁贩卖·请勿相信视频中的广告·扫码授权是免费的",
   "logo": "assets://4_JSON.png",
-  "danmaku": "http://127.0.0.1:2525/danmu?name={name}&epid={episode}",
   "sites": [
     {
       "key": "乐虎儿歌",
