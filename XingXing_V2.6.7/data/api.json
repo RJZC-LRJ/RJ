@@ -1,6 +1,5 @@
 {
   "spider": "./aowu.jar",
-  "danmaku": "http://127.0.0.1:2525/danmu?name={name}&epid={episode}",
   "lives": [
     {
       "name": "默认列表",
@@ -185,18 +184,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0
-    },
-    {
-      "name": "📡Bili┃Live",
-      "key": "Bilive",
-      "type": 3,
-      "api": "csp_BiliveAmns",
-      "searchable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      }
     },
     {
       "name": "📡虎牙┃Live",
