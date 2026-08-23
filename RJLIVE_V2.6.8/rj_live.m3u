@@ -9,9 +9,9 @@ http://101.35.240.114:88/live.php?id=CCTV2
 http://101.35.240.114:88/live.php?id=CCTV3
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" http-user-agent="AptvPlayer-UA" group-title="央视频道[1]",CCTV4
 http://101.35.240.114:88/live.php?id=CCTV4
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5[测试]" http-user-agent="iPhone" group-title="央视频道[1]",CCTV5
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" http-user-agent="AptvPlayer-UA" group-title="央视频道[1]",CCTV5[测试]
 http://101.35.240.114:88/live.php?id=CCTV5
-#EXTINF:-1 tvg-id="CCTV5PLUS" tvg-name="CCTV5+[测试]" http-user-agent="iPhone" group-title="央视频道[1]",CCTV5+
+#EXTINF:-1 tvg-id="CCTV5PLUS" tvg-name="CCTV5+" http-user-agent="AptvPlayer-UA" group-title="央视频道[1]",CCTV5+[测试]
 http://101.35.240.114:88/live.php?id=CCTV5p
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" http-user-agent="AptvPlayer-UA" group-title="央视频道[1]",CCTV6
 http://101.35.240.114:88/live.php?id=CCTV6
