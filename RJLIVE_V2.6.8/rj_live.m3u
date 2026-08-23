@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://e.erw.cc/all.xml.gz" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U x-tvg-url="http://e.erw.cc/all.xml.gz,https://gh-proxy.com/https://raw.githubusercontent.com/kuke31/xmlgz/main/all.xml.gz,http://e.erw.cc/allcc.xml.gz,https://gh-proxy.com/https://raw.githubusercontent.com/kuke31/xmlgz/main/allcc.xml.gz,http://epg.51zmt.top:8000/e1.xml.gz,http://epg.51zmt.top:8000/e2.xml.gz" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 #EXTINF:-1 tvg-id="0" tvg-name="流媒体技术实验"tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png"group-title="央视频道[03]",流媒体技术实验
 https://gh-proxy.com/https://raw.githubusercontent.com/RJZC-LRJ/RJ/refs/heads/main/RJLIVE_V2.6.8/m3u8/index.m3u8
