@@ -1,5 +1,5 @@
 {
-  "spider": "./aowu.jar",
+  "spider": "https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RongjiLi_V2.6.2/jar/aowu.jar",
   "lives": [
     {
       "name": "默认列表",
