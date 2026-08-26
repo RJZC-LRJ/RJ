@@ -292,106 +292,182 @@ http://45.192.97.170:8880/play/35.m3u8
 http://45.192.97.170:8880/play/36.m3u8
 
 #EXTINF:-1 tvg-name="CCTV1综合" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="央视频道[04]",CCTV1综合
-http://119.233.255.62:1234/608807420
+http://120.48.113.49:6006/608807420
 #EXTINF:-1 tvg-name="CCTV2财经" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="央视频道[04]",CCTV2财经
-http://119.233.255.62:1234/631780532
+http://120.48.113.49:6006/631780532
 #EXTINF:-1 tvg-name="CCTV3综艺" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="央视频道[04]",CCTV3综艺
-http://119.233.255.62:1234/624878271
+http://120.48.113.49:6006/624878271
 #EXTINF:-1 tvg-name="CCTV4中文国际" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="央视频道[04]",CCTV4中文国际
-http://119.233.255.62:1234/631780421
+http://120.48.113.49:6006/631780421
 #EXTINF:-1 tvg-name="CCTV5体育" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="央视频道[04]",CCTV5体育
-http://119.233.255.62:1234/641886683
+http://120.48.113.49:6006/641886683
 #EXTINF:-1 tvg-name="CCTV5+体育赛事" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="央视频道[04]",CCTV5+体育赛事
-http://119.233.255.62:1234/641886773
+http://120.48.113.49:6006/641886773
 #EXTINF:-1 tvg-name="CCTV6电影" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="央视频道[04]",CCTV6电影
-http://119.233.255.62:1234/624878396
+http://120.48.113.49:6006/624878396
 #EXTINF:-1 tvg-name="CCTV7国防军事" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="央视频道[04]",CCTV7国防军事
-http://119.233.255.62:1234/673168121
+http://120.48.113.49:6006/673168121
 #EXTINF:-1 tvg-name="CCTV8电视剧" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="央视频道[04]",CCTV8电视剧
-http://119.233.255.62:1234/624878356
+http://120.48.113.49:6006/624878356
 #EXTINF:-1 tvg-name="CCTV9纪录" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="央视频道[04]",CCTV9纪录
-http://119.233.255.62:1234/673168140
+http://120.48.113.49:6006/673168140
 #EXTINF:-1 tvg-name="CCTV10科教" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="央视频道[04]",CCTV10科教
-http://119.233.255.62:1234/624878405
+http://120.48.113.49:6006/624878405
 #EXTINF:-1 tvg-name="CCTV11戏曲" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="央视频道[04]",CCTV11戏曲
-http://119.233.255.62:1234/667987558
+http://120.48.113.49:6006/667987558
 #EXTINF:-1 tvg-name="CCTV12社会与法" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="央视频道[04]",CCTV12社会与法
-http://119.233.255.62:1234/673168185
+http://120.48.113.49:6006/673168185
 #EXTINF:-1 tvg-name="CCTV13新闻" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="央视频道[04]",CCTV13新闻
-http://119.233.255.62:1234/608807423
+http://120.48.113.49:6006/608807423
 #EXTINF:-1 tvg-name="CCTV14少儿" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="央视频道[04]",CCTV14少儿
-http://119.233.255.62:1234/624878440
+http://120.48.113.49:6006/624878440
 #EXTINF:-1 tvg-name="CCTV15音乐" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="央视频道[04]",CCTV15音乐
-http://119.233.255.62:1234/673168223
+http://120.48.113.49:6006/673168223
 #EXTINF:-1 tvg-name="CCTV17农业农村" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="央视频道[04]",CCTV17农业农村
-http://119.233.255.62:1234/673168256
+http://120.48.113.49:6006/673168256
 #EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="央视频道[04]",CCTV4欧洲
-http://119.233.255.62:1234/608807419
+http://120.48.113.49:6006/608807419
 #EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="央视频道[04]",CCTV4美洲
-http://119.233.255.62:1234/608807416
+http://120.48.113.49:6006/608807416
 #EXTINF:-1 tvg-name="CGTN外语纪录" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="央视频道[04]",CGTN外语纪录
-http://119.233.255.62:1234/609006487
+http://120.48.113.49:6006/609006487
 #EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="央视频道[04]",CGTN阿拉伯语
-http://119.233.255.62:1234/609154345
+http://120.48.113.49:6006/609154345
 #EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="央视频道[04]",CGTN西班牙语
-http://119.233.255.62:1234/609006450
+http://120.48.113.49:6006/609006450
 #EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="央视频道[04]",CGTN法语
-http://119.233.255.62:1234/609006476
+http://120.48.113.49:6006/609006476
 #EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="央视频道[04]",CGTN俄语
-http://119.233.255.62:1234/609006446
+http://120.48.113.49:6006/609006446
 #EXTINF:-1 tvg-name="老故事" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="央视频道[04]",老故事
-http://119.233.255.62:1234/884121956
+http://120.48.113.49:6006/884121956
 #EXTINF:-1 tvg-name="发现之旅" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="央视频道[04]",发现之旅
-http://119.233.255.62:1234/624878970
+http://120.48.113.49:6006/624878970
 #EXTINF:-1 tvg-name="中学生" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="央视频道[04]",中学生
-http://119.233.255.62:1234/708869532
+http://120.48.113.49:6006/708869532
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="央视频道[04]",CGTN
-http://119.233.255.62:1234/609017205
+http://120.48.113.49:6006/609017205
 
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="卫视频道[04]",东方卫视
-http://119.233.255.62:1234/651632648
+http://120.48.113.49:6006/651632648
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="卫视频道[04]",江苏卫视
-http://119.233.255.62:1234/623899368
+http://120.48.113.49:6006/623899368
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="卫视频道[04]",广东卫视
-http://119.233.255.62:1234/608831231
+http://120.48.113.49:6006/608831231
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="卫视频道[04]",北京卫视
-http://119.233.255.62:1234/630287636
+http://120.48.113.49:6006/630287636
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="卫视频道[04]",辽宁卫视
-http://119.233.255.62:1234/630291707
+http://120.48.113.49:6006/630291707
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="卫视频道[04]",河北卫视
-http://119.233.255.62:1234/962042070
+http://120.48.113.49:6006/962042070
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="卫视频道[04]",江西卫视
-http://119.233.255.62:1234/783847495
+http://120.48.113.49:6006/783847495
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="卫视频道[04]",河南卫视
-http://119.233.255.62:1234/790187291
+http://120.48.113.49:6006/790187291
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="卫视频道[04]",陕西卫视
-http://119.233.255.62:1234/738910838
+http://120.48.113.49:6006/738910838
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="卫视频道[04]",大湾区卫视
-http://119.233.255.62:1234/608917627
+http://120.48.113.49:6006/608917627
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="卫视频道[04]",湖北卫视
-http://119.233.255.62:1234/947472496
+http://120.48.113.49:6006/947472496
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="卫视频道[04]",吉林卫视
-http://119.233.255.62:1234/947472500
+http://120.48.113.49:6006/947472500
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="卫视频道[04]",青海卫视
-http://119.233.255.62:1234/947472506
+http://120.48.113.49:6006/947472506
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="卫视频道[04]",东南卫视
-http://119.233.255.62:1234/849116810
+http://120.48.113.49:6006/849116810
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="卫视频道[04]",海南卫视
-http://119.233.255.62:1234/947472502
+http://120.48.113.49:6006/947472502
 #EXTINF:-1 tvg-name="海峡卫视" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="卫视频道[04]",海峡卫视
-http://119.233.255.62:1234/849119120
+http://120.48.113.49:6006/849119120
 #EXTINF:-1 tvg-name="中国农林卫视" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="卫视频道[04]",中国农林卫视
-http://119.233.255.62:1234/956904896
+http://120.48.113.49:6006/956904896
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="卫视频道[04]",兵团卫视
-http://119.233.255.62:1234/956923145
+http://120.48.113.49:6006/956923145
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="卫视频道[04]",宁夏卫视
-http://119.233.255.62:1234/738910535
+http://120.48.113.49:6006/738910535
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="卫视频道[04]",重庆卫视
-http://119.233.255.62:1234/738910914
+http://120.48.113.49:6006/738910914
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="卫视频道[04]",三沙卫视
-http://119.233.255.62:1234/961023778
+http://120.48.113.49:6006/961023778
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="卫视频道[04]",黑龙江卫视
-http://119.233.255.62:1234/738906901
+http://120.48.113.49:6006/738906901
+#EXTINF:-1 tvg-name="赛事最经典" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="卫视频道[04]",赛事最经典
+http://120.48.113.49:6006/646596895
+#EXTINF:-1 tvg-name="体坛名栏汇" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="卫视频道[04]",体坛名栏汇
+http://120.48.113.49:6006/629943305
+#EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="卫视频道[04]",四海钓鱼
+http://120.48.113.49:6006/637444975
+#EXTINF:-1 tvg-name="24小时城市联赛轮播台" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="卫视频道[04]",24小时城市联赛轮播台
+http://120.48.113.49:6006/915512915
+#EXTINF:-1 tvg-name="武术世界" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="卫视频道[04]",武术世界
+http://120.48.113.49:6006/958475359
+#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="卫视频道[04]",快乐垂钓
+http://120.48.113.49:6006/961930263
+#EXTINF:-1 tvg-name="建党105周年巡礼" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="卫视频道[04]",建党105周年巡礼
+http://120.48.113.49:6006/713600957
+#EXTINF:-1 tvg-name="经典香港电影" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="卫视频道[04]",经典香港电影
+http://120.48.113.49:6006/625703337
+#EXTINF:-1 tvg-name="新片放映厅" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="卫视频道[04]",新片放映厅
+http://120.48.113.49:6006/619495952
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="卫视频道[04]",CHC影迷电影
+http://120.48.113.49:6006/952383261
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="卫视频道[04]",CHC动作电影
+http://120.48.113.49:6006/644368714
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="卫视频道[04]",CHC家庭影院
+http://120.48.113.49:6006/644368373
+#EXTINF:-1 tvg-name="和美乡途轮播台" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="卫视频道[04]",和美乡途轮播台
+http://120.48.113.49:6006/713591450
+#EXTINF:-1 tvg-name="南方影视" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="卫视频道[04]",南方影视
+http://120.48.113.49:6006/614961829
+#EXTINF:-1 tvg-name="中国天气" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="卫视频道[04]",中国天气
+http://120.48.113.49:6006/959986621
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="卫视频道[04]",CETV1
+http://120.48.113.49:6006/923287154
+#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="卫视频道[04]",CETV2
+http://120.48.113.49:6006/923287211
+#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="卫视频道[04]",CETV4
+http://120.48.113.49:6006/923287339
+#EXTINF:-1 tvg-name="山东教育" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="卫视频道[04]",山东教育
+http://120.48.113.49:6006/609154353
+#EXTINF:-1 tvg-name="熊猫频道01高清" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="卫视频道[04]",熊猫频道01高清
+http://120.48.113.49:6006/609158151
+#EXTINF:-1 tvg-name="熊猫频道1" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="卫视频道[04]",熊猫频道1
+http://120.48.113.49:6006/608933610
+#EXTINF:-1 tvg-name="熊猫频道2" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="卫视频道[04]",熊猫频道2
+http://120.48.113.49:6006/608933640
+#EXTINF:-1 tvg-name="熊猫频道3" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="卫视频道[04]",熊猫频道3
+http://120.48.113.49:6006/608934619
+#EXTINF:-1 tvg-name="熊猫频道4" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="卫视频道[04]",熊猫频道4
+http://120.48.113.49:6006/608934721
+#EXTINF:-1 tvg-name="熊猫频道5" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="卫视频道[04]",熊猫频道5
+http://120.48.113.49:6006/608935104
+#EXTINF:-1 tvg-name="熊猫频道6" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="卫视频道[04]",熊猫频道6
+http://120.48.113.49:6006/608935797
+#EXTINF:-1 tvg-name="熊猫频道7" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="卫视频道[04]",熊猫频道7
+http://120.48.113.49:6006/609169286
+#EXTINF:-1 tvg-name="熊猫频道8" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="卫视频道[04]",熊猫频道8
+http://120.48.113.49:6006/609169287
+#EXTINF:-1 tvg-name="熊猫频道9" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="卫视频道[04]",熊猫频道9
+http://120.48.113.49:6006/609169226
+#EXTINF:-1 tvg-name="熊猫频道10" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="卫视频道[04]",熊猫频道10
+http://120.48.113.49:6006/609169285
+#EXTINF:-1 tvg-name="最强综艺趴" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="卫视频道[04]",最强综艺趴
+http://120.48.113.49:6006/629942228
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="卫视频道[04]",嘉佳卡通
+http://120.48.113.49:6006/614952364
+#EXTINF:-1 tvg-name="经典动画大集合" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="卫视频道[04]",经典动画大集合
+http://120.48.113.49:6006/629942219
+#EXTINF:-1 tvg-name="新动漫" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="卫视频道[04]",新动漫
+http://120.48.113.49:6006/961930269
+#EXTINF:-1 tvg-name="新动力量创一流" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="卫视频道[04]",新动力量创一流
+http://120.48.113.49:6006/713589837
+#EXTINF:-1 tvg-name="中华特产" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="卫视频道[04]",中华特产
+http://120.48.113.49:6006/959986618
+#EXTINF:-1 tvg-name="环球旅游" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="卫视频道[04]",环球旅游
+http://120.48.113.49:6006/958475356
+#EXTINF:-1 tvg-name="梨园频道" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="卫视频道[04]",梨园频道
+http://120.48.113.49:6006/961930369
 
 #EXTINF:-1 tvg-name="CCTV01" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="央视频道[05]",CCTV-01咪咕
 http://175.17.83.114:1234/608807420
