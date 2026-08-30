@@ -353,11 +353,37 @@
   ],
   "doh": [
     {
-      "name": "Google",
-      "url": "https://dns.google/dns-query",
+      "name": "阿里",
+      "url": "https://dns.alidns.com/dns-query",
       "ips": [
-        "8.8.4.4",
-        "8.8.8.8"
+        "223.5.5.5",
+        "223.6.6.6",
+        "2400:3200::1"
+      ]
+    },
+    {
+      "name": "腾讯",
+      "url": "https://doh.pub/dns-query",
+      "ips": [
+        "119.29.29.29",
+        "119.28.28.28",
+        "2402:4e00::"
+      ]
+    },
+    {
+      "name": "360",
+      "url": "https://doh.360.cn/dns-query",
+      "ips": [
+        "101.226.4.6",
+        "218.30.118.6"
+      ]
+    },
+    {
+      "name": "OneDNS",
+      "url": "https://doh-pure.onedns.net/dns-query",
+      "ips": [
+        "117.50.10.10",
+        "52.80.52.52"
       ]
     },
     {
@@ -371,11 +397,27 @@
       ]
     },
     {
-      "name": "AdGuard",
-      "url": "https://dns.adguard.com/dns-query",
+      "name": "Google",
+      "url": "https://dns.google/dns-query",
       "ips": [
-        "94.140.14.140",
-        "94.140.14.141"
+        "8.8.8.8",
+        "8.8.4.4"
+      ]
+    },
+    {
+      "name": "Quad9",
+      "url": "https://dns.quad9.net/dns-query",
+      "ips": [
+        "9.9.9.9",
+        "149.112.112.112"
+      ]
+    },
+    {
+      "name": "AdGuard",
+      "url": "https://dns.adguard-dns.com/dns-query",
+      "ips": [
+        "94.140.14.14",
+        "94.140.15.15"
       ]
     },
     {
@@ -387,11 +429,19 @@
       ]
     },
     {
-      "name": "Quad9",
-      "url": "https://dns.quad9.net/dns-quer",
+      "name": "NextDNS",
+      "url": "https://dns.nextdns.io/your_profile_id",
       "ips": [
-        "9.9.9.9",
-        "149.112.112.112"
+        "45.90.28.0",
+        "45.90.30.0"
+      ]
+    },
+    {
+      "name": "ControlD",
+      "url": "https://freedns.controld.com/p0",
+      "ips": [
+        "76.76.2.0",
+        "76.76.10.0"
       ]
     }
   ],
