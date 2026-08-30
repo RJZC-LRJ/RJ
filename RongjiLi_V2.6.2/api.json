@@ -159,6 +159,36 @@
       "playerType": 2
     },
     {
+      "key": "界界搜索",
+      "name": "R.界界搜索",
+      "type": 3,
+      "api": "./py/%E7%95%8C.py",
+      "jar": "./jar/Rong/rjzc.jar",
+      "hide": 1,
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": 2
+    },
+    {
+      "key": "资源搜索",
+      "name": "R.资源搜索",
+      "type": 3,
+      "api": "csp_BiliGuard",
+      "jar": "./jar/wex.jar",
+      "hide": 1,
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": 2,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      }
+    },
+    {
       "key": "华数影视",
       "name": "R.华数影视",
       "type": 3,
@@ -166,7 +196,7 @@
       "jar": "./jar/Rong/rjzc.jar",
       "timeout": 10,
       "searchable": 1,
-      "quickSearch": 0,
+      "quickSearch": 1,
       "changeable": 1,
       "playerType": 2
     },
@@ -185,7 +215,6 @@
         "动作片",
         "喜剧片",
         "战争片",
-        "爱情片",
         "悬疑片",
         "武侠片",
         "奇幻片",
@@ -231,7 +260,6 @@
         "动作片",
         "喜剧片",
         "战争片",
-        "爱情片",
         "悬疑片",
         "武侠片",
         "奇幻片",
@@ -266,7 +294,7 @@
       "key": "茶杯影视",
       "name": "R.茶杯影视",
       "type": 1,
-      "api": "http://www.haohuazy.com/api.php/provide/vod",
+      "api": "http://haohuazy.com/api.php/provide/vod",
       "jar": "./jar/Rong/rjzc.jar",
       "timeout": 10,
       "searchable": 1,
@@ -303,6 +331,89 @@
       ]
     },
     {
+      "key": "非凡影视",
+      "name": "R.非凡影视",
+      "type": 1,
+      "api": "http://api.ffzyapi.com/api.php/provide/vod",
+      "jar": "./jar/Rong/rjzc.jar",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": 2,
+      "categories": [
+        "国产剧",
+        "韩国剧",
+        "欧美剧",
+        "香港剧",
+        "台湾剧",
+        "日本剧",
+        "泰国剧",
+        "动漫片",
+        "动作片",
+        "喜剧片",
+        "科幻片",
+        "恐怖片",
+        "战争片",
+        "记录片",
+        "短剧",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫"
+      ]
+    },
+    {
+      "key": "暴风影视",
+      "name": "R.暴风影视",
+      "type": 1,
+      "api": "https://bfzyapi.com/api.php/provide/vod",
+      "jar": "./jar/Rong/rjzc.jar",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": 2,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "战争片",
+        "悬疑片",
+        "武侠片",
+        "奇幻片",
+        "科幻片",
+        "冒险片",
+        "警匪片",
+        "惊悚片",
+        "犯罪片",
+        "恐怖片",
+        "动画片",
+        "纪录片",
+        "国产剧",
+        "香港剧",
+        "韩国剧",
+        "欧美剧",
+        "台湾剧",
+        "日本剧",
+        "海外剧",
+        "泰国剧",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "短剧"
+      ]
+    },
+    {
       "key": "索尼影视",
       "name": "R.索尼影视",
       "type": 1,
@@ -317,7 +428,6 @@
         "动作片",
         "喜剧片",
         "战争片",
-        "爱情片",
         "悬疑片",
         "武侠片",
         "奇幻片",
@@ -409,28 +519,6 @@
       }
     },
     {
-      "key": "瓜子影视",
-      "name": "R.瓜子影视",
-      "type": 3,
-      "api": "csp_GuaziAmns",
-      "jar": "./jar/aowu.jar",
-      "timeout": 10,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "playerType": 2,
-      "categories": [
-        "电影",
-        "电影解说",
-        "连续剧",
-        "综艺",
-        "动漫",
-        "短剧",
-        "AI漫剧"
-      ],
-      "ext": "Guazi"
-    },
-    {
       "key": "猎手影视",
       "name": "R.猎手影视",
       "type": 3,
@@ -448,6 +536,41 @@
       ]
     },
     {
+      "key": "皮虾影视",
+      "name": "R.皮虾影视",
+      "type": 3,
+      "api": "./py/ppx.py",
+      "ext": "http://43.248.117.123:4680",
+      "jar": "./jar/Rong/rjzc.jar",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": 2
+    },
+    {
+      "key": "瓜子影视",
+      "name": "R.瓜子影视",
+      "type": 3,
+      "api": "csp_GuaziAmns",
+      "jar": "./jar/aowu.jar",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "playerType": 2,
+      "categories": [
+        "电影",
+        "电影解说",
+        "连续剧",
+        "综艺",
+        "动漫",
+        "短剧",
+        "AI漫剧"
+      ],
+      "ext": "Guazi"
+    },
+    {
       "key": "夏天影视",
       "name": "R.夏天影视",
       "type": 3,
@@ -455,7 +578,7 @@
       "jar": "./jar/aowu.jar",
       "timeout": 10,
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "changeable": 1,
       "playerType": 2,
       "ext": "NewGrV2"
@@ -468,7 +591,7 @@
       "jar": "./jar/aowu.jar",
       "timeout": 10,
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "changeable": 1,
       "playerType": 2,
       "ext": "AppV7Fz"
@@ -481,7 +604,7 @@
       "jar": "./jar/aowu.jar",
       "timeout": 10,
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "changeable": 1,
       "playerType": 2,
       "ext": "AppV7Xy"
@@ -494,7 +617,7 @@
       "jar": "./jar/aowu.jar",
       "timeout": 10,
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "changeable": 1,
       "playerType": 2,
       "ext": "AppV7Zjdr"
@@ -507,7 +630,7 @@
       "jar": "./jar/aowu.jar",
       "timeout": 10,
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "changeable": 1,
       "playerType": 2,
       "ext": "AppV7Xyz"
@@ -520,7 +643,7 @@
       "jar": "./jar/aowu.jar",
       "timeout": 10,
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "changeable": 1,
       "playerType": 2,
       "ext": "AppV7Xnm"
@@ -533,23 +656,10 @@
       "jar": "./jar/aowu.jar",
       "timeout": 10,
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "changeable": 1,
       "playerType": 2,
       "ext": "AppV7Mtq"
-    },
-    {
-      "key": "嗷呜七线",
-      "name": "R.嗷呜七线",
-      "type": 3,
-      "api": "csp_AppV7Amns",
-      "jar": "./jar/aowu.jar",
-      "timeout": 10,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "playerType": 2,
-      "ext": "AppV7Llq"
     },
     {
       "key": "嗷呜八线",
@@ -559,7 +669,7 @@
       "jar": "./jar/aowu.jar",
       "timeout": 10,
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "changeable": 1,
       "playerType": 2,
       "ext": "AppV7Xsz"
@@ -572,7 +682,7 @@
       "jar": "./jar/aowu.jar",
       "timeout": 10,
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "changeable": 1,
       "playerType": 2,
       "ext": "AppV7Xhr"
@@ -585,40 +695,10 @@
       "jar": "./jar/aowu.jar",
       "timeout": 10,
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "changeable": 1,
       "playerType": 2,
       "ext": "AppV7Dsx"
-    },
-    {
-      "key": "资源搜索",
-      "name": "R.资源搜索",
-      "type": 3,
-      "api": "csp_BiliGuard",
-      "jar": "./jar/wex.jar",
-      "hide": 1,
-      "timeout": 10,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "playerType": 2,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      }
-    },
-    {
-      "key": "界界搜索",
-      "name": "R.界界搜索",
-      "type": 3,
-      "api": "./py/%E7%95%8C.py",
-      "jar": "./jar/Rong/rjzc.jar",
-      "hide": 1,
-      "timeout": 10,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "playerType": 2
     },
     {
       "key": "哔哩大全",
@@ -648,7 +728,7 @@
       "jar": "./jar/Rong/rjzc.jar",
       "timeout": 10,
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "changeable": 1,
       "playerType": 2
     },
@@ -693,40 +773,6 @@
       "quickSearch": 0,
       "changeable": 1,
       "playerType": 2
-    },
-    {
-      "key": "皮虾影视",
-      "name": "R.皮虾影视",
-      "type": 3,
-      "api": "./py/ppx.py",
-      "ext": "http://43.248.117.123:4680",
-      "jar": "./jar/Rong/rjzc.jar",
-      "timeout": 10,
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 1,
-      "playerType": 2
-    },
-    {
-      "key": "山楂影视",
-      "name": "R.山楂影视",
-      "type": 3,
-      "api": "./py/%E5%B1%B1%E6%A5%82.py",
-      "jar": "./jar/Rong/rjzc.jar",
-      "timeout": 10,
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 1,
-      "playerType": 2,
-      "categories": [
-        "电影",
-        "电视剧",
-        "少儿",
-        "动漫",
-        "综艺",
-        "纪录片",
-        "短剧"
-      ]
     },
     {
       "key": "枫叶影视",
@@ -803,11 +849,37 @@
   ],
   "doh": [
     {
-      "name": "Google",
-      "url": "https://dns.google/dns-query",
+      "name": "阿里",
+      "url": "https://dns.alidns.com/dns-query",
       "ips": [
-        "8.8.4.4",
-        "8.8.8.8"
+        "223.5.5.5",
+        "223.6.6.6",
+        "2400:3200::1"
+      ]
+    },
+    {
+      "name": "腾讯",
+      "url": "https://doh.pub/dns-query",
+      "ips": [
+        "119.29.29.29",
+        "119.28.28.28",
+        "2402:4e00::"
+      ]
+    },
+    {
+      "name": "360",
+      "url": "https://doh.360.cn/dns-query",
+      "ips": [
+        "101.226.4.6",
+        "218.30.118.6"
+      ]
+    },
+    {
+      "name": "OneDNS",
+      "url": "https://doh-pure.onedns.net/dns-query",
+      "ips": [
+        "117.50.10.10",
+        "52.80.52.52"
       ]
     },
     {
@@ -821,11 +893,27 @@
       ]
     },
     {
-      "name": "AdGuard",
-      "url": "https://dns.adguard.com/dns-query",
+      "name": "Google",
+      "url": "https://dns.google/dns-query",
       "ips": [
-        "94.140.14.140",
-        "94.140.14.141"
+        "8.8.8.8",
+        "8.8.4.4"
+      ]
+    },
+    {
+      "name": "Quad9",
+      "url": "https://dns.quad9.net/dns-query",
+      "ips": [
+        "9.9.9.9",
+        "149.112.112.112"
+      ]
+    },
+    {
+      "name": "AdGuard",
+      "url": "https://dns.adguard-dns.com/dns-query",
+      "ips": [
+        "94.140.14.14",
+        "94.140.15.15"
       ]
     },
     {
@@ -837,11 +925,19 @@
       ]
     },
     {
-      "name": "Quad9",
-      "url": "https://dns.quad9.net/dns-quer",
+      "name": "NextDNS",
+      "url": "https://dns.nextdns.io/your_profile_id",
       "ips": [
-        "9.9.9.9",
-        "149.112.112.112"
+        "45.90.28.0",
+        "45.90.30.0"
+      ]
+    },
+    {
+      "name": "ControlD",
+      "url": "https://freedns.controld.com/p0",
+      "ips": [
+        "76.76.2.0",
+        "76.76.10.0"
       ]
     }
   ],
