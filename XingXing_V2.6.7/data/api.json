@@ -347,15 +347,6 @@
       "genre": "music"
     },
     {
-      "name": "📁本地┃我的",
-      "key": "MyLocal",
-      "type": 3,
-      "api": "csp_MyLocalAmns",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
       "name": "🛴推送┃播放",
       "key": "push_agent",
       "type": 3,
