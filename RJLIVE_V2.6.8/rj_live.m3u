@@ -1608,6 +1608,594 @@ http://38.75.136.137:98/gslb/dsdqpub/lbcl.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="林正英影院" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="经典轮播",林正英影院
 http://38.75.136.137:98/gslb/dsdqpub/lblzy.m3u8?auth=testpub
 
+#EXTINF:-1 tvg-name="中央电视塔东" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",中央电视塔东
+https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+#EXTINF:-1 tvg-name="中央电视塔南" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",中央电视塔南
+https://gcalic.v.myalicdn.com/gc/ztn_1/index.m3u8
+#EXTINF:-1 tvg-name="丽江古城万古楼遥望玉龙雪山" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",丽江古城万古楼遥望玉龙雪山
+https://gcalic.v.myalicdn.com/gc/ljgcwglytylxs_1/index.m3u8
+#EXTINF:-1 tvg-name="丽江古城大水车" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",丽江古城大水车
+https://gcalic.v.myalicdn.com/gc/ljgcdsc_1/index.m3u8
+#EXTINF:-1 tvg-name="丽江古城大研花巷观景" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",丽江古城大研花巷观景
+https://gcalic.v.myalicdn.com/gc/ljgcdyhxgjt_1/index.m3u8
+#EXTINF:-1 tvg-name="乌镇全景" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",乌镇全景
+https://gcalic.v.myalicdn.com/gc/zjwzblt_1/index.m3u8
+#EXTINF:-1 tvg-name="乌镇蓝印花布" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",乌镇蓝印花布
+https://gcalic.v.myalicdn.com/gc/zjwzlyhb_1/index.m3u8
+#EXTINF:-1 tvg-name="乌镇西市河" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",乌镇西市河
+https://gcalic.v.myalicdn.com/gc/zjwzbblh_1/index.m3u8
+#EXTINF:-1 tvg-name="乌镇龙形田" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",乌镇龙形田
+https://gcalic.v.myalicdn.com/gc/zjwzlxt_1/index.m3u8
+#EXTINF:-1 tvg-name="乐山大佛全景" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",乐山大佛全景
+https://gcalic.v.myalicdn.com/gc/lsdfgfl_1/index.m3u8
+#EXTINF:-1 tvg-name="云南丽江冰川" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",云南丽江冰川
+https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
+#EXTINF:-1 tvg-name="云南丽江印象实景" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",云南丽江印象实景
+https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
+#EXTINF:-1 tvg-name="云南丽江玉龙雪山" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",云南丽江玉龙雪山
+https://gcalic.v.myalicdn.com/gc/ylxs11_1/index.m3u8
+#EXTINF:-1 tvg-name="云南丽江玉龙雪山草甸" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",云南丽江玉龙雪山草甸
+https://gcalic.v.myalicdn.com/gc/hkylxs06_1/index.m3u8
+#EXTINF:-1 tvg-name="云南丽江蓝月谷" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",云南丽江蓝月谷
+https://gcalic.v.myalicdn.com/gc/ylxs12_1/index.m3u8
+#EXTINF:-1 tvg-name="云南大理崇圣寺三塔中景" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",云南大理崇圣寺三塔中景
+https://gcalic.v.myalicdn.com/gc/dlst03_1/index.m3u8
+#EXTINF:-1 tvg-name="云南大理崇圣寺三塔远景" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",云南大理崇圣寺三塔远景
+https://gcalic.v.myalicdn.com/gc/dlst01_1/index.m3u8
+#EXTINF:-1 tvg-name="云南白沙远眺玉龙雪山" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",云南白沙远眺玉龙雪山
+https://gcalic.v.myalicdn.com/gc/hkylxs03_1/index.m3u8
+#EXTINF:-1 tvg-name="五彩池" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",五彩池
+https://gcalic.v.myalicdn.com/gc/hlwcc_1/index.m3u8
+#EXTINF:-1 tvg-name="八里沟风景区天界山玻璃栈道" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",八里沟风景区天界山玻璃栈道
+https://gcalic.v.myalicdn.com/gc/blg03_1/index.m3u8
+#EXTINF:-1 tvg-name="八里沟风景区桃花湾瀑布" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",八里沟风景区桃花湾瀑布
+https://gcalic.v.myalicdn.com/gc/blg05_1/index.m3u8
+#EXTINF:-1 tvg-name="六盘山红军长征景区" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",六盘山红军长征景区
+https://gcalic.v.myalicdn.com/gc/lpsgmjng01_1/index.m3u8
+#EXTINF:-1 tvg-name="厦门鼓浪屿" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",厦门鼓浪屿
+https://gcalic.v.myalicdn.com/gc/gly01_1/index.m3u8
+#EXTINF:-1 tvg-name="四川四姑娘山隆珠措" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",四川四姑娘山隆珠措
+https://gcalic.v.myalicdn.com/gc/sgns02_1/index.m3u8
+#EXTINF:-1 tvg-name="四川峨眉山云海日出" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",四川峨眉山云海日出
+https://gcalic.v.myalicdn.com/gc/emsarm_1/index.m3u8
+#EXTINF:-1 tvg-name="四川峨眉山普贤菩萨铜像" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",四川峨眉山普贤菩萨铜像
+https://gcalic.v.myalicdn.com/gc/emspxps_1/index.m3u8
+#EXTINF:-1 tvg-name="四川峨眉山远眺万佛顶" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",四川峨眉山远眺万佛顶
+https://gcalic.v.myalicdn.com/gc/emswfs_1/index.m3u8
+#EXTINF:-1 tvg-name="四川峨眉山远眺贡嘎雪山" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",四川峨眉山远眺贡嘎雪山
+https://gcalic.v.myalicdn.com/gc/emsyh_1/index.m3u8
+#EXTINF:-1 tvg-name="天涯石" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",天涯石
+https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8
+#EXTINF:-1 tvg-name="安徽池州九华山风景区九华山" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",安徽池州九华山风景区九华山
+https://gcalic.v.myalicdn.com/gc/jhs05_1/index.m3u8
+#EXTINF:-1 tvg-name="安徽黟县芦村远眺" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",安徽黟县芦村远眺
+https://gcalic.v.myalicdn.com/gc/yxlcyt_1/index.m3u8
+#EXTINF:-1 tvg-name="安徽黟县西递牌坊" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",安徽黟县西递牌坊
+https://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8
+#EXTINF:-1 tvg-name="广西桂林漓江景区" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",广西桂林漓江景区
+https://gcalic.v.myalicdn.com/gc/gllj01_1/index.m3u8
+#EXTINF:-1 tvg-name="广西玉林大容山莲花山顶" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",广西玉林大容山莲花山顶
+https://gcalic.v.myalicdn.com/gc/drs01_1/index.m3u8
+#EXTINF:-1 tvg-name="张掖七彩丹霞" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",张掖七彩丹霞
+https://gcalic.v.myalicdn.com/gc/zyqcdx01_1/index.m3u8
+#EXTINF:-1 tvg-name="恒山悬空寺全景" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",恒山悬空寺全景
+https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
+#EXTINF:-1 tvg-name="新疆天山" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",新疆天山
+http://gctxyc.liveplay.myqcloud.com/gc/xjtcdhsz_1/index.m3u8
+#EXTINF:-1 tvg-name="普陀山" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",普陀山
+https://gcalic.v.myalicdn.com/gc/pts01_1/index.m3u8
+#EXTINF:-1 tvg-name="月牙泉" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",月牙泉
+https://gcalic.v.myalicdn.com/gc/dhyyqsm_1/index.m3u8
+#EXTINF:-1 tvg-name="望乡台" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",望乡台
+https://gcalic.v.myalicdn.com/gc/hlwxt_1/index.m3u8
+#EXTINF:-1 tvg-name="江苏南京牛首山" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",江苏南京牛首山
+https://gcalic.v.myalicdn.com/gc/nss01_1/index.m3u8
+#EXTINF:-1 tvg-name="江苏徐州云龙湖风景区云龙山观景台西" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",江苏徐州云龙湖风景区云龙山观景台西
+https://gcalic.v.myalicdn.com/gc/ylh04_1/index.m3u8
+#EXTINF:-1 tvg-name="泰山主峰" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",泰山主峰
+https://gcalic.v.myalicdn.com/gc/taishan01_1/index.m3u8
+#EXTINF:-1 tvg-name="泰山十八盘" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",泰山十八盘
+https://gcalic.v.myalicdn.com/gc/taishan05_1/index.m3u8
+#EXTINF:-1 tvg-name="泰山南天门" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",泰山南天门
+https://gcalic.v.myalicdn.com/gc/hkts07_1/index.m3u8
+#EXTINF:-1 tvg-name="泰山大观峰" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",泰山大观峰
+https://gcalic.v.myalicdn.com/gc/taishan03_1/index.m3u8
+#EXTINF:-1 tvg-name="泰山太平岭" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",泰山太平岭
+https://gcalic.v.myalicdn.com/gc/hkts09_1/index.m3u8
+#EXTINF:-1 tvg-name="泰山望人松" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",泰山望人松
+https://gcalic.v.myalicdn.com/gc/taishan02_1/index.m3u8
+#EXTINF:-1 tvg-name="泰山玉皇顶" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",泰山玉皇顶
+https://gcalic.v.myalicdn.com/gc/taishan06_1/index.m3u8
+#EXTINF:-1 tvg-name="泰山白云亭悬崖" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",泰山白云亭悬崖
+https://gcalic.v.myalicdn.com/gc/hkts02_1/index.m3u8
+#EXTINF:-1 tvg-name="泰山碧霞祠" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",泰山碧霞祠
+https://gcalic.v.myalicdn.com/gc/hkts03_1/index.m3u8
+#EXTINF:-1 tvg-name="浙江舟山东极岛" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",浙江舟山东极岛
+https://gcalic.v.myalicdn.com/gc/djd01_1/index.m3u8
+#EXTINF:-1 tvg-name="湖南张家界天门山西线玻璃栈道" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",湖南张家界天门山西线玻璃栈道
+https://gcalic.v.myalicdn.com/gc/tms05_1/index.m3u8
+#EXTINF:-1 tvg-name="湖南张家界宝峰湖" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",湖南张家界宝峰湖
+https://gcalic.v.myalicdn.com/gc/zjjbfh_1/index.m3u8
+#EXTINF:-1 tvg-name="湖南张家界御笔峰" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",湖南张家界御笔峰
+https://gcalic.v.myalicdn.com/gc/zjjybf_1/index.m3u8
+#EXTINF:-1 tvg-name="湖南张家界水绕四门" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",湖南张家界水绕四门
+https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
+#EXTINF:-1 tvg-name="狮子山鸟瞰丽江古城" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",狮子山鸟瞰丽江古城
+https://gcalic.v.myalicdn.com/gc/ljgcszsnkgc_1/index.m3u8
+#EXTINF:-1 tvg-name="福建武夷山玉女峰" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",福建武夷山玉女峰
+https://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8
+#EXTINF:-1 tvg-name="福建漳州醉美沙滩翡翠湾" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",福建漳州醉美沙滩翡翠湾
+https://gcalic.v.myalicdn.com/gc/fcw03_1/index.m3u8
+#EXTINF:-1 tvg-name="贵州省兴义市万峰林" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",贵州省兴义市万峰林
+https://gcalic.v.myalicdn.com/gc/xywfl_1/index.m3u8
+#EXTINF:-1 tvg-name="都江堰鱼嘴" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",都江堰鱼嘴
+https://gcalic.v.myalicdn.com/gc/djyqyl1_1/index.m3u8
+#EXTINF:-1 tvg-name="陕西洋县国宝朱鹮02" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",陕西洋县国宝朱鹮02
+https://gcalic.v.myalicdn.com/gc/zh02_1/index.m3u8
+#EXTINF:-1 tvg-name="雪乡大石碑" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",雪乡大石碑
+https://gcalic.v.myalicdn.com/gc/mdjxxdsb_1/index.m3u8
+#EXTINF:-1 tvg-name="雪乡梦幻家园" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",雪乡梦幻家园
+https://gcalic.v.myalicdn.com/gc/mdjxxmhjyxj_1/index.m3u8
+#EXTINF:-1 tvg-name="青岛崂山八水河" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",青岛崂山八水河
+https://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8
+#EXTINF:-1 tvg-name="青岛崂山双福" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",青岛崂山双福
+https://gcalic.v.myalicdn.com/gc/qdls03_1/index.m3u8
+#EXTINF:-1 tvg-name="鸣沙山" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",鸣沙山
+https://gcalic.v.myalicdn.com/gc/dhyyqst_1/index.m3u8
+#EXTINF:-1 tvg-name="黄山" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",黄山
+https://gcalic.v.myalicdn.com/gc/ahhs01_1/index.m3u8
+#EXTINF:-1 tvg-name="黄山始信新道" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",黄山始信新道
+https://gcalic.v.myalicdn.com/gc/hsyg_1/index.m3u8
+#EXTINF:-1 tvg-name="黄山排云亭" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",黄山排云亭
+https://gcalic.v.myalicdn.com/gc/hspyt_1/index.m3u8
+#EXTINF:-1 tvg-name="黄山飞来石" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",黄山飞来石
+https://gcalic.v.myalicdn.com/gc/hsptgy_1/index.m3u8
+#EXTINF:-1 tvg-name="黄果树六角亭瀑布" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",黄果树六角亭瀑布
+https://gcalic.v.myalicdn.com/gc/hgsspzxdpb_1/index.m3u8
+#EXTINF:-1 tvg-name="黄花城水长城01" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",黄花城水长城01
+https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8
+#EXTINF:-1 tvg-name="黄花城水长城02" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",黄花城水长城02
+http://gctxyc.liveplay.myqcloud.com/gc/wgw02_1/index.m3u8
+#EXTINF:-1 tvg-name="黄花城水长城03" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",黄花城水长城03
+https://gcalic.v.myalicdn.com/gc/wgw03_1/index.m3u8
+#EXTINF:-1 tvg-name="黄龙" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="直播中国",黄龙
+https://gcalic.v.myalicdn.com/gc/hlzycc_1/index.m3u8
+
+#EXTINF:-1 tvg-name="英语资讯广播" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",英语资讯广播
+http://115.29.208.41:30001/ytfm.php?id=734
+#EXTINF:-1 tvg-name="北京新闻广播" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",北京新闻广播
+http://115.29.208.41:30001/ytfm.php?id=353
+#EXTINF:-1 tvg-name="北京交通广播" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",北京交通广播
+http://115.29.208.41:30001/ytfm.php?id=354
+#EXTINF:-1 tvg-name="北京文艺广播" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",北京文艺广播
+http://115.29.208.41:30001/ytfm.php?id=355
+#EXTINF:-1 tvg-name="北京音乐广播" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",北京音乐广播
+http://115.29.208.41:30001/qtfm.php?id=332
+#EXTINF:-1 tvg-name="北京城市广播" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",北京城市广播
+http://115.29.208.41:30001/ytfm.php?id=357
+#EXTINF:-1 tvg-name="北京体育广播" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",北京体育广播
+http://115.29.208.41:30001/ytfm.php?id=359
+#EXTINF:-1 tvg-name="京津冀之声" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",京津冀之声
+http://115.29.208.41:30001/ytfm.php?id=687
+#EXTINF:-1 tvg-name="北京959年代音乐" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",北京959年代音乐
+http://115.29.208.41:30001/qtfm.php?id=5021381
+#EXTINF:-1 tvg-name="1079音乐有话说" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",1079音乐有话说
+http://115.29.208.41:30001/qtfm.php?id=20211619
+#EXTINF:-1 tvg-name="流行音乐广播999正青春" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",流行音乐广播999正青春
+http://115.29.208.41:30001/qtfm.php?id=20211620
+#EXTINF:-1 tvg-name="延庆广播电台" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",延庆广播电台
+http://115.29.208.41:30001/rft.php?id=bjyq
+#EXTINF:-1 tvg-name="东方卫视伴音" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",东方卫视伴音
+https://satellitepull.cnr.cn/live/wx32dfws/playlist.m3u8
+#EXTINF:-1 tvg-name="上海第一财经广播" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",上海第一财经广播
+http://115.29.208.41:30001/ytfm.php?id=370
+#EXTINF:-1 tvg-name="第一财经伴音" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",第一财经伴音
+https://a1live.livecdn.yicai.com/live/radio_tv.m3u8
+#EXTINF:-1 tvg-name="长三角之声" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",长三角之声
+http://115.29.208.41:30001/ytfm.php?id=843
+#EXTINF:-1 tvg-name="经典947" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",经典947
+http://115.29.208.41:30001/ytfm.php?id=1316
+#EXTINF:-1 tvg-name="上海交通广播" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",上海交通广播
+http://115.29.208.41:30001/ytfm.php?id=1312
+#EXTINF:-1 tvg-name="上海戏曲广播" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",上海戏曲广播
+http://115.29.208.41:30001/ytfm.php?id=1314
+#EXTINF:-1 tvg-name="上海新闻广播" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",上海新闻广播
+http://115.29.208.41:30001/ytfm.php?id=849
+#EXTINF:-1 tvg-name="沸点100-MIX" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",沸点100-MIX
+http://115.29.208.41:30001/qtfm.php?id=5022341
+#EXTINF:-1 tvg-name="东上海之声" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",东上海之声
+http://115.29.208.41:30001/qtfm.php?id=21355
+#EXTINF:-1 tvg-name="崇明电台" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",崇明电台
+http://115.29.208.41:30001/ajmd.php?id=2130
+#EXTINF:-1 tvg-name="大兴电台" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",大兴电台
+http://115.29.208.41:30001/ytfm.php?id=1255
+#EXTINF:-1 tvg-name="顺义电台" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",顺义电台
+https://livesy.chinamcache.com/live/gb01.m3u8
+#EXTINF:-1 tvg-name="房山969" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",房山969
+http://115.29.208.41:30001/bjfs.php?id=1
+#EXTINF:-1 tvg-name="房山107" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",房山107
+http://115.29.208.41:30001/bjfs.php?id=2
+#EXTINF:-1 tvg-name="昌平广播电台" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",昌平广播电台
+http://115.29.208.41:30001/gdy.php?id=bj-cp
+#EXTINF:-1 tvg-name="平谷广播电台" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",平谷广播电台
+https://live-cps.beijingcloud.com.cn/live/6017A86.m3u8?auth_key=1946704017-0-0-e690155b38d11298854ccac5852bbe4b
+#EXTINF:-1 tvg-name="怀柔广播电台" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",怀柔广播电台
+http://115.29.208.41:30001/bjhr.php?id=2
+#EXTINF:-1 tvg-name="金山电台" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",金山电台
+http://115.29.208.41:30001/qtfm.php?id=4022
+#EXTINF:-1 tvg-name="闵行电台" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",闵行电台
+http://115.29.208.41:30001/ajmd.php?id=1614
+#EXTINF:-1 tvg-name="奉贤电台阳光959" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",奉贤电台阳光959
+http://115.29.208.41:30001/ajmd.php?id=1472
+#EXTINF:-1 tvg-name="松江电台" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",松江电台
+http://115.29.208.41:30001/ajmd.php?id=2866
+#EXTINF:-1 tvg-name="嘉定电台" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",嘉定电台
+http://115.29.208.41:30001/ajmd.php?id=1483
+#EXTINF:-1 tvg-name="500首华语经典" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",500首华语经典
+http://ls.qingting.fm/live/3412131.m3u8?bitrate=64
+#EXTINF:-1 tvg-name="楚天音乐广播 FM105.8 (Opt-1)[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",楚天音乐广播 FM105.8 (Opt-1)[0*0]
+http://ls.qingting.fm/live/1289.m3u8
+#EXTINF:-1 tvg-name="楚天交通广播 FM92.7[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",楚天交通广播 FM92.7[0*0]
+http://ls.qingting.fm/live/1291.m3u8
+#EXTINF:-1 tvg-name="荆门交通音乐频率 FM99.3 (Opt-2)[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",荆门交通音乐频率 FM99.3 (Opt-2)[0*0]
+http://ls.qingting.fm/live/60808.m3u8
+#EXTINF:-1 tvg-name="襄阳交通广播 FM89.0 (Opt-1)[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",襄阳交通广播 FM89.0 (Opt-1)[0*0]
+http://ls.qingting.fm/live/1307.m3u8
+#EXTINF:-1 tvg-name="襄阳交通广播 FM89.0 (Opt-2)[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",襄阳交通广播 FM89.0 (Opt-2)[0*0]
+http://ls.qingting.fm/live/1308.m3u8
+#EXTINF:-1 tvg-name="襄阳音乐广播[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",襄阳音乐广播[0*0]
+http://ls.qingting.fm/live/5057.m3u8
+#EXTINF:-1 tvg-name="北京房山经典音乐 FM96.90*0][0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",北京房山经典音乐 FM96.90*0][0*0]
+http://live.xmcdn.com/live/963/64.m3u8
+#EXTINF:-1 tvg-name="北京房山经典音乐 FM96.90*0][0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",北京房山经典音乐 FM96.90*0][0*0]
+http://ls.qingting.fm/live/68746.m3u8
+#EXTINF:-1 tvg-name="北京房山经典音乐 FM96.90*0][0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",北京房山经典音乐 FM96.90*0][0*0]
+http://ls.qingting.fm/live/68746.m3u8
+#EXTINF:-1 tvg-name="重庆新闻广播 FM96.80*0][0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",重庆新闻广播 FM96.80*0][0*0]
+http://live.xmcdn.com/live/128/64.m3u8
+#EXTINF:-1 tvg-name="重庆新闻广播 FM96.80*0][0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",重庆新闻广播 FM96.80*0][0*0]
+http://ls.qingting.fm/live/1498.m3u8
+#EXTINF:-1 tvg-name="重庆经济广播 FM101.50*0][0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",重庆经济广播 FM101.50*0][0*0]
+http://ls.qingting.fm/live/1499.m3u8
+#EXTINF:-1 tvg-name="重庆经济广播 FM101.50*0][0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",重庆经济广播 FM101.50*0][0*0]
+http://ls.qingting.fm/live/1499.m3u8
+#EXTINF:-1 tvg-name="重庆交通广播 FM95.50*0][0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",重庆交通广播 FM95.50*0][0*0]
+http://live.xmcdn.com/live/130/64.m3u8
+#EXTINF:-1 tvg-name="重庆交通广播 FM95.50*0][0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",重庆交通广播 FM95.50*0][0*0]
+http://ls.qingting.fm/live/1500.m3u8
+#EXTINF:-1 tvg-name="重庆交通广播 FM95.50*0][0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",重庆交通广播 FM95.50*0][0*0]
+http://ls.qingting.fm/live/1500.m3u8
+#EXTINF:-1 tvg-name="重庆音乐广播 FM88.10*0][0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",重庆音乐广播 FM88.10*0][0*0]
+http://live.xmcdn.com/live/131/64.m3u8
+#EXTINF:-1 tvg-name="重庆音乐广播 FM88.10*0][0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",重庆音乐广播 FM88.10*0][0*0]
+http://ls.qingting.fm/live/647.m3u8
+#EXTINF:-1 tvg-name="重庆音乐广播 FM88.10*0][0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",重庆音乐广播 FM88.10*0][0*0]
+http://ls.qingting.fm/live/647.m3u8
+#EXTINF:-1 tvg-name="重庆都市广播 FM93.80*0][0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",重庆都市广播 FM93.80*0][0*0]
+http://live.xmcdn.com/live/132/64.m3u8
+#EXTINF:-1 tvg-name="重庆都市广播 FM93.80*0][0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",重庆都市广播 FM93.80*0][0*0]
+http://ls.qingting.fm/live/1502.m3u8
+#EXTINF:-1 tvg-name="重庆都市广播 FM93.80*0][0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",重庆都市广播 FM93.80*0][0*0]
+http://ls.qingting.fm/live/1502.m3u8
+#EXTINF:-1 tvg-name="巴渝之声 FM104.50*0][0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",巴渝之声 FM104.50*0][0*0]
+http://ls.qingting.fm/live/3545693.m3u8
+#EXTINF:-1 tvg-name="万州交通广播0*0][0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",万州交通广播0*0][0*0]
+http://live.xmcdn.com/live/1679/64.m3u8
+#EXTINF:-1 tvg-name="厦门音乐广播0*0][0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",厦门音乐广播0*0][0*0]
+http://ls.qingting.fm/live/1739.m3u8
+#EXTINF:-1 tvg-name="厦门音乐广播0*0][0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",厦门音乐广播0*0][0*0]
+http://ls.qingting.fm/live/1739.m3u8
+#EXTINF:-1 tvg-name="厦门新闻广播0*0][0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",厦门新闻广播0*0][0*0]
+http://ls.qingting.fm/live/1737.m3u8
+#EXTINF:-1 tvg-name="厦门新闻广播0*0][0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",厦门新闻广播0*0][0*0]
+http://ls.qingting.fm/live/1737.m3u8
+#EXTINF:-1 tvg-name="兰州新闻综合广播 FM97.30*0][0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",兰州新闻综合广播 FM97.30*0][0*0]
+http://ls.qingting.fm/live/1712.m3u8
+#EXTINF:-1 tvg-name="兰州新闻综合广播 FM97.30*0][0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",兰州新闻综合广播 FM97.30*0][0*0]
+http://ls.qingting.fm/live/1712.m3u8
+#EXTINF:-1 tvg-name="兰州交通音乐广播 FM99.50*0][0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",兰州交通音乐广播 FM99.50*0][0*0]
+http://ls.qingting.fm/live/1711.m3u8
+#EXTINF:-1 tvg-name="兰州生活文艺广播 FM100.80*0][0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",兰州生活文艺广播 FM100.80*0][0*0]
+http://ls.qingting.fm/live/1713.m3u8
+#EXTINF:-1 tvg-name="广州新闻电台 FM96.20*0][0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",广州新闻电台 FM96.20*0][0*0]
+http://live.xmcdn.com/live/256/64.m3u8
+#EXTINF:-1 tvg-name="广州新闻电台 FM96.20*0][0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",广州新闻电台 FM96.20*0][0*0]
+http://ls.qingting.fm/live/4848.m3u8
+#EXTINF:-1 tvg-name="广州新闻电台 FM96.20*0][0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",广州新闻电台 FM96.20*0][0*0]
+http://ls.qingting.fm/live/4848.m3u8
+#EXTINF:-1 tvg-name="广州汽车音乐电台 FM102.70*0][0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",广州汽车音乐电台 FM102.70*0][0*0]
+http://live.xmcdn.com/live/257/64.m3u8
+#EXTINF:-1 tvg-name="广州汽车音乐电台 FM102.70*0][0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",广州汽车音乐电台 FM102.70*0][0*0]
+http://ls.qingting.fm/live/52710.m3u8
+#EXTINF:-1 tvg-name="广州汽车音乐电台 FM102.70*0][0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",广州汽车音乐电台 FM102.70*0][0*0]
+http://ls.qingting.fm/live/52710.m3u8
+#EXTINF:-1 tvg-name="广州交通电台 FM106.10*0][0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",广州交通电台 FM106.10*0][0*0]
+http://ls.qingting.fm/live/4955.m3u8
+#EXTINF:-1 tvg-name="广州 MYFM 88.0 (都市生活)0*0][0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",广州 MYFM 88.0 (都市生活)0*0][0*0]
+http://ls.qingting.fm/live/52712.m3u8
+#EXTINF:-1 tvg-name="东广新闻台 FM90.9[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",东广新闻台 FM90.9[0*0]
+http://ls.qingting.fm/live/275.m3u8
+#EXTINF:-1 tvg-name="东莞FM104音乐广播[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",东莞FM104音乐广播[0*0]
+http://ls.qingting.fm/live/93619.m3u8
+#EXTINF:-1 tvg-name="东莞畅享1075交通广播[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",东莞畅享1075交通广播[0*0]
+http://ls.qingting.fm/live/1288.m3u8
+#EXTINF:-1 tvg-name="九江交通广播 FM88.4 FM88.9[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",九江交通广播 FM88.4 FM88.9[0*0]
+http://ls.qingting.fm/live/2785094.m3u8
+#EXTINF:-1 tvg-name="云南交通广播 FM91.8[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",云南交通广播 FM91.8[0*0]
+http://ls.qingting.fm/live/1928.m3u8
+#EXTINF:-1 tvg-name="云南教育广播 FM100[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",云南教育广播 FM100[0*0]
+http://ls.qingting.fm/live/1930.m3u8
+#EXTINF:-1 tvg-name="云南新闻广播 FM105.8[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",云南新闻广播 FM105.8[0*0]
+http://ls.qingting.fm/live/1926.m3u8
+#EXTINF:-1 tvg-name="云南民族广播 SW7210[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",云南民族广播 SW7210[0*0]
+http://ls.qingting.fm/live/1933.m3u8
+#EXTINF:-1 tvg-name="云南经济广播 私家车 FM88.7[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",云南经济广播 私家车 FM88.7[0*0]
+http://ls.qingting.fm/live/1927.m3u8
+#EXTINF:-1 tvg-name="云南音乐广播 FM97[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",云南音乐广播 FM97[0*0]
+http://ls.qingting.fm/live/1929.m3u8
+#EXTINF:-1 tvg-name="保定交通广播 FM104.8[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",保定交通广播 FM104.8[0*0]
+http://ls.qingting.fm/live/28140.m3u8
+#EXTINF:-1 tvg-name="保定城市服务广播 乐动1016[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",保定城市服务广播 乐动1016[0*0]
+http://ls.qingting.fm/live/62628.m3u8
+#EXTINF:-1 tvg-name="保定新闻广播 FM93.7[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",保定新闻广播 FM93.7[0*0]
+http://ls.qingting.fm/live/3701149.m3u8
+#EXTINF:-1 tvg-name="保定经典964汽车音乐广播[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",保定经典964汽车音乐广播[0*0]
+http://ls.qingting.fm/live/2227017.m3u8
+#EXTINF:-1 tvg-name="南宁交通音乐广播 FM107.4[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",南宁交通音乐广播 FM107.4[0*0]
+http://ls.qingting.fm/live/80793.m3u8?aac
+#EXTINF:-1 tvg-name="南通交通广播 FM92.9[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",南通交通广播 FM92.9[0*0]
+http://ls.qingting.fm/live/2216385.m3u8
+#EXTINF:-1 tvg-name="呼和浩特城市生活广播 FM90.1[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",呼和浩特城市生活广播 FM90.1[0*0]
+http://ls.qingting.fm/live/2218717.m3u8
+#EXTINF:-1 tvg-name="呼和浩特文艺广播 FM99.8[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",呼和浩特文艺广播 FM99.8[0*0]
+http://ls.qingting.fm/live/3099076.m3u8
+#EXTINF:-1 tvg-name="呼和浩特新闻综合广播 FM92.9[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",呼和浩特新闻综合广播 FM92.9[0*0]
+http://ls.qingting.fm/live/2218711.m3u8
+#EXTINF:-1 tvg-name="咸阳城市之声 FM100.7[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",咸阳城市之声 FM100.7[0*0]
+http://ls.qingting.fm/live/3559664.m3u8
+#EXTINF:-1 tvg-name="四川文艺广播 快乐900 FM90.0[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",四川文艺广播 快乐900 FM90.0[0*0]
+http://ls.qingting.fm/live/4887.m3u8
+#EXTINF:-1 tvg-name="四川新闻综合广播 FM98.1[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",四川新闻综合广播 FM98.1[0*0]
+http://ls.qingting.fm/live/4906.m3u8
+#EXTINF:-1 tvg-name="四川民族广播 AM954[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",四川民族广播 AM954[0*0]
+http://ls.qingting.fm/live/1115.m3u8
+#EXTINF:-1 tvg-name="四川私家车广播 FM92.5[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",四川私家车广播 FM92.5[0*0]
+http://ls.qingting.fm/live/4939.m3u8
+#EXTINF:-1 tvg-name="四川财富广播 FM94.0[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",四川财富广播 FM94.0[0*0]
+http://ls.qingting.fm/live/4927.m3u8
+#EXTINF:-1 tvg-name="太原交通广播 FM107[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",太原交通广播 FM107[0*0]
+http://ls.qingting.fm/live/4900.m3u8
+#EXTINF:-1 tvg-name="太原新闻广播 FM91.2[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",太原新闻广播 FM91.2[0*0]
+http://ls.qingting.fm/live/23873.m3u8
+#EXTINF:-1 tvg-name="太原私家车Radio FM104.4[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",太原私家车Radio FM104.4[0*0]
+http://ls.qingting.fm/live/4018.m3u8
+#EXTINF:-1 tvg-name="太原音乐广播 FM102.6[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",太原音乐广播 FM102.6[0*0]
+http://ls.qingting.fm/live/1185.m3u8
+#EXTINF:-1 tvg-name="宁夏交通广播 FM98.4[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",宁夏交通广播 FM98.4[0*0]
+http://ls.qingting.fm/live/1840.m3u8
+#EXTINF:-1 tvg-name="宁夏都市广播 FM103.7[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",宁夏都市广播 FM103.7[0*0]
+http://ls.qingting.fm/live/1842.m3u8
+#EXTINF:-1 tvg-name="山东体育广播 FM102.1[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",山东体育广播 FM102.1[0*0]
+http://ls.qingting.fm/live/60266.m3u8
+#EXTINF:-1 tvg-name="山东女主播电台 FM97.5[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",山东女主播电台 FM97.5[0*0]
+http://ls.qingting.fm/live/60258.m3u8
+#EXTINF:-1 tvg-name="山东新闻广播 FM95[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",山东新闻广播 FM95[0*0]
+http://ls.qingting.fm/live/60180.m3u8
+#EXTINF:-1 tvg-name="山东生活广播 MyFM FM105[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",山东生活广播 MyFM FM105[0*0]
+http://ls.qingting.fm/live/60260.m3u8
+#EXTINF:-1 tvg-name="山东音乐广播 FM99.1[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",山东音乐广播 FM99.1[0*0]
+http://ls.qingting.fm/live/1665.m3u8
+#EXTINF:-1 tvg-name="岳阳交通广播 FM106.1[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",岳阳交通广播 FM106.1[0*0]
+http://ls.qingting.fm/live/88931.m3u8
+#EXTINF:-1 tvg-name="岳阳新闻综合广播[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",岳阳新闻综合广播[0*0]
+http://ls.qingting.fm/live/88933.m3u8
+#EXTINF:-1 tvg-name="常州交通广播 FM90[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",常州交通广播 FM90[0*0]
+http://ls.qingting.fm/live/2796.m3u8
+#EXTINF:-1 tvg-name="广西女主播电台 FM97.0[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",广西女主播电台 FM97.0[0*0]
+http://ls.qingting.fm/live/1754.m3u8
+#EXTINF:-1 tvg-name="广西新闻910 FM91.0[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",广西新闻910 FM91.0[0*0]
+http://ls.qingting.fm/live/1753.m3u8
+#EXTINF:-1 tvg-name="广西私家车930 FM93.0[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",广西私家车930 FM93.0[0*0]
+http://ls.qingting.fm/live/1756.m3u8
+#EXTINF:-1 tvg-name="广西音乐台 FM95.0[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",广西音乐台 FM95.0[0*0]
+http://ls.qingting.fm/live/4875.m3u8
+#EXTINF:-1 tvg-name="惠州新闻综合广播 FM100[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",惠州新闻综合广播 FM100[0*0]
+http://ls.qingting.fm/live/5016.m3u8
+#EXTINF:-1 tvg-name="惠州环保交通广播 FM98.8[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",惠州环保交通广播 FM98.8[0*0]
+http://ls.qingting.fm/live/5017.m3u8
+#EXTINF:-1 tvg-name="惠州音乐广播 FM90.7[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",惠州音乐广播 FM90.7[0*0]
+http://ls.qingting.fm/live/2212959.m3u8
+#EXTINF:-1 tvg-name="新疆交通广播 FM94.9 (Opt-2)[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",新疆交通广播 FM94.9 (Opt-2)[0*0]
+http://ls.qingting.fm/live/1910.m3u8
+#EXTINF:-1 tvg-name="新疆新闻广播 FM96.1 (Opt-1)[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",新疆新闻广播 FM96.1 (Opt-1)[0*0]
+http://ls.qingting.fm/live/1902.m3u8
+#EXTINF:-1 tvg-name="新疆民生广播 FM92.4 (Opt-2)[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",新疆民生广播 FM92.4 (Opt-2)[0*0]
+http://ls.qingting.fm/live/76186.m3u8
+#EXTINF:-1 tvg-name="新疆维吾尔语交通文艺广播 (Opt-2)[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",新疆维吾尔语交通文艺广播 (Opt-2)[0*0]
+http://ls.qingting.fm/live/78923.m3u8
+#EXTINF:-1 tvg-name="新疆蒙古语广播 (Opt-1)[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",新疆蒙古语广播 (Opt-1)[0*0]
+http://ls.qingting.fm/live/1903.m3u8
+#EXTINF:-1 tvg-name="无锡新闻广播 FM93.7[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",无锡新闻广播 FM93.7[0*0]
+http://ls.qingting.fm/live/2777.m3u8
+#EXTINF:-1 tvg-name="昆明汽车广播 FM95.4[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",昆明汽车广播 FM95.4[0*0]
+http://ls.qingting.fm/live/1936.m3u8
+#EXTINF:-1 tvg-name="昆明资讯频率[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",昆明资讯频率[0*0]
+http://ls.qingting.fm/live/1937.m3u8
+#EXTINF:-1 tvg-name="昆明都市调频 FM102.8[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",昆明都市调频 FM102.8[0*0]
+http://ls.qingting.fm/live/1935.m3u8
+#EXTINF:-1 tvg-name="昆明阳光广播[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",昆明阳光广播[0*0]
+http://ls.qingting.fm/live/1934.m3u8
+#EXTINF:-1 tvg-name="梅州交通广播 FM105.8[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",梅州交通广播 FM105.8[0*0]
+http://ls.qingting.fm/live/24195.m3u8
+#EXTINF:-1 tvg-name="梅州新闻广播 FM94.8[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",梅州新闻广播 FM94.8[0*0]
+http://ls.qingting.fm/live/24173.m3u8
+#EXTINF:-1 tvg-name="江苏新闻广播 FM93.7[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",江苏新闻广播 FM93.7[0*0]
+http://ls.qingting.fm/live/4944.m3u8
+#EXTINF:-1 tvg-name="沈阳新闻广播 FM104.5[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",沈阳新闻广播 FM104.5[0*0]
+http://ls.qingting.fm/live/23891.m3u8
+#EXTINF:-1 tvg-name="河北 My FM 102.9[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",河北 My FM 102.9[0*0]
+http://ls.qingting.fm/live/2508757.m3u8
+#EXTINF:-1 tvg-name="河北交通广播 FM99.2[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",河北交通广播 FM99.2[0*0]
+http://ls.qingting.fm/live/1646.m3u8
+#EXTINF:-1 tvg-name="河北农民广播 AM558[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",河北农民广播 AM558[0*0]
+http://ls.qingting.fm/live/1650.m3u8
+#EXTINF:-1 tvg-name="河北故事广播 FM107.9[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",河北故事广播 FM107.9[0*0]
+http://ls.qingting.fm/live/1645.m3u8
+#EXTINF:-1 tvg-name="河北新闻广播 FM104.3[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",河北新闻广播 FM104.3[0*0]
+http://ls.qingting.fm/live/1644.m3u8
+#EXTINF:-1 tvg-name="河北旅游广播 AM603[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",河北旅游广播 AM603[0*0]
+http://ls.qingting.fm/live/1651.m3u8
+#EXTINF:-1 tvg-name="河北生活广播 FM88.8[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",河北生活广播 FM88.8[0*0]
+http://ls.qingting.fm/live/4867.m3u8
+#EXTINF:-1 tvg-name="河北私家车广播 FM90.7[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",河北私家车广播 FM90.7[0*0]
+http://ls.qingting.fm/live/4868.m3u8
+#EXTINF:-1 tvg-name="河北音乐广播 FM102.4[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",河北音乐广播 FM102.4[0*0]
+http://ls.qingting.fm/live/1649.m3u8
+#EXTINF:-1 tvg-name="河南乐龄(信息广播) FM105.6[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",河南乐龄(信息广播) FM105.6[0*0]
+http://ls.qingting.fm/live/59896.m3u8
+#EXTINF:-1 tvg-name="河南交通广播 FM104.1[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",河南交通广播 FM104.1[0*0]
+http://ls.qingting.fm/live/1209.m3u8
+#EXTINF:-1 tvg-name="河南娱乐广播 FM97.6[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",河南娱乐广播 FM97.6[0*0]
+http://ls.qingting.fm/live/1719795.m3u8
+#EXTINF:-1 tvg-name="河南影院广播 MyRadio FM90.0[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",河南影院广播 MyRadio FM90.0[0*0]
+http://ls.qingting.fm/live/1206.m3u8
+#EXTINF:-1 tvg-name="河南音乐广播 魅力881 FM88.1[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",河南音乐广播 魅力881 FM88.1[0*0]
+http://ls.qingting.fm/live/1208.m3u8
+#EXTINF:-1 tvg-name="河南驾车1066 FM106.6[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",河南驾车1066 FM106.6[0*0]
+http://ls.qingting.fm/live/1207.m3u8
+#EXTINF:-1 tvg-name="济南故事广播 FM104.3[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",济南故事广播 FM104.3[0*0]
+http://ls.qingting.fm/live/1672.m3u8
+#EXTINF:-1 tvg-name="济南私家车广播 FM93.6[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",济南私家车广播 FM93.6[0*0]
+http://ls.qingting.fm/live/1670.m3u8
+#EXTINF:-1 tvg-name="济南经济广播 FM90.9[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",济南经济广播 FM90.9[0*0]
+http://ls.qingting.fm/live/1668.m3u8
+#EXTINF:-1 tvg-name="济南音乐广播(MUSIC887)[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",济南音乐广播(MUSIC887)[0*0]
+http://ls.qingting.fm/live/1671.m3u8
+#EXTINF:-1 tvg-name="浙江之声 FM88 (Opt-1)[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",浙江之声 FM88 (Opt-1)[0*0]
+http://ls.qingting.fm/live/4518.m3u8
+#EXTINF:-1 tvg-name="浙江交通之声 FM93 (Opt-1)[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",浙江交通之声 FM93 (Opt-1)[0*0]
+http://ls.qingting.fm/live/4522.m3u8
+#EXTINF:-1 tvg-name="浙江动听(音乐调频) FM96.8 (Opt-2)[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",浙江动听(音乐调频) FM96.8 (Opt-2)[0*0]
+http://ls.qingting.fm/live/4866.m3u8
+#EXTINF:-1 tvg-name="浙江女主播电台 FM104.5 (Opt-2)[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",浙江女主播电台 FM104.5 (Opt-2)[0*0]
+http://ls.qingting.fm/live/4524.m3u8
+#EXTINF:-1 tvg-name="浙江财富广播 FM95 (Opt-1)[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",浙江财富广播 FM95 (Opt-1)[0*0]
+http://ls.qingting.fm/live/4519.m3u8
+#EXTINF:-1 tvg-name="海南交通广播 FM100[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",海南交通广播 FM100[0*0]
+http://ls.qingting.fm/live/4911.m3u8
+#EXTINF:-1 tvg-name="海南国际旅游之声 FM103.8[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",海南国际旅游之声 FM103.8[0*0]
+http://ls.qingting.fm/live/1862.m3u8
+#EXTINF:-1 tvg-name="海南新闻广播 FM88.6[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",海南新闻广播 FM88.6[0*0]
+http://ls.qingting.fm/live/1861.m3u8
+#EXTINF:-1 tvg-name="海南民生广播 FM101[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",海南民生广播 FM101[0*0]
+http://ls.qingting.fm/live/1511803.m3u8
+#EXTINF:-1 tvg-name="深圳快乐1062(交通广播)[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",深圳快乐1062(交通广播)[0*0]
+http://ls.qingting.fm/live/1272.m3u8
+#EXTINF:-1 tvg-name="深圳私家车广播 FM94.2[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",深圳私家车广播 FM94.2[0*0]
+http://ls.qingting.fm/live/1273.m3u8
+#EXTINF:-1 tvg-name="深圳飞扬音乐971[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",深圳飞扬音乐971[0*0]
+http://ls.qingting.fm/live/1271.m3u8
+#EXTINF:-1 tvg-name="温州交通广播 FM103.9[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",温州交通广播 FM103.9[0*0]
+http://ls.qingting.fm/live/23863.m3u8
+#EXTINF:-1 tvg-name="温州新闻广播 FM94.9[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",温州新闻广播 FM94.9[0*0]
+http://ls.qingting.fm/live/23861.m3u8
+#EXTINF:-1 tvg-name="温州私家车音乐广播 FM100.3[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",温州私家车音乐广播 FM100.3[0*0]
+http://ls.qingting.fm/live/23865.m3u8
+#EXTINF:-1 tvg-name="温州经济生活广播 FM88.8[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",温州经济生活广播 FM88.8[0*0]
+http://ls.qingting.fm/live/23867.m3u8
+#EXTINF:-1 tvg-name="温州绿色之声 FM93.8[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",温州绿色之声 FM93.8[0*0]
+http://ls.qingting.fm/live/1158.m3u8
+#EXTINF:-1 tvg-name="珠海电台交通音乐875[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",珠海电台交通音乐875[0*0]
+http://ls.qingting.fm/live/1275.m3u8
+#EXTINF:-1 tvg-name="西宁交通频率[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",西宁交通频率[0*0]
+http://ls.qingting.fm/live/3400408.m3u8
+#EXTINF:-1 tvg-name="西宁新闻频率[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",西宁新闻频率[0*0]
+http://ls.qingting.fm/live/3400403.m3u8
+#EXTINF:-1 tvg-name="西安交通广播 FM104.3 (Opt-1)[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",西安交通广播 FM104.3 (Opt-1)[0*0]
+http://ls.qingting.fm/live/1611.m3u8
+#EXTINF:-1 tvg-name="西安新闻广播 FM95.0 (Opt-1)[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",西安新闻广播 FM95.0 (Opt-1)[0*0]
+http://ls.qingting.fm/live/1610.m3u8
+#EXTINF:-1 tvg-name="西安音乐广播 FM93.1 (Opt-1)[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",西安音乐广播 FM93.1 (Opt-1)[0*0]
+http://ls.qingting.fm/live/1612.m3u8
+#EXTINF:-1 tvg-name="贵州新闻综合广播 FM94.6[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",贵州新闻综合广播 FM94.6[0*0]
+http://ls.qingting.fm/live/23933.m3u8
+#EXTINF:-1 tvg-name="贵州电台交通广播 FM95.2[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",贵州电台交通广播 FM95.2[0*0]
+http://ls.qingting.fm/live/23927.m3u8
+#EXTINF:-1 tvg-name="贵州电台旅游广播 FM97.2[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",贵州电台旅游广播 FM97.2[0*0]
+http://ls.qingting.fm/live/23929.m3u8
+#EXTINF:-1 tvg-name="贵州电台经济广播 FM98.9[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",贵州电台经济广播 FM98.9[0*0]
+http://ls.qingting.fm/live/23935.m3u8
+#EXTINF:-1 tvg-name="贵州电台音乐广播 FM91.6[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",贵州电台音乐广播 FM91.6[0*0]
+http://ls.qingting.fm/live/23937.m3u8
+#EXTINF:-1 tvg-name="辽宁交通广播 FM97.5[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",辽宁交通广播 FM97.5[0*0]
+http://ls.qingting.fm/live/23801.m3u8
+#EXTINF:-1 tvg-name="郑州新闻广播 FM98.6[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",郑州新闻广播 FM98.6[0*0]
+http://ls.qingting.fm/live/1220.m3u8
+#EXTINF:-1 tvg-name="郑州汽车广播 FM91.2[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",郑州汽车广播 FM91.2[0*0]
+http://ls.qingting.fm/live/1211.m3u8
+#EXTINF:-1 tvg-name="郑州活力944[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",郑州活力944[0*0]
+http://ls.qingting.fm/live/4921.m3u8
+#EXTINF:-1 tvg-name="郑州车道931[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",郑州车道931[0*0]
+http://ls.qingting.fm/live/1221.m3u8
+#EXTINF:-1 tvg-name="郴州综合广播 FM99.2[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",郴州综合广播 FM99.2[0*0]
+http://ls.qingting.fm/live/76765.m3u8
+#EXTINF:-1 tvg-name="郴州音乐交通广播 FM102.8[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",郴州音乐交通广播 FM102.8[0*0]
+http://ls.qingting.fm/live/86747.m3u8
+#EXTINF:-1 tvg-name="金鹰955电台[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",金鹰955电台[0*0]
+http://ls.qingting.fm/live/4937.m3u8
+#EXTINF:-1 tvg-name="长春生活故事广播 FM90.0[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",长春生活故事广播 FM90.0[0*0]
+http://ls.qingting.fm/live/5014.m3u8
+#EXTINF:-1 tvg-name="长沙城市之声 FM101.7[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",长沙城市之声 FM101.7[0*0]
+http://ls.qingting.fm/live/4237.m3u8
+#EXTINF:-1 tvg-name="长沙新闻广播 FM105.0[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",长沙新闻广播 FM105.0[0*0]
+http://ls.qingting.fm/live/4877.m3u8
+#EXTINF:-1 tvg-name="长治交通文艺广播 FM94.9[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",长治交通文艺广播 FM94.9[0*0]
+http://ls.qingting.fm/live/2669405.m3u8
+#EXTINF:-1 tvg-name="长治新闻综合广播(幸福广播) FM94.3[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",长治新闻综合广播(幸福广播) FM94.3[0*0]
+http://ls.qingting.fm/live/2702863.m3u8
+#EXTINF:-1 tvg-name="阳信人民广播电台 FM103.4[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",阳信人民广播电台 FM103.4[0*0]
+http://ls.qingting.fm/live/2915753.m3u8
+#EXTINF:-1 tvg-name="阳泉交通广播[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",阳泉交通广播[0*0]
+http://ls.qingting.fm/live/4592896.m3u8?aac
+#EXTINF:-1 tvg-name="阳泉新闻综合广播[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",阳泉新闻综合广播[0*0]
+http://ls.qingting.fm/live/5876899.m3u8?aac
+#EXTINF:-1 tvg-name="陕西交通广播 FM91.6[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",陕西交通广播 FM91.6[0*0]
+http://ls.qingting.fm/live/1601.m3u8
+#EXTINF:-1 tvg-name="陕西故事广播 AM603[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",陕西故事广播 AM603[0*0]
+http://ls.qingting.fm/live/1608.m3u8
+#EXTINF:-1 tvg-name="陕西秦腔广播 FM101.1[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",陕西秦腔广播 FM101.1[0*0]
+http://ls.qingting.fm/live/1604.m3u8
+#EXTINF:-1 tvg-name="陕西都市广播-陕广新闻 FM101.8[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",陕西都市广播-陕广新闻 FM101.8[0*0]
+http://ls.qingting.fm/live/1609.m3u8
+#EXTINF:-1 tvg-name="陕西音乐广播 FM98.8[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",陕西音乐广播 FM98.8[0*0]
+http://ls.qingting.fm/live/4873.m3u8
+#EXTINF:-1 tvg-name="青岛交通广播 FM89.7[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",青岛交通广播 FM89.7[0*0]
+http://ls.qingting.fm/live/1676.m3u8
+#EXTINF:-1 tvg-name="青岛故事广播 FM95.2[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",青岛故事广播 FM95.2[0*0]
+http://ls.qingting.fm/live/4956.m3u8
+#EXTINF:-1 tvg-name="青岛新闻广播 FM107.6[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",青岛新闻广播 FM107.6[0*0]
+http://ls.qingting.fm/live/1673.m3u8
+#EXTINF:-1 tvg-name="青岛西海岸城市生活广播 FM92.6[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",青岛西海岸城市生活广播 FM92.6[0*0]
+http://ls.qingting.fm/live/33446.m3u8
+#EXTINF:-1 tvg-name="青海交通音乐广播 FM97.2[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",青海交通音乐广播 FM97.2[0*0]
+http://ls.qingting.fm/live/5009.m3u8
+#EXTINF:-1 tvg-name="青海生活广播 花儿调频 FM90.3[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",青海生活广播 花儿调频 FM90.3[0*0]
+http://ls.qingting.fm/live/2163891.m3u8
+#EXTINF:-1 tvg-name="青海经济广播 FM07.5[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",青海经济广播 FM07.5[0*0]
+http://ls.qingting.fm/live/5008.m3u8
+#EXTINF:-1 tvg-name="鹤壁交通音乐广播 FM93.5[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",鹤壁交通音乐广播 FM93.5[0*0]
+http://ls.qingting.fm/live/3032681.m3u8
+#EXTINF:-1 tvg-name="龙广交通广播 FM99.8[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",龙广交通广播 FM99.8[0*0]
+http://ls.qingting.fm/live/4973.m3u8
+#EXTINF:-1 tvg-name="龙广新闻广播 FM94.6[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",龙广新闻广播 FM94.6[0*0]
+http://ls.qingting.fm/live/4974.m3u8
+#EXTINF:-1 tvg-name="龙广新闻广播 FM94.6[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",龙广新闻广播 FM94.6[0*0]
+http://ls.qingting.fm/live/4974.m3u8
+#EXTINF:-1 tvg-name="龙广音乐广播 FM95.8[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",龙广音乐广播 FM95.8[0*0]
+http://ls.qingting.fm/live/4969.m3u8
+#EXTINF:-1 tvg-name="龙广音乐广播 FM95.8[0*0]" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="广播电台",龙广音乐广播 FM95.8[0*0]
+http://ls.qingting.fm/live/4969.m3u8
+
 #EXTINF:-1 tvg-name="电影_警匪" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="电影轮播",电影_警匪
 http://tv.zimtv.cn/tv/player/api/huya.php?id=11352886
 #EXTINF:-1 tvg-name="电影_赛车" tvg-logo="https://gh-proxy.com/https://github.com/RJZC-LRJ/RJ/blob/main/RJLIVE_V2.6.8/logo.png" group-title="电影轮播",电影_赛车
