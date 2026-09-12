@@ -137,19 +137,6 @@
       "playerType": 2
     },
     {
-      "key": "界界搜索",
-      "name": "R.界界搜索",
-      "type": 3,
-      "api": "./py/%E7%95%8C.py",
-      "jar": "./jar/Rong/rjzc.jar",
-      "hide": 1,
-      "timeout": 10,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "playerType": 2
-    },
-    {
       "key": "资源搜索",
       "name": "R.资源搜索",
       "type": 3,
@@ -177,6 +164,21 @@
       "quickSearch": 1,
       "changeable": 1,
       "playerType": 2
+    },
+    {
+      "key": "嵘基影音",
+      "name": "R.嵘基影音",
+      "type": 3,
+      "api": "./py/%E5%B5%98%E5%9F%BA%E5%BD%B1%E9%9F%B3.py",
+      "jar": "./jar/Rong/rjzc.jar",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": 2,
+      "ext": {
+        "site": "https://www.jiabaide.cn,https://www.hkybqufgh.com,https://www.sizhengxt.com,https://www.sdzhgt.com,https://www.jiabaide.cn,https://m.9zhoukj.com,https://m.cqzuoer.com,https://www.hellosht52bwb.com"
+      }
     },
     {
       "key": "天堂影视",
@@ -341,25 +343,6 @@
         "犯罪片",
         "恐怖片",
         "动画片"
-      ]
-    },
-    {
-      "key": "金牌影视",
-      "name": "R.金牌影视",
-      "type": 3,
-      "api": "./js/%E9%87%91%E7%89%8C%E5%BD%B1%E9%99%A2.js",
-      "jar": "./jar/Rong/rjzc.jar",
-      "timeout": 10,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "playerType": 2,
-      "categories": [
-        "电影",
-        "电视剧",
-        "综艺",
-        "动漫",
-        "短剧"
       ]
     },
     {
@@ -688,6 +671,42 @@
       "name": "R.独播影视",
       "type": 3,
       "api": "./py/%E7%8B%AC%E6%92%AD%E5%BA%93.py",
+      "jar": "./jar/Rong/rjzc.jar",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "playerType": 2
+    },
+    {
+      "key": "布布影视",
+      "name": "R.布布影视",
+      "type": 3,
+      "api": "./py/%E5%B8%83%E5%B8%83.py",
+      "jar": "./jar/Rong/rjzc.jar",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "playerType": 2
+    },
+    {
+      "key": "青麦影视",
+      "name": "R.青麦影视",
+      "type": 3,
+      "api": "./py/%E9%9D%92%E9%BA%A6.py",
+      "jar": "./jar/Rong/rjzc.jar",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "playerType": 2
+    },
+    {
+      "key": "咕噜影视",
+      "name": "R.咕噜影视",
+      "type": 3,
+      "api": "./py/%E5%92%95%E5%99%9C.py",
       "jar": "./jar/Rong/rjzc.jar",
       "timeout": 10,
       "searchable": 1,
