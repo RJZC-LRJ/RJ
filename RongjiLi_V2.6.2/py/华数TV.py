@@ -1,13 +1,3 @@
-# coding=utf-8
-# !/usr/bin/python
-
-"""
-
-作者 精彩一瞬间 内容均从互联网收集而来 仅供交流学习使用 严禁用于商业用途 请于24小时内删除
-         ====================Diudiumiao====================
-
-"""
-
 from Crypto.Util.Padding import unpad
 from Crypto.Util.Padding import pad
 from urllib.parse import urlparse
@@ -427,7 +417,7 @@ class Spider(Spider):
         return bofang[:-1]
 
     def build_video_data(self, did, director, actor, remarks, year, area, content, bofang):
-        return {"vod_id": did, "vod_director": director, "vod_actor": actor, "vod_remarks": remarks, "vod_year": year, "vod_area": area, "vod_content": content, "vod_play_from": "华数专线", "vod_play_url": bofang}
+        return {"vod_id": did, "vod_director": director, "vod_actor": actor, "vod_remarks": remarks, "vod_year": year, "vod_area": area, "vod_content": content, "vod_play_from": "嵘基影音APP", "vod_play_url": bofang}
 
     def build_result(self, videos):
         result = {}
