@@ -154,6 +154,32 @@
       }
     },
     {
+      "key": "嵘基直播",
+      "name": "R.嵘基直播",
+      "type": 3,
+      "api": "./py/%E5%B5%98%E5%9F%BA%E7%9B%B4%E6%92%AD.py",
+      "jar": "./jar/Rong/rjzc.jar",
+      "timeout": 10,
+      "searchable": 0,
+      "changeable": 0,
+      "playerType": 2
+    },
+    {
+      "key": "嵘基影视",
+      "name": "R.嵘基影视",
+      "type": 3,
+      "api": "./py/%E5%B5%98%E5%9F%BA%E5%BD%B1%E8%A7%86.py",
+      "jar": "./jar/Rong/rjzc.jar",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": 2,
+      "ext": {
+        "site": "https://www.jiabaide.cn,https://www.hkybqufgh.com,https://www.sizhengxt.com,https://www.sdzhgt.com,https://www.jiabaide.cn,https://m.9zhoukj.com,https://m.cqzuoer.com,https://www.hellosht52bwb.com"
+      }
+    },
+    {
       "key": "华数影视",
       "name": "R.华数影视",
       "type": 3,
@@ -166,23 +192,8 @@
       "playerType": 2
     },
     {
-      "key": "嵘基影音",
-      "name": "R.嵘基影音",
-      "type": 3,
-      "api": "./py/%E5%B5%98%E5%9F%BA%E5%BD%B1%E9%9F%B3.py",
-      "jar": "./jar/Rong/rjzc.jar",
-      "timeout": 10,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "playerType": 2,
-      "ext": {
-        "site": "https://www.jiabaide.cn,https://www.hkybqufgh.com,https://www.sizhengxt.com,https://www.sdzhgt.com,https://www.jiabaide.cn,https://m.9zhoukj.com,https://m.cqzuoer.com,https://www.hellosht52bwb.com"
-      }
-    },
-    {
-      "key": "天堂影视",
-      "name": "R.天堂影视",
+      "key": "天堂资源",
+      "name": "R.天堂资源",
       "type": 1,
       "api": "https://caiji.dyttzyapi.com/api.php/provide/vod",
       "jar": "./jar/Rong/rjzc.jar",
@@ -209,8 +220,8 @@
       ]
     },
     {
-      "key": "量子影视",
-      "name": "R.量子影视",
+      "key": "量子资源",
+      "name": "R.量子资源",
       "type": 1,
       "api": "http://cj.lziapi.com/api.php/provide/vod/",
       "jar": "./jar/Rong/rjzc.jar",
@@ -237,8 +248,8 @@
       ]
     },
     {
-      "key": "茶杯影视",
-      "name": "R.茶杯影视",
+      "key": "茶杯资源",
+      "name": "R.茶杯资源",
       "type": 1,
       "api": "http://haohuazy.com/api.php/provide/vod",
       "jar": "./jar/Rong/rjzc.jar",
@@ -262,8 +273,8 @@
       ]
     },
     {
-      "key": "非凡影视",
-      "name": "R.非凡影视",
+      "key": "非凡资源",
+      "name": "R.非凡资源",
       "type": 1,
       "api": "http://api.ffzyapi.com/api.php/provide/vod",
       "jar": "./jar/Rong/rjzc.jar",
@@ -290,8 +301,8 @@
       ]
     },
     {
-      "key": "暴风影视",
-      "name": "R.暴风影视",
+      "key": "暴风资源",
+      "name": "R.暴风资源",
       "type": 1,
       "api": "https://bfzyapi.com/api.php/provide/vod",
       "jar": "./jar/Rong/rjzc.jar",
@@ -318,8 +329,8 @@
       ]
     },
     {
-      "key": "索尼影视",
-      "name": "R.索尼影视",
+      "key": "索尼资源",
+      "name": "R.索尼资源",
       "type": 1,
       "api": "https://suoniapi.com/api.php/provide/vod/",
       "jar": "./jar/Rong/rjzc.jar",
@@ -346,23 +357,59 @@
       ]
     },
     {
-      "key": "农民影视",
-      "name": "R.农民影视",
-      "type": 3,
-      "api": "csp_Wwys",
+      "key": "豆豆资源",
+      "name": "R.豆豆资源",
+      "type": 1,
+      "api": "https://api.apibdzy.com/api.php/provide/vod/",
       "jar": "./jar/Rong/rjzc.jar",
-      "ext": "https://vip.wwgz.cn:5200",
       "timeout": 10,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
       "playerType": 2,
       "categories": [
-        "电影",
-        "连续剧",
-        "综艺",
-        "动漫",
-        "短剧"
+        "国产剧",
+        "动作片",
+        "喜剧片",
+        "战争片",
+        "悬疑片",
+        "武侠片",
+        "奇幻片",
+        "科幻片",
+        "冒险片",
+        "警匪片",
+        "惊悚片",
+        "犯罪片",
+        "恐怖片",
+        "动画片"
+      ]
+    },
+    {
+      "key": "无尽资源",
+      "name": "R.无尽资源",
+      "type": 1,
+      "api": "https://api.wujinapi.com/api.php/provide/vod/",
+      "jar": "./jar/Rong/rjzc.jar",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": 2,
+      "categories": [
+        "国产剧",
+        "动作片",
+        "喜剧片",
+        "战争片",
+        "悬疑片",
+        "武侠片",
+        "奇幻片",
+        "科幻片",
+        "冒险片",
+        "警匪片",
+        "惊悚片",
+        "犯罪片",
+        "恐怖片",
+        "动画片"
       ]
     },
     {
@@ -424,7 +471,7 @@
       "jar": "./jar/aowu.jar",
       "timeout": 10,
       "searchable": 1,
-      "quickSearch": 0,
+      "quickSearch": 1,
       "changeable": 1,
       "playerType": 2,
       "categories": [
@@ -439,6 +486,26 @@
       "ext": "Guazi"
     },
     {
+      "key": "农民影视",
+      "name": "R.农民影视",
+      "type": 3,
+      "api": "csp_Wwys",
+      "jar": "./jar/Rong/rjzc.jar",
+      "ext": "https://vip.wwgz.cn:5200",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": 2,
+      "categories": [
+        "电影",
+        "连续剧",
+        "综艺",
+        "动漫",
+        "短剧"
+      ]
+    },
+    {
       "key": "夏天影视",
       "name": "R.夏天影视",
       "type": 3,
@@ -446,7 +513,7 @@
       "jar": "./jar/aowu.jar",
       "timeout": 10,
       "searchable": 1,
-      "quickSearch": 0,
+      "quickSearch": 1,
       "changeable": 1,
       "playerType": 2,
       "ext": "NewGrV2"
@@ -569,68 +636,6 @@
       "ext": "AppV7Dsx"
     },
     {
-      "key": "哔哩大全",
-      "name": "R.哔哩大全",
-      "type": 3,
-      "api": "csp_BiliGuard",
-      "jar": "./jar/wex.jar",
-      "timeout": 10,
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "playerType": 2,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "ext": {
-        "cookie": "",
-        "json": "./json/BLA.json"
-      }
-    },
-    {
-      "key": "A站大全",
-      "name": "R.A 站大全",
-      "type": 3,
-      "api": "./py/Acfun4K.py",
-      "jar": "./jar/Rong/rjzc.jar",
-      "timeout": 10,
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 1,
-      "playerType": 2
-    },
-    {
-      "key": "经典电影",
-      "name": "R.经典电影",
-      "type": 3,
-      "api": "./py/1905.py",
-      "jar": "./jar/Rong/rjzc.jar",
-      "timeout": 10,
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "playerType": 2
-    },
-    {
-      "key": "央视影库",
-      "name": "R.央视影库",
-      "type": 3,
-      "api": "./py/cctv.py",
-      "jar": "./jar/Rong/rjzc.jar",
-      "timeout": 10,
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "playerType": 2,
-      "categories": [
-        "动画片",
-        "电视剧",
-        "纪录片",
-        "特别节目"
-      ]
-    },
-    {
       "key": "永乐影视",
       "name": "R.永乐影视",
       "type": 3,
@@ -712,6 +717,685 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 1,
+      "playerType": 2
+    },
+    {
+      "key": "玩偶网盘",
+      "name": "R.玩偶网盘",
+      "type": 3,
+      "api": "csp_Wogg",
+      "jar": "./jar/Rong/rjzc.jar",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "playerType": 2,
+      "ext": {
+        "site": [
+          "https://www.wogg.net",
+          "https://wogg.xxooo.cf",
+          "https://woggpan.xxooo.cf"
+        ]
+      },
+      "timeout": 15
+    },
+    {
+      "key": "二小网盘",
+      "name": "R.二小网盘",
+      "type": 3,
+      "api": "csp_PanWebShare",
+      "jar": "./jar/Rong/rjzc.jar",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "playerType": 2,
+      "ext": {
+        "site": [
+          "https://www.2xiaopan.top",
+          "https://2xiaopan.top",
+          "https://www.erxiaozhan.top",
+          "https://www.2xiaozhan.top",
+          "https://wexwp.cc"
+        ]
+      },
+      "timeout": 15
+    },
+    {
+      "key": "木偶网盘",
+      "name": "R.木偶网盘",
+      "type": 3,
+      "api": "csp_PanWebShare",
+      "jar": "./jar/Rong/rjzc.jar",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "playerType": 2,
+      "ext": {
+        "site": [
+          "https://123.666291.xyz",
+          "https://666.666291.xyz",
+          "https://www.muou.site",
+          "https://www.muou.asia"
+        ]
+      },
+      "timeout": 15
+    },
+    {
+      "key": "网盘搜索",
+      "name": "R.网盘搜索",
+      "type": 3,
+      "api": "csp_PanSou",
+      "jar": "./jar/Rong/rjzc.jar",
+      "hide": 1,
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "playerType": 2,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      }
+    },
+    {
+      "key": "虎斑网盘",
+      "name": "R.虎斑网盘",
+      "type": 3,
+      "api": "csp_PanWebShare",
+      "jar": "./jar/Rong/rjzc.jar",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "playerType": 2,
+      "ext": {
+        "site": [
+          "http://38.76.197.172:16969"
+        ]
+      },
+      "timeout": 15
+    },
+    {
+      "key": "蜡笔网盘",
+      "name": "R.蜡笔网盘",
+      "type": 3,
+      "api": "csp_PanWebShare",
+      "jar": "./jar/Rong/rjzc.jar",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "playerType": 2,
+      "ext": {
+        "site": [
+          "http://tvpanpan.site",
+          "http://feimo.fun",
+          "http://xiaocgege.shop",
+          "http://www.xiaocgege.shop",
+          "https://www.xiaocge.fun"
+        ]
+      },
+      "timeout": 15
+    },
+    {
+      "key": "多多网盘",
+      "name": "R.多多网盘",
+      "type": 3,
+      "api": "csp_PanWebShare",
+      "jar": "./jar/Rong/rjzc.jar",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "playerType": 2,
+      "ext": {
+        "site": [
+          "https://tv.yydsys.top",
+          "https://tv.yydsys.cc",
+          "https://tv.214521.xyz"
+        ]
+      },
+      "timeout": 15
+    },
+    {
+      "key": "欧哥网盘",
+      "name": "R.欧哥网盘",
+      "type": 3,
+      "api": "csp_PanWebShare",
+      "jar": "./jar/Rong/rjzc.jar",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "playerType": 2,
+      "ext": {
+        "site": [
+          "https://woog.nxog.eu.org",
+          "https://woog.nxog.fun",
+          "https://woog.nxog.eu.org",
+          "https://woog.430520.xyz"
+        ]
+      },
+      "timeout": 15
+    },
+    {
+      "key": "人人网盘",
+      "name": "R.人人网盘",
+      "type": 3,
+      "api": "csp_RenRen",
+      "jar": "./jar/Rong/rjzc.jar",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "playerType": 2
+    },
+    {
+      "key": "双星网盘",
+      "name": "R.双星网盘",
+      "type": 3,
+      "api": "csp_ShuangXing",
+      "jar": "./jar/Rong/rjzc.jar",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "playerType": 2,
+      "style": {
+        "type": "list"
+      },
+      "timeout": 15
+    },
+    {
+      "key": "虎牙直播",
+      "name": "R.虎牙直播",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/%E8%99%8E%E7%89%99.js",
+      "jar": "./jar/Rong/rjzc.jar",
+      "timeout": 10,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "playerType": 2,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      }
+    },
+    {
+      "key": "斗鱼直播",
+      "name": "R.斗鱼直播",
+      "type": 3,
+      "api": "csp_LiveAiDouYuGuard",
+      "jar": "./jar/wex.jar",
+      "timeout": 10,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "playerType": 2,
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      }
+    },
+    {
+      "key": "哔哩直播",
+      "name": "R.哔哩直播",
+      "type": 3,
+      "api": "./py/BLZB.py",
+      "jar": "./jar/Rong/rjzc.jar",
+      "timeout": 10,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "playerType": 2,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      }
+    },
+    {
+      "key": "抖音直播",
+      "name": "R.抖音直播",
+      "type": 3,
+      "api": "./py/DYZB.py",
+      "jar": "./jar/Rong/rjzc.jar",
+      "timeout": 10,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "playerType": 2,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      }
+    },
+    {
+      "key": "酷狗直播",
+      "name": "R.酷狗直播",
+      "type": 4,
+      "api": "http://nm.4688888.xyz/vod/kg/kglive.php/provide/vod/",
+      "jar": "./jar/Rong/rjzc.jar",
+      "timeout": 10,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "playerType": 2,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      }
+    },
+    {
+      "key": "网络直播",
+      "name": "R.网络直播",
+      "type": 3,
+      "api": "./py/%E7%BD%91%E7%BB%9C%E7%9B%B4%E6%92%AD.py",
+      "jar": "./jar/Rong/rjzc.jar",
+      "timeout": 10,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "playerType": 2,
+      "categories": [
+        "虎牙",
+        "斗鱼",
+        "网易"
+      ]
+    },
+    {
+      "key": "企鹅体育",
+      "name": "R.企鹅体育",
+      "type": 3,
+      "api": "./py/%E4%BC%81%E9%B9%85%E4%BD%93%E8%82%B2.py",
+      "jar": "./jar/Rong/rjzc.jar",
+      "timeout": 10,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "playerType": 2,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      }
+    },
+    {
+      "key": "暴风体育",
+      "name": "R.暴风体育",
+      "type": 1,
+      "api": "https://bfzyapi.com/api.php/provide/vod/",
+      "jar": "./jar/Rong/rjzc.jar",
+      "timeout": 10,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "playerType": 2,
+      "categories": [
+        "足球",
+        "篮球",
+        "网球",
+        "斯诺克"
+      ],
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "摔跤体育",
+      "name": "R.摔跤体育",
+      "type": 3,
+      "api": "csp_SportAiWweGuard",
+      "jar": "./jar/wex.jar",
+      "timeout": 10,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "playerType": 2,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "飞球体育",
+      "name": "R.飞球体育",
+      "type": 3,
+      "api": "csp_SportAiFeiQiuGuard",
+      "jar": "./jar/wex.jar",
+      "timeout": 10,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "playerType": 2,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "瓜子体育",
+      "name": "R.瓜子体育",
+      "type": 3,
+      "api": "csp_GuaziLiveAmns",
+      "ext": "GuaziLive",
+      "jar": "./jar/aowu.jar",
+      "timeout": 10,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "playerType": 2,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "咖啡体育",
+      "name": "R.咖啡体育",
+      "type": 3,
+      "api": "csp_KafLiveAmns",
+      "jar": "./jar/aowu.jar",
+      "timeout": 10,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "playerType": 2,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "A站大全",
+      "name": "R.A 站大全",
+      "type": 3,
+      "api": "./py/Acfun4K.py",
+      "jar": "./jar/Rong/rjzc.jar",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "playerType": 2
+    },
+    {
+      "key": "哔哩大全",
+      "name": "R.哔哩大全",
+      "type": 3,
+      "api": "csp_BiliGuard",
+      "jar": "./jar/wex.jar",
+      "timeout": 10,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "playerType": 2,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "cookie": "",
+        "json": "./json/BLA.json"
+      }
+    },
+    {
+      "key": "哔哩学堂",
+      "name": "R.哔哩学堂",
+      "type": 3,
+      "api": "csp_BiliGuard",
+      "jar": "./jar/wex.jar",
+      "timeout": 10,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "playerType": 2,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "cookie": "",
+        "json": "./json/BLC.json"
+      }
+    },
+    {
+      "key": "哔哩少儿",
+      "name": "R.哔哩少儿",
+      "type": 3,
+      "api": "csp_BiliGuard",
+      "jar": "./jar/wex.jar",
+      "timeout": 10,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "playerType": 2,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "cookie": "",
+        "json": "./json/BLD.json"
+      }
+    },
+    {
+      "key": "哔哩听书",
+      "name": "R.哔哩听书",
+      "type": 3,
+      "api": "csp_BiliGuard",
+      "jar": "./jar/wex.jar",
+      "timeout": 10,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "playerType": 2,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "cookie": "",
+        "json": "./json/BLE.json"
+      }
+    },
+    {
+      "key": "急救教学",
+      "name": "R.急救教学",
+      "type": 3,
+      "api": "csp_FirstAid",
+      "jar": "./jar/Rong/rjzc.jar",
+      "timeout": 10,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "playerType": 2,
+      "style": {
+        "type": "rect",
+        "ratio": 3.8
+      },
+      "gridview": "0-0-4.1"
+    },
+    {
+      "key": "经典电影",
+      "name": "R.经典电影",
+      "type": 3,
+      "api": "./py/1905.py",
+      "jar": "./jar/Rong/rjzc.jar",
+      "timeout": 10,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "playerType": 2
+    },
+    {
+      "key": "央视影库",
+      "name": "R.央视影库",
+      "type": 3,
+      "api": "./py/cctv.py",
+      "jar": "./jar/Rong/rjzc.jar",
+      "timeout": 10,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "playerType": 2,
+      "categories": [
+        "动画片",
+        "电视剧",
+        "纪录片",
+        "特别节目"
+      ]
+    },
+    {
+      "key": "养生知识",
+      "name": "R.养生知识",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./json/%E5%85%BB%E7%94%9F%E5%A0%82.json",
+      "jar": "./jar/Rong/rjzc.jar",
+      "timeout": 10,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "playerType": 2,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      }
+    },
+    {
+      "key": "世界听书",
+      "name": "R.世界听书",
+      "type": 3,
+      "api": "csp_TingShijie",
+      "jar": "./jar/Rong/rjzc.jar",
+      "timeout": 10,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "playerType": 2,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "极品听书",
+      "name": "R.极品听书",
+      "type": 3,
+      "api": "csp_BookAiShiJieGuard",
+      "jar": "./jar/wex.jar",
+      "timeout": 10,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "playerType": 2,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "哔哩戏曲",
+      "name": "R.哔哩戏曲",
+      "type": 3,
+      "api": "csp_BiliGuard",
+      "jar": "./jar/wex.jar",
+      "timeout": 10,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "playerType": 2,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "cookie": "",
+        "json": "./json/BLF.json"
+      }
+    },
+    {
+      "key": "多多戏曲",
+      "name": "R.多多戏曲",
+      "type": 3,
+      "api": "csp_AppLY",
+      "jar": "./jar/Rong/rjzc.jar",
+      "timeout": 10,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "playerType": 2,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "糖豆舞蹈",
+      "name": "R.糖豆舞蹈",
+      "type": 3,
+      "api": "csp_MusicAiTangDouGuard",
+      "jar": "./jar/wex.jar",
+      "timeout": 10,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "playerType": 2,
+      "style": {
+        "ratio": 2,
+        "type": "rect"
+      }
+    },
+    {
+      "key": "星芽短剧",
+      "name": "R.星芽短剧",
+      "type": 3,
+      "api": "csp_XydjAmns",
+      "jar": "./jar/aowu.jar",
+      "genre": "shortdrama",
+      "timeout": 10,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "playerType": 2
+    },
+    {
+      "key": "河马短剧",
+      "name": "R.河马短剧",
+      "type": 3,
+      "api": "./py/%E6%B2%B3%E9%A9%AC%E7%9F%AD%E5%89%A7.py",
+      "jar": "./jar/Rong/rjzc.jar",
+      "genre": "shortdrama",
+      "timeout": 10,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "playerType": 2
+    },
+    {
+      "key": "豪庭短剧",
+      "name": "R.豪庭短剧",
+      "type": 3,
+      "api": "csp_HHkkAmns",
+      "jar": "./jar/aowu.jar",
+      "genre": "shortdrama",
+      "timeout": 10,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "playerType": 2
+    },
+    {
+      "key": "拜拜短剧",
+      "name": "R.拜拜短剧",
+      "type": 3,
+      "api": "csp_BddjAmns",
+      "jar": "./jar/aowu.jar",
+      "genre": "shortdrama",
+      "timeout": 10,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "playerType": 2
+    },
+    {
+      "key": "喵喵短剧",
+      "name": "R.喵喵短剧",
+      "type": 3,
+      "api": "csp_QmdjAmns",
+      "jar": "./jar/aowu.jar",
+      "genre": "shortdrama",
+      "timeout": 10,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
       "playerType": 2
     },
     {
