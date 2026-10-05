@@ -321,6 +321,189 @@ http://45.192.97.170:8880/play/35.m3u8
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="assets://6_LIVE.png" group-title="卫视[03]",兵团卫视
 http://45.192.97.170:8880/play/36.m3u8
 
+#EXTINF:-1 tvg-name="CCTV1综合" tvg-logo="assets://6_LIVE.png" group-title="央视[04]",CCTV1综合
+http://39.64.188.137:3000/608807420
+#EXTINF:-1 tvg-name="CCTV2财经" tvg-logo="assets://6_LIVE.png" group-title="央视[04]",CCTV2财经
+http://39.64.188.137:3000/631780532
+#EXTINF:-1 tvg-name="CCTV3综艺" tvg-logo="assets://6_LIVE.png" group-title="央视[04]",CCTV3综艺
+http://39.64.188.137:3000/624878271
+#EXTINF:-1 tvg-name="CCTV4中文国际" tvg-logo="assets://6_LIVE.png" group-title="央视[04]",CCTV4中文国际
+http://39.64.188.137:3000/631780421
+#EXTINF:-1 tvg-name="CCTV5体育" tvg-logo="assets://6_LIVE.png" group-title="央视[04]",CCTV5体育
+http://39.64.188.137:3000/641886683
+#EXTINF:-1 tvg-name="CCTV5+体育赛事" tvg-logo="assets://6_LIVE.png" group-title="央视[04]",CCTV5+体育赛事
+http://39.64.188.137:3000/641886773
+#EXTINF:-1 tvg-name="CCTV6电影" tvg-logo="assets://6_LIVE.png" group-title="央视[04]",CCTV6电影
+http://39.64.188.137:3000/624878396
+#EXTINF:-1 tvg-name="CCTV7国防军事" tvg-logo="assets://6_LIVE.png" group-title="央视[04]",CCTV7国防军事
+http://39.64.188.137:3000/673168121
+#EXTINF:-1 tvg-name="CCTV8电视剧" tvg-logo="assets://6_LIVE.png" group-title="央视[04]",CCTV8电视剧
+http://39.64.188.137:3000/624878356
+#EXTINF:-1 tvg-name="CCTV9纪录" tvg-logo="assets://6_LIVE.png" group-title="央视[04]",CCTV9纪录
+http://39.64.188.137:3000/673168140
+#EXTINF:-1 tvg-name="CCTV10科教" tvg-logo="assets://6_LIVE.png" group-title="央视[04]",CCTV10科教
+http://39.64.188.137:3000/624878405
+#EXTINF:-1 tvg-name="CCTV11戏曲" tvg-logo="assets://6_LIVE.png" group-title="央视[04]",CCTV11戏曲
+http://39.64.188.137:3000/667987558
+#EXTINF:-1 tvg-name="CCTV12社会与法" tvg-logo="assets://6_LIVE.png" group-title="央视[04]",CCTV12社会与法
+http://39.64.188.137:3000/673168185
+#EXTINF:-1 tvg-name="CCTV13新闻" tvg-logo="assets://6_LIVE.png" group-title="央视[04]",CCTV13新闻
+http://39.64.188.137:3000/608807423
+#EXTINF:-1 tvg-name="CCTV14少儿" tvg-logo="assets://6_LIVE.png" group-title="央视[04]",CCTV14少儿
+http://39.64.188.137:3000/624878440
+#EXTINF:-1 tvg-name="CCTV15音乐" tvg-logo="assets://6_LIVE.png" group-title="央视[04]",CCTV15音乐
+http://39.64.188.137:3000/673168223
+#EXTINF:-1 tvg-name="CCTV17农业农村" tvg-logo="assets://6_LIVE.png" group-title="央视[04]",CCTV17农业农村
+http://39.64.188.137:3000/673168256
+#EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="assets://6_LIVE.png" group-title="央视[04]",CCTV4欧洲
+http://39.64.188.137:3000/608807419
+#EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="assets://6_LIVE.png" group-title="央视[04]",CCTV4美洲
+http://39.64.188.137:3000/608807416
+#EXTINF:-1 tvg-name="CGTN外语纪录" tvg-logo="assets://6_LIVE.png" group-title="央视[04]",CGTN外语纪录
+http://39.64.188.137:3000/609006487
+#EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="assets://6_LIVE.png" group-title="央视[04]",CGTN阿拉伯语
+http://39.64.188.137:3000/609154345
+#EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="assets://6_LIVE.png" group-title="央视[04]",CGTN西班牙语
+http://39.64.188.137:3000/609006450
+#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="assets://6_LIVE.png" group-title="央视[04]",CGTN法语
+http://39.64.188.137:3000/609006476
+#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="assets://6_LIVE.png" group-title="央视[04]",CGTN俄语
+http://39.64.188.137:3000/609006446
+#EXTINF:-1 tvg-name="老故事" tvg-logo="assets://6_LIVE.png" group-title="央视[04]",老故事
+http://39.64.188.137:3000/884121956
+#EXTINF:-1 tvg-name="发现之旅" tvg-logo="assets://6_LIVE.png" group-title="央视[04]",发现之旅
+http://39.64.188.137:3000/624878970
+#EXTINF:-1 tvg-name="中学生" tvg-logo="assets://6_LIVE.png" group-title="央视[04]",中学生
+http://39.64.188.137:3000/708869532
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="assets://6_LIVE.png" group-title="央视[04]",CGTN
+http://39.64.188.137:3000/609017205
+
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="assets://6_LIVE.png" group-title="卫视[04]",东方卫视
+http://39.64.188.137:3000/651632648
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="assets://6_LIVE.png" group-title="卫视[04]",江苏卫视
+http://39.64.188.137:3000/623899368
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="assets://6_LIVE.png" group-title="卫视[04]",广东卫视
+http://39.64.188.137:3000/608831231
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="assets://6_LIVE.png" group-title="卫视[04]",北京卫视
+http://39.64.188.137:3000/630287636
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="assets://6_LIVE.png" group-title="卫视[04]",辽宁卫视
+http://39.64.188.137:3000/630291707
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="assets://6_LIVE.png" group-title="卫视[04]",河北卫视
+http://39.64.188.137:3000/962042070
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="assets://6_LIVE.png" group-title="卫视[04]",江西卫视
+http://39.64.188.137:3000/783847495
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="assets://6_LIVE.png" group-title="卫视[04]",河南卫视
+http://39.64.188.137:3000/790187291
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="assets://6_LIVE.png" group-title="卫视[04]",陕西卫视
+http://39.64.188.137:3000/738910838
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="assets://6_LIVE.png" group-title="卫视[04]",大湾区卫视
+http://39.64.188.137:3000/608917627
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="assets://6_LIVE.png" group-title="卫视[04]",湖北卫视
+http://39.64.188.137:3000/947472496
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="assets://6_LIVE.png" group-title="卫视[04]",吉林卫视
+http://39.64.188.137:3000/947472500
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="assets://6_LIVE.png" group-title="卫视[04]",青海卫视
+http://39.64.188.137:3000/947472506
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="assets://6_LIVE.png" group-title="卫视[04]",东南卫视
+http://39.64.188.137:3000/849116810
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="assets://6_LIVE.png" group-title="卫视[04]",海南卫视
+http://39.64.188.137:3000/947472502
+#EXTINF:-1 tvg-name="海峡卫视" tvg-logo="assets://6_LIVE.png" group-title="卫视[04]",海峡卫视
+http://39.64.188.137:3000/849119120
+#EXTINF:-1 tvg-name="中国农林卫视" tvg-logo="assets://6_LIVE.png" group-title="卫视[04]",中国农林卫视
+http://39.64.188.137:3000/956904896
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="assets://6_LIVE.png" group-title="卫视[04]",兵团卫视
+http://39.64.188.137:3000/956923145
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="assets://6_LIVE.png" group-title="卫视[04]",宁夏卫视
+http://39.64.188.137:3000/738910535
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="assets://6_LIVE.png" group-title="卫视[04]",重庆卫视
+http://39.64.188.137:3000/738910914
+#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="assets://6_LIVE.png" group-title="卫视[04]",三沙卫视
+http://39.64.188.137:3000/961023778
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="assets://6_LIVE.png" group-title="卫视[04]",黑龙江卫视
+http://39.64.188.137:3000/738906901
+#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="assets://6_LIVE.png" group-title="卫视[04]",上海新闻综合
+http://39.64.188.137:3000/651632657
+#EXTINF:-1 tvg-name="上视东方影视" tvg-logo="assets://6_LIVE.png" group-title="卫视[04]",上视东方影视
+http://39.64.188.137:3000/617290047
+#EXTINF:-1 tvg-name="上海第一财经" tvg-logo="assets://6_LIVE.png" group-title="卫视[04]",上海第一财经
+http://39.64.188.137:3000/608780988
+#EXTINF:-1 tvg-name="南京新闻综合频道" tvg-logo="assets://6_LIVE.png" group-title="卫视[04]",南京新闻综合频道
+http://39.64.188.137:3000/838109047
+#EXTINF:-1 tvg-name="南京教科频道" tvg-logo="assets://6_LIVE.png" group-title="卫视[04]",南京教科频道
+http://39.64.188.137:3000/838153729
+#EXTINF:-1 tvg-name="南京十八频道" tvg-logo="assets://6_LIVE.png" group-title="卫视[04]",南京十八频道
+http://39.64.188.137:3000/838151753
+#EXTINF:-1 tvg-name="体育休闲频道" tvg-logo="assets://6_LIVE.png" group-title="卫视[04]",体育休闲频道
+http://39.64.188.137:3000/626064707
+#EXTINF:-1 tvg-name="江苏城市频道" tvg-logo="assets://6_LIVE.png" group-title="卫视[04]",江苏城市频道
+http://39.64.188.137:3000/626064714
+#EXTINF:-1 tvg-name="江苏国际" tvg-logo="assets://6_LIVE.png" group-title="卫视[04]",江苏国际
+http://39.64.188.137:3000/626064674
+#EXTINF:-1 tvg-name="江苏教育" tvg-logo="assets://6_LIVE.png" group-title="卫视[04]",江苏教育
+http://39.64.188.137:3000/628008321
+#EXTINF:-1 tvg-name="江苏影视频道" tvg-logo="assets://6_LIVE.png" group-title="卫视[04]",江苏影视频道
+http://39.64.188.137:3000/626064697
+#EXTINF:-1 tvg-name="江苏综艺频道" tvg-logo="assets://6_LIVE.png" group-title="卫视[04]",江苏综艺频道
+http://39.64.188.137:3000/626065193
+#EXTINF:-1 tvg-name="公共新闻频道" tvg-logo="assets://6_LIVE.png" group-title="卫视[04]",公共新闻频道
+http://39.64.188.137:3000/626064693
+#EXTINF:-1 tvg-name="盐城新闻综合" tvg-logo="assets://6_LIVE.png" group-title="卫视[04]",盐城新闻综合
+http://39.64.188.137:3000/639731825
+#EXTINF:-1 tvg-name="淮安新闻综合" tvg-logo="assets://6_LIVE.png" group-title="卫视[04]",淮安新闻综合
+http://39.64.188.137:3000/639731826
+#EXTINF:-1 tvg-name="泰州新闻综合" tvg-logo="assets://6_LIVE.png" group-title="卫视[04]",泰州新闻综合
+http://39.64.188.137:3000/639731818
+#EXTINF:-1 tvg-name="连云港新闻综合" tvg-logo="assets://6_LIVE.png" group-title="卫视[04]",连云港新闻综合
+http://39.64.188.137:3000/639731715
+#EXTINF:-1 tvg-name="宿迁新闻综合" tvg-logo="assets://6_LIVE.png" group-title="卫视[04]",宿迁新闻综合
+http://39.64.188.137:3000/639731832
+#EXTINF:-1 tvg-name="徐州新闻综合" tvg-logo="assets://6_LIVE.png" group-title="卫视[04]",徐州新闻综合
+http://39.64.188.137:3000/639731747
+#EXTINF:-1 tvg-name="优漫卡通频道" tvg-logo="assets://6_LIVE.png" group-title="卫视[04]",优漫卡通频道
+http://39.64.188.137:3000/626064703
+#EXTINF:-1 tvg-name="江阴新闻综合" tvg-logo="assets://6_LIVE.png" group-title="卫视[04]",江阴新闻综合
+http://39.64.188.137:3000/955227979
+#EXTINF:-1 tvg-name="南通新闻综合" tvg-logo="assets://6_LIVE.png" group-title="卫视[04]",南通新闻综合
+http://39.64.188.137:3000/955227985
+#EXTINF:-1 tvg-name="宜兴新闻综合" tvg-logo="assets://6_LIVE.png" group-title="卫视[04]",宜兴新闻综合
+http://39.64.188.137:3000/955227996
+#EXTINF:-1 tvg-name="溧水新闻综合" tvg-logo="assets://6_LIVE.png" group-title="卫视[04]",溧水新闻综合
+http://39.64.188.137:3000/639737327
+#EXTINF:-1 tvg-name="陕西银龄频道" tvg-logo="assets://6_LIVE.png" group-title="卫视[04]",陕西银龄频道
+http://39.64.188.137:3000/956909362
+#EXTINF:-1 tvg-name="陕西都市青春频道" tvg-logo="assets://6_LIVE.png" group-title="卫视[04]",陕西都市青春频道
+http://39.64.188.137:3000/956909358
+#EXTINF:-1 tvg-name="陕西秦腔频道" tvg-logo="assets://6_LIVE.png" group-title="卫视[04]",陕西秦腔频道
+http://39.64.188.137:3000/956909303
+#EXTINF:-1 tvg-name="陕西新闻资讯频道" tvg-logo="assets://6_LIVE.png" group-title="卫视[04]",陕西新闻资讯频道
+http://39.64.188.137:3000/956909289
+#EXTINF:-1 tvg-name="财富天下" tvg-logo="assets://6_LIVE.png" group-title="卫视[04]",财富天下
+http://39.64.188.137:3000/956923159
+#EXTINF:-1 tvg-name="镇江新闻综合" tvg-logo="assets://6_LIVE.png" group-title="卫视[04]",镇江新闻综合
+http://39.64.188.137:3000/639731783
+#EXTINF:-1 tvg-name="广东珠江频道" tvg-logo="assets://6_LIVE.png" group-title="卫视[04]",广东珠江频道
+http://39.64.188.137:3000/639731952
+#EXTINF:-1 tvg-name="建党105周年巡礼" tvg-logo="assets://6_LIVE.png" group-title="卫视[04]",建党105周年巡礼
+http://39.64.188.137:3000/713600957
+#EXTINF:-1 tvg-name="经典香港电影" tvg-logo="assets://6_LIVE.png" group-title="卫视[04]",经典香港电影
+http://39.64.188.137:3000/625703337
+#EXTINF:-1 tvg-name="新片放映厅" tvg-logo="assets://6_LIVE.png" group-title="卫视[04]",新片放映厅
+http://39.64.188.137:3000/619495952
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="assets://6_LIVE.png" group-title="卫视[04]",CHC影迷电影
+http://39.64.188.137:3000/952383261
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="assets://6_LIVE.png" group-title="卫视[04]",CHC动作电影
+http://39.64.188.137:3000/644368714
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="assets://6_LIVE.png" group-title="卫视[04]",CHC家庭影院
+http://39.64.188.137:3000/644368373
+#EXTINF:-1 tvg-name="和美乡途轮播台" tvg-logo="assets://6_LIVE.png" group-title="卫视[04]",和美乡途轮播台
+http://39.64.188.137:3000/713591450
+#EXTINF:-1 tvg-name="南方影视" tvg-logo="assets://6_LIVE.png" group-title="卫视[04]",南方影视
+http://39.64.188.137:3000/614961829
+#EXTINF:-1 tvg-name="中国天气" tvg-logo="assets://6_LIVE.png" group-title="卫视[04]",中国天气
+http://39.64.188.137:3000/959986621
+
+
 #EXTINF:-1 tvg-name="咪视界1" tvg-logo="assets://6_LIVE.png" group-title="咪咪移动",咪视界1
 http://gslbserv.itv.cmvideo.cn:80/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-name="咪视界1" tvg-logo="assets://6_LIVE.png" group-title="咪咪移动",咪视界1
