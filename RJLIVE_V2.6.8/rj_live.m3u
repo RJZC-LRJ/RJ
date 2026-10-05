@@ -579,89 +579,89 @@ https://lnitv.cn:55555/data/api/m.php?id=3000000010000015686
 #EXTINF:-1 tvg-name="咪视界4K" tvg-logo="assets://6_LIVE.png" group-title="咪咪全网",咪视界4K
 https://lnitv.cn:55555/data/api/m.php?id=3000000010000005180
 
-#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="assets://5_JSON.jpg" group-title="咪咪备用",睛彩篮球
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="assets://6_LIVE.png" group-title="咪咪备用",睛彩篮球
 http://45.192.97.170:8880/play/410.m3u8
-#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="assets://5_JSON.jpg" group-title="咪咪备用",睛彩青少
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="assets://6_LIVE.png" group-title="咪咪备用",睛彩青少
 http://45.192.97.170:8880/play/411.m3u8
-#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="assets://5_JSON.jpg" group-title="咪咪备用",睛彩广场舞
+#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="assets://6_LIVE.png" group-title="咪咪备用",睛彩广场舞
 http://45.192.97.170:8880/play/412.m3u8
-#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="assets://5_JSON.jpg" group-title="咪咪备用",睛彩竞技
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="assets://6_LIVE.png" group-title="咪咪备用",睛彩竞技
 http://45.192.97.170:8880/play/413.m3u8
-#EXTINF:-1 tvg-name="咪咪视频-1" tvg-logo="assets://5_JSON.jpg" group-title="咪咪备用",咪咪视频-1
+#EXTINF:-1 tvg-name="咪咪视频-1" tvg-logo="assets://6_LIVE.png" group-title="咪咪备用",咪咪视频-1
 http://45.192.97.170:8880/play/414.m3u8
-#EXTINF:-1 tvg-name="咪咪视频-2" tvg-logo="assets://5_JSON.jpg" group-title="咪咪备用",咪咪视频-2
+#EXTINF:-1 tvg-name="咪咪视频-2" tvg-logo="assets://6_LIVE.png" group-title="咪咪备用",咪咪视频-2
 http://45.192.97.170:8880/play/415.m3u8
-#EXTINF:-1 tvg-name="咪咪视频-3" tvg-logo="assets://5_JSON.jpg" group-title="咪咪备用",咪咪视频-3
+#EXTINF:-1 tvg-name="咪咪视频-3" tvg-logo="assets://6_LIVE.png" group-title="咪咪备用",咪咪视频-3
 http://45.192.97.170:8880/play/416.m3u8
-#EXTINF:-1 tvg-name="咪咪视频-4" tvg-logo="assets://5_JSON.jpg" group-title="咪咪备用",咪咪视频-4
+#EXTINF:-1 tvg-name="咪咪视频-4" tvg-logo="assets://6_LIVE.png" group-title="咪咪备用",咪咪视频-4
 http://45.192.97.170:8880/play/417.m3u8
-#EXTINF:-1 tvg-name="咪咪视频-5" tvg-logo="assets://5_JSON.jpg" group-title="咪咪备用",咪咪视频-5
+#EXTINF:-1 tvg-name="咪咪视频-5" tvg-logo="assets://6_LIVE.png" group-title="咪咪备用",咪咪视频-5
 http://45.192.97.170:8880/play/418.m3u8
-#EXTINF:-1 tvg-name="咪咪视频-6" tvg-logo="assets://5_JSON.jpg" group-title="咪咪备用",咪咪视频-6
+#EXTINF:-1 tvg-name="咪咪视频-6" tvg-logo="assets://6_LIVE.png" group-title="咪咪备用",咪咪视频-6
 http://45.192.97.170:8880/play/419.m3u8
-#EXTINF:-1 tvg-name="咪咪视频-7" tvg-logo="assets://5_JSON.jpg" group-title="咪咪备用",咪咪视频-7
+#EXTINF:-1 tvg-name="咪咪视频-7" tvg-logo="assets://6_LIVE.png" group-title="咪咪备用",咪咪视频-7
 http://45.192.97.170:8880/play/420.m3u8
-#EXTINF:-1 tvg-name="咪咪视频-8" tvg-logo="assets://5_JSON.jpg" group-title="咪咪备用",咪咪视频-8
+#EXTINF:-1 tvg-name="咪咪视频-8" tvg-logo="assets://6_LIVE.png" group-title="咪咪备用",咪咪视频-8
 http://45.192.97.170:8880/play/421.m3u8
-#EXTINF:-1 tvg-name="咪咪视频-9" tvg-logo="assets://5_JSON.jpg" group-title="咪咪备用",咪咪视频-9
+#EXTINF:-1 tvg-name="咪咪视频-9" tvg-logo="assets://6_LIVE.png" group-title="咪咪备用",咪咪视频-9
 http://45.192.97.170:8880/play/422.m3u8
-#EXTINF:-1 tvg-name="咪咪视频-10" tvg-logo="assets://5_JSON.jpg" group-title="咪咪备用",咪咪视频-10
+#EXTINF:-1 tvg-name="咪咪视频-10" tvg-logo="assets://6_LIVE.png" group-title="咪咪备用",咪咪视频-10
 http://45.192.97.170:8880/play/423.m3u8
-#EXTINF:-1 tvg-name="咪咪视频-11" tvg-logo="assets://5_JSON.jpg" group-title="咪咪备用",咪咪视频-11
+#EXTINF:-1 tvg-name="咪咪视频-11" tvg-logo="assets://6_LIVE.png" group-title="咪咪备用",咪咪视频-11
 http://45.192.97.170:8880/play/424.m3u8
-#EXTINF:-1 tvg-name="咪咪视频-12" tvg-logo="assets://5_JSON.jpg" group-title="咪咪备用",咪咪视频-12
+#EXTINF:-1 tvg-name="咪咪视频-12" tvg-logo="assets://6_LIVE.png" group-title="咪咪备用",咪咪视频-12
 http://45.192.97.170:8880/play/425.m3u8
-#EXTINF:-1 tvg-name="咪咪视频-13" tvg-logo="assets://5_JSON.jpg" group-title="咪咪备用",咪咪视频-13
+#EXTINF:-1 tvg-name="咪咪视频-13" tvg-logo="assets://6_LIVE.png" group-title="咪咪备用",咪咪视频-13
 http://45.192.97.170:8880/play/426.m3u8
-#EXTINF:-1 tvg-name="咪咪视频-14" tvg-logo="assets://5_JSON.jpg" group-title="咪咪备用",咪咪视频-14
+#EXTINF:-1 tvg-name="咪咪视频-14" tvg-logo="assets://6_LIVE.png" group-title="咪咪备用",咪咪视频-14
 http://45.192.97.170:8880/play/427.m3u8
-#EXTINF:-1 tvg-name="咪咪视频-15" tvg-logo="assets://5_JSON.jpg" group-title="咪咪备用",咪咪视频-15
+#EXTINF:-1 tvg-name="咪咪视频-15" tvg-logo="assets://6_LIVE.png" group-title="咪咪备用",咪咪视频-15
 http://45.192.97.170:8880/play/428.m3u8
-#EXTINF:-1 tvg-name="咪咪视频-16" tvg-logo="assets://5_JSON.jpg" group-title="咪咪备用",咪咪视频-16
+#EXTINF:-1 tvg-name="咪咪视频-16" tvg-logo="assets://6_LIVE.png" group-title="咪咪备用",咪咪视频-16
 http://45.192.97.170:8880/play/429.m3u8
-#EXTINF:-1 tvg-name="咪咪视频-24" tvg-logo="assets://5_JSON.jpg" group-title="咪咪备用",咪咪视频-24
+#EXTINF:-1 tvg-name="咪咪视频-24" tvg-logo="assets://6_LIVE.png" group-title="咪咪备用",咪咪视频-24
 http://45.192.97.170:8880/play/430.m3u8
-#EXTINF:-1 tvg-name="咪咪视频-25" tvg-logo="assets://5_JSON.jpg" group-title="咪咪备用",咪咪视频-25
+#EXTINF:-1 tvg-name="咪咪视频-25" tvg-logo="assets://6_LIVE.png" group-title="咪咪备用",咪咪视频-25
 http://45.192.97.170:8880/play/431.m3u8
-#EXTINF:-1 tvg-name="咪咪视频-26" tvg-logo="assets://5_JSON.jpg" group-title="咪咪备用",咪咪视频-26
+#EXTINF:-1 tvg-name="咪咪视频-26" tvg-logo="assets://6_LIVE.png" group-title="咪咪备用",咪咪视频-26
 http://45.192.97.170:8880/play/432.m3u8
-#EXTINF:-1 tvg-name="咪咪视频-27" tvg-logo="assets://5_JSON.jpg" group-title="咪咪备用",咪咪视频-27
+#EXTINF:-1 tvg-name="咪咪视频-27" tvg-logo="assets://6_LIVE.png" group-title="咪咪备用",咪咪视频-27
 http://45.192.97.170:8880/play/433.m3u8
-#EXTINF:-1 tvg-name="咪咪视频-28" tvg-logo="assets://5_JSON.jpg" group-title="咪咪备用",咪咪视频-28
+#EXTINF:-1 tvg-name="咪咪视频-28" tvg-logo="assets://6_LIVE.png" group-title="咪咪备用",咪咪视频-28
 http://45.192.97.170:8880/play/434.m3u8
-#EXTINF:-1 tvg-name="咪咪视频-29" tvg-logo="assets://5_JSON.jpg" group-title="咪咪备用",咪咪视频-29
+#EXTINF:-1 tvg-name="咪咪视频-29" tvg-logo="assets://6_LIVE.png" group-title="咪咪备用",咪咪视频-29
 http://45.192.97.170:8880/play/435.m3u8
-#EXTINF:-1 tvg-name="咪咪视频-30" tvg-logo="assets://5_JSON.jpg" group-title="咪咪备用",咪咪视频-30
+#EXTINF:-1 tvg-name="咪咪视频-30" tvg-logo="assets://6_LIVE.png" group-title="咪咪备用",咪咪视频-30
 http://45.192.97.170:8880/play/436.m3u8
-#EXTINF:-1 tvg-name="咪咪视频-31" tvg-logo="assets://5_JSON.jpg" group-title="咪咪备用",咪咪视频-31
+#EXTINF:-1 tvg-name="咪咪视频-31" tvg-logo="assets://6_LIVE.png" group-title="咪咪备用",咪咪视频-31
 http://45.192.97.170:8880/play/437.m3u8
-#EXTINF:-1 tvg-name="咪咪视频-32" tvg-logo="assets://5_JSON.jpg" group-title="咪咪备用",咪咪视频-32
+#EXTINF:-1 tvg-name="咪咪视频-32" tvg-logo="assets://6_LIVE.png" group-title="咪咪备用",咪咪视频-32
 http://45.192.97.170:8880/play/438.m3u8
-#EXTINF:-1 tvg-name="咪咪视频-33" tvg-logo="assets://5_JSON.jpg" group-title="咪咪备用",咪咪视频-33
+#EXTINF:-1 tvg-name="咪咪视频-33" tvg-logo="assets://6_LIVE.png" group-title="咪咪备用",咪咪视频-33
 http://45.192.97.170:8880/play/439.m3u8
-#EXTINF:-1 tvg-name="咪咪视频-34" tvg-logo="assets://5_JSON.jpg" group-title="咪咪备用",咪咪视频-34
+#EXTINF:-1 tvg-name="咪咪视频-34" tvg-logo="assets://6_LIVE.png" group-title="咪咪备用",咪咪视频-34
 http://45.192.97.170:8880/play/440.m3u8
-#EXTINF:-1 tvg-name="咪咪视频-35" tvg-logo="assets://5_JSON.jpg" group-title="咪咪备用",咪咪视频-35
+#EXTINF:-1 tvg-name="咪咪视频-35" tvg-logo="assets://6_LIVE.png" group-title="咪咪备用",咪咪视频-35
 http://45.192.97.170:8880/play/441.m3u8
-#EXTINF:-1 tvg-name="咪咪视频-36" tvg-logo="assets://5_JSON.jpg" group-title="咪咪备用",咪咪视频-36
+#EXTINF:-1 tvg-name="咪咪视频-36" tvg-logo="assets://6_LIVE.png" group-title="咪咪备用",咪咪视频-36
 http://45.192.97.170:8880/play/442.m3u8
-#EXTINF:-1 tvg-name="咪咪视频-37" tvg-logo="assets://5_JSON.jpg" group-title="咪咪备用",咪咪视频-37
+#EXTINF:-1 tvg-name="咪咪视频-37" tvg-logo="assets://6_LIVE.png" group-title="咪咪备用",咪咪视频-37
 http://45.192.97.170:8880/play/443.m3u8
-#EXTINF:-1 tvg-name="咪咪视频-38" tvg-logo="assets://5_JSON.jpg" group-title="咪咪备用",咪咪视频-38
+#EXTINF:-1 tvg-name="咪咪视频-38" tvg-logo="assets://6_LIVE.png" group-title="咪咪备用",咪咪视频-38
 http://45.192.97.170:8880/play/444.m3u8
-#EXTINF:-1 tvg-name="咪咪视频-39" tvg-logo="assets://5_JSON.jpg" group-title="咪咪备用",咪咪视频-39
+#EXTINF:-1 tvg-name="咪咪视频-39" tvg-logo="assets://6_LIVE.png" group-title="咪咪备用",咪咪视频-39
 http://45.192.97.170:8880/play/445.m3u8
-#EXTINF:-1 tvg-name="咪咪视频-40" tvg-logo="assets://5_JSON.jpg" group-title="咪咪备用",咪咪视频-40
+#EXTINF:-1 tvg-name="咪咪视频-40" tvg-logo="assets://6_LIVE.png" group-title="咪咪备用",咪咪视频-40
 http://45.192.97.170:8880/play/446.m3u8
-#EXTINF:-1 tvg-name="咪咪视频-41" tvg-logo="assets://5_JSON.jpg" group-title="咪咪备用",咪咪视频-41
+#EXTINF:-1 tvg-name="咪咪视频-41" tvg-logo="assets://6_LIVE.png" group-title="咪咪备用",咪咪视频-41
 http://45.192.97.170:8880/play/447.m3u8
-#EXTINF:-1 tvg-name="咪咪视频-42" tvg-logo="assets://5_JSON.jpg" group-title="咪咪备用",咪咪视频-42
+#EXTINF:-1 tvg-name="咪咪视频-42" tvg-logo="assets://6_LIVE.png" group-title="咪咪备用",咪咪视频-42
 http://45.192.97.170:8880/play/448.m3u8
-#EXTINF:-1 tvg-name="咪咪视频-43" tvg-logo="assets://5_JSON.jpg" group-title="咪咪备用",咪咪视频-43
+#EXTINF:-1 tvg-name="咪咪视频-43" tvg-logo="assets://6_LIVE.png" group-title="咪咪备用",咪咪视频-43
 http://45.192.97.170:8880/play/449.m3u8
-#EXTINF:-1 tvg-name="咪咪视频-44" tvg-logo="assets://5_JSON.jpg" group-title="咪咪备用",咪咪视频-44
+#EXTINF:-1 tvg-name="咪咪视频-44" tvg-logo="assets://6_LIVE.png" group-title="咪咪备用",咪咪视频-44
 http://45.192.97.170:8880/play/450.m3u8
-#EXTINF:-1 tvg-name="咪咪视频-45" tvg-logo="assets://5_JSON.jpg" group-title="咪咪备用",咪咪视频-45
+#EXTINF:-1 tvg-name="咪咪视频-45" tvg-logo="assets://6_LIVE.png" group-title="咪咪备用",咪咪视频-45
 http://45.192.97.170:8880/play/451.m3u8
 
 
@@ -1332,5 +1332,3 @@ http://1.14.124.206:35455/huya/30689549
 http://1.14.124.206:35455/huya/30631766
 #EXTINF:-1 tvg-name="瑜伽专场" tvg-logo="assets://6_LIVE.png" group-title="娱乐频道",瑜伽专场
 http://1.14.124.206:35455/huya/20753449
-
-
