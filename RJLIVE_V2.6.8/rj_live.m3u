@@ -919,8 +919,6 @@ http://222.223.41.27:8888/hls/50/index.m3u8
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="assets://6_LIVE.png" group-title="卫视[08]",内蒙古卫视
 http://222.223.41.27:8888/hls/49/index.m3u8
 
-
-
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="assets://6_LIVE.png" group-title="央视[09]",CCTV1
 http://61.138.99.166:10089/hls/1/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="assets://6_LIVE.png" group-title="央视[09]",CCTV2
@@ -1070,8 +1068,6 @@ http://61.138.99.166:10089/hls/132/index.m3u8
 http://13.13.14.180/hls/133/index.m3u8
 #EXTINF:-1 tvg-name="IPTV野外纪实" tvg-logo="assets://6_LIVE.png" group-title="卫视[09]",IPTV野外纪实
 http://13.13.14.180/hls/134/index.m3u8
-
-
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="assets://6_LIVE.png" group-title="央视[10]",CCTV1
 http://47.100.80.251:50001/608807420
