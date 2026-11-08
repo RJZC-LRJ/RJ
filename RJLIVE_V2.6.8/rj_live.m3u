@@ -1630,6 +1630,333 @@ http://tv.zimtv.cn/tv/player/api/huya.php?id=23865161
 #EXTINF:-1 tvg-name="笑看风云" tvg-logo="assets://6_LIVE.png" group-title="电影轮播",笑看风云
 http://tv.zimtv.cn/tv/player/api/huya.php?id=23865058
 
+#EXTINF:-1 tvg-name="放映厅轮播" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",放映厅轮播
+http://cfss.cc/cdn/huya/11602077.flv
+#EXTINF:-1 tvg-name="刘德华轮播" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",刘德华轮播
+http://cfss.cc/cdn/huya/11342424.flv
+#EXTINF:-1 tvg-name="许冠英轮播" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",许冠英轮播
+http://cfss.cc/cdn/huya/11601972.flv
+#EXTINF:-1 tvg-name="李连杰轮播" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",李连杰轮播
+http://cfss.cc/cdn/huya/11342390.flv
+#EXTINF:-1 tvg-name="甄子丹轮播" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",甄子丹轮播
+http://cfss.cc/cdn/huya/11352935.flv
+#EXTINF:-1 tvg-name="周润发轮播" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",周润发轮播
+http://cfss.cc/cdn/huya/11342387.flv
+#EXTINF:-1 tvg-name="周星星轮播" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",周星星轮播
+http://cfss.cc/cdn/huya/11336587.flv
+#EXTINF:-1 tvg-name="洪金宝轮播" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",洪金宝轮播
+http://cfss.cc/cdn/huya/11279251.flv
+#EXTINF:-1 tvg-name="梁家辉轮播" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",梁家辉轮播
+http://cfss.cc/cdn/huya/11342429.flv
+#EXTINF:-1 tvg-name="洪金宝轮播" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",洪金宝轮播
+http://cfss.cc/cdn/huya/11279251.flv
+#EXTINF:-1 tvg-name="五福星轮播" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",五福星轮播
+http://cfss.cc/cdn/huya/11282233.flv
+#EXTINF:-1 tvg-name="古天乐轮播" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",古天乐轮播
+http://cfss.cc/cdn/huya/11602041.flv
+#EXTINF:-1 tvg-name="邱淑贞轮播" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",邱淑贞轮播
+http://cfss.cc/cdn/huya/11352949.flv
+#EXTINF:-1 tvg-name="周海媚轮播" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",周海媚轮播
+http://cfss.cc/cdn/huya/11279247.flv
+#EXTINF:-1 tvg-name="星爷轮播" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",星爷轮播
+http://cfss.cc/cdn/huya/11342412.flv
+#EXTINF:-1 tvg-name="英叔轮播" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",英叔轮播
+http://cfss.cc/cdn/huya/11342421.flv
+#EXTINF:-1 tvg-name="成龙轮播" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",成龙轮播
+http://cfss.cc/cdn/huya/11342386.flv
+#EXTINF:-1 tvg-name="王晶轮播" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",王晶轮播
+http://cfss.cc/cdn/huya/11602058.flv
+#EXTINF:-1 tvg-name="沈腾轮播" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",沈腾轮播
+http://cfss.cc/cdn/huya/11601968.flv
+#EXTINF:-1 tvg-name="黄渤轮播" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",黄渤轮播
+http://cfss.cc/cdn/huya/11352876.flv
+#EXTINF:-1 tvg-name="吴京轮播" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",吴京轮播
+http://cfss.cc/cdn/huya/11602041.flv
+#EXTINF:-1 tvg-name="强森轮播" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",强森轮播
+http://cfss.cc/cdn/huya/21059581.flv
+#EXTINF:-1 tvg-name="玄幻轮播" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",玄幻轮播
+http://cfss.cc/cdn/huya/11342414.flv
+#EXTINF:-1 tvg-name="喜剧轮播" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",喜剧轮播
+http://cfss.cc/cdn/huya/11352877.flv
+#EXTINF:-1 tvg-name="港片轮播" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",港片轮播
+http://cfss.cc/cdn/huya/11602043.flv
+#EXTINF:-1 tvg-name="国产轮播" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",国产轮播
+http://cfss.cc/cdn/huya/11352973.flv
+#EXTINF:-1 tvg-name="漫威轮播" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",漫威轮播
+http://cfss.cc/cdn/huya/11602034.flv
+#EXTINF:-1 tvg-name="宇宙轮播" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",宇宙轮播
+http://cfss.cc/cdn/huya/11342428.flv
+#EXTINF:-1 tvg-name="怪兽轮播" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",怪兽轮播
+http://cfss.cc/cdn/huya/21059577.flv
+#EXTINF:-1 tvg-name="武侠轮播" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",武侠轮播
+http://cfss.cc/cdn/huya/11342427.flv
+#EXTINF:-1 tvg-name="警匪轮播" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",警匪轮播
+http://cfss.cc/cdn/huya/11352886.flv
+#EXTINF:-1 tvg-name="罪犯轮播" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",罪犯轮播
+http://cfss.cc/cdn/huya/11352962.flv
+#EXTINF:-1 tvg-name="枪战轮播" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",枪战轮播
+http://cfss.cc/cdn/huya/21059579.flv
+#EXTINF:-1 tvg-name="盗墓轮播" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",盗墓轮播
+http://cfss.cc/cdn/huya/21059552.flv
+#EXTINF:-1 tvg-name="海盗轮播" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",海盗轮播
+http://cfss.cc/cdn/huya/21059595.flv
+#EXTINF:-1 tvg-name="推荐轮播" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",推荐轮播
+http://cfss.cc/cdn/huya/11602041.flv
+#EXTINF:-1 tvg-name="救援轮播" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",救援轮播
+http://cfss.cc/cdn/huya/21059594.flv
+#EXTINF:-1 tvg-name="热血轮播" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",热血轮播
+http://cfss.cc/cdn/huya/11352934.flv
+#EXTINF:-1 tvg-name="谍战轮播" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",谍战轮播
+http://cfss.cc/cdn/huya/21059585.flv
+#EXTINF:-1 tvg-name="战争轮播" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",战争轮播
+http://cfss.cc/cdn/huya/21059592.flv
+#EXTINF:-1 tvg-name="小鬼头轮播" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",小鬼头轮播
+http://cfss.cc/cdn/huya/11352963.flv
+#EXTINF:-1 tvg-name="陈翔六点频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",陈翔六点频道
+http://cfss.cc/cdn/huya/11274154.flv
+#EXTINF:-1 tvg-name="喜剧专场频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",喜剧专场频道
+http://cfss.cc/cdn/huya/11602044.flv
+#EXTINF:-1 tvg-name="高分动作频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",高分动作频道
+http://cfss.cc/cdn/huya/11352884.flv
+#EXTINF:-1 tvg-name="不挤影院频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",不挤影院频道
+http://cfss.cc/cdn/huya/11352897.flv
+#EXTINF:-1 tvg-name="黑帮斗争频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",黑帮斗争频道
+http://cfss.cc/cdn/huya/11342419.flv
+#EXTINF:-1 tvg-name="嫣然影厅频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",嫣然影厅频道
+http://cfss.cc/cdn/huya/11601977.flv
+#EXTINF:-1 tvg-name="女神系列频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",女神系列频道
+http://cfss.cc/cdn/huya/11336571.flv
+#EXTINF:-1 tvg-name="经典女神频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",经典女神频道
+http://cfss.cc/cdn/huya/11352909.flv
+#EXTINF:-1 tvg-name="许氏三杰频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",许氏三杰频道
+http://cfss.cc/cdn/huya/11602033.flv
+#EXTINF:-1 tvg-name="经典港片频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",经典港片频道
+http://cfss.cc/cdn/huya/11352965.flv
+#EXTINF:-1 tvg-name="镖行天下频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",镖行天下频道
+http://cfss.cc/cdn/huya/11352969.flv
+#EXTINF:-1 tvg-name="蘑菇影厅频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",蘑菇影厅频道
+http://cfss.cc/cdn/huya/11601981.flv
+#EXTINF:-1 tvg-name="搞笑恐怖频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",搞笑恐怖频道
+http://cfss.cc/cdn/huya/11601960.flv
+#EXTINF:-1 tvg-name="死神来了频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",死神来了频道
+http://cfss.cc/cdn/huya/11352903.flv
+#EXTINF:-1 tvg-name="超异能族频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",超异能族频道
+http://cfss.cc/cdn/huya/21059586.flv
+#EXTINF:-1 tvg-name="古墓系列频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",古墓系列频道
+http://cfss.cc/cdn/huya/11352913.flv
+#EXTINF:-1 tvg-name="动作电影频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",动作电影频道
+http://cfss.cc/cdn/huya/11602077.flv
+#EXTINF:-1 tvg-name="搞笑喜剧频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",搞笑喜剧频道
+http://cfss.cc/cdn/huya/11342423.flv
+#EXTINF:-1 tvg-name="欢笑影院频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",欢笑影院频道
+http://cfss.cc/cdn/huya/11352894.flv
+#EXTINF:-1 tvg-name="国产悬疑频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",国产悬疑频道
+http://cfss.cc/cdn/huya/11342395.flv
+#EXTINF:-1 tvg-name="快意江湖频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",快意江湖频道
+http://cfss.cc/cdn/huya/11342435.flv
+#EXTINF:-1 tvg-name="喜乐影院频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",喜乐影院频道
+http://cfss.cc/cdn/huya/21059580.flv
+#EXTINF:-1 tvg-name="怪兽系列频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",怪兽系列频道
+http://cfss.cc/cdn/huya/21059554.flv
+#EXTINF:-1 tvg-name="杰森斯坦频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",杰森斯坦频道
+http://cfss.cc/cdn/huya/21059588.flv
+#EXTINF:-1 tvg-name="寻秦记轮播" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",寻秦记轮播
+http://cfss.cc/cdn/huya/29465848.flv
+#EXTINF:-1 tvg-name="寻秦记轮播" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",寻秦记轮播
+http://cfss.cc/cdn/huya/29633850.flv
+#EXTINF:-1 tvg-name="西游记轮播" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",西游记轮播
+http://cfss.cc/cdn/huya/29465859.flv
+#EXTINF:-1 tvg-name="扫黄先锋频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",扫黄先锋频道
+http://cfss.cc/cdn/huya/29465855.flv
+#EXTINF:-1 tvg-name="楚汉骄雄频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",楚汉骄雄频道
+http://cfss.cc/cdn/huya/29465854.flv
+#EXTINF:-1 tvg-name="陀枪师姐频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",陀枪师姐频道
+http://cfss.cc/cdn/huya/29465857.flv
+#EXTINF:-1 tvg-name="法证先锋频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",法证先锋频道
+http://cfss.cc/cdn/huya/29465861.flv
+#EXTINF:-1 tvg-name="刑事侦缉频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",刑事侦缉频道
+http://cfss.cc/cdn/huya/29465856.flv
+#EXTINF:-1 tvg-name="笑看风云频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",笑看风云频道
+http://cfss.cc/cdn/huya/29465858.flv
+#EXTINF:-1 tvg-name="大唐双龙频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",大唐双龙频道
+http://cfss.cc/cdn/huya/29465850.flv
+#EXTINF:-1 tvg-name="洗冤录轮播" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",洗冤录轮播
+http://cfss.cc/cdn/huya/29465851.flv
+#EXTINF:-1 tvg-name="金枝欲孽频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",金枝欲孽频道
+http://cfss.cc/cdn/huya/29465847.flv
+#EXTINF:-1 tvg-name="野蛮奶奶频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",野蛮奶奶频道
+http://cfss.cc/cdn/huya/23863796.flv
+#EXTINF:-1 tvg-name="创世纪轮播" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",创世纪轮播
+http://cfss.cc/cdn/huya/29465852.flv
+#EXTINF:-1 tvg-name="封神榜轮播" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",封神榜轮播
+http://cfss.cc/cdn/huya/29465849.flv
+#EXTINF:-1 tvg-name="神雕侠侣频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",神雕侠侣频道
+http://cfss.cc/cdn/huya/30454429.flv
+#EXTINF:-1 tvg-name="妙手仁心频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",妙手仁心频道
+http://cfss.cc/cdn/huya/29465853.flv
+#EXTINF:-1 tvg-name="活佛济公频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",活佛济公频道
+http://cfss.cc/cdn/huya/23903123.flv
+#EXTINF:-1 tvg-name="倚天屠龙频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",倚天屠龙频道
+http://cfss.cc/cdn/huya/27834853.flv
+#EXTINF:-1 tvg-name="鹿鼎记98频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",鹿鼎记98频道
+http://cfss.cc/cdn/huya/26355806.flv
+#EXTINF:-1 tvg-name="小李飞刀频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",小李飞刀频道
+http://cfss.cc/cdn/huya/11342417.flv
+#EXTINF:-1 tvg-name="水月洞天频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",水月洞天频道
+http://cfss.cc/cdn/huya/21059567.flv
+#EXTINF:-1 tvg-name="绝代双娇频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",绝代双娇频道
+http://cfss.cc/cdn/huya/29465867.flv
+#EXTINF:-1 tvg-name="风云雄霸频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",风云雄霸频道
+http://cfss.cc/cdn/huya/21059612.flv
+#EXTINF:-1 tvg-name="如懿传轮播" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",如懿传轮播
+http://cfss.cc/cdn/huya/29465868.flv
+#EXTINF:-1 tvg-name="芈月传轮播" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",芈月传轮播
+http://cfss.cc/cdn/huya/11352975.flv
+#EXTINF:-1 tvg-name="延禧攻略频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",延禧攻略频道
+http://cfss.cc/cdn/huya/26355864.flv
+#EXTINF:-1 tvg-name="王子青蛙频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",王子青蛙频道
+http://cfss.cc/cdn/huya/11601964.flv
+#EXTINF:-1 tvg-name="永夜星河频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",永夜星河频道
+http://cfss.cc/cdn/huya/23734169.flv
+#EXTINF:-1 tvg-name="玫瑰故事频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",玫瑰故事频道
+http://cfss.cc/cdn/huya/23865142.flv
+#EXTINF:-1 tvg-name="漫长季节频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",漫长季节频道
+http://cfss.cc/cdn/huya/11342393.flv
+#EXTINF:-1 tvg-name="梦华录轮播" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",梦华录轮播
+http://cfss.cc/cdn/huya/11336590.flv
+#EXTINF:-1 tvg-name="乌龙院闯频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",乌龙院闯频道
+http://cfss.cc/cdn/huya/26355767.flv
+#EXTINF:-1 tvg-name="新楚留香频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",新楚留香频道
+http://cfss.cc/cdn/huya/26355848.flv
+#EXTINF:-1 tvg-name="新楚留香频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",新楚留香频道
+http://cfss.cc/cdn/huya/23863804.flv
+#EXTINF:-1 tvg-name="无心法师频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",无心法师频道
+http://cfss.cc/cdn/huya/30080233.flv
+#EXTINF:-1 tvg-name="征服轮播" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",征服轮播
+http://cfss.cc/cdn/huya/30311494.flv
+#EXTINF:-1 tvg-name="蜡笔小新频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",蜡笔小新频道
+http://cfss.cc/cdn/huya/30299353.flv
+#EXTINF:-1 tvg-name="海绵宝宝频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",海绵宝宝频道
+http://cfss.cc/cdn/huya/11352919.flv
+#EXTINF:-1 tvg-name="龙珠轮播" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",龙珠轮播
+http://cfss.cc/cdn/huya/10279885.flv
+#EXTINF:-1 tvg-name="叮当全集频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",叮当全集频道
+http://cfss.cc/cdn/huya/11601963.flv
+#EXTINF:-1 tvg-name="樱桃小丸频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",樱桃小丸频道
+http://cfss.cc/cdn/huya/11342394.flv
+#EXTINF:-1 tvg-name="猫和老鼠频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",猫和老鼠频道
+http://cfss.cc/cdn/huya/11352879.flv
+#EXTINF:-1 tvg-name="精绝古城频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",精绝古城频道
+http://cfss.cc/cdn/huya/11352871.flv
+#EXTINF:-1 tvg-name="怒晴湘西频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",怒晴湘西频道
+http://cfss.cc/cdn/huya/11602075.flv
+#EXTINF:-1 tvg-name="龙岭迷窟频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",龙岭迷窟频道
+http://cfss.cc/cdn/huya/29465863.flv
+#EXTINF:-1 tvg-name="云南虫谷频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",云南虫谷频道
+http://cfss.cc/cdn/huya/11352898.flv
+#EXTINF:-1 tvg-name="JJ斗地主频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",JJ斗地主频道
+http://cfss.cc/cdn/huya/14079954.flv
+#EXTINF:-1 tvg-name="亮剑轮播" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",亮剑轮播
+http://cfss.cc/cdn/huya/30080238.flv
+#EXTINF:-1 tvg-name="民兵葛二频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",民兵葛二频道
+http://cfss.cc/cdn/huya/11602072.flv
+#EXTINF:-1 tvg-name="我的团长频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",我的团长频道
+http://cfss.cc/cdn/huya/11352910.flv
+#EXTINF:-1 tvg-name="铁道游击频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",铁道游击频道
+http://cfss.cc/cdn/huya/11352936.flv
+#EXTINF:-1 tvg-name="铁梨花轮播" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",铁梨花轮播
+http://cfss.cc/cdn/huya/11352912.flv
+#EXTINF:-1 tvg-name="康熙微服频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",康熙微服频道
+http://cfss.cc/cdn/huya/11342418.flv
+#EXTINF:-1 tvg-name="御赐仵作频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",御赐仵作频道
+http://cfss.cc/cdn/huya/11352948.flv
+#EXTINF:-1 tvg-name="新水浒传频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",新水浒传频道
+http://cfss.cc/cdn/huya/11342384.flv
+#EXTINF:-1 tvg-name="开端轮播" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",开端轮播
+http://cfss.cc/cdn/huya/11342397.flv
+#EXTINF:-1 tvg-name="神探狄仁频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",神探狄仁频道
+http://cfss.cc/cdn/huya/11352958.flv
+#EXTINF:-1 tvg-name="三国演义频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",三国演义频道
+http://cfss.cc/cdn/huya/11602081.flv
+#EXTINF:-1 tvg-name="新三国演频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",新三国演频道
+http://cfss.cc/cdn/huya/11352944.flv
+#EXTINF:-1 tvg-name="问心轮播" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",问心轮播
+http://cfss.cc/cdn/huya/11352890.flv
+#EXTINF:-1 tvg-name="家有儿女频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",家有儿女频道
+http://cfss.cc/cdn/huya/29774370.flv
+#EXTINF:-1 tvg-name="全职高手频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",全职高手频道
+http://cfss.cc/cdn/huya/11352901.flv
+#EXTINF:-1 tvg-name="炊事班的频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",炊事班的频道
+http://cfss.cc/cdn/huya/19524135.flv
+#EXTINF:-1 tvg-name="医馆笑传频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",医馆笑传频道
+http://cfss.cc/cdn/huya/11352891.flv
+#EXTINF:-1 tvg-name="杨光生活频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",杨光生活频道
+http://cfss.cc/cdn/huya/11602085.flv
+#EXTINF:-1 tvg-name="陈情令轮播" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",陈情令轮播
+http://cfss.cc/cdn/huya/29465862.flv
+#EXTINF:-1 tvg-name="神医喜来频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",神医喜来频道
+http://cfss.cc/cdn/huya/11601978.flv
+#EXTINF:-1 tvg-name="大宋提刑频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",大宋提刑频道
+http://cfss.cc/cdn/huya/26355856.flv
+#EXTINF:-1 tvg-name="鹊刀门传频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",鹊刀门传频道
+http://cfss.cc/cdn/huya/29805872.flv
+#EXTINF:-1 tvg-name="白鹿原轮播" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",白鹿原轮播
+http://cfss.cc/cdn/huya/11342416.flv
+#EXTINF:-1 tvg-name="长相思轮播" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",长相思轮播
+http://cfss.cc/cdn/huya/11336593.flv
+#EXTINF:-1 tvg-name="你是我的频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",你是我的频道
+http://cfss.cc/cdn/huya/11352920.flv
+#EXTINF:-1 tvg-name="一代枭雄频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",一代枭雄频道
+http://cfss.cc/cdn/huya/11342398.flv
+#EXTINF:-1 tvg-name="庆余年轮播" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",庆余年轮播
+http://cfss.cc/cdn/huya/11352960.flv
+#EXTINF:-1 tvg-name="铁齿铜牙频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",铁齿铜牙频道
+http://cfss.cc/cdn/huya/11342396.flv
+#EXTINF:-1 tvg-name="镖行天下频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",镖行天下频道
+http://cfss.cc/cdn/huya/11352969.flv
+#EXTINF:-1 tvg-name="雪中悍刀频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",雪中悍刀频道
+http://cfss.cc/cdn/huya/11336592.flv
+#EXTINF:-1 tvg-name="星汉灿烂频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",星汉灿烂频道
+http://cfss.cc/cdn/huya/11336591.flv
+#EXTINF:-1 tvg-name="将夜轮播" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",将夜轮播
+http://cfss.cc/cdn/huya/11352885.flv
+#EXTINF:-1 tvg-name="父母爱情频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",父母爱情频道
+http://cfss.cc/cdn/huya/11602071.flv
+#EXTINF:-1 tvg-name="大染坊轮播" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",大染坊轮播
+http://cfss.cc/cdn/huya/11602086.flv
+#EXTINF:-1 tvg-name="地下交通频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",地下交通频道
+http://cfss.cc/cdn/huya/11342433.flv
+#EXTINF:-1 tvg-name="邻里一家频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",邻里一家频道
+http://cfss.cc/cdn/huya/11342426.flv
+#EXTINF:-1 tvg-name="雍正王朝频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",雍正王朝频道
+http://cfss.cc/cdn/huya/11342439.flv
+#EXTINF:-1 tvg-name="士兵突击频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",士兵突击频道
+http://cfss.cc/cdn/huya/11342430.flv
+#EXTINF:-1 tvg-name="爱情公寓频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",爱情公寓频道
+http://cfss.cc/cdn/huya/11336726.flv
+#EXTINF:-1 tvg-name="电视剧一频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",电视剧一频道
+http://cfss.cc/cdn/huya/29465862.flv
+#EXTINF:-1 tvg-name="电视剧二频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",电视剧二频道
+http://cfss.cc/cdn/huya/11336591.flv
+#EXTINF:-1 tvg-name="电视剧三频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",电视剧三频道
+http://cfss.cc/cdn/huya/21059563.flv
+#EXTINF:-1 tvg-name="电视剧四频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",电视剧四频道
+http://cfss.cc/cdn/huya/26355783.flv
+#EXTINF:-1 tvg-name="电视剧五频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",电视剧五频道
+http://cfss.cc/cdn/huya/11352912.flv
+#EXTINF:-1 tvg-name="电视剧六频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",电视剧六频道
+http://cfss.cc/cdn/huya/11352936.flv
+#EXTINF:-1 tvg-name="电视剧七频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",电视剧七频道
+http://cfss.cc/cdn/huya/21059630.flv
+#EXTINF:-1 tvg-name="电视剧八频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",电视剧八频道
+http://cfss.cc/cdn/huya/26355775.flv
+#EXTINF:-1 tvg-name="电视剧九频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",电视剧九频道
+http://cfss.cc/cdn/huya/21059594.flv
+#EXTINF:-1 tvg-name="电视剧十频道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",电视剧十频道
+http://cfss.cc/cdn/huya/11336592.flv
+#EXTINF:-1 tvg-name="电视剧十一道" tvg-logo="assets://6_LIVE.png" group-title="经典轮播",电视剧十一道
+http://cfss.cc/cdn/huya/11602088.flv
+
 #EXTINF:-1 tvg-name="JJ斗地主" tvg-logo="assets://6_LIVE.png" group-title="娱乐频道",JJ斗地主
 http://1.14.124.206:35455/huya/152698
 #EXTINF:-1 tvg-name="JJ斗地主" tvg-logo="assets://6_LIVE.png" group-title="娱乐频道",JJ斗地主
