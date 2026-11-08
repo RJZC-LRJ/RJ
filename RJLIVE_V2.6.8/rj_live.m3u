@@ -2,6 +2,7 @@
 
 #EXTINF:-1 tvg-name="流媒体技术实验" tvg-logo="assets://6_LIVE.png" group-title="央视[01]",流媒体技术实验
 https://lz0.qaiu.top/parser?url=https://share.feijipan.com/s/1cwDSJd0&auth
+
 #EXTINF:-1 tvg-name="流媒体技术实验" tvg-logo="assets://6_LIVE.png" group-title="央视[01]",流媒体技术实验
 https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/1cwDSJd0&auth
 
@@ -92,6 +93,84 @@ http://k.061899.xyz/k.php?id=jlws
 http://k.061899.xyz/k.php?id=nmgws
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="assets://6_LIVE.png" group-title="卫视[01]",黑龙江卫视
 http://k.061899.xyz/k.php?id=hljws
+
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="assets://6_LIVE.png" group-title="央视[02]",CCTV1
+http://j.s.bkpcp.top/jj/cctv1
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="assets://6_LIVE.png" group-title="央视[02]",CCTV2
+http://j.s.bkpcp.top/jj/cctv2
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="assets://6_LIVE.png" group-title="央视[02]",CCTV3
+http://j.s.bkpcp.top/jj/cctv3
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="assets://6_LIVE.png" group-title="央视[02]",CCTV4
+http://j.s.bkpcp.top/jj/cctv4
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="assets://6_LIVE.png" group-title="央视[02]",CCTV5
+http://j.s.bkpcp.top/jj/cctv5
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="assets://6_LIVE.png" group-title="央视[02]",CCTV5+
+http://j.s.bkpcp.top/jj/cctv5p
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="assets://6_LIVE.png" group-title="央视[02]",CCTV6
+http://j.s.bkpcp.top/jj/cctv6
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="assets://6_LIVE.png" group-title="央视[02]",CCTV7
+http://j.s.bkpcp.top/jj/cctv7
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="assets://6_LIVE.png" group-title="央视[02]",CCTV8
+http://j.s.bkpcp.top/jj/cctv8
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="assets://6_LIVE.png" group-title="央视[02]",CCTV9
+http://j.s.bkpcp.top/jj/cctv9
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="assets://6_LIVE.png" group-title="央视[02]",CCTV10
+http://j.s.bkpcp.top/jj/cctv10
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="assets://6_LIVE.png" group-title="央视[02]",CCTV11
+http://j.s.bkpcp.top/jj/cctv11
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="assets://6_LIVE.png" group-title="央视[02]",CCTV12
+http://j.s.bkpcp.top/jj/cctv12
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="assets://6_LIVE.png" group-title="央视[02]",CCTV13
+http://j.s.bkpcp.top/jj/cctv13
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="assets://6_LIVE.png" group-title="央视[02]",CCTV14
+http://j.s.bkpcp.top/jj/cctv14
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="assets://6_LIVE.png" group-title="央视[02]",CCTV15
+http://j.s.bkpcp.top/jj/cctv15
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="assets://6_LIVE.png" group-title="央视[02]",CCTV16
+http://j.s.bkpcp.top/jj/cctv16
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="assets://6_LIVE.png" group-title="央视[02]",CCTV17
+http://j.s.bkpcp.top/jj/cctv17
+#EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="assets://6_LIVE.png" group-title="央视[02]",CCTV4欧洲
+http://j.s.bkpcp.top/jj/cctv4o
+#EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="assets://6_LIVE.png" group-title="央视[02]",CCTV4美洲
+http://j.s.bkpcp.top/jj/cctv4m
+#EXTINF:-1 tvg-name="CGTN-西" tvg-logo="assets://6_LIVE.png" group-title="央视[02]",CGTN-西
+http://j.s.bkpcp.top/jj/cgtne
+#EXTINF:-1 tvg-name="CGTN-阿" tvg-logo="assets://6_LIVE.png" group-title="央视[02]",CGTN-阿
+http://j.s.bkpcp.top/jj/cgtna
+#EXTINF:-1 tvg-name="CGTN-法" tvg-logo="assets://6_LIVE.png" group-title="央视[02]",CGTN-法
+http://j.s.bkpcp.top/jj/cgtnf
+
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="assets://6_LIVE.png" group-title="卫视[02]",北京卫视
+http://j.s.bkpcp.top/jj/bjws
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="assets://6_LIVE.png" group-title="卫视[02]",东方卫视
+http://j.s.bkpcp.top/jj/dfws
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="assets://6_LIVE.png" group-title="卫视[02]",浙江卫视
+http://j.s.bkpcp.top/jj/zjws
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="assets://6_LIVE.png" group-title="卫视[02]",江苏卫视
+http://j.s.bkpcp.top/jj/jsws
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="assets://6_LIVE.png" group-title="卫视[02]",湖南卫视
+http://j.s.bkpcp.top/jj/hunws
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="assets://6_LIVE.png" group-title="卫视[02]",广东卫视
+http://j.s.bkpcp.top/jj/gdws
+#EXTINF:-1 tvg-name="深圳卫视4k" tvg-logo="assets://6_LIVE.png" group-title="卫视[02]",深圳卫视4k
+http://j.s.bkpcp.top/jj/szws
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="assets://6_LIVE.png" group-title="卫视[02]",山东卫视
+http://j.s.bkpcp.top/jj/sdws
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="assets://6_LIVE.png" group-title="卫视[02]",河南卫视
+http://j.s.bkpcp.top/jj/hnws
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="assets://6_LIVE.png" group-title="卫视[02]",江西卫视
+http://j.s.bkpcp.top/jj/jxws
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="assets://6_LIVE.png" group-title="卫视[02]",湖北卫视
+http://j.s.bkpcp.top/jj/hubws
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="assets://6_LIVE.png" group-title="卫视[02]",海南卫视
+http://j.s.bkpcp.top/jj/hinws
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="assets://6_LIVE.png" group-title="卫视[02]",陕西卫视
+http://j.s.bkpcp.top/jj/sxws
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="assets://6_LIVE.png" group-title="卫视[02]",兵团卫视
+http://j.s.bkpcp.top/jj/btws
+#EXTINF:-1 tvg-name="黑龙江视" tvg-logo="assets://6_LIVE.png" group-title="卫视[02]",黑龙江视
+http://j.s.bkpcp.top/jj/hljws
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="assets://6_LIVE.png" group-title="央视[03]",CCTV1
 http://204.12.221.218:8181/3m1080p/cctv1.m3u8
@@ -972,6 +1051,7 @@ http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="风云音乐" tvg-logo="assets://6_LIVE.png" group-title="卫视[07]",风云音乐
 http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
+
 #EXTINF:-1 tvg-name="咪视界1" tvg-logo="assets://6_LIVE.png" group-title="咪咕体育",咪视界1
 https://lnitv.cn:55555/data/api/m.php?id=3000000001000005308
 #EXTINF:-1 tvg-name="咪视界2" tvg-logo="assets://6_LIVE.png" group-title="咪咕体育",咪视界2
@@ -1066,8 +1146,6 @@ https://lnitv.cn:55555/data/api/m.php?id=3000000010000031669
 https://lnitv.cn:55555/data/api/m.php?id=3000000010000015686
 #EXTINF:-1 tvg-name="咪视界4K" tvg-logo="assets://6_LIVE.png" group-title="咪咕体育",咪视界4K
 https://lnitv.cn:55555/data/api/m.php?id=3000000010000005180
-
-
 
 #EXTINF:-1 tvg-name="春晚1983" tvg-logo="assets://6_LIVE.png" group-title="历年春晚",春晚1983
 https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
